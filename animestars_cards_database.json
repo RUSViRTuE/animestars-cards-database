@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedTimestamp": "2025-12-26, 08:12:33",
+    "generatedTimestamp": "2025-12-26, 08:23:42",
     "timezone": "Europe/Moscow (UTC+3)",
-    "scraperVersion": "1.5.24",
+    "scraperVersion": "1.5.25",
     "format": "json_v2",
     "source": [
       "animestars.org",
@@ -325430,10 +325430,10 @@
       "animeId": 2128,
       "animeName": "Великий из бродячих псов 5 сезон",
       "animeLink": "/aniserials/video/detective/2128-velikij-iz-brodjachih-psov-5-sezon-animestars-v5.html",
-      "lastUpdated": "2025-12-26, 03:51:36",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:41",
+      "owners-count": 1477,
+      "owners-need": 17,
+      "owners-trade": 178
     },
     {
       "cardId": "19508",
@@ -325444,10 +325444,10 @@
       "animeId": 1727,
       "animeName": "Девочка, покорившая время",
       "animeLink": "/aniserials/video/drama/1727-devochka-pokorivshaja-vremja.html",
-      "lastUpdated": "2025-12-26, 03:51:36",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:40",
+      "owners-count": 382,
+      "owners-need": 5,
+      "owners-trade": 74
     },
     {
       "cardId": "19507",
@@ -325458,10 +325458,10 @@
       "animeId": 1727,
       "animeName": "Девочка, покорившая время",
       "animeLink": "/aniserials/video/drama/1727-devochka-pokorivshaja-vremja.html",
-      "lastUpdated": "2025-12-26, 03:51:36",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:39",
+      "owners-count": 294,
+      "owners-need": 5,
+      "owners-trade": 41
     },
     {
       "cardId": "19506",
@@ -325472,10 +325472,10 @@
       "animeId": 2210,
       "animeName": "Ведьмина служба доставки",
       "animeLink": "/aniserials/video/drama/2210-vedmina-sluzhba-dostavki-1989.html",
-      "lastUpdated": "2025-12-26, 03:51:36",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:37",
+      "owners-count": 1574,
+      "owners-need": 19,
+      "owners-trade": 179
     },
     {
       "cardId": "19505",
@@ -325486,10 +325486,10 @@
       "animeId": 2190,
       "animeName": "Восхождение героя щита 3 сезон",
       "animeLink": "/aniserials/video/drama/2190-voshozhdenie-geroja-schita-3-sezon.html",
-      "lastUpdated": "2025-12-26, 03:51:36",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:36",
+      "owners-count": 3266,
+      "owners-need": 27,
+      "owners-trade": 337
     },
     {
       "cardId": "19504",
@@ -325500,10 +325500,10 @@
       "animeId": 2190,
       "animeName": "Восхождение героя щита 3 сезон",
       "animeLink": "/aniserials/video/drama/2190-voshozhdenie-geroja-schita-3-sezon.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:34",
+      "owners-count": 1858,
+      "owners-need": 42,
+      "owners-trade": 174
     },
     {
       "cardId": "19503",
@@ -325514,10 +325514,10 @@
       "animeId": 2190,
       "animeName": "Восхождение героя щита 3 сезон",
       "animeLink": "/aniserials/video/drama/2190-voshozhdenie-geroja-schita-3-sezon.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:33",
+      "owners-count": 3417,
+      "owners-need": 25,
+      "owners-trade": 300
     },
     {
       "cardId": "19502",
@@ -325528,10 +325528,10 @@
       "animeId": 1372,
       "animeName": "Восхождение героя щита 2 сезон",
       "animeLink": "/aniserials/video/action/1372-voshozhdenie-geroja-schita-2-sezon-animestars-2022.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:32",
+      "owners-count": 3283,
+      "owners-need": 29,
+      "owners-trade": 316
     },
     {
       "cardId": "19500",
@@ -325542,10 +325542,10 @@
       "animeId": 1372,
       "animeName": "Восхождение героя щита 2 сезон",
       "animeLink": "/aniserials/video/action/1372-voshozhdenie-geroja-schita-2-sezon-animestars-2022.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:30",
+      "owners-count": 3214,
+      "owners-need": 37,
+      "owners-trade": 320
     },
     {
       "cardId": "19499",
@@ -325556,10 +325556,10 @@
       "animeId": 2190,
       "animeName": "Восхождение героя щита 3 сезон",
       "animeLink": "/aniserials/video/drama/2190-voshozhdenie-geroja-schita-3-sezon.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:29",
+      "owners-count": 3251,
+      "owners-need": 20,
+      "owners-trade": 289
     },
     {
       "cardId": "19498",
@@ -325570,10 +325570,10 @@
       "animeId": 492,
       "animeName": "Великий из бродячих псов 2 сезон",
       "animeLink": "/aniserials/video/detective/492-velikiy-iz-brodyachih-psov-2-sezon-2016.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:27",
+      "owners-count": 2800,
+      "owners-need": 13,
+      "owners-trade": 309
     },
     {
       "cardId": "19497",
@@ -325584,10 +325584,10 @@
       "animeId": 492,
       "animeName": "Великий из бродячих псов 2 сезон",
       "animeLink": "/aniserials/video/detective/492-velikiy-iz-brodyachih-psov-2-sezon-2016.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:26",
+      "owners-count": 2968,
+      "owners-need": 16,
+      "owners-trade": 248
     },
     {
       "cardId": "19495",
@@ -325598,10 +325598,10 @@
       "animeId": 1372,
       "animeName": "Восхождение героя щита 2 сезон",
       "animeLink": "/aniserials/video/action/1372-voshozhdenie-geroja-schita-2-sezon-animestars-2022.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:25",
+      "owners-count": 3384,
+      "owners-need": 32,
+      "owners-trade": 325
     },
     {
       "cardId": "19494",
@@ -325612,10 +325612,10 @@
       "animeId": 2128,
       "animeName": "Великий из бродячих псов 5 сезон",
       "animeLink": "/aniserials/video/detective/2128-velikij-iz-brodjachih-psov-5-sezon-animestars-v5.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:23",
+      "owners-count": 1642,
+      "owners-need": 18,
+      "owners-trade": 118
     },
     {
       "cardId": "19493",
@@ -325626,10 +325626,10 @@
       "animeId": 492,
       "animeName": "Великий из бродячих псов 2 сезон",
       "animeLink": "/aniserials/video/detective/492-velikiy-iz-brodyachih-psov-2-sezon-2016.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:22",
+      "owners-count": 1523,
+      "owners-need": 14,
+      "owners-trade": 185
     },
     {
       "cardId": "19492",
@@ -325640,10 +325640,10 @@
       "animeId": 1372,
       "animeName": "Восхождение героя щита 2 сезон",
       "animeLink": "/aniserials/video/action/1372-voshozhdenie-geroja-schita-2-sezon-animestars-2022.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:20",
+      "owners-count": 3191,
+      "owners-need": 33,
+      "owners-trade": 271
     },
     {
       "cardId": "19491",
@@ -325654,10 +325654,10 @@
       "animeId": 14,
       "animeName": "Импульс мира",
       "animeLink": "/aniserials/video/adventure/14-impuls-mira-world-trigger-2014.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:19",
+      "owners-count": 2344,
+      "owners-need": 4,
+      "owners-trade": 246
     },
     {
       "cardId": "19490",
@@ -325668,10 +325668,10 @@
       "animeId": 1372,
       "animeName": "Восхождение героя щита 2 сезон",
       "animeLink": "/aniserials/video/action/1372-voshozhdenie-geroja-schita-2-sezon-animestars-2022.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:18",
+      "owners-count": 1835,
+      "owners-need": 48,
+      "owners-trade": 195
     },
     {
       "cardId": "19489",
@@ -325682,10 +325682,10 @@
       "animeId": 1241,
       "animeName": "Мой сэмпай раздражает",
       "animeLink": "/aniserials/video/comedy/1241-moj-sjempaj-razdrazhaet.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:16",
+      "owners-count": 2217,
+      "owners-need": 6,
+      "owners-trade": 186
     },
     {
       "cardId": "19488",
@@ -325696,10 +325696,10 @@
       "animeId": 611,
       "animeName": "Бесконечные небеса 2 сезон",
       "animeLink": "/aniserials/video/action/611-beskonechnye-nebesa-2-sezon.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:15",
+      "owners-count": 2923,
+      "owners-need": 5,
+      "owners-trade": 327
     },
     {
       "cardId": "19487",
@@ -325710,10 +325710,10 @@
       "animeId": 1671,
       "animeName": "Соник Икс",
       "animeLink": "/aniserials/video/adventure/1671-sonik-iks.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:13",
+      "owners-count": 2395,
+      "owners-need": 2,
+      "owners-trade": 230
     },
     {
       "cardId": "19484",
@@ -325724,10 +325724,10 @@
       "animeId": 2628,
       "animeName": "Спираль",
       "animeLink": "/aniserials/video/drama/2628-spiral.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:12",
+      "owners-count": 257,
+      "owners-need": 2,
+      "owners-trade": 38
     },
     {
       "cardId": "19483",
@@ -325738,10 +325738,10 @@
       "animeId": 2672,
       "animeName": "История цветов",
       "animeLink": "/aniserials/video/drama/2672-istorija-cvetov.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:11",
+      "owners-count": 2792,
+      "owners-need": 5,
+      "owners-trade": 337
     },
     {
       "cardId": "19481",
@@ -325752,10 +325752,10 @@
       "animeId": 2721,
       "animeName": "Лазурное наследие 2 сезон",
       "animeLink": "/aniserials/video/action/2721-lazurnoe-nasledie-2-sezon.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:09",
+      "owners-count": 65,
+      "owners-need": 84,
+      "owners-trade": 1
     },
     {
       "cardId": "19477",
@@ -325766,10 +325766,10 @@
       "animeId": 75,
       "animeName": "Наруто: Ураганные хроники 2 сезон",
       "animeLink": "/aniserials/video/martial_arts/75-naruto-uragannye-hroniki-tv-2-animestars-2007.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:08",
+      "owners-count": 2694,
+      "owners-need": 50,
+      "owners-trade": 205
     },
     {
       "cardId": "19476",
@@ -325780,10 +325780,10 @@
       "animeId": 33,
       "animeName": "Ван Пис",
       "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:07",
+      "owners-count": 2897,
+      "owners-need": 89,
+      "owners-trade": 355
     },
     {
       "cardId": "19474",
@@ -325794,10 +325794,10 @@
       "animeId": 536,
       "animeName": "Боец Баки 2 сезон",
       "animeLink": "/aniserials/video/action/536-boec-baki-2-sezon.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:05",
+      "owners-count": 1171,
+      "owners-need": 4,
+      "owners-trade": 108
     },
     {
       "cardId": "19473",
@@ -325808,10 +325808,10 @@
       "animeId": 535,
       "animeName": "Боец Баки",
       "animeLink": "/aniserials/video/action/535-boec-baki-1-sezon.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:04",
+      "owners-count": 2666,
+      "owners-need": 2,
+      "owners-trade": 282
     },
     {
       "cardId": "19472",
@@ -325822,10 +325822,10 @@
       "animeId": 364,
       "animeName": "Президент студсовета - горничная!",
       "animeLink": "/aniserials/video/comedy/364-prezident-gornichnaya.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:02",
+      "owners-count": 58,
+      "owners-need": 23,
+      "owners-trade": 3
     },
     {
       "cardId": "19470",
@@ -325836,10 +325836,10 @@
       "animeId": 2281,
       "animeName": "Неправильный способ использования исцеляющей магии",
       "animeLink": "/aniserials/video/action/2281-nepravilnyj-sposob-ispolzovanija-isceljajuschej-magii-animestars.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:01",
+      "owners-count": 2789,
+      "owners-need": 23,
+      "owners-trade": 274
     },
     {
       "cardId": "19468",
@@ -325850,10 +325850,10 @@
       "animeId": 1206,
       "animeName": "Восемьдесят шесть 2 сезон",
       "animeLink": "/aniserials/video/action/1206-vosemdesjat-shest-2-sezon.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:23:00",
+      "owners-count": 3038,
+      "owners-need": 23,
+      "owners-trade": 259
     },
     {
       "cardId": "19467",
@@ -325864,10 +325864,10 @@
       "animeId": 1206,
       "animeName": "Восемьдесят шесть 2 сезон",
       "animeLink": "/aniserials/video/action/1206-vosemdesjat-shest-2-sezon.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:58",
+      "owners-count": 3249,
+      "owners-need": 21,
+      "owners-trade": 292
     },
     {
       "cardId": "19466",
@@ -325878,10 +325878,10 @@
       "animeId": 536,
       "animeName": "Боец Баки 2 сезон",
       "animeLink": "/aniserials/video/action/536-boec-baki-2-sezon.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:57",
+      "owners-count": 327,
+      "owners-need": 9,
+      "owners-trade": 39
     },
     {
       "cardId": "19465",
@@ -325892,10 +325892,10 @@
       "animeId": 1206,
       "animeName": "Восемьдесят шесть 2 сезон",
       "animeLink": "/aniserials/video/action/1206-vosemdesjat-shest-2-sezon.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:55",
+      "owners-count": 3045,
+      "owners-need": 26,
+      "owners-trade": 309
     },
     {
       "cardId": "19462",
@@ -325906,10 +325906,10 @@
       "animeId": 536,
       "animeName": "Боец Баки 2 сезон",
       "animeLink": "/aniserials/video/action/536-boec-baki-2-sezon.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:54",
+      "owners-count": 284,
+      "owners-need": 7,
+      "owners-trade": 43
     },
     {
       "cardId": "19459",
@@ -325920,10 +325920,10 @@
       "animeId": 387,
       "animeName": "Невероятные приключения Джоджо 5 сезон: Золотой ветер",
       "animeLink": "/aniserials/video/action/387-neveroyatnye-priklyucheniya-dzhodzho-5-sezon.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:53",
+      "owners-count": 30,
+      "owners-need": 12,
+      "owners-trade": 2
     },
     {
       "cardId": "19458",
@@ -325934,10 +325934,10 @@
       "animeId": 593,
       "animeName": "Трогательный комплекс",
       "animeLink": "/aniserials/video/comedy/593-trogatelnyy-kompleks.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:51",
+      "owners-count": 1312,
+      "owners-need": 20,
+      "owners-trade": 141
     },
     {
       "cardId": "19457",
@@ -325948,10 +325948,10 @@
       "animeId": 28,
       "animeName": "Класс убийц",
       "animeLink": "/aniserials/video/comedy/28-klass-ubiyc-ansatsu-kyoushitsu-2015-as.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:50",
+      "owners-count": 458,
+      "owners-need": 20,
+      "owners-trade": 53
     },
     {
       "cardId": "19455",
@@ -325962,10 +325962,10 @@
       "animeId": 984,
       "animeName": "Достучаться до тебя",
       "animeLink": "/aniserials/video/drama/984-dotjanutsja-do-tebja-1-sezon.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:49",
+      "owners-count": 2511,
+      "owners-need": 4,
+      "owners-trade": 251
     },
     {
       "cardId": "19454",
@@ -325976,10 +325976,10 @@
       "animeId": 558,
       "animeName": "Судьба: Великий приказ - Вавилония",
       "animeLink": "/aniserials/video/action/558-sudba-velikiy-prikaz-vaviloniya.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:47",
+      "owners-count": 39,
+      "owners-need": 31,
+      "owners-trade": 2
     },
     {
       "cardId": "19453",
@@ -325990,10 +325990,10 @@
       "animeId": 605,
       "animeName": "Боевой континент",
       "animeLink": "/aniserials/video/action/605-boevoy-kontinent-animestars-2018.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:46",
+      "owners-count": 2968,
+      "owners-need": 40,
+      "owners-trade": 253
     },
     {
       "cardId": "19452",
@@ -326004,10 +326004,10 @@
       "animeId": 605,
       "animeName": "Боевой континент",
       "animeLink": "/aniserials/video/action/605-boevoy-kontinent-animestars-2018.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:44",
+      "owners-count": 3108,
+      "owners-need": 42,
+      "owners-trade": 316
     },
     {
       "cardId": "19451",
@@ -326018,10 +326018,10 @@
       "animeId": 605,
       "animeName": "Боевой континент",
       "animeLink": "/aniserials/video/action/605-boevoy-kontinent-animestars-2018.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:43",
+      "owners-count": 2920,
+      "owners-need": 38,
+      "owners-trade": 220
     },
     {
       "cardId": "19450",
@@ -326032,10 +326032,10 @@
       "animeId": 355,
       "animeName": "О моём перерождении в слизь",
       "animeLink": "/aniserials/video/drama/355-o-moem-pererozhdenii-v-sliz-2018.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:42",
+      "owners-count": 3595,
+      "owners-need": 48,
+      "owners-trade": 357
     },
     {
       "cardId": "19448",
@@ -326046,10 +326046,10 @@
       "animeId": 488,
       "animeName": "В подземелье я пойду, там красавицу найду! 2 сезон",
       "animeLink": "/aniserials/video/game/488-v-podzemele-ya-poydu-tam-krasavicu-naydu-2-sezon.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:40",
+      "owners-count": 1801,
+      "owners-need": 44,
+      "owners-trade": 159
     },
     {
       "cardId": "19446",
@@ -326060,10 +326060,10 @@
       "animeId": 1651,
       "animeName": "Сакура - собирательница карт",
       "animeLink": "/aniserials/video/shoujo/1651-sakura-sobiratelnica-kart.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:39",
+      "owners-count": 400,
+      "owners-need": 14,
+      "owners-trade": 58
     },
     {
       "cardId": "19444",
@@ -326074,10 +326074,10 @@
       "animeId": 2519,
       "animeName": "Таинственная библиотека Данталиан",
       "animeLink": "/aniserials/video/action/2519-tainstvennaja-biblioteka-dantalian.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:37",
+      "owners-count": 2544,
+      "owners-need": 10,
+      "owners-trade": 267
     },
     {
       "cardId": "19443",
@@ -326088,10 +326088,10 @@
       "animeId": 2519,
       "animeName": "Таинственная библиотека Данталиан",
       "animeLink": "/aniserials/video/action/2519-tainstvennaja-biblioteka-dantalian.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:36",
+      "owners-count": 2890,
+      "owners-need": 15,
+      "owners-trade": 307
     },
     {
       "cardId": "19442",
@@ -326102,10 +326102,10 @@
       "animeId": 2519,
       "animeName": "Таинственная библиотека Данталиан",
       "animeLink": "/aniserials/video/action/2519-tainstvennaja-biblioteka-dantalian.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:34",
+      "owners-count": 2376,
+      "owners-need": 11,
+      "owners-trade": 186
     },
     {
       "cardId": "19440",
@@ -326116,10 +326116,10 @@
       "animeId": 1694,
       "animeName": "Сказка о сахарном яблоке",
       "animeLink": "/aniserials/video/romance/1694-skazka-o-saharnom-jabloke-animestars.html",
-      "lastUpdated": "2025-12-26, 03:51:37",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:22:33",
+      "owners-count": 2545,
+      "owners-need": 9,
+      "owners-trade": 266
     },
     {
       "cardId": "19439",
