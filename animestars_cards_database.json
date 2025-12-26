@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2025-12-26, 19:33:50",
+    "generatedTimestamp": "2025-12-26, 19:34:50",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.5.31",
     "format": "json_v2",
@@ -20,10 +20,10 @@
       "animeId": 3134,
       "animeName": "Кулинарные скитания в параллельном мире 2",
       "animeLink": "/aniserials/video/adventure/3134-kulinarnye-skitanija-v-parallelnom-mire-2-deep.html",
-      "lastUpdated": "2025-12-26, 19:33:46",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 19:33:58",
+      "owners-count": 0,
+      "owners-need": 0,
+      "owners-trade": 0
     },
     {
       "cardId": "71681",
@@ -34,10 +34,10 @@
       "animeId": 1322,
       "animeName": "Клинок, рассекающий демонов 2 сезон: Квартал красных фонарей",
       "animeLink": "/aniserials/video/action/1322-klinok-rassekajuschij-demonov-2-sezon-animestars.html",
-      "lastUpdated": "2025-12-26, 19:33:46",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 19:34:00",
+      "owners-count": 0,
+      "owners-need": 5,
+      "owners-trade": 0
     },
     {
       "cardId": "71675",
@@ -469308,10 +469308,10 @@
       "animeId": 512,
       "animeName": "Доктор Стоун",
       "animeLink": "/aniserials/video/postapocalypse/512-doktor-stoun-animestars.html",
-      "lastUpdated": "2025-12-26, 04:13:23",
-      "owners-count": 768,
-      "owners-need": 66,
-      "owners-trade": 76
+      "lastUpdated": "2025-12-26, 19:34:48",
+      "owners-count": 771,
+      "owners-need": 67,
+      "owners-trade": 77
     },
     {
       "cardId": "962",
@@ -469322,9 +469322,9 @@
       "animeId": 396,
       "animeName": "Триган",
       "animeLink": "/aniserials/video/action/396-trigan-animestars-1998.html",
-      "lastUpdated": "2025-12-26, 04:13:22",
-      "owners-count": 2592,
-      "owners-need": 3,
+      "lastUpdated": "2025-12-26, 19:34:47",
+      "owners-count": 2589,
+      "owners-need": 4,
       "owners-trade": 275
     },
     {
@@ -469336,10 +469336,10 @@
       "animeId": 197,
       "animeName": "Чёрный клевер",
       "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
-      "lastUpdated": "2025-12-26, 04:13:20",
-      "owners-count": 2020,
+      "lastUpdated": "2025-12-26, 19:34:46",
+      "owners-count": 2017,
       "owners-need": 74,
-      "owners-trade": 225
+      "owners-trade": 227
     },
     {
       "cardId": "959",
@@ -469350,8 +469350,8 @@
       "animeId": 2388,
       "animeName": "Кайдзю номер восемь",
       "animeLink": "/aniserials/video/action/2388-kajdzju-nomer-vosem-animestars-2024-a4.html",
-      "lastUpdated": "2025-12-26, 04:13:19",
-      "owners-count": 908,
+      "lastUpdated": "2025-12-26, 19:34:44",
+      "owners-count": 909,
       "owners-need": 166,
       "owners-trade": 84
     },
@@ -469364,10 +469364,10 @@
       "animeId": 396,
       "animeName": "Триган",
       "animeLink": "/aniserials/video/action/396-trigan-animestars-1998.html",
-      "lastUpdated": "2025-12-26, 04:13:18",
-      "owners-count": 1541,
+      "lastUpdated": "2025-12-26, 19:34:43",
+      "owners-count": 1543,
       "owners-need": 13,
-      "owners-trade": 105
+      "owners-trade": 109
     },
     {
       "cardId": "950",
@@ -469378,9 +469378,9 @@
       "animeId": 396,
       "animeName": "Триган",
       "animeLink": "/aniserials/video/action/396-trigan-animestars-1998.html",
-      "lastUpdated": "2025-12-26, 04:13:16",
-      "owners-count": 2937,
-      "owners-need": 7,
+      "lastUpdated": "2025-12-26, 19:34:41",
+      "owners-count": 2936,
+      "owners-need": 8,
       "owners-trade": 174
     },
     {
@@ -469392,9 +469392,9 @@
       "animeId": 231,
       "animeName": "Убийца Акамэ!",
       "animeLink": "/aniserials/video/war/231-ubiyca-akame-animestars-2014.html",
-      "lastUpdated": "2025-12-26, 04:13:15",
+      "lastUpdated": "2025-12-26, 19:34:40",
       "owners-count": 670,
-      "owners-need": 66,
+      "owners-need": 68,
       "owners-trade": 52
     },
     {
@@ -469406,10 +469406,10 @@
       "animeId": 212,
       "animeName": "Повелитель 2 сезон",
       "animeLink": "/aniserials/video/vampires/212-povelitel-2-sezon-2018-as.html",
-      "lastUpdated": "2025-12-26, 04:13:14",
-      "owners-count": 3547,
-      "owners-need": 45,
-      "owners-trade": 307
+      "lastUpdated": "2025-12-26, 19:34:39",
+      "owners-count": 3550,
+      "owners-need": 46,
+      "owners-trade": 308
     },
     {
       "cardId": "944",
@@ -469420,9 +469420,9 @@
       "animeId": 396,
       "animeName": "Триган",
       "animeLink": "/aniserials/video/action/396-trigan-animestars-1998.html",
-      "lastUpdated": "2025-12-26, 04:13:12",
-      "owners-count": 48,
-      "owners-need": 15,
+      "lastUpdated": "2025-12-26, 19:34:37",
+      "owners-count": 50,
+      "owners-need": 16,
       "owners-trade": 2
     },
     {
@@ -469434,8 +469434,8 @@
       "animeId": 396,
       "animeName": "Триган",
       "animeLink": "/aniserials/video/action/396-trigan-animestars-1998.html",
-      "lastUpdated": "2025-12-26, 04:13:11",
-      "owners-count": 456,
+      "lastUpdated": "2025-12-26, 19:34:36",
+      "owners-count": 457,
       "owners-need": 18,
       "owners-trade": 80
     },
@@ -469448,9 +469448,9 @@
       "animeId": 396,
       "animeName": "Триган",
       "animeLink": "/aniserials/video/action/396-trigan-animestars-1998.html",
-      "lastUpdated": "2025-12-26, 04:13:09",
-      "owners-count": 459,
-      "owners-need": 17,
+      "lastUpdated": "2025-12-26, 19:34:34",
+      "owners-count": 460,
+      "owners-need": 18,
       "owners-trade": 70
     },
     {
@@ -469462,9 +469462,9 @@
       "animeId": 396,
       "animeName": "Триган",
       "animeLink": "/aniserials/video/action/396-trigan-animestars-1998.html",
-      "lastUpdated": "2025-12-26, 04:13:08",
-      "owners-count": 385,
-      "owners-need": 21,
+      "lastUpdated": "2025-12-26, 19:34:33",
+      "owners-count": 391,
+      "owners-need": 22,
       "owners-trade": 48
     },
     {
@@ -469476,10 +469476,10 @@
       "animeId": 396,
       "animeName": "Триган",
       "animeLink": "/aniserials/video/action/396-trigan-animestars-1998.html",
-      "lastUpdated": "2025-12-26, 04:13:07",
-      "owners-count": 434,
-      "owners-need": 12,
-      "owners-trade": 42
+      "lastUpdated": "2025-12-26, 19:34:32",
+      "owners-count": 437,
+      "owners-need": 13,
+      "owners-trade": 43
     },
     {
       "cardId": "934",
@@ -469490,10 +469490,10 @@
       "animeId": 186,
       "animeName": "Мастера меча онлайн",
       "animeLink": "/aniserials/video/action/186-mastera-mecha-onlayn-1-sezon-animestars.html",
-      "lastUpdated": "2025-12-26, 04:13:05",
-      "owners-count": 2271,
+      "lastUpdated": "2025-12-26, 19:34:30",
+      "owners-count": 2263,
       "owners-need": 43,
-      "owners-trade": 269
+      "owners-trade": 270
     },
     {
       "cardId": "930",
@@ -469504,10 +469504,10 @@
       "animeId": 186,
       "animeName": "Мастера меча онлайн",
       "animeLink": "/aniserials/video/action/186-mastera-mecha-onlayn-1-sezon-animestars.html",
-      "lastUpdated": "2025-12-26, 04:13:04",
+      "lastUpdated": "2025-12-26, 19:34:29",
       "owners-count": 1944,
-      "owners-need": 51,
-      "owners-trade": 207
+      "owners-need": 50,
+      "owners-trade": 204
     },
     {
       "cardId": "924",
@@ -469518,10 +469518,10 @@
       "animeId": 1243,
       "animeName": "Самурай Чамплу",
       "animeLink": "/aniserials/video/action/1243-samuraj-champlu.html",
-      "lastUpdated": "2025-12-26, 04:13:02",
-      "owners-count": 2937,
+      "lastUpdated": "2025-12-26, 19:34:28",
+      "owners-count": 2932,
       "owners-need": 5,
-      "owners-trade": 245
+      "owners-trade": 242
     },
     {
       "cardId": "922",
@@ -469532,10 +469532,10 @@
       "animeId": 1243,
       "animeName": "Самурай Чамплу",
       "animeLink": "/aniserials/video/action/1243-samuraj-champlu.html",
-      "lastUpdated": "2025-12-26, 04:13:01",
+      "lastUpdated": "2025-12-26, 19:34:26",
       "owners-count": 1317,
       "owners-need": 6,
-      "owners-trade": 137
+      "owners-trade": 136
     },
     {
       "cardId": "920",
@@ -469546,10 +469546,10 @@
       "animeId": 2102,
       "animeName": "Блич: Тысячелетняя кровавая война",
       "animeLink": "/aniserials/video/comedy/2102-blich-tysjacheletnjaja-krovavaja-vojna.html",
-      "lastUpdated": "2025-12-26, 04:13:00",
-      "owners-count": 791,
+      "lastUpdated": "2025-12-26, 19:34:25",
+      "owners-count": 792,
       "owners-need": 70,
-      "owners-trade": 75
+      "owners-trade": 74
     },
     {
       "cardId": "918",
@@ -469560,7 +469560,7 @@
       "animeId": 1243,
       "animeName": "Самурай Чамплу",
       "animeLink": "/aniserials/video/action/1243-samuraj-champlu.html",
-      "lastUpdated": "2025-12-26, 04:12:58",
+      "lastUpdated": "2025-12-26, 19:34:23",
       "owners-count": 42,
       "owners-need": 10,
       "owners-trade": 0
@@ -469574,10 +469574,10 @@
       "animeId": 1243,
       "animeName": "Самурай Чамплу",
       "animeLink": "/aniserials/video/action/1243-samuraj-champlu.html",
-      "lastUpdated": "2025-12-26, 04:12:57",
-      "owners-count": 2648,
+      "lastUpdated": "2025-12-26, 19:34:22",
+      "owners-count": 2649,
       "owners-need": 4,
-      "owners-trade": 281
+      "owners-trade": 282
     },
     {
       "cardId": "916",
@@ -469588,8 +469588,8 @@
       "animeId": 186,
       "animeName": "Мастера меча онлайн",
       "animeLink": "/aniserials/video/action/186-mastera-mecha-onlayn-1-sezon-animestars.html",
-      "lastUpdated": "2025-12-26, 04:12:55",
-      "owners-count": 811,
+      "lastUpdated": "2025-12-26, 19:34:21",
+      "owners-count": 813,
       "owners-need": 85,
       "owners-trade": 131
     },
@@ -469602,10 +469602,10 @@
       "animeId": 186,
       "animeName": "Мастера меча онлайн",
       "animeLink": "/aniserials/video/action/186-mastera-mecha-onlayn-1-sezon-animestars.html",
-      "lastUpdated": "2025-12-26, 04:12:54",
-      "owners-count": 3398,
+      "lastUpdated": "2025-12-26, 19:34:19",
+      "owners-count": 3404,
       "owners-need": 35,
-      "owners-trade": 249
+      "owners-trade": 250
     },
     {
       "cardId": "914",
@@ -469616,10 +469616,10 @@
       "animeId": 1243,
       "animeName": "Самурай Чамплу",
       "animeLink": "/aniserials/video/action/1243-samuraj-champlu.html",
-      "lastUpdated": "2025-12-26, 04:12:53",
-      "owners-count": 1180,
-      "owners-need": 7,
-      "owners-trade": 90
+      "lastUpdated": "2025-12-26, 19:34:18",
+      "owners-count": 1182,
+      "owners-need": 6,
+      "owners-trade": 91
     },
     {
       "cardId": "913",
@@ -469630,10 +469630,10 @@
       "animeId": 186,
       "animeName": "Мастера меча онлайн",
       "animeLink": "/aniserials/video/action/186-mastera-mecha-onlayn-1-sezon-animestars.html",
-      "lastUpdated": "2025-12-26, 04:12:51",
-      "owners-count": 4011,
+      "lastUpdated": "2025-12-26, 19:34:16",
+      "owners-count": 4012,
       "owners-need": 37,
-      "owners-trade": 323
+      "owners-trade": 324
     },
     {
       "cardId": "909",
@@ -469644,10 +469644,10 @@
       "animeId": 186,
       "animeName": "Мастера меча онлайн",
       "animeLink": "/aniserials/video/action/186-mastera-mecha-onlayn-1-sezon-animestars.html",
-      "lastUpdated": "2025-12-26, 04:12:50",
+      "lastUpdated": "2025-12-26, 19:34:15",
       "owners-count": 3720,
       "owners-need": 34,
-      "owners-trade": 199
+      "owners-trade": 200
     },
     {
       "cardId": "908",
@@ -469658,10 +469658,10 @@
       "animeId": 186,
       "animeName": "Мастера меча онлайн",
       "animeLink": "/aniserials/video/action/186-mastera-mecha-onlayn-1-sezon-animestars.html",
-      "lastUpdated": "2025-12-26, 04:12:49",
-      "owners-count": 3776,
+      "lastUpdated": "2025-12-26, 19:34:14",
+      "owners-count": 3775,
       "owners-need": 27,
-      "owners-trade": 270
+      "owners-trade": 273
     },
     {
       "cardId": "906",
@@ -469672,8 +469672,8 @@
       "animeId": 1243,
       "animeName": "Самурай Чамплу",
       "animeLink": "/aniserials/video/action/1243-samuraj-champlu.html",
-      "lastUpdated": "2025-12-26, 04:12:47",
-      "owners-count": 2542,
+      "lastUpdated": "2025-12-26, 19:34:12",
+      "owners-count": 2538,
       "owners-need": 5,
       "owners-trade": 243
     },
@@ -469686,7 +469686,7 @@
       "animeId": 186,
       "animeName": "Мастера меча онлайн",
       "animeLink": "/aniserials/video/action/186-mastera-mecha-onlayn-1-sezon-animestars.html",
-      "lastUpdated": "2025-12-26, 04:12:46",
+      "lastUpdated": "2025-12-26, 19:34:11",
       "owners-count": 88,
       "owners-need": 145,
       "owners-trade": 4
@@ -469700,10 +469700,10 @@
       "animeId": 186,
       "animeName": "Мастера меча онлайн",
       "animeLink": "/aniserials/video/action/186-mastera-mecha-onlayn-1-sezon-animestars.html",
-      "lastUpdated": "2025-12-26, 04:12:44",
-      "owners-count": 4053,
-      "owners-need": 38,
-      "owners-trade": 337
+      "lastUpdated": "2025-12-26, 19:34:09",
+      "owners-count": 4049,
+      "owners-need": 37,
+      "owners-trade": 338
     },
     {
       "cardId": "902",
@@ -469714,10 +469714,10 @@
       "animeId": 186,
       "animeName": "Мастера меча онлайн",
       "animeLink": "/aniserials/video/action/186-mastera-mecha-onlayn-1-sezon-animestars.html",
-      "lastUpdated": "2025-12-26, 04:12:43",
-      "owners-count": 2139,
+      "lastUpdated": "2025-12-26, 19:34:08",
+      "owners-count": 2136,
       "owners-need": 51,
-      "owners-trade": 220
+      "owners-trade": 221
     },
     {
       "cardId": "900",
@@ -469728,10 +469728,10 @@
       "animeId": 1243,
       "animeName": "Самурай Чамплу",
       "animeLink": "/aniserials/video/action/1243-samuraj-champlu.html",
-      "lastUpdated": "2025-12-26, 04:12:42",
-      "owners-count": 413,
+      "lastUpdated": "2025-12-26, 19:34:07",
+      "owners-count": 416,
       "owners-need": 19,
-      "owners-trade": 39
+      "owners-trade": 40
     },
     {
       "cardId": "897",
@@ -469742,10 +469742,10 @@
       "animeId": 186,
       "animeName": "Мастера меча онлайн",
       "animeLink": "/aniserials/video/action/186-mastera-mecha-onlayn-1-sezon-animestars.html",
-      "lastUpdated": "2025-12-26, 04:12:40",
-      "owners-count": 2083,
+      "lastUpdated": "2025-12-26, 19:34:05",
+      "owners-count": 2078,
       "owners-need": 50,
-      "owners-trade": 237
+      "owners-trade": 239
     },
     {
       "cardId": "896",
@@ -469756,10 +469756,10 @@
       "animeId": 186,
       "animeName": "Мастера меча онлайн",
       "animeLink": "/aniserials/video/action/186-mastera-mecha-onlayn-1-sezon-animestars.html",
-      "lastUpdated": "2025-12-26, 04:12:39",
-      "owners-count": 3824,
-      "owners-need": 37,
-      "owners-trade": 354
+      "lastUpdated": "2025-12-26, 19:34:04",
+      "owners-count": 3827,
+      "owners-need": 36,
+      "owners-trade": 357
     },
     {
       "cardId": "895",
@@ -469770,10 +469770,10 @@
       "animeId": 1243,
       "animeName": "Самурай Чамплу",
       "animeLink": "/aniserials/video/action/1243-samuraj-champlu.html",
-      "lastUpdated": "2025-12-26, 04:12:37",
-      "owners-count": 2585,
+      "lastUpdated": "2025-12-26, 19:34:02",
+      "owners-count": 2580,
       "owners-need": 4,
-      "owners-trade": 247
+      "owners-trade": 249
     },
     {
       "cardId": "893",
@@ -469784,10 +469784,10 @@
       "animeId": 186,
       "animeName": "Мастера меча онлайн",
       "animeLink": "/aniserials/video/action/186-mastera-mecha-onlayn-1-sezon-animestars.html",
-      "lastUpdated": "2025-12-26, 04:12:36",
+      "lastUpdated": "2025-12-26, 19:34:01",
       "owners-count": 2009,
-      "owners-need": 47,
-      "owners-trade": 211
+      "owners-need": 46,
+      "owners-trade": 213
     },
     {
       "cardId": "892",
