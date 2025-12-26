@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2025-12-26, 09:46:48",
+    "generatedTimestamp": "2025-12-26, 09:48:03",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.5.27",
     "format": "json_v2",
@@ -10410,10 +10410,10 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "lastUpdated": "2025-12-26, 03:46:17",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:46:55",
+      "owners-count": 215,
+      "owners-need": 43,
+      "owners-trade": 24
     },
     {
       "cardId": "69584",
@@ -10424,10 +10424,10 @@
       "animeId": 3108,
       "animeName": "Плачущий призрак на пенсии. Часть 2",
       "animeLink": "/aniserials/video/action/3108-plachuschij-prizrak-na-pensii-chast-2-deep.html",
-      "lastUpdated": "2025-12-26, 03:46:17",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:46:57",
+      "owners-count": 190,
+      "owners-need": 53,
+      "owners-trade": 20
     },
     {
       "cardId": "69581",
@@ -10438,10 +10438,10 @@
       "animeId": 3116,
       "animeName": "Придворный маг, пользовавшийся лишь магией поддержки, потому что его союзники слишком слабы, решил стать сильнейшим после изгнания",
       "animeLink": "/aniserials/video/action/3116-pridvornyj-mag-polzovavshijsja-lish-magiej-podderzhki-potomu-chto-ego-sojuzniki-slishkom-slaby-reshil-stat-silnejshim-posle-izgnanija-deep.html",
-      "lastUpdated": "2025-12-26, 03:46:17",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:46:58",
+      "owners-count": 239,
+      "owners-need": 48,
+      "owners-trade": 27
     },
     {
       "cardId": "69573",
@@ -10452,10 +10452,10 @@
       "animeId": 3041,
       "animeName": "Персона 4: Золотое издание",
       "animeLink": "/aniserials/video/action/3041-persona-4-zolotoe-izdanie.html",
-      "lastUpdated": "2025-12-26, 03:46:17",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:46:59",
+      "owners-count": 32,
+      "owners-need": 45,
+      "owners-trade": 3
     },
     {
       "cardId": "69566",
@@ -10466,10 +10466,10 @@
       "animeId": 3116,
       "animeName": "Придворный маг, пользовавшийся лишь магией поддержки, потому что его союзники слишком слабы, решил стать сильнейшим после изгнания",
       "animeLink": "/aniserials/video/action/3116-pridvornyj-mag-polzovavshijsja-lish-magiej-podderzhki-potomu-chto-ego-sojuzniki-slishkom-slaby-reshil-stat-silnejshim-posle-izgnanija-deep.html",
-      "lastUpdated": "2025-12-26, 03:46:17",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:01",
+      "owners-count": 237,
+      "owners-need": 55,
+      "owners-trade": 19
     },
     {
       "cardId": "69562",
@@ -10480,10 +10480,10 @@
       "animeId": 3116,
       "animeName": "Придворный маг, пользовавшийся лишь магией поддержки, потому что его союзники слишком слабы, решил стать сильнейшим после изгнания",
       "animeLink": "/aniserials/video/action/3116-pridvornyj-mag-polzovavshijsja-lish-magiej-podderzhki-potomu-chto-ego-sojuzniki-slishkom-slaby-reshil-stat-silnejshim-posle-izgnanija-deep.html",
-      "lastUpdated": "2025-12-26, 03:46:17",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:02",
+      "owners-count": 35,
+      "owners-need": 92,
+      "owners-trade": 2
     },
     {
       "cardId": "69558",
@@ -10494,10 +10494,10 @@
       "animeId": 3158,
       "animeName": "Тёмный демон",
       "animeLink": "/aniserials/video/shounen/3158-temnyj-demon.html",
-      "lastUpdated": "2025-12-26, 03:46:17",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:04",
+      "owners-count": 38,
+      "owners-need": 97,
+      "owners-trade": 3
     },
     {
       "cardId": "69551",
@@ -10508,10 +10508,10 @@
       "animeId": 2279,
       "animeName": "Другой мир не может противостоять силе мгновенной смерти",
       "animeLink": "/aniserials/video/comedy/2279-drugoj-mir-ne-mozhet-protivostojat-sile-mgnovennoj-smerti.html",
-      "lastUpdated": "2025-12-26, 03:46:17",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:05",
+      "owners-count": 211,
+      "owners-need": 30,
+      "owners-trade": 39
     },
     {
       "cardId": "69550",
@@ -10522,10 +10522,10 @@
       "animeId": 353,
       "animeName": "Бакуман",
       "animeLink": "/aniserials/video/drama/353-bakuman-1-3-sezon.html",
-      "lastUpdated": "2025-12-26, 03:46:17",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:06",
+      "owners-count": 4,
+      "owners-need": 25,
+      "owners-trade": 0
     },
     {
       "cardId": "69549",
@@ -10536,10 +10536,10 @@
       "animeId": 2279,
       "animeName": "Другой мир не может противостоять силе мгновенной смерти",
       "animeLink": "/aniserials/video/comedy/2279-drugoj-mir-ne-mozhet-protivostojat-sile-mgnovennoj-smerti.html",
-      "lastUpdated": "2025-12-26, 03:46:17",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:08",
+      "owners-count": 134,
+      "owners-need": 31,
+      "owners-trade": 26
     },
     {
       "cardId": "69547",
@@ -10550,10 +10550,10 @@
       "animeId": 3078,
       "animeName": "Бесклассовый герой: Да мне всё равно не нужны эти ваши умения",
       "animeLink": "/aniserials/video/action/3078-besklassovyj-geroj-da-mne-vse-ravno-ne-nuzhny-jeti-vashi-umenija.html",
-      "lastUpdated": "2025-12-26, 03:46:17",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:09",
+      "owners-count": 212,
+      "owners-need": 37,
+      "owners-trade": 25
     },
     {
       "cardId": "69544",
@@ -10564,10 +10564,10 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "lastUpdated": "2025-12-26, 03:46:17",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:10",
+      "owners-count": 231,
+      "owners-need": 42,
+      "owners-trade": 34
     },
     {
       "cardId": "69541",
@@ -10578,10 +10578,10 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "lastUpdated": "2025-12-26, 03:46:17",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:12",
+      "owners-count": 227,
+      "owners-need": 41,
+      "owners-trade": 34
     },
     {
       "cardId": "69537",
@@ -10592,10 +10592,10 @@
       "animeId": 1141,
       "animeName": "Магистр дьявольского культа 3 сезон",
       "animeLink": "/aniserials/video/action/1141-magistr-djavolskogo-kulta-3-sezon.html",
-      "lastUpdated": "2025-12-26, 03:46:17",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:13",
+      "owners-count": 250,
+      "owners-need": 118,
+      "owners-trade": 31
     },
     {
       "cardId": "69535",
@@ -10606,10 +10606,10 @@
       "animeId": 3082,
       "animeName": "Однажды я стала принцессой",
       "animeLink": "/aniserials/video/drama/3082-odnazhdy-ja-stala-princessoj.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:15",
+      "owners-count": 178,
+      "owners-need": 60,
+      "owners-trade": 26
     },
     {
       "cardId": "69534",
@@ -10620,10 +10620,10 @@
       "animeId": 3082,
       "animeName": "Однажды я стала принцессой",
       "animeLink": "/aniserials/video/drama/3082-odnazhdy-ja-stala-princessoj.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:16",
+      "owners-count": 182,
+      "owners-need": 58,
+      "owners-trade": 25
     },
     {
       "cardId": "69527",
@@ -10634,10 +10634,10 @@
       "animeId": 1067,
       "animeName": "Импульс мира 2 сезон",
       "animeLink": "/aniserials/video/action/1067-impuls-mira-2-sezon.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:17",
+      "owners-count": 4,
+      "owners-need": 14,
+      "owners-trade": 1
     },
     {
       "cardId": "69525",
@@ -10648,10 +10648,10 @@
       "animeId": 951,
       "animeName": "Бакуман 2 сезон",
       "animeLink": "/aniserials/video/drama/951-bakuman-2-sezon.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:19",
+      "owners-count": 7,
+      "owners-need": 28,
+      "owners-trade": 1
     },
     {
       "cardId": "69522",
@@ -10662,10 +10662,10 @@
       "animeId": 2555,
       "animeName": "Вечность в моменте",
       "animeLink": "/aniserials/video/action/2555-vechnost-v-momente-2024.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:20",
+      "owners-count": 192,
+      "owners-need": 38,
+      "owners-trade": 28
     },
     {
       "cardId": "69521",
@@ -10676,10 +10676,10 @@
       "animeId": 2555,
       "animeName": "Вечность в моменте",
       "animeLink": "/aniserials/video/action/2555-vechnost-v-momente-2024.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:21",
+      "owners-count": 194,
+      "owners-need": 37,
+      "owners-trade": 23
     },
     {
       "cardId": "69520",
@@ -10690,10 +10690,10 @@
       "animeId": 2555,
       "animeName": "Вечность в моменте",
       "animeLink": "/aniserials/video/action/2555-vechnost-v-momente-2024.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:23",
+      "owners-count": 195,
+      "owners-need": 40,
+      "owners-trade": 39
     },
     {
       "cardId": "69513",
@@ -10704,10 +10704,10 @@
       "animeId": 3116,
       "animeName": "Придворный маг, пользовавшийся лишь магией поддержки, потому что его союзники слишком слабы, решил стать сильнейшим после изгнания",
       "animeLink": "/aniserials/video/action/3116-pridvornyj-mag-polzovavshijsja-lish-magiej-podderzhki-potomu-chto-ego-sojuzniki-slishkom-slaby-reshil-stat-silnejshim-posle-izgnanija-deep.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:24",
+      "owners-count": 241,
+      "owners-need": 64,
+      "owners-trade": 28
     },
     {
       "cardId": "69512",
@@ -10718,10 +10718,10 @@
       "animeId": 3116,
       "animeName": "Придворный маг, пользовавшийся лишь магией поддержки, потому что его союзники слишком слабы, решил стать сильнейшим после изгнания",
       "animeLink": "/aniserials/video/action/3116-pridvornyj-mag-polzovavshijsja-lish-magiej-podderzhki-potomu-chto-ego-sojuzniki-slishkom-slaby-reshil-stat-silnejshim-posle-izgnanija-deep.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:26",
+      "owners-count": 31,
+      "owners-need": 90,
+      "owners-trade": 2
     },
     {
       "cardId": "69510",
@@ -10732,10 +10732,10 @@
       "animeId": 3116,
       "animeName": "Придворный маг, пользовавшийся лишь магией поддержки, потому что его союзники слишком слабы, решил стать сильнейшим после изгнания",
       "animeLink": "/aniserials/video/action/3116-pridvornyj-mag-polzovavshijsja-lish-magiej-podderzhki-potomu-chto-ego-sojuzniki-slishkom-slaby-reshil-stat-silnejshim-posle-izgnanija-deep.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:27",
+      "owners-count": 41,
+      "owners-need": 92,
+      "owners-trade": 1
     },
     {
       "cardId": "69509",
@@ -10746,10 +10746,10 @@
       "animeId": 3116,
       "animeName": "Придворный маг, пользовавшийся лишь магией поддержки, потому что его союзники слишком слабы, решил стать сильнейшим после изгнания",
       "animeLink": "/aniserials/video/action/3116-pridvornyj-mag-polzovavshijsja-lish-magiej-podderzhki-potomu-chto-ego-sojuzniki-slishkom-slaby-reshil-stat-silnejshim-posle-izgnanija-deep.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:28",
+      "owners-count": 134,
+      "owners-need": 76,
+      "owners-trade": 9
     },
     {
       "cardId": "69505",
@@ -10760,10 +10760,10 @@
       "animeId": 3121,
       "animeName": "Девушки-пони: Серая Золушка. Часть 2",
       "animeLink": "/aniserials/video/seinen/3121-devushki-poni-seraja-zolushka-chast-2.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:30",
+      "owners-count": 301,
+      "owners-need": 66,
+      "owners-trade": 35
     },
     {
       "cardId": "69504",
@@ -10774,10 +10774,10 @@
       "animeId": 3121,
       "animeName": "Девушки-пони: Серая Золушка. Часть 2",
       "animeLink": "/aniserials/video/seinen/3121-devushki-poni-seraja-zolushka-chast-2.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:31",
+      "owners-count": 314,
+      "owners-need": 61,
+      "owners-trade": 26
     },
     {
       "cardId": "69503",
@@ -10788,10 +10788,10 @@
       "animeId": 3121,
       "animeName": "Девушки-пони: Серая Золушка. Часть 2",
       "animeLink": "/aniserials/video/seinen/3121-devushki-poni-seraja-zolushka-chast-2.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:32",
+      "owners-count": 160,
+      "owners-need": 90,
+      "owners-trade": 10
     },
     {
       "cardId": "69499",
@@ -10802,10 +10802,10 @@
       "animeId": 3031,
       "animeName": "Волшебница и злой офицер",
       "animeLink": "/aniserials/video/shounen/3031-volshebnica-i-zloj-oficer.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:34",
+      "owners-count": 46,
+      "owners-need": 30,
+      "owners-trade": 8
     },
     {
       "cardId": "69493",
@@ -10816,10 +10816,10 @@
       "animeId": 1353,
       "animeName": "Убивающая любовь",
       "animeLink": "/aniserials/video/action/1353-ubivajuschaja-ljubov.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:35",
+      "owners-count": 228,
+      "owners-need": 58,
+      "owners-trade": 12
     },
     {
       "cardId": "69490",
@@ -10830,10 +10830,10 @@
       "animeId": 1475,
       "animeName": "Невеста чародея OVA 2: Мальчик с Запада и рыцарь горной дымки",
       "animeLink": "/ova/1475-nevesta-charodeja-ova-2-malchik-s-zapada-i-rycar-gornoj-dymki.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:36",
+      "owners-count": 201,
+      "owners-need": 23,
+      "owners-trade": 29
     },
     {
       "cardId": "69485",
@@ -10844,10 +10844,10 @@
       "animeId": 2470,
       "animeName": "Провидение 2 сезон",
       "animeLink": "/aniserials/video/romance/2470-providenie-2-sezon.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:38",
+      "owners-count": 5,
+      "owners-need": 44,
+      "owners-trade": 2
     },
     {
       "cardId": "69484",
@@ -10858,10 +10858,10 @@
       "animeId": 648,
       "animeName": "Отчет о буйстве духов",
       "animeLink": "/aniserials/video/martial_arts/648-otchet-o-buystve-duhov.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:39",
+      "owners-count": 4,
+      "owners-need": 5,
+      "owners-trade": 2
     },
     {
       "cardId": "69480",
@@ -10872,10 +10872,10 @@
       "animeId": 2555,
       "animeName": "Вечность в моменте",
       "animeLink": "/aniserials/video/action/2555-vechnost-v-momente-2024.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:41",
+      "owners-count": 226,
+      "owners-need": 43,
+      "owners-trade": 38
     },
     {
       "cardId": "69472",
@@ -10886,10 +10886,10 @@
       "animeId": 3012,
       "animeName": "Мэдака Куроива не понимает моей привлекательности",
       "animeLink": "/aniserials/video/shounen/3012-mjedaka-kuroiva-ne-ponimaet-moej-privlekatelnosti.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:42",
+      "owners-count": 1,
+      "owners-need": 12,
+      "owners-trade": 0
     },
     {
       "cardId": "69470",
@@ -10900,10 +10900,10 @@
       "animeId": 143,
       "animeName": "Сказка о Хвосте Феи",
       "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:43",
+      "owners-count": 226,
+      "owners-need": 120,
+      "owners-trade": 26
     },
     {
       "cardId": "69468",
@@ -10914,10 +10914,10 @@
       "animeId": 143,
       "animeName": "Сказка о Хвосте Феи",
       "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:45",
+      "owners-count": 240,
+      "owners-need": 121,
+      "owners-trade": 33
     },
     {
       "cardId": "69467",
@@ -10928,10 +10928,10 @@
       "animeId": 143,
       "animeName": "Сказка о Хвосте Феи",
       "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:46",
+      "owners-count": 227,
+      "owners-need": 123,
+      "owners-trade": 29
     },
     {
       "cardId": "69464",
@@ -10942,10 +10942,10 @@
       "animeId": 2555,
       "animeName": "Вечность в моменте",
       "animeLink": "/aniserials/video/action/2555-vechnost-v-momente-2024.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:47",
+      "owners-count": 220,
+      "owners-need": 33,
+      "owners-trade": 34
     },
     {
       "cardId": "69463",
@@ -10956,10 +10956,10 @@
       "animeId": 2555,
       "animeName": "Вечность в моменте",
       "animeLink": "/aniserials/video/action/2555-vechnost-v-momente-2024.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:49",
+      "owners-count": 203,
+      "owners-need": 35,
+      "owners-trade": 37
     },
     {
       "cardId": "69461",
@@ -10970,10 +10970,10 @@
       "animeId": 2555,
       "animeName": "Вечность в моменте",
       "animeLink": "/aniserials/video/action/2555-vechnost-v-momente-2024.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:50",
+      "owners-count": 234,
+      "owners-need": 35,
+      "owners-trade": 30
     },
     {
       "cardId": "69458",
@@ -10984,10 +10984,10 @@
       "animeId": 3012,
       "animeName": "Мэдака Куроива не понимает моей привлекательности",
       "animeLink": "/aniserials/video/shounen/3012-mjedaka-kuroiva-ne-ponimaet-moej-privlekatelnosti.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:52",
+      "owners-count": 184,
+      "owners-need": 17,
+      "owners-trade": 31
     },
     {
       "cardId": "69453",
@@ -10998,10 +10998,10 @@
       "animeId": 3126,
       "animeName": "Механическая Мари",
       "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:53",
+      "owners-count": 234,
+      "owners-need": 65,
+      "owners-trade": 17
     },
     {
       "cardId": "69451",
@@ -11012,10 +11012,10 @@
       "animeId": 1562,
       "animeName": "Война горничных Акибы",
       "animeLink": "/aniserials/video/comedy/1562-vojna-gornichnyh-akiby.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:54",
+      "owners-count": 4,
+      "owners-need": 46,
+      "owners-trade": 2
     },
     {
       "cardId": "69450",
@@ -11026,10 +11026,10 @@
       "animeId": 2458,
       "animeName": "Плач девичьей группы",
       "animeLink": "/aniserials/video/drama/2458-plach-devichej-gruppy.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:56",
+      "owners-count": 220,
+      "owners-need": 18,
+      "owners-trade": 39
     },
     {
       "cardId": "69449",
@@ -11040,10 +11040,10 @@
       "animeId": 2458,
       "animeName": "Плач девичьей группы",
       "animeLink": "/aniserials/video/drama/2458-plach-devichej-gruppy.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:57",
+      "owners-count": 3,
+      "owners-need": 12,
+      "owners-trade": 1
     },
     {
       "cardId": "69446",
@@ -11054,10 +11054,10 @@
       "animeId": 850,
       "animeName": "Магическая битва",
       "animeLink": "/aniserials/video/action/850-magicheskaja-bitva-animestars-2020.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:47:58",
+      "owners-count": 279,
+      "owners-need": 128,
+      "owners-trade": 36
     },
     {
       "cardId": "69444",
@@ -11068,10 +11068,10 @@
       "animeId": 2090,
       "animeName": "Магическая битва 2 сезон",
       "animeLink": "/aniserials/video/action/2090-magicheskaja-bitva-2-sezon-animestars-vm3.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:48:00",
+      "owners-count": 9,
+      "owners-need": 108,
+      "owners-trade": 0
     },
     {
       "cardId": "69442",
@@ -11082,10 +11082,10 @@
       "animeId": 1906,
       "animeName": "Сказка о Хвосте Феи 2 сезон",
       "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:48:01",
+      "owners-count": 219,
+      "owners-need": 79,
+      "owners-trade": 28
     },
     {
       "cardId": "69438",
@@ -11096,10 +11096,10 @@
       "animeId": 2058,
       "animeName": "Боевой континент 2: Непревзойдённый клан Тан",
       "animeLink": "/aniserials/video/action/2058-boevoj-kontinent-2-neprevzojdennyj-klan-tan-animestars-aa8.html",
-      "lastUpdated": "2025-12-26, 03:46:18",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 09:48:02",
+      "owners-count": 37,
+      "owners-need": 141,
+      "owners-trade": 1
     },
     {
       "cardId": "69436",
