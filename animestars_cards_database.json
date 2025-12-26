@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2025-12-26, 08:31:00",
+    "generatedTimestamp": "2025-12-26, 08:31:13",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.5.25",
     "format": "json_v2",
@@ -324688,10 +324688,10 @@
       "animeId": 679,
       "animeName": "Икс",
       "animeLink": "/aniserials/video/drama/679-iks.html",
-      "lastUpdated": "2025-12-26, 03:51:36",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:31:11",
+      "owners-count": 2340,
+      "owners-need": 6,
+      "owners-trade": 214
     },
     {
       "cardId": "19585",
@@ -324702,10 +324702,10 @@
       "animeId": 7,
       "animeName": "Деми-тян хочет рассказать",
       "animeLink": "/aniserials/video/vampires/7-demi-hotyat-poboltat.html",
-      "lastUpdated": "2025-12-26, 03:51:36",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:31:10",
+      "owners-count": 336,
+      "owners-need": 2,
+      "owners-trade": 40
     },
     {
       "cardId": "19582",
@@ -324716,10 +324716,10 @@
       "animeId": 81,
       "animeName": "Корона грешника",
       "animeLink": "/aniserials/video/drama/81-korona-greha-korona-greshnika.html",
-      "lastUpdated": "2025-12-26, 03:51:36",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2025-12-26, 08:31:08",
+      "owners-count": 1481,
+      "owners-need": 16,
+      "owners-trade": 134
     },
     {
       "cardId": "19581",
