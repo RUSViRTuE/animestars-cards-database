@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedTimestamp": "2025-12-27, 18:38:48",
+    "generatedTimestamp": "2025-12-27, 18:53:31",
     "timezone": "Europe/Moscow (UTC+3)",
-    "scraperVersion": "1.5.32",
+    "scraperVersion": "1.5.32.1",
     "format": "json_v2",
     "source": [
       "animestars.org",
@@ -224422,10 +224422,10 @@
       "animeId": 2749,
       "animeName": "Почему-то в моём доме поселилась куноити-отаку",
       "animeLink": "/aniserials/video/romance/2749-pochemu-to-v-moem-dome-poselilas-kunoiti-otaku.html",
-      "lastUpdated": "2025-12-26, 16:17:49",
-      "owners-count": 2233,
+      "lastUpdated": "2025-12-27, 18:53:21",
+      "owners-count": 2241,
       "owners-need": 3,
-      "owners-trade": 237
+      "owners-trade": 239
     },
     {
       "cardId": "33210",
@@ -224436,10 +224436,10 @@
       "animeId": 2749,
       "animeName": "Почему-то в моём доме поселилась куноити-отаку",
       "animeLink": "/aniserials/video/romance/2749-pochemu-to-v-moem-dome-poselilas-kunoiti-otaku.html",
-      "lastUpdated": "2025-12-26, 16:17:51",
-      "owners-count": 1056,
+      "lastUpdated": "2025-12-27, 18:53:22",
+      "owners-count": 1054,
       "owners-need": 1,
-      "owners-trade": 128
+      "owners-trade": 124
     },
     {
       "cardId": "33208",
@@ -224450,10 +224450,10 @@
       "animeId": 1530,
       "animeName": "Семья шпиона Часть 2",
       "animeLink": "/aniserials/video/action/1530-semja-shpiona-chast-2-animestars.html",
-      "lastUpdated": "2025-12-26, 16:17:52",
-      "owners-count": 2146,
-      "owners-need": 30,
-      "owners-trade": 212
+      "lastUpdated": "2025-12-27, 18:53:24",
+      "owners-count": 2148,
+      "owners-need": 29,
+      "owners-trade": 211
     },
     {
       "cardId": "33207",
@@ -224464,10 +224464,10 @@
       "animeId": 2645,
       "animeName": "Голубая шкатулка",
       "animeLink": "/aniserials/video/romance/2645-golubaja-shkatulka.html",
-      "lastUpdated": "2025-12-26, 16:17:53",
-      "owners-count": 2082,
+      "lastUpdated": "2025-12-27, 18:53:25",
+      "owners-count": 2086,
       "owners-need": 7,
-      "owners-trade": 243
+      "owners-trade": 247
     },
     {
       "cardId": "33206",
@@ -224478,10 +224478,10 @@
       "animeId": 408,
       "animeName": "Стальной алхимик",
       "animeLink": "/aniserials/video/action/408-stalnoy-alhimik.html",
-      "lastUpdated": "2025-12-26, 16:17:55",
-      "owners-count": 1871,
+      "lastUpdated": "2025-12-27, 18:53:27",
+      "owners-count": 1868,
       "owners-need": 34,
-      "owners-trade": 194
+      "owners-trade": 195
     },
     {
       "cardId": "33201",
@@ -224492,7 +224492,7 @@
       "animeId": 2781,
       "animeName": "Дорогой звёзд 6 сезон",
       "animeLink": "/aniserials/video/action/2781-dorogoj-zvezd-6-sezon.html",
-      "lastUpdated": "2025-12-26, 16:17:56",
+      "lastUpdated": "2025-12-27, 18:53:28",
       "owners-count": 549,
       "owners-need": 57,
       "owners-trade": 58
@@ -224506,10 +224506,10 @@
       "animeId": 2818,
       "animeName": "Рубаки Трай",
       "animeLink": "/aniserials/video/action/2818-rubaki-traj.html",
-      "lastUpdated": "2025-12-26, 16:17:58",
-      "owners-count": 1862,
+      "lastUpdated": "2025-12-27, 18:53:29",
+      "owners-count": 1868,
       "owners-need": 6,
-      "owners-trade": 198
+      "owners-trade": 199
     },
     {
       "cardId": "33198",
