@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-01-01, 00:29:49",
+    "generatedTimestamp": "2026-01-01, 00:30:07",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.6.4",
     "format": "json_v2",
@@ -34,10 +34,10 @@
       "animeId": 965,
       "animeName": "Боевой мастер",
       "animeLink": "/aniserials/video/action/965-boevoj-master-animestars.html",
-      "lastUpdated": "2026-01-01, 00:29:45",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-01, 00:29:56",
+      "owners-count": 0,
+      "owners-need": 6,
+      "owners-trade": 0
     },
     {
       "cardId": "72098",
@@ -48,10 +48,10 @@
       "animeId": 871,
       "animeName": "Пожалуйста, близнецы!",
       "animeLink": "/aniserials/video/garems/871-pozhalujsta-bliznecy.html",
-      "lastUpdated": "2026-01-01, 00:29:45",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-01, 00:29:58",
+      "owners-count": 1,
+      "owners-need": 7,
+      "owners-trade": 0
     },
     {
       "cardId": "72094",
@@ -62,10 +62,10 @@
       "animeId": 3110,
       "animeName": "Постапокалиптическое путешествие",
       "animeLink": "/aniserials/video/seinen/3110-postapokalipticheskoe-puteshestvie.html",
-      "lastUpdated": "2026-01-01, 00:29:45",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-01, 00:29:59",
+      "owners-count": 0,
+      "owners-need": 11,
+      "owners-trade": 0
     },
     {
       "cardId": "72093",
@@ -76,10 +76,10 @@
       "animeId": 3110,
       "animeName": "Постапокалиптическое путешествие",
       "animeLink": "/aniserials/video/seinen/3110-postapokalipticheskoe-puteshestvie.html",
-      "lastUpdated": "2026-01-01, 00:29:45",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-01, 00:30:00",
+      "owners-count": 1,
+      "owners-need": 10,
+      "owners-trade": 0
     },
     {
       "cardId": "72092",
@@ -90,10 +90,10 @@
       "animeId": 3110,
       "animeName": "Постапокалиптическое путешествие",
       "animeLink": "/aniserials/video/seinen/3110-postapokalipticheskoe-puteshestvie.html",
-      "lastUpdated": "2026-01-01, 00:29:45",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-01, 00:30:01",
+      "owners-count": 1,
+      "owners-need": 9,
+      "owners-trade": 0
     },
     {
       "cardId": "72087",
@@ -104,10 +104,10 @@
       "animeId": 1418,
       "animeName": "Бейблэйд: Взрыв",
       "animeLink": "/aniserials/video/action/1418-bejbljejd-vzryv.html",
-      "lastUpdated": "2026-01-01, 00:29:45",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-01, 00:30:02",
+      "owners-count": 2,
+      "owners-need": 26,
+      "owners-trade": 0
     },
     {
       "cardId": "72086",
@@ -118,10 +118,10 @@
       "animeId": 1509,
       "animeName": "Путешествие к бессмертию",
       "animeLink": "/aniserials/video/martial_arts/1509-puteshestvie-k-bessmertiju-2020.html",
-      "lastUpdated": "2026-01-01, 00:29:45",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-01, 00:30:04",
+      "owners-count": 0,
+      "owners-need": 4,
+      "owners-trade": 0
     },
     {
       "cardId": "72081",
@@ -132,10 +132,10 @@
       "animeId": 3080,
       "animeName": "Шальной последний босс явился!",
       "animeLink": "/aniserials/video/action/3080-shalnoj-poslednij-boss-javilsja.html",
-      "lastUpdated": "2026-01-01, 00:29:45",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-01, 00:30:05",
+      "owners-count": 1,
+      "owners-need": 24,
+      "owners-trade": 0
     },
     {
       "cardId": "72080",
@@ -146,10 +146,10 @@
       "animeId": 3169,
       "animeName": "Человек-бензопила: Резе",
       "animeLink": "/aniserials/video/shounen/3169-chelovek-benzopila-reze.html",
-      "lastUpdated": "2026-01-01, 00:29:45",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-01, 00:30:06",
+      "owners-count": 0,
+      "owners-need": 57,
+      "owners-trade": 0
     },
     {
       "cardId": "72079",
