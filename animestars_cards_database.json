@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-01-12, 17:03:06",
+    "generatedTimestamp": "2026-01-12, 17:03:20",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.6.4",
     "format": "json_v2",
@@ -20,10 +20,10 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "lastUpdated": "2026-01-12, 17:03:03",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-12, 17:03:16",
+      "owners-count": 0,
+      "owners-need": 3,
+      "owners-trade": 0
     },
     {
       "cardId": "73181",
@@ -34,10 +34,10 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "lastUpdated": "2026-01-12, 17:03:03",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-12, 17:03:18",
+      "owners-count": 0,
+      "owners-need": 4,
+      "owners-trade": 0
     },
     {
       "cardId": "73180",
@@ -48,10 +48,10 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "lastUpdated": "2026-01-12, 17:03:03",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-12, 17:03:19",
+      "owners-count": 0,
+      "owners-need": 5,
+      "owners-trade": 0
     },
     {
       "cardId": "73168",
