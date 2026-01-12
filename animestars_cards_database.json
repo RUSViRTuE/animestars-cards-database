@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-01-12, 22:19:40",
+    "generatedTimestamp": "2026-01-12, 22:20:29",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.6.4",
     "format": "json_v2",
@@ -20,10 +20,10 @@
       "animeId": 1109,
       "animeName": "Приоритет чудо-яйца",
       "animeLink": "/aniserials/video/drama/1109-prioritet-chudo-jajca.html",
-      "lastUpdated": "2026-01-12, 22:19:34",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-12, 22:19:50",
+      "owners-count": 1,
+      "owners-need": 12,
+      "owners-trade": 0
     },
     {
       "cardId": "73223",
@@ -215852,10 +215852,10 @@
       "animeId": 2278,
       "animeName": "Подземелье вкусностей",
       "animeLink": "/aniserials/video/comedy/2278-podzemele-vkusnostej.html",
-      "lastUpdated": "2026-01-11, 23:07:02",
-      "owners-count": 1690,
+      "lastUpdated": "2026-01-12, 22:19:53",
+      "owners-count": 1693,
       "owners-need": 32,
-      "owners-trade": 195
+      "owners-trade": 193
     },
     {
       "cardId": "35797",
@@ -215866,10 +215866,10 @@
       "animeId": 2360,
       "animeName": "Перерождение в аристократа со способностью анализа",
       "animeLink": "/aniserials/video/adventure/2360-pererozhdenie-v-aristokrata-so-sposobnostju-analiza-2024-v5.html",
-      "lastUpdated": "2026-01-11, 23:07:03",
-      "owners-count": 1705,
+      "lastUpdated": "2026-01-12, 22:19:56",
+      "owners-count": 1711,
       "owners-need": 11,
-      "owners-trade": 204
+      "owners-trade": 203
     },
     {
       "cardId": "35796",
@@ -215880,10 +215880,10 @@
       "animeId": 2278,
       "animeName": "Подземелье вкусностей",
       "animeLink": "/aniserials/video/comedy/2278-podzemele-vkusnostej.html",
-      "lastUpdated": "2026-01-11, 23:07:05",
-      "owners-count": 2007,
-      "owners-need": 29,
-      "owners-trade": 246
+      "lastUpdated": "2026-01-12, 22:19:59",
+      "owners-count": 2015,
+      "owners-need": 28,
+      "owners-trade": 244
     },
     {
       "cardId": "35795",
@@ -215894,10 +215894,10 @@
       "animeId": 2278,
       "animeName": "Подземелье вкусностей",
       "animeLink": "/aniserials/video/comedy/2278-podzemele-vkusnostej.html",
-      "lastUpdated": "2026-01-11, 23:07:06",
-      "owners-count": 1854,
-      "owners-need": 30,
-      "owners-trade": 221
+      "lastUpdated": "2026-01-12, 22:20:02",
+      "owners-count": 1841,
+      "owners-need": 29,
+      "owners-trade": 219
     },
     {
       "cardId": "35791",
@@ -215908,10 +215908,10 @@
       "animeId": 335,
       "animeName": "Смертельный парад",
       "animeLink": "/aniserials/video/detective/335-parad-smerti.html",
-      "lastUpdated": "2026-01-11, 23:07:07",
-      "owners-count": 2037,
+      "lastUpdated": "2026-01-12, 22:20:05",
+      "owners-count": 2040,
       "owners-need": 8,
-      "owners-trade": 180
+      "owners-trade": 178
     },
     {
       "cardId": "35790",
@@ -215922,10 +215922,10 @@
       "animeId": 1521,
       "animeName": "Киберпанк: Бегущие по краю",
       "animeLink": "/aniserials/video/cyberpunk/1521-kiberpank-beguschie-po-kraju.html",
-      "lastUpdated": "2026-01-11, 23:07:09",
-      "owners-count": 2151,
+      "lastUpdated": "2026-01-12, 22:20:08",
+      "owners-count": 2157,
       "owners-need": 55,
-      "owners-trade": 149
+      "owners-trade": 148
     },
     {
       "cardId": "35789",
@@ -215936,10 +215936,10 @@
       "animeId": 736,
       "animeName": "Великий писатель и алхимик: Судебный механизм",
       "animeLink": "/aniserials/video/action/736-velikiy-pisatel-i-alhimik-sudebnyy-mehanizm.html",
-      "lastUpdated": "2026-01-11, 23:07:10",
-      "owners-count": 1227,
+      "lastUpdated": "2026-01-12, 22:20:11",
+      "owners-count": 1223,
       "owners-need": 23,
-      "owners-trade": 164
+      "owners-trade": 162
     },
     {
       "cardId": "35788",
@@ -215950,10 +215950,10 @@
       "animeId": 2878,
       "animeName": "Пока ведьма не умрёт",
       "animeLink": "/aniserials/video/adventure/2878-poka-vedma-ne-umret.html",
-      "lastUpdated": "2026-01-11, 23:07:12",
-      "owners-count": 2106,
+      "lastUpdated": "2026-01-12, 22:20:14",
+      "owners-count": 2111,
       "owners-need": 7,
-      "owners-trade": 245
+      "owners-trade": 243
     },
     {
       "cardId": "35787",
@@ -215964,10 +215964,10 @@
       "animeId": 2878,
       "animeName": "Пока ведьма не умрёт",
       "animeLink": "/aniserials/video/adventure/2878-poka-vedma-ne-umret.html",
-      "lastUpdated": "2026-01-11, 23:07:13",
-      "owners-count": 2125,
+      "lastUpdated": "2026-01-12, 22:20:17",
+      "owners-count": 2128,
       "owners-need": 2,
-      "owners-trade": 289
+      "owners-trade": 287
     },
     {
       "cardId": "35786",
@@ -215978,9 +215978,9 @@
       "animeId": 736,
       "animeName": "Великий писатель и алхимик: Судебный механизм",
       "animeLink": "/aniserials/video/action/736-velikiy-pisatel-i-alhimik-sudebnyy-mehanizm.html",
-      "lastUpdated": "2026-01-11, 23:07:14",
-      "owners-count": 528,
-      "owners-need": 40,
+      "lastUpdated": "2026-01-12, 22:20:20",
+      "owners-count": 529,
+      "owners-need": 39,
       "owners-trade": 73
     },
     {
@@ -215992,10 +215992,10 @@
       "animeId": 736,
       "animeName": "Великий писатель и алхимик: Судебный механизм",
       "animeLink": "/aniserials/video/action/736-velikiy-pisatel-i-alhimik-sudebnyy-mehanizm.html",
-      "lastUpdated": "2026-01-11, 23:07:16",
-      "owners-count": 498,
-      "owners-need": 41,
-      "owners-trade": 68
+      "lastUpdated": "2026-01-12, 22:20:23",
+      "owners-count": 500,
+      "owners-need": 40,
+      "owners-trade": 69
     },
     {
       "cardId": "35782",
@@ -216006,7 +216006,7 @@
       "animeId": 1059,
       "animeName": "Низкоуровневый персонаж Томодзаки",
       "animeLink": "/aniserials/video/garems/1059-nizkourovnevyj-personazh-tomodzaki-2021.html",
-      "lastUpdated": "2026-01-11, 23:07:17",
+      "lastUpdated": "2026-01-12, 22:20:26",
       "owners-count": 23,
       "owners-need": 14,
       "owners-trade": 0
