@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-01-13, 03:06:53",
+    "generatedTimestamp": "2026-01-13, 03:07:04",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.6.4",
     "format": "json_v2",
@@ -155426,10 +155426,10 @@
       "animeId": 13,
       "animeName": "Вельзевул",
       "animeLink": "/aniserials/video/comedy/13-velzevul-beelzebub.html",
-      "lastUpdated": "2026-01-12, 04:40:50",
-      "owners-count": 1111,
+      "lastUpdated": "2026-01-13, 03:07:01",
+      "owners-count": 1115,
       "owners-need": 10,
-      "owners-trade": 148
+      "owners-trade": 147
     },
     {
       "cardId": "46071",
@@ -155440,10 +155440,10 @@
       "animeId": 2715,
       "animeName": "Путь к небу",
       "animeLink": "/aniserials/video/action/2715-put-k-nebu.html",
-      "lastUpdated": "2026-01-12, 04:40:52",
-      "owners-count": 1076,
+      "lastUpdated": "2026-01-13, 03:07:02",
+      "owners-count": 1080,
       "owners-need": 15,
-      "owners-trade": 148
+      "owners-trade": 150
     },
     {
       "cardId": "46070",
@@ -155454,10 +155454,10 @@
       "animeId": 598,
       "animeName": "Когда плачут чайки",
       "animeLink": "/aniserials/video/detective/598-kogda-plachut-chayki.html",
-      "lastUpdated": "2026-01-12, 04:40:53",
-      "owners-count": 1606,
+      "lastUpdated": "2026-01-13, 03:07:03",
+      "owners-count": 1613,
       "owners-need": 8,
-      "owners-trade": 212
+      "owners-trade": 213
     },
     {
       "cardId": "46067",
