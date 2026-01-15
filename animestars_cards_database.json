@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-01-15, 10:54:28",
+    "generatedTimestamp": "2026-01-15, 10:54:37",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.6.4",
     "format": "json_v2",
@@ -20,10 +20,10 @@
       "animeId": 143,
       "animeName": "Сказка о Хвосте Феи",
       "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
-      "lastUpdated": "2026-01-15, 10:54:24",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-15, 10:54:36",
+      "owners-count": 0,
+      "owners-need": 6,
+      "owners-trade": 0
     },
     {
       "cardId": "73366",
