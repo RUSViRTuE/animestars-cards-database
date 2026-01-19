@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-01-19, 19:34:32",
+    "generatedTimestamp": "2026-01-19, 19:34:51",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.6.4",
     "format": "json_v2",
@@ -20,10 +20,10 @@
       "animeId": 1790,
       "animeName": "Вторжение гигантов 4 сезон 3 часть",
       "animeLink": "/aniserials/video/drama/1790-vtorzhenie-gigantov-4-sezon-3-chast-animestars-2023.html",
-      "lastUpdated": "2026-01-19, 19:34:28",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-19, 19:34:40",
+      "owners-count": 0,
+      "owners-need": 7,
+      "owners-trade": 0
     },
     {
       "cardId": "73725",
@@ -34,10 +34,10 @@
       "animeId": 1790,
       "animeName": "Вторжение гигантов 4 сезон 3 часть",
       "animeLink": "/aniserials/video/drama/1790-vtorzhenie-gigantov-4-sezon-3-chast-animestars-2023.html",
-      "lastUpdated": "2026-01-19, 19:34:28",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-19, 19:34:41",
+      "owners-count": 0,
+      "owners-need": 10,
+      "owners-trade": 0
     },
     {
       "cardId": "73718",
@@ -48,10 +48,10 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "lastUpdated": "2026-01-19, 19:34:28",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-19, 19:34:42",
+      "owners-count": 0,
+      "owners-need": 7,
+      "owners-trade": 0
     },
     {
       "cardId": "73717",
@@ -62,10 +62,10 @@
       "animeId": 2437,
       "animeName": "Лазурный путь: Малый вперёд!",
       "animeLink": "/aniserials/video/comedy/2437-lazurnyj-put-malyj-vpered.html",
-      "lastUpdated": "2026-01-19, 19:34:28",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-19, 19:34:43",
+      "owners-count": 0,
+      "owners-need": 5,
+      "owners-trade": 0
     },
     {
       "cardId": "73714",
@@ -76,10 +76,10 @@
       "animeId": 2077,
       "animeName": "Расколотая битвой синева небес 5 сезон",
       "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v17.html",
-      "lastUpdated": "2026-01-19, 19:34:28",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "lastUpdated": "2026-01-19, 19:34:45",
+      "owners-count": 0,
+      "owners-need": 27,
+      "owners-trade": 0
     },
     {
       "cardId": "73707",
@@ -129118,9 +129118,9 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "lastUpdated": "2026-01-18, 20:21:36",
-      "owners-count": 267,
-      "owners-need": 56,
+      "lastUpdated": "2026-01-19, 19:34:46",
+      "owners-count": 266,
+      "owners-need": 57,
       "owners-trade": 40
     },
     {
@@ -129132,10 +129132,10 @@
       "animeId": 1990,
       "animeName": "Меланхолия Харухи Судзумии 2 сезон",
       "animeLink": "/aniserials/video/comedy/1990-melanholija-haruhi-sudzumii-2-sezon.html",
-      "lastUpdated": "2026-01-18, 20:21:37",
-      "owners-count": 1359,
+      "lastUpdated": "2026-01-19, 19:34:47",
+      "owners-count": 1360,
       "owners-need": 6,
-      "owners-trade": 162
+      "owners-trade": 157
     },
     {
       "cardId": "50367",
@@ -129146,10 +129146,10 @@
       "animeId": 2715,
       "animeName": "Путь к небу",
       "animeLink": "/aniserials/video/action/2715-put-k-nebu.html",
-      "lastUpdated": "2026-01-18, 20:21:38",
-      "owners-count": 1600,
+      "lastUpdated": "2026-01-19, 19:34:48",
+      "owners-count": 1605,
       "owners-need": 11,
-      "owners-trade": 244
+      "owners-trade": 246
     },
     {
       "cardId": "50366",
@@ -129160,10 +129160,10 @@
       "animeId": 2715,
       "animeName": "Путь к небу",
       "animeLink": "/aniserials/video/action/2715-put-k-nebu.html",
-      "lastUpdated": "2026-01-18, 20:21:40",
-      "owners-count": 1461,
+      "lastUpdated": "2026-01-19, 19:34:50",
+      "owners-count": 1466,
       "owners-need": 17,
-      "owners-trade": 212
+      "owners-trade": 215
     },
     {
       "cardId": "50364",
