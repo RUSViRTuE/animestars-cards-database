@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-01-24, 03:36:18",
+    "generatedTimestamp": "2026-01-24, 03:36:31",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.6.4",
     "format": "json_v2",
@@ -44850,10 +44850,10 @@
       "animeId": 2116,
       "animeName": "Детектив Конан",
       "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
-      "lastUpdated": "2026-01-23, 00:26:34",
-      "owners-count": 643,
+      "lastUpdated": "2026-01-24, 03:36:25",
+      "owners-count": 650,
       "owners-need": 17,
-      "owners-trade": 101
+      "owners-trade": 104
     },
     {
       "cardId": "64820",
@@ -44864,8 +44864,8 @@
       "animeId": 2116,
       "animeName": "Детектив Конан",
       "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
-      "lastUpdated": "2026-01-23, 00:26:37",
-      "owners-count": 580,
+      "lastUpdated": "2026-01-24, 03:36:26",
+      "owners-count": 586,
       "owners-need": 15,
       "owners-trade": 74
     },
@@ -44878,10 +44878,10 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "lastUpdated": "2026-01-23, 00:26:40",
-      "owners-count": 382,
+      "lastUpdated": "2026-01-24, 03:36:28",
+      "owners-count": 388,
       "owners-need": 37,
-      "owners-trade": 67
+      "owners-trade": 68
     },
     {
       "cardId": "64817",
@@ -44892,10 +44892,10 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "lastUpdated": "2026-01-23, 00:26:43",
-      "owners-count": 421,
+      "lastUpdated": "2026-01-24, 03:36:29",
+      "owners-count": 432,
       "owners-need": 37,
-      "owners-trade": 72
+      "owners-trade": 76
     },
     {
       "cardId": "64816",
@@ -44906,9 +44906,9 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "lastUpdated": "2026-01-23, 00:26:46",
-      "owners-count": 733,
-      "owners-need": 36,
+      "lastUpdated": "2026-01-24, 03:36:30",
+      "owners-count": 732,
+      "owners-need": 35,
       "owners-trade": 118
     },
     {
