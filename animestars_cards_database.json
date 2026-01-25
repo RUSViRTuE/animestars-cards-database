@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-01-25, 12:54:07",
+    "generatedTimestamp": "2026-01-25, 12:57:13",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -12648,10 +12648,10 @@
       "animeId": 1239,
       "animeName": "Сказка о девушке эпохи Тайсё",
       "animeLink": "/aniserials/video/historical/1239-skazka-o-devushke-jepohi-tajse.html",
-      "lastUpdated": "2026-01-25, 09:21:51",
-      "owners-count": 241,
-      "owners-need": 45,
-      "owners-trade": 26
+      "lastUpdated": "2026-01-25, 12:54:06",
+      "owners-count": 243,
+      "owners-need": 46,
+      "owners-trade": 30
     },
     {
       "cardId": "71420",
@@ -12662,9 +12662,9 @@
       "animeId": 3148,
       "animeName": "Пересечение стен любви с тобой",
       "animeLink": "/aniserials/video/fant/3148-peresechenie-sten-ljubvi-s-toboj.html",
-      "lastUpdated": "2026-01-25, 09:21:51",
-      "owners-count": 342,
-      "owners-need": 13,
+      "lastUpdated": "2026-01-25, 12:54:05",
+      "owners-count": 346,
+      "owners-need": 14,
       "owners-trade": 58
     },
     {
@@ -12676,10 +12676,10 @@
       "animeId": 409,
       "animeName": "Клинок, рассекающий демонов",
       "animeLink": "/aniserials/video/action/409-klinok-rassekayuschiy-demonov-animestars.html",
-      "lastUpdated": "2026-01-25, 09:21:51",
-      "owners-count": 438,
+      "lastUpdated": "2026-01-25, 12:54:03",
+      "owners-count": 439,
       "owners-need": 106,
-      "owners-trade": 43
+      "owners-trade": 45
     },
     {
       "cardId": "71411",
@@ -12690,7 +12690,7 @@
       "animeId": 2697,
       "animeName": "Шестая Зона",
       "animeLink": "/aniserials/video/thriller/2697-shestaja-zona-2011.html",
-      "lastUpdated": "2026-01-25, 09:21:51",
+      "lastUpdated": "2026-01-25, 12:54:02",
       "owners-count": 4,
       "owners-need": 29,
       "owners-trade": 0
