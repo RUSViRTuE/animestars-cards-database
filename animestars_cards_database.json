@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-01-25, 12:57:13",
+    "generatedTimestamp": "2026-01-25, 12:59:33",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -12606,9 +12606,9 @@
       "animeId": 3138,
       "animeName": "Тёмное прошлое перевоплощённой злодейки",
       "animeLink": "/aniserials/video/shoujo/3138-temnoe-proshloe-perevoploschennoj-zlodejki.html",
-      "lastUpdated": "2026-01-25, 09:21:51",
-      "owners-count": 61,
-      "owners-need": 83,
+      "lastUpdated": "2026-01-25, 12:57:13",
+      "owners-count": 63,
+      "owners-need": 84,
       "owners-trade": 2
     },
     {
@@ -12620,8 +12620,8 @@
       "animeId": 2928,
       "animeName": "Вспышка",
       "animeLink": "/aniserials/video/action/2928-vspyshka.html",
-      "lastUpdated": "2026-01-25, 09:21:51",
-      "owners-count": 476,
+      "lastUpdated": "2026-01-25, 12:57:11",
+      "owners-count": 486,
       "owners-need": 50,
       "owners-trade": 63
     },
@@ -12634,10 +12634,10 @@
       "animeId": 1239,
       "animeName": "Сказка о девушке эпохи Тайсё",
       "animeLink": "/aniserials/video/historical/1239-skazka-o-devushke-jepohi-tajse.html",
-      "lastUpdated": "2026-01-25, 09:21:51",
-      "owners-count": 425,
-      "owners-need": 48,
-      "owners-trade": 46
+      "lastUpdated": "2026-01-25, 12:57:10",
+      "owners-count": 435,
+      "owners-need": 46,
+      "owners-trade": 49
     },
     {
       "cardId": "71426",
