@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-01-25, 12:46:37",
+    "generatedTimestamp": "2026-01-25, 12:49:57",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0b",
     "format": "json_v2",
@@ -21,9 +21,9 @@
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
       "owners-count": 0,
-      "owners-need": 20,
+      "owners-need": 22,
       "owners-trade": 0,
-      "lastUpdated": "2026-01-25, 11:54:25"
+      "lastUpdated": "2026-01-25, 12:46:47"
     },
     {
       "cardId": "73999",
@@ -35,9 +35,9 @@
       "animeName": "Сказка о Хвосте Феи",
       "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
       "owners-count": 1,
-      "owners-need": 41,
+      "owners-need": 46,
       "owners-trade": 0,
-      "lastUpdated": "2026-01-25, 11:54:26"
+      "lastUpdated": "2026-01-25, 12:46:48"
     },
     {
       "cardId": "73997",
@@ -49,9 +49,9 @@
       "animeName": "Сказка о Хвосте Феи",
       "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
       "owners-count": 1,
-      "owners-need": 41,
+      "owners-need": 46,
       "owners-trade": 0,
-      "lastUpdated": "2026-01-25, 11:54:27"
+      "lastUpdated": "2026-01-25, 12:46:49"
     },
     {
       "cardId": "73996",
@@ -63,9 +63,9 @@
       "animeName": "Сказка о Хвосте Феи",
       "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
       "owners-count": 7,
-      "owners-need": 42,
+      "owners-need": 47,
       "owners-trade": 0,
-      "lastUpdated": "2026-01-25, 11:54:29"
+      "lastUpdated": "2026-01-25, 12:46:51"
     },
     {
       "cardId": "73993",
@@ -77,9 +77,9 @@
       "animeName": "Благословение небожителей 2 сезон",
       "animeLink": "/aniserials/video/drama/2214-blagoslovenie-nebozhitelej-2-sezon.html",
       "owners-count": 7,
-      "owners-need": 105,
+      "owners-need": 106,
       "owners-trade": 0,
-      "lastUpdated": "2026-01-25, 11:54:30"
+      "lastUpdated": "2026-01-25, 12:46:52"
     },
     {
       "cardId": "73992",
