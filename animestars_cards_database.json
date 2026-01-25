@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-01-25, 12:59:33",
+    "generatedTimestamp": "2026-01-25, 12:59:52",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -12550,9 +12550,9 @@
       "animeId": 3142,
       "animeName": "Гатиакута",
       "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
-      "lastUpdated": "2026-01-25, 09:21:51",
+      "lastUpdated": "2026-01-25, 12:59:32",
       "owners-count": 8,
-      "owners-need": 214,
+      "owners-need": 216,
       "owners-trade": 0
     },
     {
@@ -12564,10 +12564,10 @@
       "animeId": 32,
       "animeName": "Клеймор",
       "animeLink": "/aniserials/video/drama/32-kleymor-claymore-animestars-2007.html",
-      "lastUpdated": "2026-01-25, 09:21:51",
-      "owners-count": 541,
+      "lastUpdated": "2026-01-25, 12:59:31",
+      "owners-count": 550,
       "owners-need": 49,
-      "owners-trade": 77
+      "owners-trade": 81
     },
     {
       "cardId": "71442",
@@ -12578,10 +12578,10 @@
       "animeId": 824,
       "animeName": "Тёмный дворецкий 2 сезон",
       "animeLink": "/aniserials/video/historical/824-temnyj-dvoreckij-2-sezon.html",
-      "lastUpdated": "2026-01-25, 09:21:51",
-      "owners-count": 472,
-      "owners-need": 76,
-      "owners-trade": 60
+      "lastUpdated": "2026-01-25, 12:59:29",
+      "owners-count": 477,
+      "owners-need": 77,
+      "owners-trade": 62
     },
     {
       "cardId": "71441",
@@ -12592,10 +12592,10 @@
       "animeId": 10,
       "animeName": "Школа Мертвецов",
       "animeLink": "/aniserials/video/garems/10-shkola-mertvecov-2010.html",
-      "lastUpdated": "2026-01-25, 09:21:51",
-      "owners-count": 411,
-      "owners-need": 68,
-      "owners-trade": 39
+      "lastUpdated": "2026-01-25, 12:59:28",
+      "owners-count": 418,
+      "owners-need": 65,
+      "owners-trade": 41
     },
     {
       "cardId": "71439",
