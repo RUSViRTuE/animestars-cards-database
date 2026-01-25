@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-01-25, 12:49:57",
+    "generatedTimestamp": "2026-01-25, 12:54:07",
     "timezone": "Europe/Moscow (UTC+3)",
-    "scraperVersion": "1.7.0b",
+    "scraperVersion": "1.7.0c",
     "format": "json_v2",
     "source": [
       "animestars.org",
@@ -12704,10 +12704,10 @@
       "animeId": 143,
       "animeName": "Сказка о Хвосте Феи",
       "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
-      "lastUpdated": "2026-01-25, 09:21:51",
-      "owners-count": 560,
-      "owners-need": 116,
-      "owners-trade": 78
+      "lastUpdated": "2026-01-25, 12:49:56",
+      "owners-count": 566,
+      "owners-need": 120,
+      "owners-trade": 85
     },
     {
       "cardId": "71406",
@@ -12718,9 +12718,9 @@
       "animeId": 1239,
       "animeName": "Сказка о девушке эпохи Тайсё",
       "animeLink": "/aniserials/video/historical/1239-skazka-o-devushke-jepohi-tajse.html",
-      "lastUpdated": "2026-01-25, 09:21:51",
-      "owners-count": 64,
-      "owners-need": 85,
+      "lastUpdated": "2026-01-25, 12:49:55",
+      "owners-count": 66,
+      "owners-need": 87,
       "owners-trade": 2
     },
     {
@@ -12732,10 +12732,10 @@
       "animeId": 2964,
       "animeName": "Маг воды",
       "animeLink": "/aniserials/video/adventure/2964-mag-vody.html",
-      "lastUpdated": "2026-01-25, 09:21:51",
-      "owners-count": 377,
-      "owners-need": 70,
-      "owners-trade": 39
+      "lastUpdated": "2026-01-25, 12:49:54",
+      "owners-count": 380,
+      "owners-need": 71,
+      "owners-trade": 40
     },
     {
       "cardId": "71404",
@@ -12746,9 +12746,9 @@
       "animeId": 2964,
       "animeName": "Маг воды",
       "animeLink": "/aniserials/video/adventure/2964-mag-vody.html",
-      "lastUpdated": "2026-01-25, 09:21:51",
-      "owners-count": 424,
-      "owners-need": 67,
+      "lastUpdated": "2026-01-25, 12:49:52",
+      "owners-count": 435,
+      "owners-need": 68,
       "owners-trade": 43
     },
     {
