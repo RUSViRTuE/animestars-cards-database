@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-01-27, 11:37:45",
+    "generatedTimestamp": "2026-01-27, 16:13:44",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,87 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35116
+    "totalCards": 35122
   },
   "cards": [
+    {
+      "cardId": "74165",
+      "cardName": "Лукас и Атанасия",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/3082/c/lukas-i-atanasija-1769515449-180521.webp",
+      "cardAuthor": "Lesbushka",
+      "animeId": 3082,
+      "animeName": "Однажды я стала принцессой",
+      "animeLink": "/aniserials/video/drama/3082-odnazhdy-ja-stala-princessoj.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74156",
+      "cardName": "Арлок",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/357/d/arlok-1769510750-842656.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 357,
+      "animeName": "Сказка о Хвосте феи 3 сезон",
+      "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74146",
+      "cardName": "Сюсю Суруга",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3206/a/sjusju-suruga-1769516192-902254.webp",
+      "cardAuthor": "WKlubnichkaW",
+      "animeId": 3206,
+      "animeName": "Раб спецотряда демонического города 2",
+      "animeLink": "/aniserials/video/shounen/3206-rab-specotrjada-demonicheskogo-goroda-2.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74141",
+      "cardName": "Зайгард (100%)",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/2919/a/zajgard-100-1769516010-388575.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2919,
+      "animeName": "Покемон",
+      "animeLink": "/aniserials/video/action/2919-pokemon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74140",
+      "cardName": "Зайгард (10%)",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/2919/d/zajgard-10-1769470909-583326.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2919,
+      "animeName": "Покемон",
+      "animeLink": "/aniserials/video/action/2919-pokemon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74137",
+      "cardName": "Мэри",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/357/d/mjeri-1769470037-856866.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 357,
+      "animeName": "Сказка о Хвосте феи 3 сезон",
+      "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "74133",
       "cardName": "Теперь я царь!",
