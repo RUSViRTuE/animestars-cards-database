@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-01-28, 12:05:30",
+    "generatedTimestamp": "2026-01-28, 20:37:49",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,126 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35134
+    "totalCards": 35143
   },
   "cards": [
+    {
+      "cardId": "74242",
+      "cardName": "Нэдзуко Камадо",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/3177/s/njedzuko-kamado-1769610393-221666.webp",
+      "cardAuthor": "TANGERINE",
+      "animeId": 3177,
+      "animeName": "Клинок, рассекающий демонов: Бесконечный замок — Возвращение Акадзы",
+      "animeLink": "/aniserials/video/shounen/3177-klinok-rassekajuschij-demonov-beskonechnyj-zamok-vozvraschenie-akadzy.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74219",
+      "cardName": "Ной Арарат",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3191/a/noj-ararat-1769603056-43866.webp",
+      "cardAuthor": "Bot_228",
+      "animeId": 3191,
+      "animeName": "Реинкарнация аристократа: Благословенный с рождения величайшей силой",
+      "animeLink": "/aniserials/video/action/3191-reinkarnacija-aristokrata-blagoslovennyj-s-rozhdenija-velichajshej-siloj.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74216",
+      "cardName": "Ханамичи Сакураги",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3042/a/hanamichi-sakuragi-1769602975-254573.webp",
+      "cardAuthor": "我是半见町",
+      "animeId": 3042,
+      "animeName": "Первый слэм-данк",
+      "animeLink": "/aniserials/video/shounen/3042-pervyj-sljem-dank.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74215",
+      "cardName": "Мицуёши Анзай",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/3042/d/micueshi-anzaj-1769563933-383313.webp",
+      "cardAuthor": "我是半见町",
+      "animeId": 3042,
+      "animeName": "Первый слэм-данк",
+      "animeLink": "/aniserials/video/shounen/3042-pervyj-sljem-dank.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74212",
+      "cardName": "Кинана",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/357/d/kinana-1769561702-144396.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 357,
+      "animeName": "Сказка о Хвосте феи 3 сезон",
+      "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74211",
+      "cardName": "Лион Бастиа",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/357/b/lion-bastia-1769561685-873887.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 357,
+      "animeName": "Сказка о Хвосте феи 3 сезон",
+      "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74210",
+      "cardName": "Вивийон",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/2919/a/vivijon-1769561614-2923.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2919,
+      "animeName": "Покемон",
+      "animeLink": "/aniserials/video/action/2919-pokemon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74209",
+      "cardName": "Гогоат",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/2919/a/gogoat-1769602404-748411.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2919,
+      "animeName": "Покемон",
+      "animeLink": "/aniserials/video/action/2919-pokemon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74208",
+      "cardName": "Диггерсби",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/2919/a/diggersbi-1769561573-273077.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2919,
+      "animeName": "Покемон",
+      "animeLink": "/aniserials/video/action/2919-pokemon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "74201",
       "cardName": "Такэнори Акаги",
