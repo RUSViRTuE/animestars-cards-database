@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-01-29, 15:08:56",
+    "generatedTimestamp": "2026-01-29, 17:09:00",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,22 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35164
+    "totalCards": 35165
   },
   "cards": [
+    {
+      "cardId": "74289",
+      "cardName": "Фусатаро Осава",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/1540/b/fusataro-osava-1769679672-299936.webp",
+      "cardAuthor": "Toxexex",
+      "animeId": 1540,
+      "animeName": "Золотое божество 4",
+      "animeLink": "/aniserials/video/action/1540-zolotoe-bozhestvo-4-sezon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "74287",
       "cardName": "Саити Сугимото",
@@ -20,9 +33,10 @@
       "animeId": 1540,
       "animeName": "Золотое божество 4",
       "animeLink": "/aniserials/video/action/1540-zolotoe-bozhestvo-4-sezon.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 7,
+      "owners-trade": 0,
+      "lastUpdated": "2026-01-29, 15:09:14"
     },
     {
       "cardId": "74281",
@@ -33,9 +47,10 @@
       "animeId": 1655,
       "animeName": "Добро пожаловать в Сэтон",
       "animeLink": "/aniserials/video/comedy/1655-dobro-pozhalovat-v-sjeton.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 0,
+      "owners-trade": 0,
+      "lastUpdated": "2026-01-29, 15:09:15"
     },
     {
       "cardId": "74279",
@@ -46,9 +61,10 @@
       "animeId": 1176,
       "animeName": "Белый альбом 2",
       "animeLink": "/aniserials/video/drama/1176-belyj-albom-2.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 9,
+      "owners-trade": 0,
+      "lastUpdated": "2026-01-29, 15:09:16"
     },
     {
       "cardId": "74277",
@@ -59,9 +75,10 @@
       "animeId": 1505,
       "animeName": "Данганронпа 3: Будущее",
       "animeLink": "/aniserials/video/detective/1505-danganronpa-3-buduschee-2016.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 4,
+      "owners-trade": 0,
+      "lastUpdated": "2026-01-29, 15:09:18"
     },
     {
       "cardId": "74276",
@@ -72,9 +89,10 @@
       "animeId": 3088,
       "animeName": "Повар небесной гостиницы 2",
       "animeLink": "/aniserials/video/drama/3088-povar-nebesnoj-gostinicy-2.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 5,
+      "owners-trade": 0,
+      "lastUpdated": "2026-01-29, 15:09:19"
     },
     {
       "cardId": "74269",
@@ -77383,8 +77401,8 @@
       "animeId": 3024,
       "animeName": "Скейт: Бесконечность OVA",
       "animeLink": "/aniserials/video/natural/3024-skejt-beskonechnost-ova.html",
-      "lastUpdated": "2026-01-28, 03:52:48",
-      "owners-count": 1098,
+      "lastUpdated": "2026-01-29, 15:09:29",
+      "owners-count": 1102,
       "owners-need": 27,
       "owners-trade": 185
     },
@@ -77397,10 +77415,10 @@
       "animeId": 3024,
       "animeName": "Скейт: Бесконечность OVA",
       "animeLink": "/aniserials/video/natural/3024-skejt-beskonechnost-ova.html",
-      "lastUpdated": "2026-01-28, 03:52:47",
-      "owners-count": 1130,
+      "lastUpdated": "2026-01-29, 15:09:27",
+      "owners-count": 1139,
       "owners-need": 19,
-      "owners-trade": 180
+      "owners-trade": 183
     },
     {
       "cardId": "59418",
@@ -77411,10 +77429,10 @@
       "animeId": 3024,
       "animeName": "Скейт: Бесконечность OVA",
       "animeLink": "/aniserials/video/natural/3024-skejt-beskonechnost-ova.html",
-      "lastUpdated": "2026-01-28, 03:52:45",
-      "owners-count": 1091,
+      "lastUpdated": "2026-01-29, 15:09:26",
+      "owners-count": 1107,
       "owners-need": 19,
-      "owners-trade": 190
+      "owners-trade": 192
     },
     {
       "cardId": "59417",
@@ -77425,10 +77443,10 @@
       "animeId": 376,
       "animeName": "Люблю я младшую сестру, вот только не сестра она",
       "animeLink": "/aniserials/video/garems/376-lyublyu-ya-mladshuyu-sestru-vot-tolko-ne-sestra-ona.html",
-      "lastUpdated": "2026-01-28, 03:52:44",
-      "owners-count": 889,
-      "owners-need": 5,
-      "owners-trade": 125
+      "lastUpdated": "2026-01-29, 15:09:25",
+      "owners-count": 891,
+      "owners-need": 6,
+      "owners-trade": 126
     },
     {
       "cardId": "59415",
@@ -77439,10 +77457,10 @@
       "animeId": 2974,
       "animeName": "Эта фарфоровая кукла влюбилась 2",
       "animeLink": "/aniserials/video/seinen/2974-jeta-farforovaja-kukla-vljubilas-2.html",
-      "lastUpdated": "2026-01-28, 03:52:43",
-      "owners-count": 1171,
-      "owners-need": 95,
-      "owners-trade": 136
+      "lastUpdated": "2026-01-29, 15:09:24",
+      "owners-count": 1174,
+      "owners-need": 99,
+      "owners-trade": 141
     },
     {
       "cardId": "59409",
@@ -77453,10 +77471,10 @@
       "animeId": 32,
       "animeName": "Клеймор",
       "animeLink": "/aniserials/video/drama/32-kleymor-claymore-animestars-2007.html",
-      "lastUpdated": "2026-01-28, 03:52:41",
-      "owners-count": 1015,
+      "lastUpdated": "2026-01-29, 15:09:23",
+      "owners-count": 1014,
       "owners-need": 21,
-      "owners-trade": 132
+      "owners-trade": 136
     },
     {
       "cardId": "59407",
@@ -77467,10 +77485,10 @@
       "animeId": 2940,
       "animeName": "Богатейший игрок",
       "animeLink": "/aniserials/video/action/2940-bogatejshij-igrok.html",
-      "lastUpdated": "2026-01-28, 03:52:40",
-      "owners-count": 959,
+      "lastUpdated": "2026-01-29, 15:09:21",
+      "owners-count": 963,
       "owners-need": 34,
-      "owners-trade": 130
+      "owners-trade": 133
     },
     {
       "cardId": "59406",
@@ -77481,10 +77499,10 @@
       "animeId": 2940,
       "animeName": "Богатейший игрок",
       "animeLink": "/aniserials/video/action/2940-bogatejshij-igrok.html",
-      "lastUpdated": "2026-01-28, 03:52:39",
-      "owners-count": 1185,
-      "owners-need": 37,
-      "owners-trade": 171
+      "lastUpdated": "2026-01-29, 15:09:20",
+      "owners-count": 1190,
+      "owners-need": 36,
+      "owners-trade": 174
     },
     {
       "cardId": "59405",
