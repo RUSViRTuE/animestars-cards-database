@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-01-30, 22:09:56",
+    "generatedTimestamp": "2026-01-31, 00:10:00",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -181580,10 +181580,10 @@
       "animeId": 2764,
       "animeName": "Монолог фармацевта 2 сезон",
       "animeLink": "/aniserials/video/drama/2764-monolog-farmacevta-2-sezon-2025.html",
-      "lastUpdated": "2026-01-29, 23:31:25",
-      "owners-count": 2820,
+      "lastUpdated": "2026-01-30, 22:10:14",
+      "owners-count": 2834,
       "owners-need": 220,
-      "owners-trade": 285
+      "owners-trade": 289
     },
     {
       "cardId": "42673",
