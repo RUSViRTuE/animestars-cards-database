@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-01-31, 17:43:10",
+    "generatedTimestamp": "2026-01-31, 19:43:14",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,61 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35204
+    "totalCards": 35208
   },
   "cards": [
+    {
+      "cardId": "74400",
+      "cardName": "Укачало",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/357/e/ukachalo-1769806473-181494.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 357,
+      "animeName": "Сказка о Хвосте феи 3 сезон",
+      "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74399",
+      "cardName": "Доранболт",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/357/d/doranbolt-1769806434-561531.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 357,
+      "animeName": "Сказка о Хвосте феи 3 сезон",
+      "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74398",
+      "cardName": "Мастер Ороти",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/357/d/master-oroti-1769806420-366838.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 357,
+      "animeName": "Сказка о Хвосте феи 3 сезон",
+      "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74392",
+      "cardName": "Канадэ Оэ",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/1937/b/kanadje-oje-1769795404-391906.webp",
+      "cardAuthor": "Toxexex",
+      "animeId": 1937,
+      "animeName": "Яркая Тихая",
+      "animeLink": "/aniserials/video/drama/1937-jarkaja-tihaja.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "74375",
       "cardName": "Леохарт Намир",
