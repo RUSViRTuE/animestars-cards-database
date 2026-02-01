@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-01, 21:18:22",
+    "generatedTimestamp": "2026-02-01, 23:18:26",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -36872,10 +36872,10 @@
       "animeId": 2996,
       "animeName": "Соло-кемпинг на двоих",
       "animeLink": "/aniserials/video/natural/2996-solo-kemping-na-dvoih.html",
-      "lastUpdated": "2026-01-31, 17:31:03",
-      "owners-count": 607,
-      "owners-need": 36,
-      "owners-trade": 62
+      "lastUpdated": "2026-02-01, 21:18:40",
+      "owners-count": 616,
+      "owners-need": 35,
+      "owners-trade": 65
     },
     {
       "cardId": "67236",
