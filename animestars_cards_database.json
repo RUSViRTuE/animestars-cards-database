@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-03, 19:31:58",
+    "generatedTimestamp": "2026-02-03, 21:32:03",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,22 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35275
+    "totalCards": 35276
   },
   "cards": [
+    {
+      "cardId": "74665",
+      "cardName": "Камень Чёрной Лобелии",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/1340/e/kamen-chernoj-lobelii-1770137843-657840.webp",
+      "cardAuthor": "ALLANCI_VORS",
+      "animeId": 1340,
+      "animeName": "Эта фарфоровая кукла влюбилась",
+      "animeLink": "/aniserials/video/comedy/1340-jeta-farforovaja-kukla-vljubilas-animestars.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "74658",
       "cardName": "Фрирен и Ферн",
@@ -475330,10 +475343,10 @@
       "animeId": 2488,
       "animeName": "Невероятный новичок средних лет, прошедший тренировки на грани смерти",
       "animeLink": "/aniserials/video/action/2488-neverojatnyj-novichok-srednih-let-proshedshij-trenirovki-na-grani-smerti-2024.html",
-      "lastUpdated": "2026-02-02, 19:00:39",
-      "owners-count": 1605,
+      "lastUpdated": "2026-02-03, 19:32:23",
+      "owners-count": 1600,
       "owners-need": 13,
-      "owners-trade": 177
+      "owners-trade": 172
     },
     {
       "cardId": "2330",
@@ -475344,9 +475357,9 @@
       "animeId": 399,
       "animeName": "Кагуя: В любви как на войне",
       "animeLink": "/aniserials/video/comedy/399-kaguya-v-lyubvi-kak-na-voyne-2019.html",
-      "lastUpdated": "2026-02-02, 19:00:38",
-      "owners-count": 53,
-      "owners-need": 24,
+      "lastUpdated": "2026-02-03, 19:32:22",
+      "owners-count": 54,
+      "owners-need": 25,
       "owners-trade": 3
     },
     {
@@ -475358,10 +475371,10 @@
       "animeId": 850,
       "animeName": "Магическая битва",
       "animeLink": "/aniserials/video/action/850-magicheskaja-bitva-animestars-2020.html",
-      "lastUpdated": "2026-02-02, 19:00:37",
-      "owners-count": 3474,
+      "lastUpdated": "2026-02-03, 19:32:21",
+      "owners-count": 3473,
       "owners-need": 73,
-      "owners-trade": 333
+      "owners-trade": 336
     },
     {
       "cardId": "2296",
@@ -475372,10 +475385,10 @@
       "animeId": 2090,
       "animeName": "Магическая битва 2 сезон",
       "animeLink": "/aniserials/video/action/2090-magicheskaja-bitva-2-sezon-animestars-vm3.html",
-      "lastUpdated": "2026-02-02, 19:00:36",
-      "owners-count": 122,
-      "owners-need": 258,
-      "owners-trade": 18
+      "lastUpdated": "2026-02-03, 19:32:20",
+      "owners-count": 123,
+      "owners-need": 259,
+      "owners-trade": 19
     },
     {
       "cardId": "2291",
@@ -475386,7 +475399,7 @@
       "animeId": 1319,
       "animeName": "Невероятные приключения Джоджо 2 сезон: Рыцари звёздной пыли",
       "animeLink": "/aniserials/video/action/1319-neverojatnye-prikljuchenija-dzhodzho-2-sezon.html",
-      "lastUpdated": "2026-02-02, 19:00:35",
+      "lastUpdated": "2026-02-03, 19:32:20",
       "owners-count": 51,
       "owners-need": 21,
       "owners-trade": 1
@@ -475400,10 +475413,10 @@
       "animeId": 2433,
       "animeName": "Клинок, рассекающий демонов 4 сезон: Тренировка столпов",
       "animeLink": "/aniserials/video/action/2433-klinok-rassekajuschij-demonov-4-sezon-animestars-2024-as6.html",
-      "lastUpdated": "2026-02-02, 19:00:35",
-      "owners-count": 1043,
+      "lastUpdated": "2026-02-03, 19:32:19",
+      "owners-count": 1041,
       "owners-need": 125,
-      "owners-trade": 135
+      "owners-trade": 136
     },
     {
       "cardId": "2284",
@@ -475414,10 +475427,10 @@
       "animeId": 2433,
       "animeName": "Клинок, рассекающий демонов 4 сезон: Тренировка столпов",
       "animeLink": "/aniserials/video/action/2433-klinok-rassekajuschij-demonov-4-sezon-animestars-2024-as6.html",
-      "lastUpdated": "2026-02-02, 19:00:34",
-      "owners-count": 2563,
-      "owners-need": 100,
-      "owners-trade": 213
+      "lastUpdated": "2026-02-03, 19:32:18",
+      "owners-count": 2554,
+      "owners-need": 101,
+      "owners-trade": 217
     },
     {
       "cardId": "2282",
@@ -475428,10 +475441,10 @@
       "animeId": 2433,
       "animeName": "Клинок, рассекающий демонов 4 сезон: Тренировка столпов",
       "animeLink": "/aniserials/video/action/2433-klinok-rassekajuschij-demonov-4-sezon-animestars-2024-as6.html",
-      "lastUpdated": "2026-02-02, 19:00:33",
-      "owners-count": 2570,
-      "owners-need": 90,
-      "owners-trade": 269
+      "lastUpdated": "2026-02-03, 19:32:17",
+      "owners-count": 2572,
+      "owners-need": 91,
+      "owners-trade": 268
     },
     {
       "cardId": "2280",
