@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-03, 01:09:21",
+    "generatedTimestamp": "2026-02-03, 03:09:25",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -20,9 +20,10 @@
       "animeId": 2214,
       "animeName": "Благословение небожителей 2 сезон",
       "animeLink": "/aniserials/video/drama/2214-blagoslovenie-nebozhitelej-2-sezon.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 12,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-03, 01:09:39"
     },
     {
       "cardId": "74596",
@@ -33,9 +34,10 @@
       "animeId": 1506,
       "animeName": "Данганронпа 3: Отчаяние",
       "animeLink": "/aniserials/video/detective/1506-danganronpa-3-otchajanie-2016.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 0,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-03, 01:09:40"
     },
     {
       "cardId": "74595",
@@ -46,9 +48,10 @@
       "animeId": 1505,
       "animeName": "Данганронпа 3: Будущее",
       "animeLink": "/aniserials/video/detective/1505-danganronpa-3-buduschee-2016.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 0,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-03, 01:09:41"
     },
     {
       "cardId": "74594",
@@ -59,9 +62,10 @@
       "animeId": 544,
       "animeName": "Гуррен-Лаганн",
       "animeLink": "/aniserials/video/drama/544-gurren-lagann-animestars-2007.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 3,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-03, 01:09:42"
     },
     {
       "cardId": "74593",
@@ -72,9 +76,10 @@
       "animeId": 174,
       "animeName": "Данганронпа: Школа надежды и безнадёжные школьники",
       "animeLink": "/aniserials/video/gender_intriga/174-danganronpa-2013.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 1,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-03, 01:09:42"
     },
     {
       "cardId": "74592",
@@ -85,9 +90,10 @@
       "animeId": 1540,
       "animeName": "Золотое божество 4",
       "animeLink": "/aniserials/video/action/1540-zolotoe-bozhestvo-4-sezon.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 8,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-03, 01:09:43"
     },
     {
       "cardId": "74591",
@@ -98,9 +104,10 @@
       "animeId": 1540,
       "animeName": "Золотое божество 4",
       "animeLink": "/aniserials/video/action/1540-zolotoe-bozhestvo-4-sezon.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 8,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-03, 01:09:44"
     },
     {
       "cardId": "74590",
@@ -111,9 +118,10 @@
       "animeId": 1540,
       "animeName": "Золотое божество 4",
       "animeLink": "/aniserials/video/action/1540-zolotoe-bozhestvo-4-sezon.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 8,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-03, 01:09:45"
     },
     {
       "cardId": "74587",
@@ -119494,10 +119502,10 @@
       "animeId": 415,
       "animeName": "Индекс волшебства",
       "animeLink": "/aniserials/video/comedy/415-indeks-volshebstva-1-sezon.html",
-      "lastUpdated": "2026-02-02, 02:34:35",
-      "owners-count": 1420,
+      "lastUpdated": "2026-02-03, 01:09:48",
+      "owners-count": 1423,
       "owners-need": 8,
-      "owners-trade": 203
+      "owners-trade": 202
     },
     {
       "cardId": "52876",
@@ -119508,10 +119516,10 @@
       "animeId": 2764,
       "animeName": "Монолог фармацевта 2 сезон",
       "animeLink": "/aniserials/video/drama/2764-monolog-farmacevta-2-sezon-2025.html",
-      "lastUpdated": "2026-02-02, 02:34:35",
-      "owners-count": 2063,
-      "owners-need": 219,
-      "owners-trade": 236
+      "lastUpdated": "2026-02-03, 01:09:47",
+      "owners-count": 2071,
+      "owners-need": 216,
+      "owners-trade": 238
     },
     {
       "cardId": "52875",
@@ -119522,10 +119530,10 @@
       "animeId": 2764,
       "animeName": "Монолог фармацевта 2 сезон",
       "animeLink": "/aniserials/video/drama/2764-monolog-farmacevta-2-sezon-2025.html",
-      "lastUpdated": "2026-02-02, 02:34:34",
-      "owners-count": 1993,
-      "owners-need": 184,
-      "owners-trade": 264
+      "lastUpdated": "2026-02-03, 01:09:46",
+      "owners-count": 2003,
+      "owners-need": 180,
+      "owners-trade": 269
     },
     {
       "cardId": "52873",
@@ -119536,8 +119544,8 @@
       "animeId": 830,
       "animeName": "Кафе из другого мира",
       "animeLink": "/aniserials/video/comedy/830-kafe-iz-drugogo-mira.html",
-      "lastUpdated": "2026-02-02, 02:34:33",
-      "owners-count": 1220,
+      "lastUpdated": "2026-02-03, 01:09:46",
+      "owners-count": 1217,
       "owners-need": 18,
       "owners-trade": 181
     },
