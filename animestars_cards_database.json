@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-03, 16:16:03",
+    "generatedTimestamp": "2026-02-03, 18:16:07",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -20,9 +20,10 @@
       "animeId": 2690,
       "animeName": "Сказание о пастухе богов",
       "animeLink": "/aniserials/video/action/2690-skazanie-o-pastuhe-bogov.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 14,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-03, 16:16:23"
     },
     {
       "cardId": "74641",
@@ -405791,10 +405792,10 @@
       "animeId": 227,
       "animeName": "Слэм-данк",
       "animeLink": "/aniserials/video/comedy/227-slem-dank.html",
-      "lastUpdated": "2026-02-02, 15:44:41",
-      "owners-count": 326,
+      "lastUpdated": "2026-02-03, 16:16:28",
+      "owners-count": 325,
       "owners-need": 13,
-      "owners-trade": 52
+      "owners-trade": 53
     },
     {
       "cardId": "12740",
@@ -405805,10 +405806,10 @@
       "animeId": 227,
       "animeName": "Слэм-данк",
       "animeLink": "/aniserials/video/comedy/227-slem-dank.html",
-      "lastUpdated": "2026-02-02, 15:44:40",
-      "owners-count": 362,
+      "lastUpdated": "2026-02-03, 16:16:28",
+      "owners-count": 365,
       "owners-need": 11,
-      "owners-trade": 75
+      "owners-trade": 77
     },
     {
       "cardId": "12738",
@@ -405819,9 +405820,9 @@
       "animeId": 17,
       "animeName": "Военная хроника маленькой девочки",
       "animeLink": "/aniserials/video/war/17-voennaya-hronika-malenkoy-devochki.html",
-      "lastUpdated": "2026-02-02, 15:44:39",
+      "lastUpdated": "2026-02-03, 16:16:27",
       "owners-count": 67,
-      "owners-need": 49,
+      "owners-need": 50,
       "owners-trade": 0
     },
     {
@@ -405833,10 +405834,10 @@
       "animeId": 2293,
       "animeName": "Злодейка наслаждается своей седьмой жизнью в качестве свободолюбивой невесты во вражеской стране",
       "animeLink": "/aniserials/video/romance/2293-zlodejka-naslazhdaetsja-svoej-sedmoj-zhiznju-v-kachestve-svobodoljubivoj-nevesty-vo-vrazheskoj-strane-v1.html",
-      "lastUpdated": "2026-02-02, 15:44:38",
-      "owners-count": 76,
+      "lastUpdated": "2026-02-03, 16:16:26",
+      "owners-count": 74,
       "owners-need": 71,
-      "owners-trade": 2
+      "owners-trade": 1
     },
     {
       "cardId": "12735",
@@ -405847,10 +405848,10 @@
       "animeId": 86,
       "animeName": "Эхо террора",
       "animeLink": "/aniserials/video/detective/86-eho-terrora-rezonans-uzhasa-2014.html",
-      "lastUpdated": "2026-02-02, 15:44:37",
-      "owners-count": 3058,
+      "lastUpdated": "2026-02-03, 16:16:25",
+      "owners-count": 3047,
       "owners-need": 4,
-      "owners-trade": 311
+      "owners-trade": 310
     },
     {
       "cardId": "12732",
@@ -405861,9 +405862,9 @@
       "animeId": 33,
       "animeName": "Ван Пис",
       "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
-      "lastUpdated": "2026-02-02, 15:44:37",
-      "owners-count": 3246,
-      "owners-need": 93,
+      "lastUpdated": "2026-02-03, 16:16:24",
+      "owners-count": 3242,
+      "owners-need": 95,
       "owners-trade": 366
     },
     {
