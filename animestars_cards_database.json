@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-03, 22:46:25",
+    "generatedTimestamp": "2026-02-04, 00:46:30",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,126 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35276
+    "totalCards": 35285
   },
   "cards": [
+    {
+      "cardId": "74688",
+      "cardName": "Майрин",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/2919/d/majrin-1770152324-219422.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2919,
+      "animeName": "Покемон",
+      "animeLink": "/aniserials/video/action/2919-pokemon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74687",
+      "cardName": "Тиерно",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/2919/d/tierno-1770152310-440552.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2919,
+      "animeName": "Покемон",
+      "animeLink": "/aniserials/video/action/2919-pokemon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74686",
+      "cardName": "Сойер",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/2919/d/sojer-1770152297-769686.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2919,
+      "animeName": "Покемон",
+      "animeLink": "/aniserials/video/action/2919-pokemon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74683",
+      "cardName": "Арзак Коннелл",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/1906/d/arzak-konnell-1770150439-593941.webp",
+      "cardAuthor": "_____KAPA_____",
+      "animeId": 1906,
+      "animeName": "Сказка о Хвосте Феи 2 сезон",
+      "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74682",
+      "cardName": "Тиаки и Хадзимэ",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/1506/c/tiaki-i-hadzimje-1770150026-73919.webp",
+      "cardAuthor": "koctan",
+      "animeId": 1506,
+      "animeName": "Данганронпа 3: Отчаяние",
+      "animeLink": "/aniserials/video/detective/1506-danganronpa-3-otchajanie-2016.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74681",
+      "cardName": "Дзюнко и Монокума",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/174/c/dzjunko-i-monokuma-1770154754-985344.webp",
+      "cardAuthor": "koctan",
+      "animeId": 174,
+      "animeName": "Данганронпа: Школа надежды и безнадёжные школьники",
+      "animeLink": "/aniserials/video/gender_intriga/174-danganronpa-2013.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74675",
+      "cardName": "Риё Рипер",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/3142/s/rie-riper-1770145680-879202.webp",
+      "cardAuthor": "cliff",
+      "animeId": 3142,
+      "animeName": "Гатиакута",
+      "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74673",
+      "cardName": "Монокума",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/1505/b/monokuma-1770145638-676847.webp",
+      "cardAuthor": "koctan",
+      "animeId": 1505,
+      "animeName": "Данганронпа 3: Будущее",
+      "animeLink": "/aniserials/video/detective/1505-danganronpa-3-buduschee-2016.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74671",
+      "cardName": "Нинсюэ Му",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/234/a/ninsjuje-mu-1770143739-829410.webp",
+      "cardAuthor": "вин",
+      "animeId": 234,
+      "animeName": "Маг на полную ставку",
+      "animeLink": "/aniserials/video/comedy/234-mag-na-polnuyu-stavku.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "74665",
       "cardName": "Камень Чёрной Лобелии",
