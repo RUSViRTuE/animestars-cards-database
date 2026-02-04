@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-04, 22:05:54",
+    "generatedTimestamp": "2026-02-05, 00:05:59",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,22 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35301
+    "totalCards": 35302
   },
   "cards": [
+    {
+      "cardId": "74739",
+      "cardName": "Вельдора Темпест",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/1052/s/veldora-tempest-1770236668-673345.webp",
+      "cardAuthor": "_____KAPA_____",
+      "animeId": 1052,
+      "animeName": "О моём перерождении в слизь 2 сезон",
+      "animeLink": "/aniserials/video/comedy/1052-o-moem-pererozhdenii-v-sliz-2-sezon-2021.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "74734",
       "cardName": "Нацу и Хэппи",
@@ -20,9 +33,10 @@
       "animeId": 357,
       "animeName": "Сказка о Хвосте феи 3 сезон",
       "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 8,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-04, 22:06:13"
     },
     {
       "cardId": "74733",
@@ -33,9 +47,10 @@
       "animeId": 357,
       "animeName": "Сказка о Хвосте феи 3 сезон",
       "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 12,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-04, 22:06:14"
     },
     {
       "cardId": "74732",
@@ -46,9 +61,10 @@
       "animeId": 357,
       "animeName": "Сказка о Хвосте феи 3 сезон",
       "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 16,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-04, 22:06:14"
     },
     {
       "cardId": "74731",
@@ -59,9 +75,10 @@
       "animeId": 357,
       "animeName": "Сказка о Хвосте феи 3 сезон",
       "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 16,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-04, 22:06:15"
     },
     {
       "cardId": "74730",
@@ -72,9 +89,10 @@
       "animeId": 1506,
       "animeName": "Данганронпа 3: Отчаяние",
       "animeLink": "/aniserials/video/detective/1506-danganronpa-3-otchajanie-2016.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 4,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-04, 22:06:16"
     },
     {
       "cardId": "74729",
@@ -85,9 +103,10 @@
       "animeId": 1506,
       "animeName": "Данганронпа 3: Отчаяние",
       "animeLink": "/aniserials/video/detective/1506-danganronpa-3-otchajanie-2016.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 1,
+      "owners-need": 5,
+      "owners-trade": 1,
+      "lastUpdated": "2026-02-04, 22:06:17"
     },
     {
       "cardId": "74725",
