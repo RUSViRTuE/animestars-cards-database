@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-05, 14:34:08",
+    "generatedTimestamp": "2026-02-05, 16:34:12",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,139 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35306
+    "totalCards": 35316
   },
   "cards": [
+    {
+      "cardId": "74760",
+      "cardName": "Кира",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/811/s/kira-1770254594-478507.webp",
+      "cardAuthor": "Вивианн",
+      "animeId": 811,
+      "animeName": "Продюсер и любовь",
+      "animeLink": "/aniserials/video/garem-dlya-devushek/811-prodjuser-i-ljubov.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74758",
+      "cardName": "Миднайт",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/357/d/midnajt-1770253898-722597.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 357,
+      "animeName": "Сказка о Хвосте феи 3 сезон",
+      "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74757",
+      "cardName": "Макс Алос",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/357/d/maks-alos-1770253887-761136.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 357,
+      "animeName": "Сказка о Хвосте феи 3 сезон",
+      "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74756",
+      "cardName": "Король Фиора",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/357/d/korol-fiora-1770253875-499199.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 357,
+      "animeName": "Сказка о Хвосте феи 3 сезон",
+      "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74753",
+      "cardName": "София",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/3195/d/sofija-1770293223-44917.webp",
+      "cardAuthor": "Bot_228",
+      "animeId": 3195,
+      "animeName": "В команде героя была милая девушка, так что я признался ей",
+      "animeLink": "/aniserials/video/adventure/3195-v-komande-geroja-byla-milaja-devushka-tak-chto-ja-priznalsja-ej.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74752",
+      "cardName": "Выходной",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/2987/e/vyhodnoj-1770293126-340300.webp",
+      "cardAuthor": "KreempSteel",
+      "animeId": 2987,
+      "animeName": "Необъятный океан 2",
+      "animeLink": "/aniserials/video/seinen/2987-neobjatnyj-okean-2.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74748",
+      "cardName": "Хеппинесс",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/3195/b/heppiness-1770292950-205130.webp",
+      "cardAuthor": "Bot_228",
+      "animeId": 3195,
+      "animeName": "В команде героя была милая девушка, так что я признался ей",
+      "animeLink": "/aniserials/video/adventure/3195-v-komande-geroja-byla-milaja-devushka-tak-chto-ja-priznalsja-ej.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74746",
+      "cardName": "Солон",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3212/a/solon-1770238653-311327.webp",
+      "cardAuthor": "WKlubnichkaW",
+      "animeId": 3212,
+      "animeName": "Тёмная луна: Кровавый алтарь",
+      "animeLink": "/aniserials/video/fant/3212-temnaja-luna-krovavyj-altar.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74744",
+      "cardName": "Хакуто Кунай",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/515/a/hakuto-kunaj-1770292818-996377.webp",
+      "cardAuthor": "gQue",
+      "animeId": 515,
+      "animeName": "Король демонов, попытайтесь снова!",
+      "animeLink": "/aniserials/video/action/515-korol-demonov-popytaytes-snova.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74743",
+      "cardName": "Рейсер",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/357/d/rejser-1770231835-799963.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 357,
+      "animeName": "Сказка о Хвосте феи 3 сезон",
+      "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "74742",
       "cardName": "Руфус Лор",
