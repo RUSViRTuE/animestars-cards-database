@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-06, 16:38:21",
+    "generatedTimestamp": "2026-02-06, 17:46:10",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,217 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35359
+    "totalCards": 35375
   },
   "cards": [
+    {
+      "cardId": "74927",
+      "cardName": "Ханако",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/311/d/hanako-1770385727-163943.webp",
+      "cardAuthor": "sammael",
+      "animeId": 311,
+      "animeName": "Щелкунчик Китаро 2018",
+      "animeLink": "/aniserials/video/comedy/311-schelkunchik-kitaro-2018.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74925",
+      "cardName": "Под дождём",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/10/e/pod-dozhdem-1770385435-550982.webp",
+      "cardAuthor": "Faret_333",
+      "animeId": 10,
+      "animeName": "Школа Мертвецов",
+      "animeLink": "/aniserials/video/garems/10-shkola-mertvecov-2010.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74924",
+      "cardName": "Перекус",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/475/e/perekus-1770388201-103302.webp",
+      "cardAuthor": "МаСТеР ГаНСТеРоВ",
+      "animeId": 475,
+      "animeName": "Двуличная сестрёнка Умару 2 сезон",
+      "animeLink": "/aniserials/video/comedy/475-dvulichnaya-sestrenka-umaru-2-sezon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74922",
+      "cardName": "Чтение",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/475/e/chtenie-1770388068-591734.webp",
+      "cardAuthor": "МаСТеР ГаНСТеРоВ",
+      "animeId": 475,
+      "animeName": "Двуличная сестрёнка Умару 2 сезон",
+      "animeLink": "/aniserials/video/comedy/475-dvulichnaya-sestrenka-umaru-2-sezon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74918",
+      "cardName": "Сильфинфорд Татибана",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/475/a/silfinford-tatibana-1770387921-284493.webp",
+      "cardAuthor": "МаСТеР ГаНСТеРоВ",
+      "animeId": 475,
+      "animeName": "Двуличная сестрёнка Умару 2 сезон",
+      "animeLink": "/aniserials/video/comedy/475-dvulichnaya-sestrenka-umaru-2-sezon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74916",
+      "cardName": "Лян А",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3173/a/ljan-a-1770382860-437087.webp",
+      "cardAuthor": "lyubopytnaya1999",
+      "animeId": 3173,
+      "animeName": "Меч грядущего 2",
+      "animeLink": "/aniserials/video/action/3173-mech-grjaduschego-2.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74915",
+      "cardName": "Алло?",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/3015/e/allo-1770382852-651203.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3015,
+      "animeName": "Отель «Тасокарэ»",
+      "animeLink": "/aniserials/video/fant/3015-otel-tasokarje.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74914",
+      "cardName": "Моророн",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/33/d/mororon-1770382853-213463.webp",
+      "cardAuthor": "Арата",
+      "animeId": 33,
+      "animeName": "Ван Пис",
+      "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74913",
+      "cardName": "Хирому",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/3015/d/hiromu-1770382802-977256.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3015,
+      "animeName": "Отель «Тасокарэ»",
+      "animeLink": "/aniserials/video/fant/3015-otel-tasokarje.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74912",
+      "cardName": "Гарольд В. Лукрафт",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/3008/s/garold-v.-lukraft-1770385740-537869.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3008,
+      "animeName": "Твоя форма",
+      "animeLink": "/aniserials/video/fantastic/3008-tvoja-forma.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74911",
+      "cardName": "Чеспин и Чеснот",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/2919/c/chespin-i-chesnot-1770382060-336164.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2919,
+      "animeName": "Покемон",
+      "animeLink": "/aniserials/video/action/2919-pokemon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74908",
+      "cardName": "Зирнис и Серена",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/2919/c/zirnis-i-serena-1770382024-512679.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2919,
+      "animeName": "Покемон",
+      "animeLink": "/aniserials/video/action/2919-pokemon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74907",
+      "cardName": "Дианта и Мега-Гардевуар",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/2919/c/dianta-i-mega-gardevuar-1770387413-616251.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2919,
+      "animeName": "Покемон",
+      "animeLink": "/aniserials/video/action/2919-pokemon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74905",
+      "cardName": "Сон",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/3183/e/son-1770387268-856731.webp",
+      "cardAuthor": "BETEP_B_TYMAHE",
+      "animeId": 3183,
+      "animeName": "Приговорённый быть героем: Тюремные записи девять тысяч четвёртого штрафного отряда героев",
+      "animeLink": "/aniserials/video/action/3183-prigovorennyj-byt-geroem-tjuremnye-zapisi-devjat-tysjach-chetvertogo-shtrafnogo-otrjada-geroev.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74904",
+      "cardName": "Суд",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/3183/e/sud-1770387223-962453.webp",
+      "cardAuthor": "BETEP_B_TYMAHE",
+      "animeId": 3183,
+      "animeName": "Приговорённый быть героем: Тюремные записи девять тысяч четвёртого штрафного отряда героев",
+      "animeLink": "/aniserials/video/action/3183-prigovorennyj-byt-geroem-tjuremnye-zapisi-devjat-tysjach-chetvertogo-shtrafnogo-otrjada-geroev.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74899",
+      "cardName": "Хяккимару и Дороро",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/394/c/hjakkimaru-i-dororo-1770387148-341887.webp",
+      "cardAuthor": "TANGERINE",
+      "animeId": 394,
+      "animeName": "Дороро",
+      "animeLink": "/aniserials/video/historical/394-dororo-2019.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "74891",
       "cardName": "Цинсюань Ши",
@@ -388670,8 +388878,8 @@
       "animeId": 1442,
       "animeName": "Песнь ночных сов",
       "animeLink": "/aniserials/video/vampires/1442-pesn-nochnyh-sov-animestars.html",
-      "lastUpdated": "2026-02-05, 17:48:18",
-      "owners-count": 666,
+      "lastUpdated": "2026-02-06, 16:38:55",
+      "owners-count": 665,
       "owners-need": 65,
       "owners-trade": 64
     },
@@ -388684,10 +388892,10 @@
       "animeId": 1442,
       "animeName": "Песнь ночных сов",
       "animeLink": "/aniserials/video/vampires/1442-pesn-nochnyh-sov-animestars.html",
-      "lastUpdated": "2026-02-05, 17:48:17",
-      "owners-count": 3122,
+      "lastUpdated": "2026-02-06, 16:38:54",
+      "owners-count": 3115,
       "owners-need": 26,
-      "owners-trade": 361
+      "owners-trade": 363
     },
     {
       "cardId": "14835",
@@ -388698,8 +388906,8 @@
       "animeId": 1442,
       "animeName": "Песнь ночных сов",
       "animeLink": "/aniserials/video/vampires/1442-pesn-nochnyh-sov-animestars.html",
-      "lastUpdated": "2026-02-05, 17:48:16",
-      "owners-count": 1829,
+      "lastUpdated": "2026-02-06, 16:38:53",
+      "owners-count": 1827,
       "owners-need": 22,
       "owners-trade": 220
     },
@@ -388712,8 +388920,8 @@
       "animeId": 127,
       "animeName": "Романтика Валькирий",
       "animeLink": "/aniserials/video/garems/127-romans-valkiriy.html",
-      "lastUpdated": "2026-02-05, 17:48:15",
-      "owners-count": 413,
+      "lastUpdated": "2026-02-06, 16:38:53",
+      "owners-count": 412,
       "owners-need": 10,
       "owners-trade": 53
     },
@@ -388726,10 +388934,10 @@
       "animeId": 1812,
       "animeName": "Адский рай",
       "animeLink": "/aniserials/video/action/1812-adskij-raj-animesss.html",
-      "lastUpdated": "2026-02-05, 17:48:14",
-      "owners-count": 3193,
+      "lastUpdated": "2026-02-06, 16:38:52",
+      "owners-count": 3179,
       "owners-need": 30,
-      "owners-trade": 287
+      "owners-trade": 286
     },
     {
       "cardId": "14828",
@@ -388740,10 +388948,10 @@
       "animeId": 564,
       "animeName": "Я сказала, усредни мои способности!",
       "animeLink": "/aniserials/video/comedy/564-ya-skazala-usredni-moi-sposobnosti.html",
-      "lastUpdated": "2026-02-05, 17:48:13",
-      "owners-count": 2715,
-      "owners-need": 11,
-      "owners-trade": 263
+      "lastUpdated": "2026-02-06, 16:38:51",
+      "owners-count": 2711,
+      "owners-need": 12,
+      "owners-trade": 264
     },
     {
       "cardId": "14827",
@@ -388754,9 +388962,9 @@
       "animeId": 564,
       "animeName": "Я сказала, усредни мои способности!",
       "animeLink": "/aniserials/video/comedy/564-ya-skazala-usredni-moi-sposobnosti.html",
-      "lastUpdated": "2026-02-05, 17:48:13",
-      "owners-count": 2537,
-      "owners-need": 8,
+      "lastUpdated": "2026-02-06, 16:38:50",
+      "owners-count": 2534,
+      "owners-need": 9,
       "owners-trade": 261
     },
     {
@@ -388768,10 +388976,10 @@
       "animeId": 564,
       "animeName": "Я сказала, усредни мои способности!",
       "animeLink": "/aniserials/video/comedy/564-ya-skazala-usredni-moi-sposobnosti.html",
-      "lastUpdated": "2026-02-05, 17:48:12",
-      "owners-count": 423,
+      "lastUpdated": "2026-02-06, 16:38:49",
+      "owners-count": 424,
       "owners-need": 56,
-      "owners-trade": 38
+      "owners-trade": 39
     },
     {
       "cardId": "14825",
@@ -388782,8 +388990,8 @@
       "animeId": 564,
       "animeName": "Я сказала, усредни мои способности!",
       "animeLink": "/aniserials/video/comedy/564-ya-skazala-usredni-moi-sposobnosti.html",
-      "lastUpdated": "2026-02-05, 17:48:11",
-      "owners-count": 422,
+      "lastUpdated": "2026-02-06, 16:38:48",
+      "owners-count": 421,
       "owners-need": 50,
       "owners-trade": 46
     },
@@ -388796,10 +389004,10 @@
       "animeId": 904,
       "animeName": "Двенадцать королевств",
       "animeLink": "/aniserials/video/adventure/904-dvenadcat-korolevstv.html",
-      "lastUpdated": "2026-02-05, 17:48:10",
-      "owners-count": 1318,
+      "lastUpdated": "2026-02-06, 16:38:48",
+      "owners-count": 1314,
       "owners-need": 1,
-      "owners-trade": 151
+      "owners-trade": 148
     },
     {
       "cardId": "14823",
@@ -388810,10 +389018,10 @@
       "animeId": 564,
       "animeName": "Я сказала, усредни мои способности!",
       "animeLink": "/aniserials/video/comedy/564-ya-skazala-usredni-moi-sposobnosti.html",
-      "lastUpdated": "2026-02-05, 17:48:09",
+      "lastUpdated": "2026-02-06, 16:38:47",
       "owners-count": 493,
-      "owners-need": 50,
-      "owners-trade": 69
+      "owners-need": 49,
+      "owners-trade": 67
     },
     {
       "cardId": "14822",
@@ -388824,10 +389032,10 @@
       "animeId": 564,
       "animeName": "Я сказала, усредни мои способности!",
       "animeLink": "/aniserials/video/comedy/564-ya-skazala-usredni-moi-sposobnosti.html",
-      "lastUpdated": "2026-02-05, 17:48:08",
+      "lastUpdated": "2026-02-06, 16:38:46",
       "owners-count": 395,
       "owners-need": 49,
-      "owners-trade": 32
+      "owners-trade": 31
     },
     {
       "cardId": "14821",
@@ -388838,10 +389046,10 @@
       "animeId": 2179,
       "animeName": "Парадокс в прямом эфире",
       "animeLink": "/aniserials/video/drama/2179-paradoks-v-prjamom-jefire.html",
-      "lastUpdated": "2026-02-05, 17:48:07",
-      "owners-count": 699,
-      "owners-need": 17,
-      "owners-trade": 133
+      "lastUpdated": "2026-02-06, 16:38:45",
+      "owners-count": 700,
+      "owners-need": 16,
+      "owners-trade": 132
     },
     {
       "cardId": "14820",
@@ -388852,10 +389060,10 @@
       "animeId": 2179,
       "animeName": "Парадокс в прямом эфире",
       "animeLink": "/aniserials/video/drama/2179-paradoks-v-prjamom-jefire.html",
-      "lastUpdated": "2026-02-05, 17:48:06",
-      "owners-count": 653,
-      "owners-need": 15,
-      "owners-trade": 132
+      "lastUpdated": "2026-02-06, 16:38:44",
+      "owners-count": 652,
+      "owners-need": 14,
+      "owners-trade": 130
     },
     {
       "cardId": "14818",
@@ -388866,9 +389074,9 @@
       "animeId": 75,
       "animeName": "Наруто: Ураганные хроники 2 сезон",
       "animeLink": "/aniserials/video/martial_arts/75-naruto-uragannye-hroniki-tv-2-animestars-2007.html",
-      "lastUpdated": "2026-02-05, 17:48:06",
-      "owners-count": 86,
-      "owners-need": 84,
+      "lastUpdated": "2026-02-06, 16:38:43",
+      "owners-count": 85,
+      "owners-need": 83,
       "owners-trade": 15
     },
     {
@@ -388880,8 +389088,8 @@
       "animeId": 560,
       "animeName": "Добро пожаловать в ад, Ирума",
       "animeLink": "/aniserials/video/comedy/560-dobro-pozhalovat-v-ad-iruma.html",
-      "lastUpdated": "2026-02-05, 17:48:05",
-      "owners-count": 2729,
+      "lastUpdated": "2026-02-06, 16:38:43",
+      "owners-count": 2727,
       "owners-need": 8,
       "owners-trade": 300
     },
@@ -388894,8 +389102,8 @@
       "animeId": 2208,
       "animeName": "Семь смертных грехов: Четыре всадника Апокалипсиса",
       "animeLink": "/aniserials/video/action/2208-sem-smertnyh-grehov-chetyre-vsadnika-apokalipsisa.html",
-      "lastUpdated": "2026-02-05, 17:48:04",
-      "owners-count": 542,
+      "lastUpdated": "2026-02-06, 16:38:42",
+      "owners-count": 541,
       "owners-need": 9,
       "owners-trade": 45
     },
@@ -388908,10 +389116,10 @@
       "animeId": 2389,
       "animeName": "Тёмный дворецкий 4 сезон: Школа-интернат",
       "animeLink": "/aniserials/video/action/2389-temnyj-dvoreckij-4-sezon.html",
-      "lastUpdated": "2026-02-05, 17:48:03",
-      "owners-count": 1528,
+      "lastUpdated": "2026-02-06, 16:38:41",
+      "owners-count": 1524,
       "owners-need": 18,
-      "owners-trade": 194
+      "owners-trade": 196
     },
     {
       "cardId": "14812",
@@ -388922,7 +389130,7 @@
       "animeId": 1526,
       "animeName": "О моём перерождении в меч",
       "animeLink": "/aniserials/video/comedy/1526-o-moem-pererozhdenii-v-mech-animestars.html",
-      "lastUpdated": "2026-02-05, 17:48:02",
+      "lastUpdated": "2026-02-06, 16:38:40",
       "owners-count": 55,
       "owners-need": 49,
       "owners-trade": 2
@@ -388936,10 +389144,10 @@
       "animeId": 1781,
       "animeName": "Адская девочка 4 сезон",
       "animeLink": "/aniserials/video/horror/1781-adskaja-devochka-4-sezon.html",
-      "lastUpdated": "2026-02-05, 17:48:01",
-      "owners-count": 2622,
+      "lastUpdated": "2026-02-06, 16:38:39",
+      "owners-count": 2616,
       "owners-need": 6,
-      "owners-trade": 306
+      "owners-trade": 301
     },
     {
       "cardId": "14808",
