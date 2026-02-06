@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-06, 22:31:11",
+    "generatedTimestamp": "2026-02-07, 00:31:15",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,74 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35375
+    "totalCards": 35380
   },
   "cards": [
+    {
+      "cardId": "75003",
+      "cardName": "Гриффит",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/596/s/griffit-1770407821-364641.webp",
+      "cardAuthor": "anna.botfort",
+      "animeId": 596,
+      "animeName": "Берсерк",
+      "animeLink": "/aniserials/video/action/596-berserk-1-sezon-1997.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74946",
+      "cardName": "Ару",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/3148/d/aru-1770388245-653768.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3148,
+      "animeName": "Пересечение стен любви с тобой",
+      "animeLink": "/aniserials/video/fant/3148-peresechenie-sten-ljubvi-s-toboj.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74936",
+      "cardName": "Награда",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/2277/e/nagrada-1770407463-182579.webp",
+      "cardAuthor": "BETEP_B_TYMAHE",
+      "animeId": 2277,
+      "animeName": "Раб спецотряда демонического города",
+      "animeLink": "/aniserials/video/garems/2277-rab-specotrjada-demonicheskogo-goroda-animestars-v7.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74932",
+      "cardName": "Фина",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/3078/d/fina-1770407300-463286.webp",
+      "cardAuthor": "BETEP_B_TYMAHE",
+      "animeId": 3078,
+      "animeName": "Бесклассовый герой: Да мне всё равно не нужны эти ваши умения",
+      "animeLink": "/aniserials/video/action/3078-besklassovyj-geroj-da-mne-vse-ravno-ne-nuzhny-jeti-vashi-umenija.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "74930",
+      "cardName": "Яньжань Е",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/1864/a/janzhan-e-1770407227-269811.webp",
+      "cardAuthor": "kep1384",
+      "animeId": 1864,
+      "animeName": "Страна десяти тысяч чудес",
+      "animeLink": "/aniserials/video/martial_arts/1864-strana-desjati-tysjach-chudes.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "74927",
       "cardName": "Ханако",
