@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-06, 13:22:29",
+    "generatedTimestamp": "2026-02-06, 15:22:33",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,22 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35338
+    "totalCards": 35339
   },
   "cards": [
+    {
+      "cardId": "74845",
+      "cardName": "Гажил Редфокс",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/357/s/gazhil-redfoks-1770336527-627843.webp",
+      "cardAuthor": "Юрчелус",
+      "animeId": 357,
+      "animeName": "Сказка о Хвосте феи 3 сезон",
+      "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "74836",
       "cardName": "Обанай Игуро",
