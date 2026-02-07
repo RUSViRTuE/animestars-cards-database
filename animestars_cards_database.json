@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-07, 17:16:19",
+    "generatedTimestamp": "2026-02-07, 19:16:24",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,35 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35397
+    "totalCards": 35407
   },
   "cards": [
+    {
+      "cardId": "75069",
+      "cardName": "Юдзуриха",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3222/a/judzuriha-1770466341-571349.webp",
+      "cardAuthor": "Kaneki_Haise",
+      "animeId": 3222,
+      "animeName": "Адский рай 2",
+      "animeLink": "/aniserials/video/shounen/3222-adskij-raj-2.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75068",
+      "cardName": "Вайлд Вайврон",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/1418/e/vajld-vajvron-1770466264-445623.webp",
+      "cardAuthor": "МаСТеР ГаНСТеРоВ",
+      "animeId": 1418,
+      "animeName": "Бейблэйд: Взрыв",
+      "animeLink": "/aniserials/video/action/1418-bejbljejd-vzryv.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "75065",
       "cardName": "Куромэ",
@@ -26,6 +52,123 @@
       "lastUpdated": "2026-02-07, 15:57:02"
     },
     {
+      "cardId": "75064",
+      "cardName": "Юго Нансуй",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/1418/d/jugo-nansuj-1770465341-71892.webp",
+      "cardAuthor": "МаСТеР ГаНСТеРоВ",
+      "animeId": 1418,
+      "animeName": "Бейблэйд: Взрыв",
+      "animeLink": "/aniserials/video/action/1418-bejbljejd-vzryv.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75063",
+      "cardName": "Зэнкуро Куроганэ",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/1418/b/zjenkuro-kuroganje-1770464617-998152.webp",
+      "cardAuthor": "МаСТеР ГаНСТеРоВ",
+      "animeId": 1418,
+      "animeName": "Бейблэйд: Взрыв",
+      "animeLink": "/aniserials/video/action/1418-bejbljejd-vzryv.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75058",
+      "cardName": "Луна",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/3031/e/luna-1770447429-781935.webp",
+      "cardAuthor": "Yilina",
+      "animeId": 3031,
+      "animeName": "Волшебница и злой офицер",
+      "animeLink": "/aniserials/video/shounen/3031-volshebnica-i-zloj-oficer.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75055",
+      "cardName": "Дэндзи",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3169/a/djendzi-1770446456-233727.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3169,
+      "animeName": "Человек-бензопила: Резе",
+      "animeLink": "/aniserials/video/shounen/3169-chelovek-benzopila-reze.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75054",
+      "cardName": "Каусс Лафорг",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/3097/b/kauss-laforg-1770480226-323419.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3097,
+      "animeName": "Леди со странным вкусом и безумный герцог",
+      "animeLink": "/aniserials/video/fant/3097-ledi-so-strannym-vkusom-i-bezumnyj-gercog-2025.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75053",
+      "cardName": "Старинные часы",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/3015/e/starinnye-chasy-1770445757-227826.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3015,
+      "animeName": "Отель «Тасокарэ»",
+      "animeLink": "/aniserials/video/fant/3015-otel-tasokarje.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75041",
+      "cardName": "Сигэру Ёсиока",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/2985/a/sigjeru-esioka-1770425490-229731.webp",
+      "cardAuthor": "Knarrenheins",
+      "animeId": 2985,
+      "animeName": "Всё тот же невзрачный боец",
+      "animeLink": "/aniserials/video/seinen/2985-vse-tot-zhe-nevzrachnyj-boec-2025.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75040",
+      "cardName": "Габимару",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3222/a/gabimaru-1770420802-60556.webp",
+      "cardAuthor": "Юрчелус",
+      "animeId": 3222,
+      "animeName": "Адский рай 2",
+      "animeLink": "/aniserials/video/shounen/3222-adskij-raj-2.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75037",
+      "cardName": "Мем-тё",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/3226/b/mem-te-1770418369-492418.webp",
+      "cardAuthor": "KreempSteel",
+      "animeId": 3226,
+      "animeName": "Ребёнок идола 3 сезон",
+      "animeLink": "/aniserials/video/shounen/3226-rebenok-idola-3.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
       "cardId": "75028",
       "cardName": "Скарлет Кастиэль",
       "cardRank": "a",
@@ -34,9 +177,10 @@
       "animeId": 3207,
       "animeName": "Святой Грааль Эрис",
       "animeLink": "/aniserials/video/mystery/3207-svjatoj-graal-jeris.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 0,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-07, 17:16:46"
     },
     {
       "cardId": "75025",
@@ -47,9 +191,10 @@
       "animeId": 3221,
       "animeName": "Прекрасная вечерняя луна",
       "animeLink": "/aniserials/video/shoujo/3221-prekrasnaja-vechernjaja-luna.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 1,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-07, 17:16:47"
     },
     {
       "cardId": "75021",
@@ -60,9 +205,10 @@
       "animeId": 2407,
       "animeName": "Нет лекарства для моего брата! 1 сезон",
       "animeLink": "/aniserials/video/comedy/2407-net-lekarstva-dlja-moego-brata-1-sezon.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 0,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-07, 17:16:47"
     },
     {
       "cardId": "75018",
@@ -147,20 +293,6 @@
       "owners-need": 29,
       "owners-trade": 0,
       "lastUpdated": "2026-02-07, 15:57:05"
-    },
-    {
-      "cardId": "75003",
-      "cardName": "Гриффит",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/596/s/griffit-1770407821-364641.webp",
-      "cardAuthor": "anna.botfort",
-      "animeId": 596,
-      "animeName": "Берсерк",
-      "animeLink": "/aniserials/video/action/596-berserk-1-sezon-1997.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-07, 15:57:06"
     },
     {
       "cardId": "75000",
@@ -427825,10 +427957,10 @@
       "animeId": 2291,
       "animeName": "Любовь с кончиков пальцев",
       "animeLink": "/aniserials/video/romance/2291-ljubov-s-konchikov-palcev-as.html",
-      "lastUpdated": "2026-02-06, 18:35:50",
-      "owners-count": 2924,
+      "lastUpdated": "2026-02-07, 17:16:49",
+      "owners-count": 2930,
       "owners-need": 6,
-      "owners-trade": 294
+      "owners-trade": 293
     },
     {
       "cardId": "10193",
@@ -427839,10 +427971,10 @@
       "animeId": 2291,
       "animeName": "Любовь с кончиков пальцев",
       "animeLink": "/aniserials/video/romance/2291-ljubov-s-konchikov-palcev-as.html",
-      "lastUpdated": "2026-02-06, 18:35:49",
-      "owners-count": 477,
+      "lastUpdated": "2026-02-07, 17:16:48",
+      "owners-count": 478,
       "owners-need": 27,
-      "owners-trade": 62
+      "owners-trade": 63
     },
     {
       "cardId": "10190",
