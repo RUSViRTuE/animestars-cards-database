@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-07, 01:54:16",
+    "generatedTimestamp": "2026-02-07, 03:54:20",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -12,6 +12,19 @@
   },
   "cards": [
     {
+      "cardId": "75011",
+      "cardName": "Пространственный корабль",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/2077/e/prostranstvennyj-korabl-1770418443-237129.webp",
+      "cardAuthor": "kep1384",
+      "animeId": 2077,
+      "animeName": "Расколотая битвой синева небес 5 сезон",
+      "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v17.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
       "cardId": "75010",
       "cardName": "Макото и Рэй",
       "cardRank": "c",
@@ -20,9 +33,10 @@
       "animeId": 2632,
       "animeName": "Красавица-воин Сейлор Мун Супер Эс: Иллюзия чёрной дыры снов",
       "animeLink": "/aniserials/video/shoujo/2632-krasavica-voin-sejlor-mun-super-jes-illjuzija-chernoj-dyry-snov-1995.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 1,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-07, 01:54:35"
     },
     {
       "cardId": "75007",
@@ -33,9 +47,10 @@
       "animeId": 3226,
       "animeName": "Ребёнок идола 3 сезон",
       "animeLink": "/aniserials/video/shounen/3226-rebenok-idola-3.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 3,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-07, 01:54:36"
     },
     {
       "cardId": "75006",
@@ -46,23 +61,10 @@
       "animeId": 3183,
       "animeName": "Приговорённый быть героем: Тюремные записи девять тысяч четвёртого штрафного отряда героев",
       "animeLink": "/aniserials/video/action/3183-prigovorennyj-byt-geroem-tjuremnye-zapisi-devjat-tysjach-chetvertogo-shtrafnogo-otrjada-geroev.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
-    },
-    {
-      "cardId": "75003",
-      "cardName": "Гриффит",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/596/s/griffit-1770407821-364641.webp",
-      "cardAuthor": "anna.botfort",
-      "animeId": 596,
-      "animeName": "Берсерк",
-      "animeLink": "/aniserials/video/action/596-berserk-1-sezon-1997.html",
       "owners-count": 0,
-      "owners-need": 0,
+      "owners-need": 10,
       "owners-trade": 0,
-      "lastUpdated": "2026-02-07, 00:31:36"
+      "lastUpdated": "2026-02-07, 01:54:37"
     },
     {
       "cardId": "75000",
@@ -108733,8 +108735,8 @@
       "animeId": 195,
       "animeName": "Добро пожаловать на паркет",
       "animeLink": "/aniserials/video/drama/195-dobro-pozhalovat-na-parket.html",
-      "lastUpdated": "2026-02-06, 03:43:16",
-      "owners-count": 1137,
+      "lastUpdated": "2026-02-07, 01:54:44",
+      "owners-count": 1140,
       "owners-need": 8,
       "owners-trade": 163
     },
@@ -108747,10 +108749,10 @@
       "animeId": 1767,
       "animeName": "Несносные пришельцы",
       "animeLink": "/aniserials/video/comedy/1767-nesnosnye-prishelcy.html",
-      "lastUpdated": "2026-02-06, 03:43:14",
-      "owners-count": 1141,
+      "lastUpdated": "2026-02-07, 01:54:43",
+      "owners-count": 1146,
       "owners-need": 9,
-      "owners-trade": 180
+      "owners-trade": 178
     },
     {
       "cardId": "54628",
@@ -108761,8 +108763,8 @@
       "animeId": 464,
       "animeName": "Очень приятно, Бог",
       "animeLink": "/aniserials/video/comedy/464-ochen-priyatno-bog-1-sezon.html",
-      "lastUpdated": "2026-02-06, 03:43:12",
-      "owners-count": 770,
+      "lastUpdated": "2026-02-07, 01:54:42",
+      "owners-count": 773,
       "owners-need": 34,
       "owners-trade": 117
     },
@@ -108775,10 +108777,10 @@
       "animeId": 260,
       "animeName": "Граф и фейри",
       "animeLink": "/aniserials/video/garem-dlya-devushek/260-graf-i-feyri.html",
-      "lastUpdated": "2026-02-06, 03:43:10",
-      "owners-count": 1444,
-      "owners-need": 12,
-      "owners-trade": 221
+      "lastUpdated": "2026-02-07, 01:54:41",
+      "owners-count": 1440,
+      "owners-need": 11,
+      "owners-trade": 223
     },
     {
       "cardId": "54621",
@@ -108789,10 +108791,10 @@
       "animeId": 613,
       "animeName": "Сказания бездны",
       "animeLink": "/aniserials/video/drama/613-skazaniya-bezdny.html",
-      "lastUpdated": "2026-02-06, 03:43:08",
-      "owners-count": 1308,
-      "owners-need": 28,
-      "owners-trade": 209
+      "lastUpdated": "2026-02-07, 01:54:40",
+      "owners-count": 1307,
+      "owners-need": 29,
+      "owners-trade": 211
     },
     {
       "cardId": "54618",
@@ -108803,10 +108805,10 @@
       "animeId": 613,
       "animeName": "Сказания бездны",
       "animeLink": "/aniserials/video/drama/613-skazaniya-bezdny.html",
-      "lastUpdated": "2026-02-06, 03:43:06",
-      "owners-count": 1154,
-      "owners-need": 32,
-      "owners-trade": 158
+      "lastUpdated": "2026-02-07, 01:54:39",
+      "owners-count": 1155,
+      "owners-need": 33,
+      "owners-trade": 157
     },
     {
       "cardId": "54614",
@@ -108817,9 +108819,9 @@
       "animeId": 803,
       "animeName": "Как и ожидалось, моя школьная романтическая жизнь не удалась 3 сезон",
       "animeLink": "/aniserials/video/drama/803-kak-i-ozhidal-moja-shkolnaja-romanticheskaja-zhizn-ne-udalas-3-sezon.html",
-      "lastUpdated": "2026-02-06, 03:43:04",
-      "owners-count": 1426,
-      "owners-need": 27,
+      "lastUpdated": "2026-02-07, 01:54:38",
+      "owners-count": 1427,
+      "owners-need": 26,
       "owners-trade": 179
     },
     {
