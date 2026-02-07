@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-07, 13:56:37",
+    "generatedTimestamp": "2026-02-07, 15:56:41",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -11,6 +11,19 @@
     "totalCards": 35391
   },
   "cards": [
+    {
+      "cardId": "75065",
+      "cardName": "Куромэ",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/231/s/kuromje-1770465797-97992.webp",
+      "cardAuthor": "Kaneki_Haise",
+      "animeId": 231,
+      "animeName": "Убийца Акамэ!",
+      "animeLink": "/aniserials/video/war/231-ubiyca-akame-animestars-2014.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "75011",
       "cardName": "Пространственный корабль",
@@ -66,20 +79,6 @@
       "owners-need": 28,
       "owners-trade": 0,
       "lastUpdated": "2026-02-07, 12:41:33"
-    },
-    {
-      "cardId": "75003",
-      "cardName": "Гриффит",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/596/s/griffit-1770407821-364641.webp",
-      "cardAuthor": "anna.botfort",
-      "animeId": 596,
-      "animeName": "Берсерк",
-      "animeLink": "/aniserials/video/action/596-berserk-1-sezon-1997.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-07, 12:41:34"
     },
     {
       "cardId": "75000",
