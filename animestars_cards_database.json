@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-07, 22:32:10",
+    "generatedTimestamp": "2026-02-08, 00:32:14",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,126 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35415
+    "totalCards": 35423
   },
   "cards": [
+    {
+      "cardId": "75127",
+      "cardName": "Мавис Вермиллион",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/2020/s/mavis-vermillion-1770493033-904673.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2020,
+      "animeName": "Сказка о Хвосте Феи Зеро",
+      "animeLink": "/aniserials/video/comedy/2020-skazka-o-hvoste-fei-zero-2016.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75112",
+      "cardName": "Туту Су",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/3154/b/tutu-su-1770499861-328494.webp",
+      "cardAuthor": "sergeisevincov",
+      "animeId": 3154,
+      "animeName": "Возвращение бессмертного императора",
+      "animeLink": "/aniserials/video/action/3154-vozvraschenie-bessmertnogo-imperatora.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75107",
+      "cardName": "Гислен Дютор Маршалрейд",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/3097/d/gislen-djutor-marshalrejd-1770499322-223592.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3097,
+      "animeName": "Леди со странным вкусом и безумный герцог",
+      "animeLink": "/aniserials/video/fant/3097-ledi-so-strannym-vkusom-i-bezumnyj-gercog-2025.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75105",
+      "cardName": "Токонацу Аой",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/1418/d/tokonacu-aoj-1770481838-643024.webp",
+      "cardAuthor": "МаСТеР ГаНСТеРоВ",
+      "animeId": 1418,
+      "animeName": "Бейблэйд: Взрыв",
+      "animeLink": "/aniserials/video/action/1418-bejbljejd-vzryv.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75104",
+      "cardName": "Химари Адзума",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3206/a/himari-adzuma-1770499121-131330.webp",
+      "cardAuthor": "BETEP_B_TYMAHE",
+      "animeId": 3206,
+      "animeName": "Раб спецотряда демонического города 2",
+      "animeLink": "/aniserials/video/shounen/3206-rab-specotrjada-demonicheskogo-goroda-2.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75103",
+      "cardName": "Герман",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/3097/d/german-1770499069-671745.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3097,
+      "animeName": "Леди со странным вкусом и безумный герцог",
+      "animeLink": "/aniserials/video/fant/3097-ledi-so-strannym-vkusom-i-bezumnyj-gercog-2025.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75102",
+      "cardName": "Демонические руки",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/3015/e/demonicheskie-ruki-1770499009-836051.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3015,
+      "animeName": "Отель «Тасокарэ»",
+      "animeLink": "/aniserials/video/fant/3015-otel-tasokarje.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75101",
+      "cardName": "Селия Маршалрейд",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/3097/d/selija-marshalrejd-1770498950-990821.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3097,
+      "animeName": "Леди со странным вкусом и безумный герцог",
+      "animeLink": "/aniserials/video/fant/3097-ledi-so-strannym-vkusom-i-bezumnyj-gercog-2025.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75099",
+      "cardName": "Зефф Сэндзин",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/3097/d/zeff-sjendzin-1770498877-253892.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3097,
+      "animeName": "Леди со странным вкусом и безумный герцог",
+      "animeLink": "/aniserials/video/fant/3097-ledi-so-strannym-vkusom-i-bezumnyj-gercog-2025.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "75098",
       "cardName": "Нэй Окавамура",
@@ -402,20 +519,6 @@
       "owners-need": 33,
       "owners-trade": 0,
       "lastUpdated": "2026-02-07, 21:17:10"
-    },
-    {
-      "cardId": "75003",
-      "cardName": "Гриффит",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/596/s/griffit-1770407821-364641.webp",
-      "cardAuthor": "anna.botfort",
-      "animeId": 596,
-      "animeName": "Берсерк",
-      "animeLink": "/aniserials/video/action/596-berserk-1-sezon-1997.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-07, 21:17:11"
     },
     {
       "cardId": "75000",
