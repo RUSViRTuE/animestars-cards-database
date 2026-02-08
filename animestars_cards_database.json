@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-08, 07:32:24",
+    "generatedTimestamp": "2026-02-08, 09:32:28",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,7 +8,7 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35427
+    "totalCards": 35426
   },
   "cards": [
     {
@@ -570,20 +570,6 @@
       "owners-need": 37,
       "owners-trade": 2,
       "lastUpdated": "2026-02-08, 06:18:29"
-    },
-    {
-      "cardId": "75003",
-      "cardName": "Гриффит",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/596/s/griffit-1770407821-364641.webp",
-      "cardAuthor": "anna.botfort",
-      "animeId": 596,
-      "animeName": "Берсерк",
-      "animeLink": "/aniserials/video/action/596-berserk-1-sezon-1997.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-08, 06:18:30"
     },
     {
       "cardId": "75000",
