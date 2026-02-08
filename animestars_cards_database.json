@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-08, 20:14:59",
+    "generatedTimestamp": "2026-02-08, 22:15:03",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,7 +8,7 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35465
+    "totalCards": 35464
   },
   "cards": [
     {
@@ -20,9 +20,10 @@
       "animeId": 456,
       "animeName": "Скажи: «Я люблю тебя»",
       "animeLink": "/aniserials/video/drama/456-skazhi-ya-lyublyu-tebya.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 1,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-08, 20:15:17"
     },
     {
       "cardId": "75255",
@@ -33,9 +34,10 @@
       "animeId": 3217,
       "animeName": "Пламенная бригада пожарных: Третья глава. Часть 2",
       "animeLink": "/aniserials/video/shounen/3217-plamennaja-brigada-pozharnyh-tretja-glava-chast-2.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 1,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-08, 20:15:18"
     },
     {
       "cardId": "75248",
@@ -1100,20 +1102,6 @@
       "owners-need": 39,
       "owners-trade": 3,
       "lastUpdated": "2026-02-08, 18:59:43"
-    },
-    {
-      "cardId": "75003",
-      "cardName": "Гриффит",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/596/s/griffit-1770407821-364641.webp",
-      "cardAuthor": "anna.botfort",
-      "animeId": 596,
-      "animeName": "Берсерк",
-      "animeLink": "/aniserials/video/action/596-berserk-1-sezon-1997.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-08, 18:59:44"
     },
     {
       "cardId": "75000",
@@ -434658,9 +434646,9 @@
       "animeId": 512,
       "animeName": "Доктор Стоун",
       "animeLink": "/aniserials/video/postapocalypse/512-doktor-stoun-animestars.html",
-      "lastUpdated": "2026-02-07, 21:24:45",
+      "lastUpdated": "2026-02-08, 20:15:27",
       "owners-count": 3238,
-      "owners-need": 32,
+      "owners-need": 29,
       "owners-trade": 363
     },
     {
@@ -434672,10 +434660,10 @@
       "animeId": 817,
       "animeName": "Принц тенниса",
       "animeLink": "/aniserials/video/action/817-princ-tennisa-1-sezon.html",
-      "lastUpdated": "2026-02-07, 21:24:44",
-      "owners-count": 2583,
+      "lastUpdated": "2026-02-08, 20:15:26",
+      "owners-count": 2581,
       "owners-need": 1,
-      "owners-trade": 268
+      "owners-trade": 269
     },
     {
       "cardId": "9270",
@@ -434686,10 +434674,10 @@
       "animeId": 558,
       "animeName": "Судьба: Великий приказ - Вавилония",
       "animeLink": "/aniserials/video/action/558-sudba-velikiy-prikaz-vaviloniya.html",
-      "lastUpdated": "2026-02-07, 21:24:44",
-      "owners-count": 2989,
+      "lastUpdated": "2026-02-08, 20:15:25",
+      "owners-count": 2978,
       "owners-need": 5,
-      "owners-trade": 308
+      "owners-trade": 307
     },
     {
       "cardId": "9266",
@@ -434700,10 +434688,10 @@
       "animeId": 1092,
       "animeName": "Для тебя, Бессмертный",
       "animeLink": "/aniserials/video/drama/1092-dlja-tebja-bessmertnyj.html",
-      "lastUpdated": "2026-02-07, 21:24:43",
-      "owners-count": 2708,
+      "lastUpdated": "2026-02-08, 20:15:24",
+      "owners-count": 2712,
       "owners-need": 10,
-      "owners-trade": 319
+      "owners-trade": 322
     },
     {
       "cardId": "9262",
@@ -434714,10 +434702,10 @@
       "animeId": 1092,
       "animeName": "Для тебя, Бессмертный",
       "animeLink": "/aniserials/video/drama/1092-dlja-tebja-bessmertnyj.html",
-      "lastUpdated": "2026-02-07, 21:24:42",
-      "owners-count": 2834,
+      "lastUpdated": "2026-02-08, 20:15:23",
+      "owners-count": 2836,
       "owners-need": 4,
-      "owners-trade": 290
+      "owners-trade": 292
     },
     {
       "cardId": "9261",
@@ -434728,10 +434716,10 @@
       "animeId": 817,
       "animeName": "Принц тенниса",
       "animeLink": "/aniserials/video/action/817-princ-tennisa-1-sezon.html",
-      "lastUpdated": "2026-02-07, 21:24:41",
-      "owners-count": 1410,
+      "lastUpdated": "2026-02-08, 20:15:22",
+      "owners-count": 1412,
       "owners-need": 2,
-      "owners-trade": 185
+      "owners-trade": 184
     },
     {
       "cardId": "9259",
@@ -434742,7 +434730,7 @@
       "animeId": 174,
       "animeName": "Данганронпа: Школа надежды и безнадёжные школьники",
       "animeLink": "/aniserials/video/gender_intriga/174-danganronpa-2013.html",
-      "lastUpdated": "2026-02-07, 21:24:40",
+      "lastUpdated": "2026-02-08, 20:15:21",
       "owners-count": 33,
       "owners-need": 12,
       "owners-trade": 1
@@ -434756,8 +434744,8 @@
       "animeId": 817,
       "animeName": "Принц тенниса",
       "animeLink": "/aniserials/video/action/817-princ-tennisa-1-sezon.html",
-      "lastUpdated": "2026-02-07, 21:24:39",
-      "owners-count": 349,
+      "lastUpdated": "2026-02-08, 20:15:20",
+      "owners-count": 351,
       "owners-need": 9,
       "owners-trade": 38
     },
@@ -434770,10 +434758,10 @@
       "animeId": 512,
       "animeName": "Доктор Стоун",
       "animeLink": "/aniserials/video/postapocalypse/512-doktor-stoun-animestars.html",
-      "lastUpdated": "2026-02-07, 21:24:38",
+      "lastUpdated": "2026-02-08, 20:15:19",
       "owners-count": 1941,
-      "owners-need": 37,
-      "owners-trade": 241
+      "owners-need": 35,
+      "owners-trade": 242
     },
     {
       "cardId": "9255",
@@ -434784,10 +434772,10 @@
       "animeId": 558,
       "animeName": "Судьба: Великий приказ - Вавилония",
       "animeLink": "/aniserials/video/action/558-sudba-velikiy-prikaz-vaviloniya.html",
-      "lastUpdated": "2026-02-07, 21:24:38",
-      "owners-count": 2921,
+      "lastUpdated": "2026-02-08, 20:15:19",
+      "owners-count": 2925,
       "owners-need": 6,
-      "owners-trade": 280
+      "owners-trade": 283
     },
     {
       "cardId": "9254",
