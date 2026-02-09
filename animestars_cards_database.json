@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-09, 22:00:52",
+    "generatedTimestamp": "2026-02-10, 00:00:57",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,7 +8,7 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35527
+    "totalCards": 35525
   },
   "cards": [
     {
@@ -20,9 +20,10 @@
       "animeId": 3230,
       "animeName": "Великий правитель 2",
       "animeLink": "/aniserials/video/action/3230-velikij-pravitel-2023-2.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 2,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-09, 22:01:14"
     },
     {
       "cardId": "75429",
@@ -33,9 +34,10 @@
       "animeId": 1418,
       "animeName": "Бейблэйд: Взрыв",
       "animeLink": "/aniserials/video/action/1418-bejbljejd-vzryv.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 16,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-09, 22:01:14"
     },
     {
       "cardId": "75428",
@@ -46,9 +48,10 @@
       "animeId": 3177,
       "animeName": "Клинок, рассекающий демонов: Бесконечный замок — Возвращение Акадзы",
       "animeLink": "/aniserials/video/shounen/3177-klinok-rassekajuschij-demonov-beskonechnyj-zamok-vozvraschenie-akadzy.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 15,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-09, 22:01:15"
     },
     {
       "cardId": "75422",
@@ -329,20 +332,6 @@
       "owners-need": 61,
       "owners-trade": 0,
       "lastUpdated": "2026-02-09, 20:45:21"
-    },
-    {
-      "cardId": "75361",
-      "cardName": "Фена Хаутман",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/1144/s/fena-hautman-1770633792-167171.webp",
-      "cardAuthor": "Арата",
-      "animeId": 1144,
-      "animeName": "Фена: Принцесса пиратов",
-      "animeLink": "/aniserials/video/action/1144-fena-princessa-piratov.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-09, 20:45:22"
     },
     {
       "cardId": "75347",
@@ -1967,20 +1956,6 @@
       "owners-need": 42,
       "owners-trade": 8,
       "lastUpdated": "2026-02-09, 20:46:58"
-    },
-    {
-      "cardId": "75003",
-      "cardName": "Гриффит",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/596/s/griffit-1770407821-364641.webp",
-      "cardAuthor": "anna.botfort",
-      "animeId": 596,
-      "animeName": "Берсерк",
-      "animeLink": "/aniserials/video/action/596-berserk-1-sezon-1997.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-09, 20:46:59"
     },
     {
       "cardId": "75000",
@@ -475663,9 +475638,9 @@
       "animeId": 105,
       "animeName": "Бездомный бог",
       "animeLink": "/aniserials/video/action/105-bezdomnyy-bog-2014.html",
-      "lastUpdated": "2026-02-08, 23:01:12",
-      "owners-count": 576,
-      "owners-need": 32,
+      "lastUpdated": "2026-02-09, 22:01:20",
+      "owners-count": 575,
+      "owners-need": 33,
       "owners-trade": 57
     },
     {
@@ -475677,10 +475652,10 @@
       "animeId": 2278,
       "animeName": "Подземелье вкусностей",
       "animeLink": "/aniserials/video/comedy/2278-podzemele-vkusnostej.html",
-      "lastUpdated": "2026-02-08, 23:01:11",
-      "owners-count": 2985,
-      "owners-need": 18,
-      "owners-trade": 313
+      "lastUpdated": "2026-02-09, 22:01:20",
+      "owners-count": 2987,
+      "owners-need": 17,
+      "owners-trade": 312
     },
     {
       "cardId": "2961",
@@ -475691,9 +475666,9 @@
       "animeId": 2278,
       "animeName": "Подземелье вкусностей",
       "animeLink": "/aniserials/video/comedy/2278-podzemele-vkusnostej.html",
-      "lastUpdated": "2026-02-08, 23:01:10",
-      "owners-count": 3286,
-      "owners-need": 18,
+      "lastUpdated": "2026-02-09, 22:01:19",
+      "owners-count": 3297,
+      "owners-need": 19,
       "owners-trade": 273
     },
     {
@@ -475705,10 +475680,10 @@
       "animeId": 2278,
       "animeName": "Подземелье вкусностей",
       "animeLink": "/aniserials/video/comedy/2278-podzemele-vkusnostej.html",
-      "lastUpdated": "2026-02-08, 23:01:09",
-      "owners-count": 1710,
+      "lastUpdated": "2026-02-09, 22:01:18",
+      "owners-count": 1714,
       "owners-need": 24,
-      "owners-trade": 147
+      "owners-trade": 149
     },
     {
       "cardId": "2954",
@@ -475719,10 +475694,10 @@
       "animeId": 2278,
       "animeName": "Подземелье вкусностей",
       "animeLink": "/aniserials/video/comedy/2278-podzemele-vkusnostej.html",
-      "lastUpdated": "2026-02-08, 23:01:09",
-      "owners-count": 655,
+      "lastUpdated": "2026-02-09, 22:01:17",
+      "owners-count": 634,
       "owners-need": 48,
-      "owners-trade": 85
+      "owners-trade": 76
     },
     {
       "cardId": "2953",
@@ -475733,10 +475708,10 @@
       "animeId": 2355,
       "animeName": "Убийца богов 2 сезон",
       "animeLink": "/aniserials/video/martial_arts/2355-ubijca-bogov-2-sezon.html",
-      "lastUpdated": "2026-02-08, 23:01:08",
-      "owners-count": 750,
+      "lastUpdated": "2026-02-09, 22:01:16",
+      "owners-count": 753,
       "owners-need": 50,
-      "owners-trade": 97
+      "owners-trade": 99
     },
     {
       "cardId": "2952",
@@ -477413,10 +477388,10 @@
       "animeId": 596,
       "animeName": "Берсерк",
       "animeLink": "/aniserials/video/action/596-berserk-1-sezon-1997.html",
-      "lastUpdated": "2026-02-08, 23:01:13",
-      "owners-count": 3032,
-      "owners-need": 16,
-      "owners-trade": 230
+      "lastUpdated": "2026-02-09, 22:01:21",
+      "owners-count": 3035,
+      "owners-need": 17,
+      "owners-trade": 231
     },
     {
       "cardId": "2568",
