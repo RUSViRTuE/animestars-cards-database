@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-09, 12:17:29",
+    "generatedTimestamp": "2026-02-09, 14:17:34",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,61 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35489
+    "totalCards": 35492
   },
   "cards": [
+    {
+      "cardId": "75315",
+      "cardName": "Ябунума",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/284/d/jabunuma-1770600569-938312.webp",
+      "cardAuthor": "tarantull",
+      "animeId": 284,
+      "animeName": "Мегалобокс",
+      "animeLink": "/aniserials/video/martial_arts/284-megaloboks.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75314",
+      "cardName": "Домото",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/284/d/domoto-1770600341-449517.webp",
+      "cardAuthor": "tarantull",
+      "animeId": 284,
+      "animeName": "Мегалобокс",
+      "animeLink": "/aniserials/video/martial_arts/284-megaloboks.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75313",
+      "cardName": "Шарк Самэдзима",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/284/d/shark-samjedzima-1770600123-316328.webp",
+      "cardAuthor": "tarantull",
+      "animeId": 284,
+      "animeName": "Мегалобокс",
+      "animeLink": "/aniserials/video/martial_arts/284-megaloboks.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75308",
+      "cardName": "Масаси Татикава",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/456/d/masasi-tatikava-1770593186-363379.webp",
+      "cardAuthor": "Мурашка",
+      "animeId": 456,
+      "animeName": "Скажи: «Я люблю тебя»",
+      "animeLink": "/aniserials/video/drama/456-skazhi-ya-lyublyu-tebya.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "75306",
       "cardName": "Фути Ямада Асаэмон",
@@ -1438,20 +1490,6 @@
       "owners-need": 39,
       "owners-trade": 7,
       "lastUpdated": "2026-02-09, 11:03:22"
-    },
-    {
-      "cardId": "75003",
-      "cardName": "Гриффит",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/596/s/griffit-1770407821-364641.webp",
-      "cardAuthor": "anna.botfort",
-      "animeId": 596,
-      "animeName": "Берсерк",
-      "animeLink": "/aniserials/video/action/596-berserk-1-sezon-1997.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-09, 11:03:23"
     },
     {
       "cardId": "75000",
