@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-09, 18:44:45",
+    "generatedTimestamp": "2026-02-09, 20:44:49",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,165 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35505
+    "totalCards": 35515
   },
   "cards": [
+    {
+      "cardId": "75406",
+      "cardName": "Акира Мита",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/746/d/akira-mita-1770659036-88867.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 746,
+      "animeName": "Богатый детектив. Баланс неограничен",
+      "animeLink": "/aniserials/video/detective/746-bogatyj-detektiv-balans-neogranichen.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75402",
+      "cardName": "Бэнимару Симмон",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3217/a/bjenimaru-simmon-1770658707-981870.webp",
+      "cardAuthor": "Kaneki_Haise",
+      "animeId": 3217,
+      "animeName": "Пламенная бригада пожарных: Третья глава. Часть 2",
+      "animeLink": "/aniserials/video/shounen/3217-plamennaja-brigada-pozharnyh-tretja-glava-chast-2.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75400",
+      "cardName": "Иана и Ëми",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/3138/c/iana-i-mi-1770654227-20807.webp",
+      "cardAuthor": "Lesbushka",
+      "animeId": 3138,
+      "animeName": "Тёмное прошлое перевоплощённой злодейки",
+      "animeLink": "/aniserials/video/shoujo/3138-temnoe-proshloe-perevoploschennoj-zlodejki.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75399",
+      "cardName": "Бодун Хай и Синтянь Цзя",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/2077/c/bodun-haj-i-sintjan-czja-1770654088-735309.webp",
+      "cardAuthor": "kep1384",
+      "animeId": 2077,
+      "animeName": "Расколотая битвой синева небес 5 сезон",
+      "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v17.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75382",
+      "cardName": "Заложница",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/3138/e/zalozhnica-1770653152-786918.webp",
+      "cardAuthor": "Lesbushka",
+      "animeId": 3138,
+      "animeName": "Тёмное прошлое перевоплощённой злодейки",
+      "animeLink": "/aniserials/video/shoujo/3138-temnoe-proshloe-perevoploschennoj-zlodejki.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75381",
+      "cardName": "Серьга",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/3138/e/serga-1770653092-637611.webp",
+      "cardAuthor": "Lesbushka",
+      "animeId": 3138,
+      "animeName": "Тёмное прошлое перевоплощённой злодейки",
+      "animeLink": "/aniserials/video/shoujo/3138-temnoe-proshloe-perevoploschennoj-zlodejki.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75376",
+      "cardName": "Цю-Цю Нань",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/2058/b/cju-cju-nan-1770652880-755635.webp",
+      "cardAuthor": "TFD",
+      "animeId": 2058,
+      "animeName": "Боевой континент 2: Непревзойдённый клан Тан",
+      "animeLink": "/aniserials/video/action/2058-boevoj-kontinent-2-neprevzojdennyj-klan-tan-animestars-aa8.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75374",
+      "cardName": "Бин Ди",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/2058/b/bin-di-1770652708-265895.webp",
+      "cardAuthor": "TFD",
+      "animeId": 2058,
+      "animeName": "Боевой континент 2: Непревзойдённый клан Тан",
+      "animeLink": "/aniserials/video/action/2058-boevoj-kontinent-2-neprevzojdennyj-klan-tan-animestars-aa8.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75373",
+      "cardName": "Патоше Кивия",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3183/a/patoshe-kivija-1770652201-362701.webp",
+      "cardAuthor": "BETEP_B_TYMAHE",
+      "animeId": 3183,
+      "animeName": "Приговорённый быть героем: Тюремные записи девять тысяч четвёртого штрафного отряда героев",
+      "animeLink": "/aniserials/video/action/3183-prigovorennyj-byt-geroem-tjuremnye-zapisi-devjat-tysjach-chetvertogo-shtrafnogo-otrjada-geroev.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75368",
+      "cardName": "Ребекка Андерсон",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/65/d/rebekka-anderson-1770652121-61576.webp",
+      "cardAuthor": "sammael",
+      "animeId": 65,
+      "animeName": "Собачьи дни",
+      "animeLink": "/aniserials/video/garems/65-zharkie-denki-sobachya-zhizn.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75367",
+      "cardName": "Сяо-Сяо и Ли Ло",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/3230/c/sjao-sjao-i-li-lo-1770652024-24834.webp",
+      "cardAuthor": "Mikadoshi",
+      "animeId": 3230,
+      "animeName": "Великий правитель 2",
+      "animeLink": "/aniserials/video/action/3230-velikij-pravitel-2023-2.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75364",
+      "cardName": "Валентинов день",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/10/e/valentinov-den-1770634903-441293.webp",
+      "cardAuthor": "Faret_333",
+      "animeId": 10,
+      "animeName": "Школа Мертвецов",
+      "animeLink": "/aniserials/video/garems/10-shkola-mertvecov-2010.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "75362",
       "cardName": "Тёсо",
@@ -20,23 +176,10 @@
       "animeId": 3205,
       "animeName": "Магическая битва 3 сезон: Смертельная миграция",
       "animeLink": "/aniserials/video/shounen/3205-magicheskaja-bitva-smertelnaja-migracija.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
-    },
-    {
-      "cardId": "75361",
-      "cardName": "Фена Хаутман",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/1144/s/fena-hautman-1770633792-167171.webp",
-      "cardAuthor": "Арата",
-      "animeId": 1144,
-      "animeName": "Фена: Принцесса пиратов",
-      "animeLink": "/aniserials/video/action/1144-fena-princessa-piratov.html",
       "owners-count": 0,
-      "owners-need": 19,
+      "owners-need": 0,
       "owners-trade": 0,
-      "lastUpdated": "2026-02-09, 17:04:28"
+      "lastUpdated": "2026-02-09, 18:45:03"
     },
     {
       "cardId": "75347",
@@ -47,9 +190,10 @@
       "animeId": 1864,
       "animeName": "Страна десяти тысяч чудес",
       "animeLink": "/aniserials/video/martial_arts/1864-strana-desjati-tysjach-chudes.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 6,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-09, 18:45:04"
     },
     {
       "cardId": "75342",
@@ -1659,20 +1803,6 @@
       "owners-count": 54,
       "owners-need": 40,
       "owners-trade": 7,
-      "lastUpdated": "2026-02-09, 17:05:56"
-    },
-    {
-      "cardId": "75003",
-      "cardName": "Гриффит",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/596/s/griffit-1770407821-364641.webp",
-      "cardAuthor": "anna.botfort",
-      "animeId": 596,
-      "animeName": "Берсерк",
-      "animeLink": "/aniserials/video/action/596-berserk-1-sezon-1997.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
       "lastUpdated": "2026-02-09, 17:05:56"
     },
     {
@@ -406966,9 +407096,9 @@
       "animeId": 1658,
       "animeName": "Афросамурай",
       "animeLink": "/aniserials/video/action/1658-afrosamuraj.html",
-      "lastUpdated": "2026-02-08, 19:44:35",
+      "lastUpdated": "2026-02-09, 18:45:12",
       "owners-count": 40,
-      "owners-need": 18,
+      "owners-need": 19,
       "owners-trade": 1
     },
     {
@@ -406980,10 +407110,10 @@
       "animeId": 151,
       "animeName": "Вторжение гигантов",
       "animeLink": "/aniserials/video/war/151-vtorzhenie-gigantov-2013-as.html",
-      "lastUpdated": "2026-02-08, 19:44:34",
-      "owners-count": 3212,
-      "owners-need": 28,
-      "owners-trade": 349
+      "lastUpdated": "2026-02-09, 18:45:11",
+      "owners-count": 3214,
+      "owners-need": 30,
+      "owners-trade": 353
     },
     {
       "cardId": "12985",
@@ -406994,8 +407124,8 @@
       "animeId": 1531,
       "animeName": "Моя геройская академия 6 сезон",
       "animeLink": "/aniserials/video/action/1531-moja-gerojskaja-akademija-6-sezon-2022.html",
-      "lastUpdated": "2026-02-08, 19:44:33",
-      "owners-count": 1903,
+      "lastUpdated": "2026-02-09, 18:45:10",
+      "owners-count": 1909,
       "owners-need": 29,
       "owners-trade": 152
     },
@@ -407008,10 +407138,10 @@
       "animeId": 2424,
       "animeName": "Моя геройская академия 7 сезон",
       "animeLink": "/aniserials/video/action/2424-moja-gerojskaja-akademija-7-sezon-2024-v6.html",
-      "lastUpdated": "2026-02-08, 19:44:32",
-      "owners-count": 699,
+      "lastUpdated": "2026-02-09, 18:45:09",
+      "owners-count": 701,
       "owners-need": 52,
-      "owners-trade": 83
+      "owners-trade": 85
     },
     {
       "cardId": "12983",
@@ -407022,8 +407152,8 @@
       "animeId": 845,
       "animeName": "Судьба: Ночь схватки",
       "animeLink": "/aniserials/video/action/845-sudba-noch-shvatki.html",
-      "lastUpdated": "2026-02-08, 19:44:32",
-      "owners-count": 669,
+      "lastUpdated": "2026-02-09, 18:45:08",
+      "owners-count": 671,
       "owners-need": 42,
       "owners-trade": 23
     },
@@ -407036,8 +407166,8 @@
       "animeId": 2684,
       "animeName": "Истории ран: Горячая кровь",
       "animeLink": "/aniserials/video/adventure/2684-istorii-ran-gorjachaja-krov.html",
-      "lastUpdated": "2026-02-08, 19:44:31",
-      "owners-count": 550,
+      "lastUpdated": "2026-02-09, 18:45:07",
+      "owners-count": 551,
       "owners-need": 21,
       "owners-trade": 65
     },
@@ -407050,8 +407180,8 @@
       "animeId": 87,
       "animeName": "Как из обычной девушки воспитать героиню 2 сезон",
       "animeLink": "/aniserials/video/garems/87-kak-iz-obychnoy-devushki-vospitat-geroinyu-2-sezon.html",
-      "lastUpdated": "2026-02-08, 19:44:30",
-      "owners-count": 587,
+      "lastUpdated": "2026-02-09, 18:45:07",
+      "owners-count": 588,
       "owners-need": 24,
       "owners-trade": 36
     },
@@ -407064,10 +407194,10 @@
       "animeId": 211,
       "animeName": "В поисках божественного рецепта 3 сезон",
       "animeLink": "/aniserials/video/comedy/211-v-poiskah-bozhestvennogo-recepta-3-sezon-2018.html",
-      "lastUpdated": "2026-02-08, 19:44:29",
-      "owners-count": 1954,
+      "lastUpdated": "2026-02-09, 18:45:06",
+      "owners-count": 1958,
       "owners-need": 16,
-      "owners-trade": 162
+      "owners-trade": 164
     },
     {
       "cardId": "12977",
@@ -407078,10 +407208,10 @@
       "animeId": 312,
       "animeName": "В поисках божественного рецепта 2 сезон",
       "animeLink": "/aniserials/video/comedy/312-v-poiskah-bozhestvennogo-recepta-2-sezon-2016.html",
-      "lastUpdated": "2026-02-08, 19:44:28",
-      "owners-count": 1824,
-      "owners-need": 14,
-      "owners-trade": 185
+      "lastUpdated": "2026-02-09, 18:45:05",
+      "owners-count": 1834,
+      "owners-need": 15,
+      "owners-trade": 186
     },
     {
       "cardId": "12976",
