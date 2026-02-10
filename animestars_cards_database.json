@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-10, 12:09:55",
+    "generatedTimestamp": "2026-02-10, 14:09:59",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,7 +8,7 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35527
+    "totalCards": 35525
   },
   "cards": [
     {
@@ -332,20 +332,6 @@
       "owners-need": 92,
       "owners-trade": 0,
       "lastUpdated": "2026-02-10, 10:55:03"
-    },
-    {
-      "cardId": "75361",
-      "cardName": "Фена Хаутман",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/1144/s/fena-hautman-1770633792-167171.webp",
-      "cardAuthor": "Арата",
-      "animeId": 1144,
-      "animeName": "Фена: Принцесса пиратов",
-      "animeLink": "/aniserials/video/action/1144-fena-princessa-piratov.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-10, 10:55:04"
     },
     {
       "cardId": "75347",
@@ -1970,20 +1956,6 @@
       "owners-need": 43,
       "owners-trade": 9,
       "lastUpdated": "2026-02-10, 10:56:41"
-    },
-    {
-      "cardId": "75003",
-      "cardName": "Гриффит",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/596/s/griffit-1770407821-364641.webp",
-      "cardAuthor": "anna.botfort",
-      "animeId": 596,
-      "animeName": "Берсерк",
-      "animeLink": "/aniserials/video/action/596-berserk-1-sezon-1997.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-10, 10:56:42"
     },
     {
       "cardId": "75000",
