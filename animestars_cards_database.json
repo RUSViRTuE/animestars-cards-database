@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-10, 17:42:51",
+    "generatedTimestamp": "2026-02-10, 19:42:56",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,152 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35540
+    "totalCards": 35549
   },
   "cards": [
+    {
+      "cardId": "75552",
+      "cardName": "Каору Сакураясики",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/1654/s/kaoru-sakurajasiki-1770741663-507565.webp",
+      "cardAuthor": "FriddaTiss",
+      "animeId": 1654,
+      "animeName": "Скейт: Бесконечность",
+      "animeLink": "/aniserials/video/drama/1654-skejt-beskonechnost.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75538",
+      "cardName": "Огури Кэп",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/3121/s/oguri-kjep-1770738898-464901.webp",
+      "cardAuthor": "sammael",
+      "animeId": 3121,
+      "animeName": "Девушки-пони: Серая Золушка. Часть 2",
+      "animeLink": "/aniserials/video/seinen/3121-devushki-poni-seraja-zolushka-chast-2.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75537",
+      "cardName": "Ланга Хасэгава",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/1654/s/langa-hasjegava-1770731524-188120.webp",
+      "cardAuthor": "FriddaTiss",
+      "animeId": 1654,
+      "animeName": "Скейт: Бесконечность",
+      "animeLink": "/aniserials/video/drama/1654-skejt-beskonechnost.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75525",
+      "cardName": "Лукас",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/3082/s/lukas-1770728206-199483.webp",
+      "cardAuthor": "FriddaTiss",
+      "animeId": 3082,
+      "animeName": "Однажды я стала принцессой",
+      "animeLink": "/aniserials/video/drama/3082-odnazhdy-ja-stala-princessoj.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75487",
+      "cardName": "Наги Куросава",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/456/d/nagi-kurosava-1770683612-524810.webp",
+      "cardAuthor": "Мурашка",
+      "animeId": 456,
+      "animeName": "Скажи: «Я люблю тебя»",
+      "animeLink": "/aniserials/video/drama/456-skazhi-ya-lyublyu-tebya.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75486",
+      "cardName": "Мать Мэй",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/456/d/mat-mjej-1770682882-537657.webp",
+      "cardAuthor": "Мурашка",
+      "animeId": 456,
+      "animeName": "Скажи: «Я люблю тебя»",
+      "animeLink": "/aniserials/video/drama/456-skazhi-ya-lyublyu-tebya.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75477",
+      "cardName": "Райдер",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/2738/b/rajder-1770677364-832402.webp",
+      "cardAuthor": "bnegat",
+      "animeId": 2738,
+      "animeName": "Судьба/Странная подделка",
+      "animeLink": "/aniserials/video/action/2738-sudbastrannaja-poddelka.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75474",
+      "cardName": "Юрико Окада",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3113/a/juriko-okada-1770740673-445510.webp",
+      "cardAuthor": "Knarrenheins",
+      "animeId": 3113,
+      "animeName": "Тандзабуро Тодзима хочет стать Наездником в маске",
+      "animeLink": "/aniserials/video/seinen/3113-tandzaburo-todzima-hochet-stat-naezdnikom-v-maske.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75473",
+      "cardName": "Тиаки и Идзуру",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/1506/c/tiaki-i-idzuru-1770674625-509300.webp",
+      "cardAuthor": "koctan",
+      "animeId": 1506,
+      "animeName": "Данганронпа 3: Отчаяние",
+      "animeLink": "/aniserials/video/detective/1506-danganronpa-3-otchajanie-2016.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75472",
+      "cardName": "Хиёко Сайондзи",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/1506/b/hieko-sajondzi-1770674602-405444.webp",
+      "cardAuthor": "koctan",
+      "animeId": 1506,
+      "animeName": "Данганронпа 3: Отчаяние",
+      "animeLink": "/aniserials/video/detective/1506-danganronpa-3-otchajanie-2016.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75471",
+      "cardName": "Хиёко Сайондзи",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/1505/d/hieko-sajondzi-1770674529-861772.webp",
+      "cardAuthor": "koctan",
+      "animeId": 1505,
+      "animeName": "Данганронпа 3: Будущее",
+      "animeLink": "/aniserials/video/detective/1505-danganronpa-3-buduschee-2016.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "75466",
       "cardName": "Асами Оикава",
@@ -514,20 +657,6 @@
       "owners-need": 96,
       "owners-trade": 0,
       "lastUpdated": "2026-02-10, 16:28:41"
-    },
-    {
-      "cardId": "75361",
-      "cardName": "Фена Хаутман",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/1144/s/fena-hautman-1770633792-167171.webp",
-      "cardAuthor": "Арата",
-      "animeId": 1144,
-      "animeName": "Фена: Принцесса пиратов",
-      "animeLink": "/aniserials/video/action/1144-fena-princessa-piratov.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-10, 16:28:42"
     },
     {
       "cardId": "75347",
@@ -2152,20 +2281,6 @@
       "owners-need": 40,
       "owners-trade": 7,
       "lastUpdated": "2026-02-10, 16:30:19"
-    },
-    {
-      "cardId": "75003",
-      "cardName": "Гриффит",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/596/s/griffit-1770407821-364641.webp",
-      "cardAuthor": "anna.botfort",
-      "animeId": 596,
-      "animeName": "Берсерк",
-      "animeLink": "/aniserials/video/action/596-berserk-1-sezon-1997.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-10, 16:30:20"
     },
     {
       "cardId": "75000",
