@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-11, 00:14:18",
+    "generatedTimestamp": "2026-02-11, 02:14:23",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,152 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35570
+    "totalCards": 35580
   },
   "cards": [
+    {
+      "cardId": "75642",
+      "cardName": "Ширли Гранц",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/3191/b/shirli-granc-1770761401-119713.webp",
+      "cardAuthor": "BETEP_B_TYMAHE",
+      "animeId": 3191,
+      "animeName": "Реинкарнация аристократа: Благословенный с рождения величайшей силой",
+      "animeLink": "/aniserials/video/action/3191-reinkarnacija-aristokrata-blagoslovennyj-s-rozhdenija-velichajshej-siloj.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75640",
+      "cardName": "Зои",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/3191/b/zoi-1770761339-234548.webp",
+      "cardAuthor": "BETEP_B_TYMAHE",
+      "animeId": 3191,
+      "animeName": "Реинкарнация аристократа: Благословенный с рождения величайшей силой",
+      "animeLink": "/aniserials/video/action/3191-reinkarnacija-aristokrata-blagoslovennyj-s-rozhdenija-velichajshej-siloj.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75639",
+      "cardName": "Ван Ней Фертио",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3200/a/van-nej-fertio-1770761290-387164.webp",
+      "cardAuthor": "BETEP_B_TYMAHE",
+      "animeId": 3200,
+      "animeName": "Весёлая защита владений беспечного лорда: Превращение безымянной деревни в неприступную крепость с помощью производственной магии",
+      "animeLink": "/aniserials/video/fant/3200-veselaja-zaschita-vladenij-bespechnogo-lorda-prevraschenie-bezymjannoj-derevni-v-nepristupnuju-krepost-s-pomoschju-proizvodstvennoj-magii.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75638",
+      "cardName": "Мэй, Элли и Аоюки",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/3100/c/mjej-jelli-i-aojuki-1770761192-343197.webp",
+      "cardAuthor": "BETEP_B_TYMAHE",
+      "animeId": 3100,
+      "animeName": "Я был убит товарищами в глубине подземелья, но обрёл товарищей 9999 уровня, чтобы отомстить предыдущим товарищам и миру!",
+      "animeLink": "/aniserials/video/action/3100-ja-byl-ubit-tovarischami-v-glubine-podzemelja-no-obrel-tovarischej-9999-urovnja-chtoby-otomstit-predyduschim-tovarischam-i-miru-2025.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75632",
+      "cardName": "Сэна Сэта",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/3113/d/sjena-sjeta-1770761037-178339.webp",
+      "cardAuthor": "Knarrenheins",
+      "animeId": 3113,
+      "animeName": "Тандзабуро Тодзима хочет стать Наездником в маске",
+      "animeLink": "/aniserials/video/seinen/3113-tandzaburo-todzima-hochet-stat-naezdnikom-v-maske.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75626",
+      "cardName": "Руби Хосино",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3226/a/rubi-hosino-1770760857-934801.webp",
+      "cardAuthor": "Mashallini",
+      "animeId": 3226,
+      "animeName": "Ребёнок идола 3 сезон",
+      "animeLink": "/aniserials/video/shounen/3226-rebenok-idola-3.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75615",
+      "cardName": "Махиру Коидзуми",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/1506/b/mahiru-koidzumi-1770760474-979375.webp",
+      "cardAuthor": "koctan",
+      "animeId": 1506,
+      "animeName": "Данганронпа 3: Отчаяние",
+      "animeLink": "/aniserials/video/detective/1506-danganronpa-3-otchajanie-2016.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75612",
+      "cardName": "Мондо Овада",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/174/b/mondo-ovada-1770760336-719024.webp",
+      "cardAuthor": "koctan",
+      "animeId": 174,
+      "animeName": "Данганронпа: Школа надежды и безнадёжные школьники",
+      "animeLink": "/aniserials/video/gender_intriga/174-danganronpa-2013.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75605",
+      "cardName": "Мать и дочь",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/3097/c/mat-i-doch-1770760055-546072.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3097,
+      "animeName": "Леди со странным вкусом и безумный герцог",
+      "animeLink": "/aniserials/video/fant/3097-ledi-so-strannym-vkusom-i-bezumnyj-gercog-2025.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75592",
+      "cardName": "Тихиро Фудзисаки",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/1506/d/tihiro-fudzisaki-1770759656-595538.webp",
+      "cardAuthor": "koctan",
+      "animeId": 1506,
+      "animeName": "Данганронпа 3: Отчаяние",
+      "animeLink": "/aniserials/video/detective/1506-danganronpa-3-otchajanie-2016.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75591",
+      "cardName": "Юдзи Итадори",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3205/a/judzi-itadori-1770759586-895889.webp",
+      "cardAuthor": "Kaneki_Haise",
+      "animeId": 3205,
+      "animeName": "Магическая битва 3 сезон: Смертельная миграция",
+      "animeLink": "/aniserials/video/shounen/3205-magicheskaja-bitva-smertelnaja-migracija.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "75589",
       "cardName": "Хунфэн Байли",
@@ -934,20 +1077,6 @@
       "owners-need": 99,
       "owners-trade": 1,
       "lastUpdated": "2026-02-10, 22:59:53"
-    },
-    {
-      "cardId": "75361",
-      "cardName": "Фена Хаутман",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/1144/s/fena-hautman-1770633792-167171.webp",
-      "cardAuthor": "Арата",
-      "animeId": 1144,
-      "animeName": "Фена: Принцесса пиратов",
-      "animeLink": "/aniserials/video/action/1144-fena-princessa-piratov.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-10, 22:59:54"
     },
     {
       "cardId": "75347",
