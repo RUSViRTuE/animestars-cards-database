@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-10, 20:58:34",
+    "generatedTimestamp": "2026-02-10, 22:58:39",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,113 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35561
+    "totalCards": 35568
   },
   "cards": [
+    {
+      "cardId": "75589",
+      "cardName": "Хунфэн Байли",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/2256/b/hunfjen-bajli-1770749143-947851.webp",
+      "cardAuthor": "lyubopytnaya1999",
+      "animeId": 2256,
+      "animeName": "Становление богом 2 сезон",
+      "animeLink": "/aniserials/video/action/2256-stanovlenie-bogom-2-sezon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75588",
+      "cardName": "Пэко и Фуюхико",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/1505/c/pjeko-i-fujuhiko-1770745891-439138.webp",
+      "cardAuthor": "koctan",
+      "animeId": 1505,
+      "animeName": "Данганронпа 3: Будущее",
+      "animeLink": "/aniserials/video/detective/1505-danganronpa-3-buduschee-2016.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75587",
+      "cardName": "Махиру и Ибуки",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/1505/c/mahiru-i-ibuki-1770745855-979379.webp",
+      "cardAuthor": "koctan",
+      "animeId": 1505,
+      "animeName": "Данганронпа 3: Будущее",
+      "animeLink": "/aniserials/video/detective/1505-danganronpa-3-buduschee-2016.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75584",
+      "cardName": "Пойдём со мной",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/1547/e/pojdem-so-mnoj-1770744598-804012.webp",
+      "cardAuthor": "Anna.anna",
+      "animeId": 1547,
+      "animeName": "Принцесса-библиофил",
+      "animeLink": "/aniserials/video/drama/1547-princessa-bibliofil.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75577",
+      "cardName": "Семейное фото",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/746/e/semejnoe-foto-1770748309-210568.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 746,
+      "animeName": "Богатый детектив. Баланс неограничен",
+      "animeLink": "/aniserials/video/detective/746-bogatyj-detektiv-balans-neogranichen.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75576",
+      "cardName": "Дайсукэ и Судзуэ Камбэ",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/746/c/dajsukje-i-sudzuje-kambje-1770748255-977858.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 746,
+      "animeName": "Богатый детектив. Баланс неограничен",
+      "animeLink": "/aniserials/video/detective/746-bogatyj-detektiv-balans-neogranichen.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75575",
+      "cardName": "Рикардо",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/746/d/rikardo-1770748183-25401.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 746,
+      "animeName": "Богатый детектив. Баланс неограничен",
+      "animeLink": "/aniserials/video/detective/746-bogatyj-detektiv-balans-neogranichen.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75574",
+      "cardName": "Кацухиро Такэй",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/746/b/kacuhiro-takjej-1770748134-320208.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 746,
+      "animeName": "Богатый детектив. Баланс неограничен",
+      "animeLink": "/aniserials/video/detective/746-bogatyj-detektiv-balans-neogranichen.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "75570",
       "cardName": "Акадза",
@@ -20,6 +124,20 @@
       "animeId": 3177,
       "animeName": "Клинок, рассекающий демонов: Бесконечный замок — Возвращение Акадзы",
       "animeLink": "/aniserials/video/shounen/3177-klinok-rassekajuschij-demonov-beskonechnyj-zamok-vozvraschenie-akadzy.html",
+      "owners-count": 0,
+      "owners-need": 20,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-10, 20:58:53"
+    },
+    {
+      "cardId": "75567",
+      "cardName": "Мира Камиунтэн",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/3206/b/mira-kamiuntjen-1770747437-85231.webp",
+      "cardAuthor": "_____KAPA_____",
+      "animeId": 3206,
+      "animeName": "Раб спецотряда демонического города 2",
+      "animeLink": "/aniserials/video/shounen/3206-rab-specotrjada-demonicheskogo-goroda-2.html",
       "owners-count": null,
       "owners-need": null,
       "owners-trade": null
@@ -33,9 +151,10 @@
       "animeId": 854,
       "animeName": "Судьба: Девочка-волшебница Иллия 4 сезон",
       "animeLink": "/aniserials/video/action/854-sudba-devochka-volshebnica-illija-4-sezon.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 11,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-10, 20:58:54"
     },
     {
       "cardId": "75559",
@@ -806,20 +925,6 @@
       "owners-need": 97,
       "owners-trade": 0,
       "lastUpdated": "2026-02-10, 19:43:57"
-    },
-    {
-      "cardId": "75361",
-      "cardName": "Фена Хаутман",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/1144/s/fena-hautman-1770633792-167171.webp",
-      "cardAuthor": "Арата",
-      "animeId": 1144,
-      "animeName": "Фена: Принцесса пиратов",
-      "animeLink": "/aniserials/video/action/1144-fena-princessa-piratov.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-10, 19:43:58"
     },
     {
       "cardId": "75347",
@@ -2444,20 +2549,6 @@
       "owners-need": 40,
       "owners-trade": 7,
       "lastUpdated": "2026-02-10, 19:45:35"
-    },
-    {
-      "cardId": "75003",
-      "cardName": "Гриффит",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/596/s/griffit-1770407821-364641.webp",
-      "cardAuthor": "anna.botfort",
-      "animeId": 596,
-      "animeName": "Берсерк",
-      "animeLink": "/aniserials/video/action/596-berserk-1-sezon-1997.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-10, 19:45:36"
     },
     {
       "cardId": "75000",
@@ -284088,10 +284179,10 @@
       "animeId": 46,
       "animeName": "Йона на заре",
       "animeLink": "/aniserials/video/garem-dlya-devushek/46-yona-na-zare-rassvet-eny.html",
-      "lastUpdated": "2026-02-09, 12:16:05",
-      "owners-count": 2390,
-      "owners-need": 11,
-      "owners-trade": 282
+      "lastUpdated": "2026-02-10, 20:59:00",
+      "owners-count": 2382,
+      "owners-need": 10,
+      "owners-trade": 281
     },
     {
       "cardId": "26905",
@@ -284102,10 +284193,10 @@
       "animeId": 2640,
       "animeName": "Истории подделок",
       "animeLink": "/aniserials/video/drama/2640-istorii-poddelok.html",
-      "lastUpdated": "2026-02-09, 12:16:04",
-      "owners-count": 2241,
+      "lastUpdated": "2026-02-10, 20:59:00",
+      "owners-count": 2227,
       "owners-need": 10,
-      "owners-trade": 300
+      "owners-trade": 302
     },
     {
       "cardId": "26903",
@@ -284116,10 +284207,10 @@
       "animeId": 176,
       "animeName": "Истории монстров",
       "animeLink": "/aniserials/video/vampires/176-istorii-monstrov.html",
-      "lastUpdated": "2026-02-09, 12:16:03",
-      "owners-count": 1746,
+      "lastUpdated": "2026-02-10, 20:58:59",
+      "owners-count": 1745,
       "owners-need": 5,
-      "owners-trade": 166
+      "owners-trade": 163
     },
     {
       "cardId": "26899",
@@ -284130,10 +284221,10 @@
       "animeId": 2660,
       "animeName": "Ты - горничная",
       "animeLink": "/aniserials/video/comedy/2660-ty-gornichnaja.html",
-      "lastUpdated": "2026-02-09, 12:16:02",
-      "owners-count": 1871,
-      "owners-need": 4,
-      "owners-trade": 212
+      "lastUpdated": "2026-02-10, 20:58:58",
+      "owners-count": 1870,
+      "owners-need": 5,
+      "owners-trade": 210
     },
     {
       "cardId": "26898",
@@ -284144,10 +284235,10 @@
       "animeId": 2660,
       "animeName": "Ты - горничная",
       "animeLink": "/aniserials/video/comedy/2660-ty-gornichnaja.html",
-      "lastUpdated": "2026-02-09, 12:16:01",
-      "owners-count": 1712,
-      "owners-need": 6,
-      "owners-trade": 190
+      "lastUpdated": "2026-02-10, 20:58:57",
+      "owners-count": 1709,
+      "owners-need": 7,
+      "owners-trade": 192
     },
     {
       "cardId": "26896",
@@ -284158,10 +284249,10 @@
       "animeId": 104,
       "animeName": "Аватар короля",
       "animeLink": "/aniserials/video/action/104-avatar-korolya-2017.html",
-      "lastUpdated": "2026-02-09, 12:16:01",
-      "owners-count": 2492,
+      "lastUpdated": "2026-02-10, 20:58:56",
+      "owners-count": 2484,
       "owners-need": 28,
-      "owners-trade": 231
+      "owners-trade": 238
     },
     {
       "cardId": "26895",
@@ -284172,9 +284263,9 @@
       "animeId": 2745,
       "animeName": "Поднятие уровня в одиночку 2 сезон: Восстаньте из тени",
       "animeLink": "/aniserials/video/action/2745-podnjatie-urovnja-v-odinochku-2-sezon-vosstante-iz-teni-animestars.html",
-      "lastUpdated": "2026-02-09, 12:16:00",
-      "owners-count": 4393,
-      "owners-need": 324,
+      "lastUpdated": "2026-02-10, 20:58:55",
+      "owners-count": 4382,
+      "owners-need": 329,
       "owners-trade": 292
     },
     {
@@ -284186,10 +284277,10 @@
       "animeId": 490,
       "animeName": "Фронт кровавой блокады 2 сезон",
       "animeLink": "/aniserials/video/vampires/490-front-krovavoy-blokady-2-sezon.html",
-      "lastUpdated": "2026-02-09, 12:15:58",
-      "owners-count": 1673,
-      "owners-need": 4,
-      "owners-trade": 173
+      "lastUpdated": "2026-02-10, 20:58:54",
+      "owners-count": 1669,
+      "owners-need": 5,
+      "owners-trade": 171
     },
     {
       "cardId": "26891",
