@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-12, 20:59:59",
+    "generatedTimestamp": "2026-02-12, 23:00:04",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,48 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35619
+    "totalCards": 35621
   },
   "cards": [
+    {
+      "cardId": "75890",
+      "cardName": "Праздничные онигири",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/3135/c/prazdnichnye-onigiri-1770921118-510618.webp",
+      "cardAuthor": "aksay",
+      "animeId": 3135,
+      "animeName": "Титосэ внутри бутылки рамунэ",
+      "animeLink": "/aniserials/video/comedy/3135-titosje-vnutri-butylki-ramunje-amediateka.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75884",
+      "cardName": "Цин Сюй",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3174/a/cin-sjuj-1770915316-284146.webp",
+      "cardAuthor": "sergeisevincov",
+      "animeId": 3174,
+      "animeName": "За гранью времени",
+      "animeLink": "/aniserials/video/action/3174-za-granju-vremeni.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75882",
+      "cardName": "Мэй",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/657/d/mjej-1770920670-110977.webp",
+      "cardAuthor": "Mililu",
+      "animeId": 657,
+      "animeName": "Не люблю боль, поэтому собираюсь вложить всё в защиту",
+      "animeLink": "/aniserials/video/action/657-ne-lyublyu-bol-poetomu-sobirayus-vlozhit-vse-v-zaschitu-2020.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "75880",
       "cardName": "Адонис и Хлоя",
@@ -20,9 +59,10 @@
       "animeId": 2194,
       "animeName": "Королевство руин",
       "animeLink": "/aniserials/video/drama/2194-korolevstvo-ruin-animestars-v3.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 4,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-12, 21:00:19"
     },
     {
       "cardId": "75876",
@@ -1619,20 +1659,6 @@
       "owners-need": 105,
       "owners-trade": 0,
       "lastUpdated": "2026-02-12, 19:46:07"
-    },
-    {
-      "cardId": "75361",
-      "cardName": "Фена Хаутман",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/1144/s/fena-hautman-1770633792-167171.webp",
-      "cardAuthor": "Арата",
-      "animeId": 1144,
-      "animeName": "Фена: Принцесса пиратов",
-      "animeLink": "/aniserials/video/action/1144-fena-princessa-piratov.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-12, 19:46:08"
     },
     {
       "cardId": "75347",
@@ -196027,10 +196053,10 @@
       "animeId": 824,
       "animeName": "Тёмный дворецкий 2 сезон",
       "animeLink": "/aniserials/video/historical/824-temnyj-dvoreckij-2-sezon.html",
-      "lastUpdated": "2026-02-11, 20:27:19",
-      "owners-count": 2331,
-      "owners-need": 25,
-      "owners-trade": 244
+      "lastUpdated": "2026-02-12, 21:00:19",
+      "owners-count": 2314,
+      "owners-need": 24,
+      "owners-trade": 247
     },
     {
       "cardId": "41278",
