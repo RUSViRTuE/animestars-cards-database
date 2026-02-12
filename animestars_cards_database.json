@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-12, 17:44:08",
+    "generatedTimestamp": "2026-02-12, 19:44:12",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,61 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35613
+    "totalCards": 35616
   },
   "cards": [
+    {
+      "cardId": "75871",
+      "cardName": "Тиби",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/3088/e/tibi-1770908016-401407.webp",
+      "cardAuthor": "Mililu",
+      "animeId": 3088,
+      "animeName": "Повар небесной гостиницы 2",
+      "animeLink": "/aniserials/video/drama/3088-povar-nebesnoj-gostinicy-2.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75867",
+      "cardName": "Валентинов день",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/2214/c/valentinov-den-1770907766-459736.webp",
+      "cardAuthor": "Augustina",
+      "animeId": 2214,
+      "animeName": "Благословение небожителей 2 сезон",
+      "animeLink": "/aniserials/video/drama/2214-blagoslovenie-nebozhitelej-2-sezon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75860",
+      "cardName": "Цюн Жуань",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/3173/b/cjun-zhuan-1770896916-775610.webp",
+      "cardAuthor": "lyubopytnaya1999",
+      "animeId": 3173,
+      "animeName": "Меч грядущего 2",
+      "animeLink": "/aniserials/video/action/3173-mech-grjaduschego-2.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "75856",
+      "cardName": "Панамера Каррера Кайен",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/3200/b/panamera-karrera-kajen-1770907412-244770.webp",
+      "cardAuthor": "sammael",
+      "animeId": 3200,
+      "animeName": "Весёлая защита владений беспечного лорда: Превращение безымянной деревни в неприступную крепость с помощью производственной магии",
+      "animeLink": "/aniserials/video/fant/3200-veselaja-zaschita-vladenij-bespechnogo-lorda-prevraschenie-bezymjannoj-derevni-v-nepristupnuju-krepost-s-pomoschju-proizvodstvennoj-magii.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "75844",
       "cardName": "Эссенция крови мудреца",
@@ -20,9 +72,10 @@
       "animeId": 2077,
       "animeName": "Расколотая битвой синева небес 5 сезон",
       "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v17.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 9,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-12, 17:44:27"
     },
     {
       "cardId": "75812",
@@ -1535,20 +1588,6 @@
       "owners-need": 106,
       "owners-trade": 0,
       "lastUpdated": "2026-02-12, 16:31:05"
-    },
-    {
-      "cardId": "75361",
-      "cardName": "Фена Хаутман",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/1144/s/fena-hautman-1770633792-167171.webp",
-      "cardAuthor": "Арата",
-      "animeId": 1144,
-      "animeName": "Фена: Принцесса пиратов",
-      "animeLink": "/aniserials/video/action/1144-fena-princessa-piratov.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-12, 16:31:06"
     },
     {
       "cardId": "75347",
