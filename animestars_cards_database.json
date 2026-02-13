@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-13, 03:54:59",
+    "generatedTimestamp": "2026-02-13, 05:55:03",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,7 +8,7 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35631
+    "totalCards": 35630
   },
   "cards": [
     {
@@ -1788,20 +1788,6 @@
       "owners-need": 107,
       "owners-trade": 0,
       "lastUpdated": "2026-02-13, 02:41:09"
-    },
-    {
-      "cardId": "75361",
-      "cardName": "Фена Хаутман",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/1144/s/fena-hautman-1770633792-167171.webp",
-      "cardAuthor": "Арата",
-      "animeId": 1144,
-      "animeName": "Фена: Принцесса пиратов",
-      "animeLink": "/aniserials/video/action/1144-fena-princessa-piratov.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-13, 02:41:10"
     },
     {
       "cardId": "75347",
@@ -334084,10 +334070,10 @@
       "animeId": 2036,
       "animeName": "Чёрный клевер: Меч Короля Магов",
       "animeLink": "/aniserials/video/action/2036-chernyj-klever-mech-korolja-magov.html",
-      "lastUpdated": "2026-02-12, 02:55:33",
+      "lastUpdated": "2026-02-13, 03:55:21",
       "owners-count": 627,
       "owners-need": 80,
-      "owners-trade": 54
+      "owners-trade": 56
     },
     {
       "cardId": "20629",
@@ -334098,7 +334084,7 @@
       "animeId": 38,
       "animeName": "Граффити счастливой кухни",
       "animeLink": "/aniserials/video/comedy/38-graffiti-schastlivoy-kuhni.html",
-      "lastUpdated": "2026-02-12, 02:55:32",
+      "lastUpdated": "2026-02-13, 03:55:20",
       "owners-count": 232,
       "owners-need": 5,
       "owners-trade": 30
@@ -334112,10 +334098,10 @@
       "animeId": 1116,
       "animeName": "Сонни Бой",
       "animeLink": "/aniserials/video/romance/1116-sonni-boj.html",
-      "lastUpdated": "2026-02-12, 02:55:32",
-      "owners-count": 534,
-      "owners-need": 11,
-      "owners-trade": 91
+      "lastUpdated": "2026-02-13, 03:55:20",
+      "owners-count": 530,
+      "owners-need": 10,
+      "owners-trade": 92
     },
     {
       "cardId": "20623",
@@ -334126,9 +334112,9 @@
       "animeId": 1549,
       "animeName": "Синяя тюрьма: Блю Лок",
       "animeLink": "/aniserials/video/drama/1549-sinjaja-tjurma-blju-lok-animestars-2022-as.html",
-      "lastUpdated": "2026-02-12, 02:55:31",
-      "owners-count": 2288,
-      "owners-need": 18,
+      "lastUpdated": "2026-02-13, 03:55:19",
+      "owners-count": 2249,
+      "owners-need": 17,
       "owners-trade": 249
     },
     {
@@ -334140,10 +334126,10 @@
       "animeId": 1565,
       "animeName": "Несносные пришельцы 2022",
       "animeLink": "/aniserials/video/comedy/1565-nesnosnye-prishelcy-2022.html",
-      "lastUpdated": "2026-02-12, 02:55:30",
-      "owners-count": 1378,
+      "lastUpdated": "2026-02-13, 03:55:18",
+      "owners-count": 1366,
       "owners-need": 7,
-      "owners-trade": 169
+      "owners-trade": 168
     },
     {
       "cardId": "20619",
@@ -334154,10 +334140,10 @@
       "animeId": 2294,
       "animeName": "Выходной Господина Злодея",
       "animeLink": "/aniserials/video/comedy/2294-vyhodnoj-gospodina-zlodeja.html",
-      "lastUpdated": "2026-02-12, 02:55:29",
-      "owners-count": 2248,
+      "lastUpdated": "2026-02-13, 03:55:17",
+      "owners-count": 2229,
       "owners-need": 8,
-      "owners-trade": 253
+      "owners-trade": 254
     },
     {
       "cardId": "20618",
