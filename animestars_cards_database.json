@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-13, 20:32:28",
+    "generatedTimestamp": "2026-02-13, 22:32:32",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,100 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35646
+    "totalCards": 35652
   },
   "cards": [
+    {
+      "cardId": "76020",
+      "cardName": "Тилл",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/3200/b/till-1771009931-913434.webp",
+      "cardAuthor": "sammael",
+      "animeId": 3200,
+      "animeName": "Весёлая защита владений беспечного лорда: Превращение безымянной деревни в неприступную крепость с помощью производственной магии",
+      "animeLink": "/aniserials/video/fant/3200-veselaja-zaschita-vladenij-bespechnogo-lorda-prevraschenie-bezymjannoj-derevni-v-nepristupnuju-krepost-s-pomoschju-proizvodstvennoj-magii.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76010",
+      "cardName": "Валентинов день",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/3093/e/valentinov-den-1771000202-441950.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3093,
+      "animeName": "Неумелый сэмпай",
+      "animeLink": "/aniserials/video/seinen/3093-neumelyj-sjempaj.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76009",
+      "cardName": "Акэми Хамаваки",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/3093/d/akjemi-hamavaki-1770999990-276143.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3093,
+      "animeName": "Неумелый сэмпай",
+      "animeLink": "/aniserials/video/seinen/3093-neumelyj-sjempaj.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76008",
+      "cardName": "Рицу Канкайдзи",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/3093/b/ricu-kankajdzi-1770999897-938242.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3093,
+      "animeName": "Неумелый сэмпай",
+      "animeLink": "/aniserials/video/seinen/3093-neumelyj-sjempaj.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76007",
+      "cardName": "Сакура Каннава",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/3093/d/sakura-kannava-1770999824-72528.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3093,
+      "animeName": "Неумелый сэмпай",
+      "animeLink": "/aniserials/video/seinen/3093-neumelyj-sjempaj.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76006",
+      "cardName": "Мио Хотта",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/3093/b/mio-hotta-1770999791-415165.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3093,
+      "animeName": "Неумелый сэмпай",
+      "animeLink": "/aniserials/video/seinen/3093-neumelyj-sjempaj.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76003",
+      "cardName": "Баопин Ли",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3173/a/baopin-li-1770999500-973389.webp",
+      "cardAuthor": "lyubopytnaya1999",
+      "animeId": 3173,
+      "animeName": "Меч грядущего 2",
+      "animeLink": "/aniserials/video/action/3173-mech-grjaduschego-2.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "76002",
       "cardName": "Любовь - это...",
@@ -1998,20 +2089,6 @@
       "owners-need": 112,
       "owners-trade": 0,
       "lastUpdated": "2026-02-13, 19:19:28"
-    },
-    {
-      "cardId": "75361",
-      "cardName": "Фена Хаутман",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/1144/s/fena-hautman-1770633792-167171.webp",
-      "cardAuthor": "Арата",
-      "animeId": 1144,
-      "animeName": "Фена: Принцесса пиратов",
-      "animeLink": "/aniserials/video/action/1144-fena-princessa-piratov.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-13, 19:19:29"
     },
     {
       "cardId": "75347",
@@ -188930,9 +189007,9 @@
       "animeId": 2126,
       "animeName": "Хельк",
       "animeLink": "/aniserials/video/comedy/2126-helk.html",
-      "lastUpdated": "2026-02-12, 20:53:14",
-      "owners-count": 1655,
-      "owners-need": 19,
+      "lastUpdated": "2026-02-13, 20:32:49",
+      "owners-count": 1654,
+      "owners-need": 20,
       "owners-trade": 172
     },
     {
@@ -188944,9 +189021,9 @@
       "animeId": 315,
       "animeName": "Бадминтон Аяно Ханэсаки",
       "animeLink": "/aniserials/video/comedy/315-badminton-ayano-hanesaki-2018.html",
-      "lastUpdated": "2026-02-12, 20:53:13",
-      "owners-count": 1873,
-      "owners-need": 19,
+      "lastUpdated": "2026-02-13, 20:32:48",
+      "owners-count": 1874,
+      "owners-need": 17,
       "owners-trade": 240
     },
     {
@@ -188958,8 +189035,8 @@
       "animeId": 315,
       "animeName": "Бадминтон Аяно Ханэсаки",
       "animeLink": "/aniserials/video/comedy/315-badminton-ayano-hanesaki-2018.html",
-      "lastUpdated": "2026-02-12, 20:53:12",
-      "owners-count": 1201,
+      "lastUpdated": "2026-02-13, 20:32:47",
+      "owners-count": 1205,
       "owners-need": 14,
       "owners-trade": 144
     },
@@ -188972,10 +189049,10 @@
       "animeId": 1706,
       "animeName": "Ангел по соседству",
       "animeLink": "/aniserials/video/comedy/1706-angel-po-sosedstvu-animestars-2023-as.html",
-      "lastUpdated": "2026-02-12, 20:53:11",
+      "lastUpdated": "2026-02-13, 20:32:47",
       "owners-count": 1744,
       "owners-need": 32,
-      "owners-trade": 128
+      "owners-trade": 125
     },
     {
       "cardId": "42460",
