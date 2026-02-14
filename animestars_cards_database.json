@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-14, 16:19:53",
+    "generatedTimestamp": "2026-02-14, 18:19:56",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,48 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35672
+    "totalCards": 35674
   },
   "cards": [
+    {
+      "cardId": "76105",
+      "cardName": "Бин Ран",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3002/a/bin-ran-1771076973-539425.webp",
+      "cardAuthor": "lyubopytnaya1999",
+      "animeId": 3002,
+      "animeName": "Клетка духа: Воплощение",
+      "animeLink": "/aniserials/video/action/3002-kletka-duha-voploschenie-2019.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76103",
+      "cardName": "Сяоган Юй и Эрлон Лю",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/605/c/sjaogan-juj-i-jerlon-lju-1771076822-850935.webp",
+      "cardAuthor": "kep1384",
+      "animeId": 605,
+      "animeName": "Боевой континент",
+      "animeLink": "/aniserials/video/action/605-boevoy-kontinent-animestars-2018.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76102",
+      "cardName": "Чэнь Е и Линъэр Чу",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/1824/c/chjen-e-i-linjer-chu-1771076622-844385.webp",
+      "cardAuthor": "kep1384",
+      "animeId": 1824,
+      "animeName": "Контратака изгнанного ученика",
+      "animeLink": "/aniserials/video/action/1824-kontrataka-izgnannogo-uchenika-2023.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "76094",
       "cardName": "Раны",
@@ -20,9 +59,10 @@
       "animeId": 1864,
       "animeName": "Страна десяти тысяч чудес",
       "animeLink": "/aniserials/video/martial_arts/1864-strana-desjati-tysjach-chudes.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 5,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-14, 16:20:11"
     },
     {
       "cardId": "76092",
@@ -33,9 +73,10 @@
       "animeId": 3093,
       "animeName": "Неумелый сэмпай",
       "animeLink": "/aniserials/video/seinen/3093-neumelyj-sjempaj.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 7,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-14, 16:20:12"
     },
     {
       "cardId": "76090",
@@ -46,9 +87,10 @@
       "animeId": 3093,
       "animeName": "Неумелый сэмпай",
       "animeLink": "/aniserials/video/seinen/3093-neumelyj-sjempaj.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 1,
+      "owners-need": 10,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-14, 16:20:13"
     },
     {
       "cardId": "76088",
@@ -59,9 +101,10 @@
       "animeId": 3093,
       "animeName": "Неумелый сэмпай",
       "animeLink": "/aniserials/video/seinen/3093-neumelyj-sjempaj.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 11,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-14, 16:20:14"
     },
     {
       "cardId": "76087",
@@ -72,9 +115,10 @@
       "animeId": 2051,
       "animeName": "Окутывая небеса",
       "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 24,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-14, 16:20:15"
     },
     {
       "cardId": "76086",
@@ -2357,20 +2401,6 @@
       "owners-need": 115,
       "owners-trade": 0,
       "lastUpdated": "2026-02-14, 14:28:09"
-    },
-    {
-      "cardId": "75361",
-      "cardName": "Фена Хаутман",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/1144/s/fena-hautman-1770633792-167171.webp",
-      "cardAuthor": "Арата",
-      "animeId": 1144,
-      "animeName": "Фена: Принцесса пиратов",
-      "animeLink": "/aniserials/video/action/1144-fena-princessa-piratov.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-14, 14:28:11"
     },
     {
       "cardId": "75347",
@@ -493175,10 +493205,10 @@
       "animeId": 2219,
       "animeName": "Монолог фармацевта",
       "animeLink": "/aniserials/video/drama/2219-monolog-farmacevta-animestars-vv11.html",
-      "lastUpdated": "2026-02-13, 13:40:33",
-      "owners-count": 5067,
-      "owners-need": 134,
-      "owners-trade": 435
+      "lastUpdated": "2026-02-14, 16:20:18",
+      "owners-count": 5075,
+      "owners-need": 135,
+      "owners-trade": 433
     },
     {
       "cardId": "492",
@@ -493189,10 +493219,10 @@
       "animeId": 1630,
       "animeName": "Инициал Ди",
       "animeLink": "/aniserials/video/drama/1630-inicial-di-1-sezon.html",
-      "lastUpdated": "2026-02-13, 13:40:32",
-      "owners-count": 2796,
+      "lastUpdated": "2026-02-14, 16:20:17",
+      "owners-count": 2800,
       "owners-need": 9,
-      "owners-trade": 225
+      "owners-trade": 224
     },
     {
       "cardId": "491",
@@ -493203,8 +493233,8 @@
       "animeId": 391,
       "animeName": "Восхождение Героя щита",
       "animeLink": "/aniserials/video/drama/391-voshozhdenie-geroya-schita.html",
-      "lastUpdated": "2026-02-13, 13:40:31",
-      "owners-count": 3484,
+      "lastUpdated": "2026-02-14, 16:20:16",
+      "owners-count": 3482,
       "owners-need": 38,
       "owners-trade": 344
     },
@@ -493217,10 +493247,10 @@
       "animeId": 1544,
       "animeName": "Восхождение в тени",
       "animeLink": "/aniserials/video/action/1544-voshozhdenie-v-teni-animestars-2022-as.html",
-      "lastUpdated": "2026-02-13, 13:40:30",
-      "owners-count": 2906,
-      "owners-need": 160,
-      "owners-trade": 278
+      "lastUpdated": "2026-02-14, 16:20:16",
+      "owners-count": 2909,
+      "owners-need": 162,
+      "owners-trade": 280
     },
     {
       "cardId": "485",
