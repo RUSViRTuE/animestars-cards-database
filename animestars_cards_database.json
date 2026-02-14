@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-14, 01:09:23",
+    "generatedTimestamp": "2026-02-14, 03:09:27",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,139 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35653
+    "totalCards": 35662
   },
   "cards": [
+    {
+      "cardId": "76056",
+      "cardName": "Юката",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/3093/e/jukata-1771022237-217862.webp",
+      "cardAuthor": "Yilina",
+      "animeId": 3093,
+      "animeName": "Неумелый сэмпай",
+      "animeLink": "/aniserials/video/seinen/3093-neumelyj-sjempaj.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76051",
+      "cardName": "Морской Дракон",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/605/b/morskoj-drakon-1771018821-95444.webp",
+      "cardAuthor": "мира.",
+      "animeId": 605,
+      "animeName": "Боевой континент",
+      "animeLink": "/aniserials/video/action/605-boevoy-kontinent-animestars-2018.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76049",
+      "cardName": "Райдзю",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/3088/b/rajdzju-1771018095-468869.webp",
+      "cardAuthor": "Eugenia",
+      "animeId": 3088,
+      "animeName": "Повар небесной гостиницы 2",
+      "animeLink": "/aniserials/video/drama/3088-povar-nebesnoj-gostinicy-2.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76047",
+      "cardName": "Дайсукэ Арамаки",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/1898/a/dajsukje-aramaki-1771025621-805464.webp",
+      "cardAuthor": "Мурашка",
+      "animeId": 1898,
+      "animeName": "Призрак в доспехах: Синдром одиночки",
+      "animeLink": "/aniserials/video/fantastic/1898-prizrak-v-dospehah-sindrom-odinochki.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76046",
+      "cardName": "Маки Дзэнин",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/3205/b/maki-dzjenin-1771025543-593394.webp",
+      "cardAuthor": "Faret_333",
+      "animeId": 3205,
+      "animeName": "Магическая битва 3 сезон: Смертельная миграция",
+      "animeLink": "/aniserials/video/shounen/3205-magicheskaja-bitva-smertelnaja-migracija.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76045",
+      "cardName": "Тодзи и Наоя",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/3205/c/todzi-i-naoja-1771025414-48626.webp",
+      "cardAuthor": "Faret_333",
+      "animeId": 3205,
+      "animeName": "Магическая битва 3 сезон: Смертельная миграция",
+      "animeLink": "/aniserials/video/shounen/3205-magicheskaja-bitva-smertelnaja-migracija.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76042",
+      "cardName": "Гёте",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/2194/b/gete-1771016416-453886.webp",
+      "cardAuthor": "Mililu",
+      "animeId": 2194,
+      "animeName": "Королевство руин",
+      "animeLink": "/aniserials/video/drama/2194-korolevstvo-ruin-animestars-v3.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76035",
+      "cardName": "Адзуса и Ю",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/3093/c/adzusa-i-ju-1771013012-546483.webp",
+      "cardAuthor": "Yilina",
+      "animeId": 3093,
+      "animeName": "Неумелый сэмпай",
+      "animeLink": "/aniserials/video/seinen/3093-neumelyj-sjempaj.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76027",
+      "cardName": "Обеденный перерыв",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/3093/e/obedennyj-pereryv-1771024927-952104.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3093,
+      "animeName": "Неумелый сэмпай",
+      "animeLink": "/aniserials/video/seinen/3093-neumelyj-sjempaj.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76025",
+      "cardName": "Рин Судзугая",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/3093/d/rin-sudzugaja-1771010707-25169.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3093,
+      "animeName": "Неумелый сэмпай",
+      "animeLink": "/aniserials/video/seinen/3093-neumelyj-sjempaj.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "76020",
       "cardName": "Тилл",
@@ -2096,20 +2226,6 @@
       "owners-need": 115,
       "owners-trade": 0,
       "lastUpdated": "2026-02-13, 22:34:54"
-    },
-    {
-      "cardId": "75361",
-      "cardName": "Фена Хаутман",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/1144/s/fena-hautman-1770633792-167171.webp",
-      "cardAuthor": "Арата",
-      "animeId": 1144,
-      "animeName": "Фена: Принцесса пиратов",
-      "animeLink": "/aniserials/video/action/1144-fena-princessa-piratov.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-13, 22:34:55"
     },
     {
       "cardId": "75347",
