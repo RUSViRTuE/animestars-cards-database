@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-14, 23:12:50",
+    "generatedTimestamp": "2026-02-15, 01:12:55",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,7 +8,7 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35680
+    "totalCards": 35679
   },
   "cards": [
     {
@@ -2474,20 +2474,6 @@
       "owners-need": 117,
       "owners-trade": 0,
       "lastUpdated": "2026-02-14, 21:08:42"
-    },
-    {
-      "cardId": "75361",
-      "cardName": "Фена Хаутман",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/1144/s/fena-hautman-1770633792-167171.webp",
-      "cardAuthor": "Арата",
-      "animeId": 1144,
-      "animeName": "Фена: Принцесса пиратов",
-      "animeLink": "/aniserials/video/action/1144-fena-princessa-piratov.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-14, 21:08:43"
     },
     {
       "cardId": "75347",
@@ -117836,10 +117822,10 @@
       "animeId": 520,
       "animeName": "Маг-обманщик из другого мира",
       "animeLink": "/aniserials/video/action/520-mag-obmanschik-iz-drugogo-mira.html",
-      "lastUpdated": "2026-02-13, 17:43:40",
-      "owners-count": 808,
-      "owners-need": 11,
-      "owners-trade": 116
+      "lastUpdated": "2026-02-14, 23:13:21",
+      "owners-count": 807,
+      "owners-need": 12,
+      "owners-trade": 114
     },
     {
       "cardId": "53920",
@@ -117850,10 +117836,10 @@
       "animeId": 2964,
       "animeName": "Маг воды",
       "animeLink": "/aniserials/video/adventure/2964-mag-vody.html",
-      "lastUpdated": "2026-02-13, 17:43:39",
-      "owners-count": 1020,
-      "owners-need": 40,
-      "owners-trade": 179
+      "lastUpdated": "2026-02-14, 23:13:19",
+      "owners-count": 1032,
+      "owners-need": 41,
+      "owners-trade": 181
     },
     {
       "cardId": "53919",
@@ -117864,10 +117850,10 @@
       "animeId": 2647,
       "animeName": "Негативный позитивный рыбак",
       "animeLink": "/aniserials/video/drama/2647-negativnyj-pozitivnyj-rybak-animestars.html",
-      "lastUpdated": "2026-02-13, 17:43:38",
-      "owners-count": 1190,
+      "lastUpdated": "2026-02-14, 23:13:17",
+      "owners-count": 1201,
       "owners-need": 0,
-      "owners-trade": 197
+      "owners-trade": 198
     },
     {
       "cardId": "53918",
@@ -117878,10 +117864,10 @@
       "animeId": 2647,
       "animeName": "Негативный позитивный рыбак",
       "animeLink": "/aniserials/video/drama/2647-negativnyj-pozitivnyj-rybak-animestars.html",
-      "lastUpdated": "2026-02-13, 17:43:37",
-      "owners-count": 1408,
+      "lastUpdated": "2026-02-14, 23:13:15",
+      "owners-count": 1409,
       "owners-need": 4,
-      "owners-trade": 237
+      "owners-trade": 239
     },
     {
       "cardId": "53917",
@@ -117892,10 +117878,10 @@
       "animeId": 2182,
       "animeName": "Шестнадцатибитное ощущение: Другой уровень",
       "animeLink": "/aniserials/video/comedy/2182-shestnadcatibitnoe-oschuschenie-drugoj-uroven.html",
-      "lastUpdated": "2026-02-13, 17:43:36",
-      "owners-count": 981,
+      "lastUpdated": "2026-02-14, 23:13:13",
+      "owners-count": 987,
       "owners-need": 1,
-      "owners-trade": 160
+      "owners-trade": 158
     },
     {
       "cardId": "53916",
