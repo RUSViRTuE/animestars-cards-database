@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-14, 06:42:10",
+    "generatedTimestamp": "2026-02-14, 08:42:15",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,7 +8,7 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35663
+    "totalCards": 35662
   },
   "cards": [
     {
@@ -2236,20 +2236,6 @@
       "owners-need": 115,
       "owners-trade": 0,
       "lastUpdated": "2026-02-14, 06:12:51"
-    },
-    {
-      "cardId": "75361",
-      "cardName": "Фена Хаутман",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/1144/s/fena-hautman-1770633792-167171.webp",
-      "cardAuthor": "Арата",
-      "animeId": 1144,
-      "animeName": "Фена: Принцесса пиратов",
-      "animeLink": "/aniserials/video/action/1144-fena-princessa-piratov.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-14, 06:12:52"
     },
     {
       "cardId": "75347",
@@ -346152,10 +346138,10 @@
       "animeId": 1828,
       "animeName": "Долой безделье",
       "animeLink": "/aniserials/video/comedy/1828-doloj-bezdele.html",
-      "lastUpdated": "2026-02-13, 06:11:48",
-      "owners-count": 2513,
+      "lastUpdated": "2026-02-14, 06:43:07",
+      "owners-count": 2516,
       "owners-need": 4,
-      "owners-trade": 231
+      "owners-trade": 230
     },
     {
       "cardId": "19411",
@@ -346166,10 +346152,10 @@
       "animeId": 515,
       "animeName": "Король демонов, попытайтесь снова!",
       "animeLink": "/aniserials/video/action/515-korol-demonov-popytaytes-snova.html",
-      "lastUpdated": "2026-02-13, 06:11:47",
-      "owners-count": 2318,
+      "lastUpdated": "2026-02-14, 06:43:06",
+      "owners-count": 2326,
       "owners-need": 10,
-      "owners-trade": 269
+      "owners-trade": 270
     },
     {
       "cardId": "19410",
@@ -346180,10 +346166,10 @@
       "animeId": 515,
       "animeName": "Король демонов, попытайтесь снова!",
       "animeLink": "/aniserials/video/action/515-korol-demonov-popytaytes-snova.html",
-      "lastUpdated": "2026-02-13, 06:11:45",
-      "owners-count": 2330,
+      "lastUpdated": "2026-02-14, 06:43:04",
+      "owners-count": 2336,
       "owners-need": 10,
-      "owners-trade": 237
+      "owners-trade": 238
     },
     {
       "cardId": "19409",
@@ -346194,9 +346180,9 @@
       "animeId": 7,
       "animeName": "Деми-тян хочет рассказать",
       "animeLink": "/aniserials/video/vampires/7-demi-hotyat-poboltat.html",
-      "lastUpdated": "2026-02-13, 06:11:44",
-      "owners-count": 307,
-      "owners-need": 41,
+      "lastUpdated": "2026-02-14, 06:43:03",
+      "owners-count": 309,
+      "owners-need": 39,
       "owners-trade": 18
     },
     {
@@ -346208,10 +346194,10 @@
       "animeId": 502,
       "animeName": "Две звезды оммёдзи",
       "animeLink": "/aniserials/video/adventure/502-dve-zvezdy-ommedzi.html",
-      "lastUpdated": "2026-02-13, 06:11:43",
-      "owners-count": 2671,
-      "owners-need": 3,
-      "owners-trade": 307
+      "lastUpdated": "2026-02-14, 06:43:03",
+      "owners-count": 2676,
+      "owners-need": 4,
+      "owners-trade": 308
     },
     {
       "cardId": "19403",
@@ -346222,9 +346208,9 @@
       "animeId": 502,
       "animeName": "Две звезды оммёдзи",
       "animeLink": "/aniserials/video/adventure/502-dve-zvezdy-ommedzi.html",
-      "lastUpdated": "2026-02-13, 06:11:42",
-      "owners-count": 2493,
-      "owners-need": 6,
+      "lastUpdated": "2026-02-14, 06:43:01",
+      "owners-count": 2496,
+      "owners-need": 7,
       "owners-trade": 307
     },
     {
@@ -346236,10 +346222,10 @@
       "animeId": 578,
       "animeName": "Выдающиеся звери",
       "animeLink": "/aniserials/video/drama/578-vydayuschiesya-zveri-2019-animestars.html",
-      "lastUpdated": "2026-02-13, 06:11:41",
-      "owners-count": 578,
+      "lastUpdated": "2026-02-14, 06:43:00",
+      "owners-count": 577,
       "owners-need": 27,
-      "owners-trade": 54
+      "owners-trade": 53
     },
     {
       "cardId": "19399",
@@ -346250,9 +346236,9 @@
       "animeId": 2277,
       "animeName": "Раб спецотряда демонического города",
       "animeLink": "/aniserials/video/garems/2277-rab-specotrjada-demonicheskogo-goroda-animestars-v7.html",
-      "lastUpdated": "2026-02-13, 06:11:40",
-      "owners-count": 56,
-      "owners-need": 95,
+      "lastUpdated": "2026-02-14, 06:42:59",
+      "owners-count": 55,
+      "owners-need": 96,
       "owners-trade": 2
     },
     {
@@ -346264,10 +346250,10 @@
       "animeId": 1961,
       "animeName": "Мастера Меча Онлайн: Прогрессив - Ария в беззвёздной ночи",
       "animeLink": "/aniserials/video/action/1961-mastera-mecha-onlajn-progressiv-arija-v-bezzvezdnoj-nochi.html",
-      "lastUpdated": "2026-02-13, 06:11:39",
-      "owners-count": 759,
+      "lastUpdated": "2026-02-14, 06:42:58",
+      "owners-count": 760,
       "owners-need": 75,
-      "owners-trade": 84
+      "owners-trade": 83
     },
     {
       "cardId": "19395",
@@ -346278,10 +346264,10 @@
       "animeId": 2036,
       "animeName": "Чёрный клевер: Меч Короля Магов",
       "animeLink": "/aniserials/video/action/2036-chernyj-klever-mech-korolja-magov.html",
-      "lastUpdated": "2026-02-13, 06:11:38",
-      "owners-count": 705,
-      "owners-need": 51,
-      "owners-trade": 106
+      "lastUpdated": "2026-02-14, 06:42:58",
+      "owners-count": 707,
+      "owners-need": 53,
+      "owners-trade": 107
     },
     {
       "cardId": "19393",
@@ -346292,10 +346278,10 @@
       "animeId": 2277,
       "animeName": "Раб спецотряда демонического города",
       "animeLink": "/aniserials/video/garems/2277-rab-specotrjada-demonicheskogo-goroda-animestars-v7.html",
-      "lastUpdated": "2026-02-13, 06:11:38",
-      "owners-count": 64,
-      "owners-need": 95,
-      "owners-trade": 0
+      "lastUpdated": "2026-02-14, 06:42:57",
+      "owners-count": 65,
+      "owners-need": 96,
+      "owners-trade": 1
     },
     {
       "cardId": "19392",
@@ -346306,10 +346292,10 @@
       "animeId": 649,
       "animeName": "Розарио + Вампир",
       "animeLink": "/aniserials/video/vampires/649-rozario-vampir-1-sezon.html",
-      "lastUpdated": "2026-02-13, 06:11:37",
+      "lastUpdated": "2026-02-14, 06:42:56",
       "owners-count": 2247,
       "owners-need": 8,
-      "owners-trade": 238
+      "owners-trade": 239
     },
     {
       "cardId": "19390",
@@ -346320,10 +346306,10 @@
       "animeId": 33,
       "animeName": "Ван Пис",
       "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
-      "lastUpdated": "2026-02-13, 06:11:36",
-      "owners-count": 2903,
+      "lastUpdated": "2026-02-14, 06:42:55",
+      "owners-count": 2908,
       "owners-need": 102,
-      "owners-trade": 367
+      "owners-trade": 366
     },
     {
       "cardId": "19387",
@@ -346334,10 +346320,10 @@
       "animeId": 601,
       "animeName": "Эй, люби меня всерьёз!",
       "animeLink": "/aniserials/video/garems/601-ey-lyubi-menya-vserez.html",
-      "lastUpdated": "2026-02-13, 06:11:35",
-      "owners-count": 583,
+      "lastUpdated": "2026-02-14, 06:42:54",
+      "owners-count": 584,
       "owners-need": 37,
-      "owners-trade": 69
+      "owners-trade": 70
     },
     {
       "cardId": "19386",
@@ -346348,9 +346334,9 @@
       "animeId": 601,
       "animeName": "Эй, люби меня всерьёз!",
       "animeLink": "/aniserials/video/garems/601-ey-lyubi-menya-vserez.html",
-      "lastUpdated": "2026-02-13, 06:11:34",
-      "owners-count": 519,
-      "owners-need": 40,
+      "lastUpdated": "2026-02-14, 06:42:53",
+      "owners-count": 522,
+      "owners-need": 39,
       "owners-trade": 69
     },
     {
@@ -346362,10 +346348,10 @@
       "animeId": 601,
       "animeName": "Эй, люби меня всерьёз!",
       "animeLink": "/aniserials/video/garems/601-ey-lyubi-menya-vserez.html",
-      "lastUpdated": "2026-02-13, 06:11:33",
-      "owners-count": 560,
-      "owners-need": 44,
-      "owners-trade": 74
+      "lastUpdated": "2026-02-14, 06:42:53",
+      "owners-count": 559,
+      "owners-need": 42,
+      "owners-trade": 73
     },
     {
       "cardId": "19384",
@@ -346376,7 +346362,7 @@
       "animeId": 601,
       "animeName": "Эй, люби меня всерьёз!",
       "animeLink": "/aniserials/video/garems/601-ey-lyubi-menya-vserez.html",
-      "lastUpdated": "2026-02-13, 06:11:32",
+      "lastUpdated": "2026-02-14, 06:42:52",
       "owners-count": 558,
       "owners-need": 41,
       "owners-trade": 63
@@ -346390,10 +346376,10 @@
       "animeId": 601,
       "animeName": "Эй, люби меня всерьёз!",
       "animeLink": "/aniserials/video/garems/601-ey-lyubi-menya-vserez.html",
-      "lastUpdated": "2026-02-13, 06:11:31",
-      "owners-count": 1369,
+      "lastUpdated": "2026-02-14, 06:42:51",
+      "owners-count": 1370,
       "owners-need": 16,
-      "owners-trade": 123
+      "owners-trade": 124
     },
     {
       "cardId": "19382",
@@ -346404,8 +346390,8 @@
       "animeId": 601,
       "animeName": "Эй, люби меня всерьёз!",
       "animeLink": "/aniserials/video/garems/601-ey-lyubi-menya-vserez.html",
-      "lastUpdated": "2026-02-13, 06:11:31",
-      "owners-count": 528,
+      "lastUpdated": "2026-02-14, 06:42:50",
+      "owners-count": 530,
       "owners-need": 35,
       "owners-trade": 36
     },
@@ -346418,8 +346404,8 @@
       "animeId": 626,
       "animeName": "Волчий дождь",
       "animeLink": "/aniserials/video/drama/626-volchiy-dozhd.html",
-      "lastUpdated": "2026-02-13, 06:11:30",
-      "owners-count": 2369,
+      "lastUpdated": "2026-02-14, 06:42:49",
+      "owners-count": 2371,
       "owners-need": 2,
       "owners-trade": 296
     },
@@ -346432,8 +346418,8 @@
       "animeId": 1828,
       "animeName": "Долой безделье",
       "animeLink": "/aniserials/video/comedy/1828-doloj-bezdele.html",
-      "lastUpdated": "2026-02-13, 06:11:29",
-      "owners-count": 327,
+      "lastUpdated": "2026-02-14, 06:42:49",
+      "owners-count": 328,
       "owners-need": 11,
       "owners-trade": 57
     },
@@ -346446,7 +346432,7 @@
       "animeId": 2007,
       "animeName": "Дневник будущего: Повторный набор",
       "animeLink": "/aniserials/video/action/2007-dnevnik-buduschego-povtornyj-nabor-2013.html",
-      "lastUpdated": "2026-02-13, 06:11:28",
+      "lastUpdated": "2026-02-14, 06:42:48",
       "owners-count": 47,
       "owners-need": 20,
       "owners-trade": 3
@@ -346460,10 +346446,10 @@
       "animeId": 626,
       "animeName": "Волчий дождь",
       "animeLink": "/aniserials/video/drama/626-volchiy-dozhd.html",
-      "lastUpdated": "2026-02-13, 06:11:27",
-      "owners-count": 2316,
+      "lastUpdated": "2026-02-14, 06:42:47",
+      "owners-count": 2322,
       "owners-need": 2,
-      "owners-trade": 256
+      "owners-trade": 255
     },
     {
       "cardId": "19373",
@@ -346474,10 +346460,10 @@
       "animeId": 626,
       "animeName": "Волчий дождь",
       "animeLink": "/aniserials/video/drama/626-volchiy-dozhd.html",
-      "lastUpdated": "2026-02-13, 06:11:26",
-      "owners-count": 309,
+      "lastUpdated": "2026-02-14, 06:42:46",
+      "owners-count": 311,
       "owners-need": 10,
-      "owners-trade": 57
+      "owners-trade": 60
     },
     {
       "cardId": "19372",
@@ -346488,10 +346474,10 @@
       "animeId": 2709,
       "animeName": "Девушки-пони: Славное дерби 2",
       "animeLink": "/aniserials/video/kemonobito/2709-devushki-poni-slavnoe-derbi-2.html",
-      "lastUpdated": "2026-02-13, 06:11:26",
-      "owners-count": 1645,
+      "lastUpdated": "2026-02-14, 06:42:45",
+      "owners-count": 1618,
       "owners-need": 29,
-      "owners-trade": 164
+      "owners-trade": 156
     },
     {
       "cardId": "19370",
@@ -346502,10 +346488,10 @@
       "animeId": 2709,
       "animeName": "Девушки-пони: Славное дерби 2",
       "animeLink": "/aniserials/video/kemonobito/2709-devushki-poni-slavnoe-derbi-2.html",
-      "lastUpdated": "2026-02-13, 06:11:25",
-      "owners-count": 1603,
-      "owners-need": 26,
-      "owners-trade": 171
+      "lastUpdated": "2026-02-14, 06:42:44",
+      "owners-count": 1606,
+      "owners-need": 25,
+      "owners-trade": 172
     },
     {
       "cardId": "19368",
@@ -346516,10 +346502,10 @@
       "animeId": 1009,
       "animeName": "Отныне Мао, король демонов!",
       "animeLink": "/aniserials/video/comedy/1009-otnyne-mao-korol-demonov.html",
-      "lastUpdated": "2026-02-13, 06:11:24",
-      "owners-count": 2374,
-      "owners-need": 14,
-      "owners-trade": 234
+      "lastUpdated": "2026-02-14, 06:42:44",
+      "owners-count": 2378,
+      "owners-need": 12,
+      "owners-trade": 235
     },
     {
       "cardId": "19367",
@@ -346530,9 +346516,9 @@
       "animeId": 679,
       "animeName": "Икс",
       "animeLink": "/aniserials/video/drama/679-iks.html",
-      "lastUpdated": "2026-02-13, 06:11:23",
-      "owners-count": 1485,
-      "owners-need": 19,
+      "lastUpdated": "2026-02-14, 06:42:43",
+      "owners-count": 1488,
+      "owners-need": 18,
       "owners-trade": 181
     },
     {
@@ -346544,10 +346530,10 @@
       "animeId": 2116,
       "animeName": "Детектив Конан",
       "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
-      "lastUpdated": "2026-02-13, 06:11:22",
-      "owners-count": 2270,
+      "lastUpdated": "2026-02-14, 06:42:42",
+      "owners-count": 2272,
       "owners-need": 3,
-      "owners-trade": 305
+      "owners-trade": 308
     },
     {
       "cardId": "19363",
@@ -346558,10 +346544,10 @@
       "animeId": 2419,
       "animeName": "Лагерь на свежем воздухе 2 сезон",
       "animeLink": "/aniserials/video/comedy/2419-lager-na-svezhem-vozduhe-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:11:21",
-      "owners-count": 2571,
+      "lastUpdated": "2026-02-14, 06:42:41",
+      "owners-count": 2579,
       "owners-need": 2,
-      "owners-trade": 284
+      "owners-trade": 287
     },
     {
       "cardId": "19362",
@@ -346572,10 +346558,10 @@
       "animeId": 2419,
       "animeName": "Лагерь на свежем воздухе 2 сезон",
       "animeLink": "/aniserials/video/comedy/2419-lager-na-svezhem-vozduhe-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:11:21",
-      "owners-count": 2237,
+      "lastUpdated": "2026-02-14, 06:42:40",
+      "owners-count": 2238,
       "owners-need": 2,
-      "owners-trade": 131
+      "owners-trade": 135
     },
     {
       "cardId": "19361",
@@ -346586,10 +346572,10 @@
       "animeId": 2419,
       "animeName": "Лагерь на свежем воздухе 2 сезон",
       "animeLink": "/aniserials/video/comedy/2419-lager-na-svezhem-vozduhe-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:11:20",
-      "owners-count": 1456,
+      "lastUpdated": "2026-02-14, 06:42:39",
+      "owners-count": 1458,
       "owners-need": 6,
-      "owners-trade": 153
+      "owners-trade": 155
     },
     {
       "cardId": "19358",
@@ -346600,10 +346586,10 @@
       "animeId": 2151,
       "animeName": "Ублюдок!! Сокрушитель тьмы 2 сезон ONA",
       "animeLink": "/aniserials/video/action/2151-ubljudok-sokrushitel-tmy-2-sezon-ona.html",
-      "lastUpdated": "2026-02-13, 06:11:19",
-      "owners-count": 2489,
+      "lastUpdated": "2026-02-14, 06:42:39",
+      "owners-count": 2502,
       "owners-need": 4,
-      "owners-trade": 313
+      "owners-trade": 316
     },
     {
       "cardId": "19357",
@@ -346614,10 +346600,10 @@
       "animeId": 895,
       "animeName": "Гипнотический микрофон",
       "animeLink": "/aniserials/video/music/895-gipnoticheskij-mikrofon.html",
-      "lastUpdated": "2026-02-13, 06:11:18",
-      "owners-count": 509,
-      "owners-need": 41,
-      "owners-trade": 64
+      "lastUpdated": "2026-02-14, 06:42:38",
+      "owners-count": 510,
+      "owners-need": 40,
+      "owners-trade": 63
     },
     {
       "cardId": "19356",
@@ -346628,10 +346614,10 @@
       "animeId": 895,
       "animeName": "Гипнотический микрофон",
       "animeLink": "/aniserials/video/music/895-gipnoticheskij-mikrofon.html",
-      "lastUpdated": "2026-02-13, 06:11:17",
-      "owners-count": 547,
-      "owners-need": 26,
-      "owners-trade": 66
+      "lastUpdated": "2026-02-14, 06:42:37",
+      "owners-count": 549,
+      "owners-need": 25,
+      "owners-trade": 65
     },
     {
       "cardId": "19355",
@@ -346642,7 +346628,7 @@
       "animeId": 895,
       "animeName": "Гипнотический микрофон",
       "animeLink": "/aniserials/video/music/895-gipnoticheskij-mikrofon.html",
-      "lastUpdated": "2026-02-13, 06:11:16",
+      "lastUpdated": "2026-02-14, 06:42:36",
       "owners-count": 513,
       "owners-need": 38,
       "owners-trade": 31
@@ -346656,10 +346642,10 @@
       "animeId": 2364,
       "animeName": "Я, владыка демонов, взял эльфийку-рабыню в жёны. И как же мне её любить?",
       "animeLink": "/aniserials/video/action/2364-ja-vladyka-demonov-vzjal-jelfijku-rabynju-v-zheny-i-kak-zhe-mne-ee-ljubit-v9.html",
-      "lastUpdated": "2026-02-13, 06:11:16",
-      "owners-count": 3118,
-      "owners-need": 12,
-      "owners-trade": 365
+      "lastUpdated": "2026-02-14, 06:42:35",
+      "owners-count": 3110,
+      "owners-need": 13,
+      "owners-trade": 364
     },
     {
       "cardId": "19352",
@@ -346670,10 +346656,10 @@
       "animeId": 2364,
       "animeName": "Я, владыка демонов, взял эльфийку-рабыню в жёны. И как же мне её любить?",
       "animeLink": "/aniserials/video/action/2364-ja-vladyka-demonov-vzjal-jelfijku-rabynju-v-zheny-i-kak-zhe-mne-ee-ljubit-v9.html",
-      "lastUpdated": "2026-02-13, 06:11:15",
-      "owners-count": 2927,
-      "owners-need": 12,
-      "owners-trade": 339
+      "lastUpdated": "2026-02-14, 06:42:34",
+      "owners-count": 2928,
+      "owners-need": 13,
+      "owners-trade": 340
     },
     {
       "cardId": "19351",
@@ -346684,10 +346670,10 @@
       "animeId": 1885,
       "animeName": "Девушки, покоряющие новые горизонты",
       "animeLink": "/aniserials/video/comedy/1885-devushki-pokorjajuschie-novye-gorizonty.html",
-      "lastUpdated": "2026-02-13, 06:11:14",
-      "owners-count": 3228,
+      "lastUpdated": "2026-02-14, 06:42:34",
+      "owners-count": 3236,
       "owners-need": 2,
-      "owners-trade": 340
+      "owners-trade": 344
     },
     {
       "cardId": "19350",
@@ -346698,10 +346684,10 @@
       "animeId": 1885,
       "animeName": "Девушки, покоряющие новые горизонты",
       "animeLink": "/aniserials/video/comedy/1885-devushki-pokorjajuschie-novye-gorizonty.html",
-      "lastUpdated": "2026-02-13, 06:11:13",
-      "owners-count": 422,
+      "lastUpdated": "2026-02-14, 06:42:33",
+      "owners-count": 421,
       "owners-need": 6,
-      "owners-trade": 64
+      "owners-trade": 65
     },
     {
       "cardId": "19349",
@@ -346712,7 +346698,7 @@
       "animeId": 1885,
       "animeName": "Девушки, покоряющие новые горизонты",
       "animeLink": "/aniserials/video/comedy/1885-devushki-pokorjajuschie-novye-gorizonty.html",
-      "lastUpdated": "2026-02-13, 06:11:12",
+      "lastUpdated": "2026-02-14, 06:42:32",
       "owners-count": 403,
       "owners-need": 9,
       "owners-trade": 49
@@ -346726,8 +346712,8 @@
       "animeId": 1885,
       "animeName": "Девушки, покоряющие новые горизонты",
       "animeLink": "/aniserials/video/comedy/1885-devushki-pokorjajuschie-novye-gorizonty.html",
-      "lastUpdated": "2026-02-13, 06:11:11",
-      "owners-count": 527,
+      "lastUpdated": "2026-02-14, 06:42:31",
+      "owners-count": 530,
       "owners-need": 37,
       "owners-trade": 33
     },
@@ -346740,9 +346726,9 @@
       "animeId": 1885,
       "animeName": "Девушки, покоряющие новые горизонты",
       "animeLink": "/aniserials/video/comedy/1885-devushki-pokorjajuschie-novye-gorizonty.html",
-      "lastUpdated": "2026-02-13, 06:11:11",
-      "owners-count": 534,
-      "owners-need": 30,
+      "lastUpdated": "2026-02-14, 06:42:30",
+      "owners-count": 537,
+      "owners-need": 29,
       "owners-trade": 70
     },
     {
@@ -346754,10 +346740,10 @@
       "animeId": 421,
       "animeName": "Юно: Девушка, что воспевает любовь на грани этого мира",
       "animeLink": "/aniserials/video/drama/421-yuno.html",
-      "lastUpdated": "2026-02-13, 06:11:10",
-      "owners-count": 1556,
+      "lastUpdated": "2026-02-14, 06:42:29",
+      "owners-count": 1559,
       "owners-need": 3,
-      "owners-trade": 180
+      "owners-trade": 182
     },
     {
       "cardId": "19345",
@@ -346768,10 +346754,10 @@
       "animeId": 421,
       "animeName": "Юно: Девушка, что воспевает любовь на грани этого мира",
       "animeLink": "/aniserials/video/drama/421-yuno.html",
-      "lastUpdated": "2026-02-13, 06:11:09",
-      "owners-count": 1522,
+      "lastUpdated": "2026-02-14, 06:42:29",
+      "owners-count": 1523,
       "owners-need": 5,
-      "owners-trade": 118
+      "owners-trade": 120
     },
     {
       "cardId": "19344",
@@ -347034,10 +347020,10 @@
       "animeId": 2630,
       "animeName": "Плачущий призрак на пенсии",
       "animeLink": "/aniserials/video/action/2630-plachuschij-prizrak-na-pensii.html",
-      "lastUpdated": "2026-02-13, 06:13:04",
-      "owners-count": 2477,
-      "owners-need": 14,
-      "owners-trade": 312
+      "lastUpdated": "2026-02-14, 06:44:02",
+      "owners-count": 2487,
+      "owners-need": 15,
+      "owners-trade": 310
     },
     {
       "cardId": "19321",
@@ -347048,10 +347034,10 @@
       "animeId": 831,
       "animeName": "Невероятные приключения Джоджо 4 сезон: Несокрушимый алмаз",
       "animeLink": "/aniserials/video/action/831-neverojatnye-prikljuchenija-dzhodzho-4-sezon.html",
-      "lastUpdated": "2026-02-13, 06:13:01",
-      "owners-count": 2433,
+      "lastUpdated": "2026-02-14, 06:43:58",
+      "owners-count": 2443,
       "owners-need": 10,
-      "owners-trade": 289
+      "owners-trade": 294
     },
     {
       "cardId": "19318",
@@ -347062,10 +347048,10 @@
       "animeId": 2690,
       "animeName": "Сказание о пастухе богов",
       "animeLink": "/aniserials/video/action/2690-skazanie-o-pastuhe-bogov.html",
-      "lastUpdated": "2026-02-13, 06:13:00",
-      "owners-count": 2792,
-      "owners-need": 50,
-      "owners-trade": 273
+      "lastUpdated": "2026-02-14, 06:43:57",
+      "owners-count": 2790,
+      "owners-need": 51,
+      "owners-trade": 275
     },
     {
       "cardId": "19315",
@@ -347076,10 +347062,10 @@
       "animeId": 1241,
       "animeName": "Мой сэмпай раздражает",
       "animeLink": "/aniserials/video/comedy/1241-moj-sjempaj-razdrazhaet.html",
-      "lastUpdated": "2026-02-13, 06:12:59",
-      "owners-count": 2268,
-      "owners-need": 10,
-      "owners-trade": 205
+      "lastUpdated": "2026-02-14, 06:43:57",
+      "owners-count": 2263,
+      "owners-need": 8,
+      "owners-trade": 206
     },
     {
       "cardId": "19314",
@@ -347090,10 +347076,10 @@
       "animeId": 327,
       "animeName": "Необъятный океан",
       "animeLink": "/aniserials/video/comedy/327-neobyatnyy-okean.html",
-      "lastUpdated": "2026-02-13, 06:12:58",
-      "owners-count": 2942,
-      "owners-need": 32,
-      "owners-trade": 340
+      "lastUpdated": "2026-02-14, 06:43:56",
+      "owners-count": 2952,
+      "owners-need": 33,
+      "owners-trade": 339
     },
     {
       "cardId": "19312",
@@ -347104,10 +347090,10 @@
       "animeId": 343,
       "animeName": "Магистр дьявольского культа",
       "animeLink": "/aniserials/video/martial_arts/343-magistr-dyavolskogo-kulta.html",
-      "lastUpdated": "2026-02-13, 06:12:58",
-      "owners-count": 2849,
-      "owners-need": 50,
-      "owners-trade": 197
+      "lastUpdated": "2026-02-14, 06:43:55",
+      "owners-count": 2848,
+      "owners-need": 52,
+      "owners-trade": 195
     },
     {
       "cardId": "19311",
@@ -347118,10 +347104,10 @@
       "animeId": 238,
       "animeName": "Учитель-мафиози Реборн!",
       "animeLink": "/aniserials/video/comedy/238-uchitel-mafiozi-reborn.html",
-      "lastUpdated": "2026-02-13, 06:12:57",
-      "owners-count": 2910,
+      "lastUpdated": "2026-02-14, 06:43:54",
+      "owners-count": 2904,
       "owners-need": 12,
-      "owners-trade": 343
+      "owners-trade": 344
     },
     {
       "cardId": "19309",
@@ -347132,10 +347118,10 @@
       "animeId": 149,
       "animeName": "Баскетбол Куроко",
       "animeLink": "/aniserials/video/drama/149-basketbol-kuroko-2012.html",
-      "lastUpdated": "2026-02-13, 06:12:56",
-      "owners-count": 2630,
+      "lastUpdated": "2026-02-14, 06:43:53",
+      "owners-count": 2631,
       "owners-need": 8,
-      "owners-trade": 296
+      "owners-trade": 297
     },
     {
       "cardId": "19307",
@@ -347146,8 +347132,8 @@
       "animeId": 611,
       "animeName": "Бесконечные небеса 2 сезон",
       "animeLink": "/aniserials/video/action/611-beskonechnye-nebesa-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:12:55",
-      "owners-count": 1544,
+      "lastUpdated": "2026-02-14, 06:43:52",
+      "owners-count": 1547,
       "owners-need": 13,
       "owners-trade": 131
     },
@@ -347160,10 +347146,10 @@
       "animeId": 1671,
       "animeName": "Соник Икс",
       "animeLink": "/aniserials/video/adventure/1671-sonik-iks.html",
-      "lastUpdated": "2026-02-13, 06:12:54",
-      "owners-count": 2247,
-      "owners-need": 5,
-      "owners-trade": 256
+      "lastUpdated": "2026-02-14, 06:43:51",
+      "owners-count": 2248,
+      "owners-need": 6,
+      "owners-trade": 257
     },
     {
       "cardId": "19305",
@@ -347174,10 +347160,10 @@
       "animeId": 611,
       "animeName": "Бесконечные небеса 2 сезон",
       "animeLink": "/aniserials/video/action/611-beskonechnye-nebesa-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:12:53",
-      "owners-count": 1717,
+      "lastUpdated": "2026-02-14, 06:43:50",
+      "owners-count": 1704,
       "owners-need": 24,
-      "owners-trade": 164
+      "owners-trade": 151
     },
     {
       "cardId": "19303",
@@ -347188,10 +347174,10 @@
       "animeId": 611,
       "animeName": "Бесконечные небеса 2 сезон",
       "animeLink": "/aniserials/video/action/611-beskonechnye-nebesa-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:12:52",
-      "owners-count": 2788,
+      "lastUpdated": "2026-02-14, 06:43:49",
+      "owners-count": 2799,
       "owners-need": 3,
-      "owners-trade": 323
+      "owners-trade": 325
     },
     {
       "cardId": "19302",
@@ -347202,7 +347188,7 @@
       "animeId": 611,
       "animeName": "Бесконечные небеса 2 сезон",
       "animeLink": "/aniserials/video/action/611-beskonechnye-nebesa-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:12:52",
+      "lastUpdated": "2026-02-14, 06:43:48",
       "owners-count": 526,
       "owners-need": 19,
       "owners-trade": 85
@@ -347216,10 +347202,10 @@
       "animeId": 492,
       "animeName": "Великий из бродячих псов 2 сезон",
       "animeLink": "/aniserials/video/detective/492-velikiy-iz-brodyachih-psov-2-sezon-2016.html",
-      "lastUpdated": "2026-02-13, 06:12:51",
-      "owners-count": 2967,
+      "lastUpdated": "2026-02-14, 06:43:48",
+      "owners-count": 2969,
       "owners-need": 17,
-      "owners-trade": 351
+      "owners-trade": 349
     },
     {
       "cardId": "19300",
@@ -347230,10 +347216,10 @@
       "animeId": 611,
       "animeName": "Бесконечные небеса 2 сезон",
       "animeLink": "/aniserials/video/action/611-beskonechnye-nebesa-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:12:50",
-      "owners-count": 443,
+      "lastUpdated": "2026-02-14, 06:43:47",
+      "owners-count": 445,
       "owners-need": 20,
-      "owners-trade": 49
+      "owners-trade": 51
     },
     {
       "cardId": "19299",
@@ -347244,10 +347230,10 @@
       "animeId": 611,
       "animeName": "Бесконечные небеса 2 сезон",
       "animeLink": "/aniserials/video/action/611-beskonechnye-nebesa-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:12:49",
+      "lastUpdated": "2026-02-14, 06:43:46",
       "owners-count": 538,
       "owners-need": 24,
-      "owners-trade": 58
+      "owners-trade": 59
     },
     {
       "cardId": "19298",
@@ -347258,7 +347244,7 @@
       "animeId": 611,
       "animeName": "Бесконечные небеса 2 сезон",
       "animeLink": "/aniserials/video/action/611-beskonechnye-nebesa-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:12:48",
+      "lastUpdated": "2026-02-14, 06:43:45",
       "owners-count": 567,
       "owners-need": 25,
       "owners-trade": 44
@@ -347272,10 +347258,10 @@
       "animeId": 744,
       "animeName": "Кагуя: В любви как на войне 2 сезон",
       "animeLink": "/aniserials/video/comedy/744-kaguja-v-ljubvi-kak-na-vojne-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:12:47",
-      "owners-count": 3232,
+      "lastUpdated": "2026-02-14, 06:43:44",
+      "owners-count": 3236,
       "owners-need": 7,
-      "owners-trade": 349
+      "owners-trade": 350
     },
     {
       "cardId": "19295",
@@ -347286,9 +347272,9 @@
       "animeId": 399,
       "animeName": "Кагуя: В любви как на войне",
       "animeLink": "/aniserials/video/comedy/399-kaguya-v-lyubvi-kak-na-voyne-2019.html",
-      "lastUpdated": "2026-02-13, 06:12:47",
-      "owners-count": 3068,
-      "owners-need": 10,
+      "lastUpdated": "2026-02-14, 06:43:43",
+      "owners-count": 3070,
+      "owners-need": 9,
       "owners-trade": 359
     },
     {
@@ -347300,10 +347286,10 @@
       "animeId": 399,
       "animeName": "Кагуя: В любви как на войне",
       "animeLink": "/aniserials/video/comedy/399-kaguya-v-lyubvi-kak-na-voyne-2019.html",
-      "lastUpdated": "2026-02-13, 06:12:46",
-      "owners-count": 3051,
+      "lastUpdated": "2026-02-14, 06:43:43",
+      "owners-count": 3048,
       "owners-need": 6,
-      "owners-trade": 358
+      "owners-trade": 354
     },
     {
       "cardId": "19292",
@@ -347314,8 +347300,8 @@
       "animeId": 611,
       "animeName": "Бесконечные небеса 2 сезон",
       "animeLink": "/aniserials/video/action/611-beskonechnye-nebesa-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:12:45",
-      "owners-count": 591,
+      "lastUpdated": "2026-02-14, 06:43:42",
+      "owners-count": 596,
       "owners-need": 24,
       "owners-trade": 105
     },
@@ -347328,10 +347314,10 @@
       "animeId": 611,
       "animeName": "Бесконечные небеса 2 сезон",
       "animeLink": "/aniserials/video/action/611-beskonechnye-nebesa-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:12:44",
+      "lastUpdated": "2026-02-14, 06:43:41",
       "owners-count": 572,
-      "owners-need": 33,
-      "owners-trade": 49
+      "owners-need": 32,
+      "owners-trade": 46
     },
     {
       "cardId": "19290",
@@ -347342,10 +347328,10 @@
       "animeId": 2364,
       "animeName": "Я, владыка демонов, взял эльфийку-рабыню в жёны. И как же мне её любить?",
       "animeLink": "/aniserials/video/action/2364-ja-vladyka-demonov-vzjal-jelfijku-rabynju-v-zheny-i-kak-zhe-mne-ee-ljubit-v9.html",
-      "lastUpdated": "2026-02-13, 06:12:43",
-      "owners-count": 2698,
-      "owners-need": 12,
-      "owners-trade": 332
+      "lastUpdated": "2026-02-14, 06:43:40",
+      "owners-count": 2695,
+      "owners-need": 13,
+      "owners-trade": 330
     },
     {
       "cardId": "19289",
@@ -347356,10 +347342,10 @@
       "animeId": 1838,
       "animeName": "Как из обычной девушки воспитать героиню: Финал",
       "animeLink": "/aniserials/video/garems/1838-kak-iz-obychnoj-devushki-vospitat-geroinju-final.html",
-      "lastUpdated": "2026-02-13, 06:12:42",
-      "owners-count": 2842,
+      "lastUpdated": "2026-02-14, 06:43:39",
+      "owners-count": 2844,
       "owners-need": 4,
-      "owners-trade": 337
+      "owners-trade": 338
     },
     {
       "cardId": "19287",
@@ -347370,10 +347356,10 @@
       "animeId": 33,
       "animeName": "Ван Пис",
       "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
-      "lastUpdated": "2026-02-13, 06:12:42",
-      "owners-count": 1764,
+      "lastUpdated": "2026-02-14, 06:43:38",
+      "owners-count": 1769,
       "owners-need": 120,
-      "owners-trade": 188
+      "owners-trade": 190
     },
     {
       "cardId": "19286",
@@ -347384,10 +347370,10 @@
       "animeId": 2128,
       "animeName": "Великий из бродячих псов 5 сезон",
       "animeLink": "/aniserials/video/detective/2128-velikij-iz-brodjachih-psov-5-sezon-animestars-v5.html",
-      "lastUpdated": "2026-02-13, 06:12:41",
-      "owners-count": 1584,
+      "lastUpdated": "2026-02-14, 06:43:38",
+      "owners-count": 1591,
       "owners-need": 20,
-      "owners-trade": 198
+      "owners-trade": 202
     },
     {
       "cardId": "19282",
@@ -347398,10 +347384,10 @@
       "animeId": 1118,
       "animeName": "Мемуары Ванитаса",
       "animeLink": "/aniserials/video/vampires/1118-memuary-vanitasa.html",
-      "lastUpdated": "2026-02-13, 06:12:40",
-      "owners-count": 1649,
+      "lastUpdated": "2026-02-14, 06:43:37",
+      "owners-count": 1654,
       "owners-need": 17,
-      "owners-trade": 147
+      "owners-trade": 146
     },
     {
       "cardId": "19280",
@@ -347412,9 +347398,9 @@
       "animeId": 315,
       "animeName": "Бадминтон Аяно Ханэсаки",
       "animeLink": "/aniserials/video/comedy/315-badminton-ayano-hanesaki-2018.html",
-      "lastUpdated": "2026-02-13, 06:12:16",
-      "owners-count": 561,
-      "owners-need": 37,
+      "lastUpdated": "2026-02-14, 06:43:36",
+      "owners-count": 562,
+      "owners-need": 36,
       "owners-trade": 49
     },
     {
@@ -347426,8 +347412,8 @@
       "animeId": 46,
       "animeName": "Йона на заре",
       "animeLink": "/aniserials/video/garem-dlya-devushek/46-yona-na-zare-rassvet-eny.html",
-      "lastUpdated": "2026-02-13, 06:12:15",
-      "owners-count": 516,
+      "lastUpdated": "2026-02-14, 06:43:35",
+      "owners-count": 517,
       "owners-need": 19,
       "owners-trade": 122
     },
@@ -347440,10 +347426,10 @@
       "animeId": 537,
       "animeName": "Городская дьяволица",
       "animeLink": "/aniserials/video/comedy/537-gorodskaya-dyavolica.html",
-      "lastUpdated": "2026-02-13, 06:12:15",
-      "owners-count": 2599,
+      "lastUpdated": "2026-02-14, 06:43:34",
+      "owners-count": 2600,
       "owners-need": 1,
-      "owners-trade": 335
+      "owners-trade": 333
     },
     {
       "cardId": "19273",
@@ -347454,10 +347440,10 @@
       "animeId": 2506,
       "animeName": "Магическая ремесленница Далия не унывает",
       "animeLink": "/aniserials/video/comedy/2506-magicheskaja-remeslennica-dalija-ne-unyvaet.html",
-      "lastUpdated": "2026-02-13, 06:12:14",
+      "lastUpdated": "2026-02-14, 06:43:33",
       "owners-count": 391,
       "owners-need": 6,
-      "owners-trade": 56
+      "owners-trade": 55
     },
     {
       "cardId": "19272",
@@ -347468,7 +347454,7 @@
       "animeId": 995,
       "animeName": "Одинокий странник",
       "animeLink": "/aniserials/video/action/995-odinokij-strannik.html",
-      "lastUpdated": "2026-02-13, 06:12:13",
+      "lastUpdated": "2026-02-14, 06:43:33",
       "owners-count": 609,
       "owners-need": 33,
       "owners-trade": 97
@@ -347482,9 +347468,9 @@
       "animeId": 1674,
       "animeName": "Ледяной парень и классная девушка-коллега",
       "animeLink": "/aniserials/video/comedy/1674-ledjanoj-paren-i-klassnaja-devushka-kollega.html",
-      "lastUpdated": "2026-02-13, 06:12:12",
+      "lastUpdated": "2026-02-14, 06:43:32",
       "owners-count": 49,
-      "owners-need": 38,
+      "owners-need": 39,
       "owners-trade": 3
     },
     {
@@ -347496,8 +347482,8 @@
       "animeId": 1853,
       "animeName": "Невеста герцога по контракту",
       "animeLink": "/aniserials/video/comedy/1853-nevesta-gercoga-po-kontraktu.html",
-      "lastUpdated": "2026-02-13, 06:12:11",
-      "owners-count": 73,
+      "lastUpdated": "2026-02-14, 06:43:31",
+      "owners-count": 74,
       "owners-need": 60,
       "owners-trade": 5
     },
@@ -347510,10 +347496,10 @@
       "animeId": 1711,
       "animeName": "Ходячий замок",
       "animeLink": "/aniserials/video/drama/1711-hodjachij-zamok-2004.html",
-      "lastUpdated": "2026-02-13, 06:12:11",
-      "owners-count": 3172,
+      "lastUpdated": "2026-02-14, 06:43:30",
+      "owners-count": 3179,
       "owners-need": 26,
-      "owners-trade": 366
+      "owners-trade": 369
     },
     {
       "cardId": "19264",
@@ -347524,10 +347510,10 @@
       "animeId": 459,
       "animeName": "И всё-таки мир прекрасен",
       "animeLink": "/aniserials/video/comedy/459-i-vse-taki-mir-prekrasen.html",
-      "lastUpdated": "2026-02-13, 06:12:10",
-      "owners-count": 2759,
+      "lastUpdated": "2026-02-14, 06:43:29",
+      "owners-count": 2762,
       "owners-need": 7,
-      "owners-trade": 346
+      "owners-trade": 347
     },
     {
       "cardId": "19262",
@@ -347538,7 +347524,7 @@
       "animeId": 2672,
       "animeName": "История цветов",
       "animeLink": "/aniserials/video/drama/2672-istorija-cvetov.html",
-      "lastUpdated": "2026-02-13, 06:12:09",
+      "lastUpdated": "2026-02-14, 06:43:28",
       "owners-count": 1320,
       "owners-need": 10,
       "owners-trade": 137
@@ -347552,8 +347538,8 @@
       "animeId": 503,
       "animeName": "Гримгал пепла и иллюзий",
       "animeLink": "/aniserials/video/drama/503-grimgal-pepla-i-illyuziy.html",
-      "lastUpdated": "2026-02-13, 06:12:08",
-      "owners-count": 2795,
+      "lastUpdated": "2026-02-14, 06:43:28",
+      "owners-count": 2791,
       "owners-need": 4,
       "owners-trade": 326
     },
@@ -347566,10 +347552,10 @@
       "animeId": 593,
       "animeName": "Трогательный комплекс",
       "animeLink": "/aniserials/video/comedy/593-trogatelnyy-kompleks.html",
-      "lastUpdated": "2026-02-13, 06:12:07",
-      "owners-count": 1492,
-      "owners-need": 23,
-      "owners-trade": 144
+      "lastUpdated": "2026-02-14, 06:43:27",
+      "owners-count": 1494,
+      "owners-need": 24,
+      "owners-trade": 145
     },
     {
       "cardId": "19259",
@@ -347580,10 +347566,10 @@
       "animeId": 2645,
       "animeName": "Голубая шкатулка",
       "animeLink": "/aniserials/video/romance/2645-golubaja-shkatulka.html",
-      "lastUpdated": "2026-02-13, 06:12:06",
-      "owners-count": 37,
+      "lastUpdated": "2026-02-14, 06:43:26",
+      "owners-count": 38,
       "owners-need": 44,
-      "owners-trade": 3
+      "owners-trade": 4
     },
     {
       "cardId": "19258",
@@ -347594,9 +347580,9 @@
       "animeId": 605,
       "animeName": "Боевой континент",
       "animeLink": "/aniserials/video/action/605-boevoy-kontinent-animestars-2018.html",
-      "lastUpdated": "2026-02-13, 06:12:05",
-      "owners-count": 2979,
-      "owners-need": 62,
+      "lastUpdated": "2026-02-14, 06:43:25",
+      "owners-count": 2981,
+      "owners-need": 63,
       "owners-trade": 278
     },
     {
@@ -347608,10 +347594,10 @@
       "animeId": 605,
       "animeName": "Боевой континент",
       "animeLink": "/aniserials/video/action/605-boevoy-kontinent-animestars-2018.html",
-      "lastUpdated": "2026-02-13, 06:12:05",
-      "owners-count": 2943,
+      "lastUpdated": "2026-02-14, 06:43:24",
+      "owners-count": 2942,
       "owners-need": 60,
-      "owners-trade": 278
+      "owners-trade": 276
     },
     {
       "cardId": "19256",
@@ -347622,10 +347608,10 @@
       "animeId": 605,
       "animeName": "Боевой континент",
       "animeLink": "/aniserials/video/action/605-boevoy-kontinent-animestars-2018.html",
-      "lastUpdated": "2026-02-13, 06:12:04",
-      "owners-count": 2975,
+      "lastUpdated": "2026-02-14, 06:43:23",
+      "owners-count": 2983,
       "owners-need": 56,
-      "owners-trade": 327
+      "owners-trade": 331
     },
     {
       "cardId": "19255",
@@ -347636,10 +347622,10 @@
       "animeId": 1318,
       "animeName": "Невероятные приключения Джоджо 6 сезон: Каменный океан",
       "animeLink": "/aniserials/video/action/1318-neverojatnoe-prikljuchenie-dzhodzho-6-sezon-2021.html",
-      "lastUpdated": "2026-02-13, 06:12:03",
-      "owners-count": 381,
+      "lastUpdated": "2026-02-14, 06:43:23",
+      "owners-count": 380,
       "owners-need": 8,
-      "owners-trade": 61
+      "owners-trade": 60
     },
     {
       "cardId": "19252",
@@ -347650,10 +347636,10 @@
       "animeId": 1318,
       "animeName": "Невероятные приключения Джоджо 6 сезон: Каменный океан",
       "animeLink": "/aniserials/video/action/1318-neverojatnoe-prikljuchenie-dzhodzho-6-sezon-2021.html",
-      "lastUpdated": "2026-02-13, 06:12:02",
-      "owners-count": 2268,
+      "lastUpdated": "2026-02-14, 06:43:22",
+      "owners-count": 2274,
       "owners-need": 1,
-      "owners-trade": 250
+      "owners-trade": 252
     },
     {
       "cardId": "19251",
@@ -347664,10 +347650,10 @@
       "animeId": 1318,
       "animeName": "Невероятные приключения Джоджо 6 сезон: Каменный океан",
       "animeLink": "/aniserials/video/action/1318-neverojatnoe-prikljuchenie-dzhodzho-6-sezon-2021.html",
-      "lastUpdated": "2026-02-13, 06:12:01",
+      "lastUpdated": "2026-02-14, 06:43:21",
       "owners-count": 2383,
       "owners-need": 3,
-      "owners-trade": 253
+      "owners-trade": 254
     },
     {
       "cardId": "19250",
@@ -347678,8 +347664,8 @@
       "animeId": 1218,
       "animeName": "И дьявол может плакать",
       "animeLink": "/aniserials/video/action/1218-i-djavol-mozhet-plakat.html",
-      "lastUpdated": "2026-02-13, 06:12:00",
-      "owners-count": 1544,
+      "lastUpdated": "2026-02-14, 06:43:20",
+      "owners-count": 1551,
       "owners-need": 20,
       "owners-trade": 197
     },
@@ -347692,8 +347678,8 @@
       "animeId": 1064,
       "animeName": "Инцидент Кэмоно",
       "animeLink": "/aniserials/video/action/1064-incident-kjemono.html",
-      "lastUpdated": "2026-02-13, 06:12:00",
-      "owners-count": 1394,
+      "lastUpdated": "2026-02-14, 06:43:19",
+      "owners-count": 1395,
       "owners-need": 4,
       "owners-trade": 165
     },
@@ -347706,10 +347692,10 @@
       "animeId": 501,
       "animeName": "Эрго Прокси",
       "animeLink": "/aniserials/video/detective/501-ergo-proksi.html",
-      "lastUpdated": "2026-02-13, 06:11:59",
-      "owners-count": 2612,
+      "lastUpdated": "2026-02-14, 06:43:18",
+      "owners-count": 2613,
       "owners-need": 5,
-      "owners-trade": 291
+      "owners-trade": 289
     },
     {
       "cardId": "19242",
@@ -347720,9 +347706,9 @@
       "animeId": 1694,
       "animeName": "Сказка о сахарном яблоке",
       "animeLink": "/aniserials/video/romance/1694-skazka-o-saharnom-jabloke-animestars.html",
-      "lastUpdated": "2026-02-13, 06:11:58",
-      "owners-count": 2508,
-      "owners-need": 13,
+      "lastUpdated": "2026-02-14, 06:43:18",
+      "owners-count": 2511,
+      "owners-need": 14,
       "owners-trade": 294
     },
     {
@@ -347734,10 +347720,10 @@
       "animeId": 1694,
       "animeName": "Сказка о сахарном яблоке",
       "animeLink": "/aniserials/video/romance/1694-skazka-o-saharnom-jabloke-animestars.html",
-      "lastUpdated": "2026-02-13, 06:11:57",
-      "owners-count": 2527,
+      "lastUpdated": "2026-02-14, 06:43:17",
+      "owners-count": 2538,
       "owners-need": 16,
-      "owners-trade": 293
+      "owners-trade": 296
     },
     {
       "cardId": "19240",
@@ -347748,7 +347734,7 @@
       "animeId": 1627,
       "animeName": "Меланхолия Харухи Судзумии",
       "animeLink": "/aniserials/video/comedy/1627-melanholija-haruhi-sudzumii-1-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:11:56",
+      "lastUpdated": "2026-02-14, 06:43:16",
       "owners-count": 2848,
       "owners-need": 3,
       "owners-trade": 329
@@ -347762,10 +347748,10 @@
       "animeId": 1694,
       "animeName": "Сказка о сахарном яблоке",
       "animeLink": "/aniserials/video/romance/1694-skazka-o-saharnom-jabloke-animestars.html",
-      "lastUpdated": "2026-02-13, 06:11:55",
-      "owners-count": 2448,
+      "lastUpdated": "2026-02-14, 06:43:15",
+      "owners-count": 2456,
       "owners-need": 12,
-      "owners-trade": 292
+      "owners-trade": 295
     },
     {
       "cardId": "19238",
@@ -347776,10 +347762,10 @@
       "animeId": 1627,
       "animeName": "Меланхолия Харухи Судзумии",
       "animeLink": "/aniserials/video/comedy/1627-melanholija-haruhi-sudzumii-1-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:11:54",
-      "owners-count": 2698,
-      "owners-need": 3,
-      "owners-trade": 317
+      "lastUpdated": "2026-02-14, 06:43:14",
+      "owners-count": 2703,
+      "owners-need": 2,
+      "owners-trade": 319
     },
     {
       "cardId": "19237",
@@ -347790,10 +347776,10 @@
       "animeId": 1694,
       "animeName": "Сказка о сахарном яблоке",
       "animeLink": "/aniserials/video/romance/1694-skazka-o-saharnom-jabloke-animestars.html",
-      "lastUpdated": "2026-02-13, 06:11:54",
-      "owners-count": 2595,
-      "owners-need": 12,
-      "owners-trade": 307
+      "lastUpdated": "2026-02-14, 06:43:13",
+      "owners-count": 2599,
+      "owners-need": 13,
+      "owners-trade": 308
     },
     {
       "cardId": "19236",
@@ -347804,10 +347790,10 @@
       "animeId": 1627,
       "animeName": "Меланхолия Харухи Судзумии",
       "animeLink": "/aniserials/video/comedy/1627-melanholija-haruhi-sudzumii-1-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:11:53",
-      "owners-count": 2642,
-      "owners-need": 3,
-      "owners-trade": 333
+      "lastUpdated": "2026-02-14, 06:43:12",
+      "owners-count": 2631,
+      "owners-need": 2,
+      "owners-trade": 331
     },
     {
       "cardId": "19235",
@@ -347818,7 +347804,7 @@
       "animeId": 1694,
       "animeName": "Сказка о сахарном яблоке",
       "animeLink": "/aniserials/video/romance/1694-skazka-o-saharnom-jabloke-animestars.html",
-      "lastUpdated": "2026-02-13, 06:11:52",
+      "lastUpdated": "2026-02-14, 06:43:12",
       "owners-count": 1406,
       "owners-need": 19,
       "owners-trade": 164
@@ -347832,7 +347818,7 @@
       "animeId": 2627,
       "animeName": "Красавица-воин Сейлор Мун 4 сезон",
       "animeLink": "/aniserials/video/shoujo/2627-krasavica-voin-sejlor-mun-4-sezon.html",
-      "lastUpdated": "2026-02-13, 06:11:51",
+      "lastUpdated": "2026-02-14, 06:43:11",
       "owners-count": 31,
       "owners-need": 17,
       "owners-trade": 2
@@ -347846,10 +347832,10 @@
       "animeId": 2627,
       "animeName": "Красавица-воин Сейлор Мун 4 сезон",
       "animeLink": "/aniserials/video/shoujo/2627-krasavica-voin-sejlor-mun-4-sezon.html",
-      "lastUpdated": "2026-02-13, 06:11:50",
-      "owners-count": 2628,
+      "lastUpdated": "2026-02-14, 06:43:09",
+      "owners-count": 2637,
       "owners-need": 9,
-      "owners-trade": 297
+      "owners-trade": 301
     },
     {
       "cardId": "19231",
@@ -347860,10 +347846,10 @@
       "animeId": 2627,
       "animeName": "Красавица-воин Сейлор Мун 4 сезон",
       "animeLink": "/aniserials/video/shoujo/2627-krasavica-voin-sejlor-mun-4-sezon.html",
-      "lastUpdated": "2026-02-13, 06:11:49",
-      "owners-count": 2669,
+      "lastUpdated": "2026-02-14, 06:43:09",
+      "owners-count": 2673,
       "owners-need": 5,
-      "owners-trade": 314
+      "owners-trade": 315
     },
     {
       "cardId": "19230",
@@ -347874,10 +347860,10 @@
       "animeId": 2622,
       "animeName": "Красавица-воин Сейлор Мун 2 сезон",
       "animeLink": "/aniserials/video/shoujo/2622-krasavica-voin-sejlor-mun-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:11:49",
-      "owners-count": 2724,
+      "lastUpdated": "2026-02-14, 06:43:08",
+      "owners-count": 2728,
       "owners-need": 9,
-      "owners-trade": 295
+      "owners-trade": 296
     },
     {
       "cardId": "19229",
@@ -347888,10 +347874,10 @@
       "animeId": 2624,
       "animeName": "Красавица-воин Сейлор Мун 3 сезон",
       "animeLink": "/aniserials/video/shoujo/2624-krasavica-voin-sejlor-mun-3-sezon.html",
-      "lastUpdated": "2026-02-13, 06:11:46",
-      "owners-count": 2757,
+      "lastUpdated": "2026-02-14, 06:43:05",
+      "owners-count": 2769,
       "owners-need": 8,
-      "owners-trade": 309
+      "owners-trade": 308
     },
     {
       "cardId": "19228",
@@ -347902,8 +347888,8 @@
       "animeId": 1909,
       "animeName": "Пять невест - Фильм",
       "animeLink": "/aniserials/video/garems/1909-pjat-nevest-film.html",
-      "lastUpdated": "2026-02-13, 06:11:43",
-      "owners-count": 36,
+      "lastUpdated": "2026-02-14, 06:43:02",
+      "owners-count": 35,
       "owners-need": 29,
       "owners-trade": 2
     },
@@ -347916,10 +347902,10 @@
       "animeId": 2519,
       "animeName": "Таинственная библиотека Данталиан",
       "animeLink": "/aniserials/video/action/2519-tainstvennaja-biblioteka-dantalian.html",
-      "lastUpdated": "2026-02-13, 06:13:56",
-      "owners-count": 575,
-      "owners-need": 43,
-      "owners-trade": 62
+      "lastUpdated": "2026-02-14, 06:44:54",
+      "owners-count": 573,
+      "owners-need": 44,
+      "owners-trade": 63
     },
     {
       "cardId": "19223",
@@ -347930,10 +347916,10 @@
       "animeId": 2519,
       "animeName": "Таинственная библиотека Данталиан",
       "animeLink": "/aniserials/video/action/2519-tainstvennaja-biblioteka-dantalian.html",
-      "lastUpdated": "2026-02-13, 06:13:54",
-      "owners-count": 468,
-      "owners-need": 49,
-      "owners-trade": 28
+      "lastUpdated": "2026-02-14, 06:44:52",
+      "owners-count": 472,
+      "owners-need": 50,
+      "owners-trade": 30
     },
     {
       "cardId": "19221",
@@ -347944,8 +347930,8 @@
       "animeId": 1920,
       "animeName": "Эксперименты Лэйн",
       "animeLink": "/aniserials/video/drama/1920-jeksperimenty-ljejn.html",
-      "lastUpdated": "2026-02-13, 06:13:53",
-      "owners-count": 48,
+      "lastUpdated": "2026-02-14, 06:44:51",
+      "owners-count": 47,
       "owners-need": 23,
       "owners-trade": 2
     },
@@ -347958,10 +347944,10 @@
       "animeId": 2036,
       "animeName": "Чёрный клевер: Меч Короля Магов",
       "animeLink": "/aniserials/video/action/2036-chernyj-klever-mech-korolja-magov.html",
-      "lastUpdated": "2026-02-13, 06:13:52",
-      "owners-count": 1764,
-      "owners-need": 34,
-      "owners-trade": 213
+      "lastUpdated": "2026-02-14, 06:44:50",
+      "owners-count": 1763,
+      "owners-need": 35,
+      "owners-trade": 210
     },
     {
       "cardId": "19216",
@@ -347972,10 +347958,10 @@
       "animeId": 2492,
       "animeName": "Ребёнок идола 2 сезон",
       "animeLink": "/aniserials/video/drama/2492-rebenok-idola-2-sezon-v3.html",
-      "lastUpdated": "2026-02-13, 06:13:51",
-      "owners-count": 2895,
+      "lastUpdated": "2026-02-14, 06:44:50",
+      "owners-count": 2902,
       "owners-need": 21,
-      "owners-trade": 364
+      "owners-trade": 361
     },
     {
       "cardId": "19215",
@@ -347986,10 +347972,10 @@
       "animeId": 825,
       "animeName": "Тёмный дворецкий 3 сезон: Глава о цирке",
       "animeLink": "/aniserials/video/detective/825-temnyj-dvoreckij-3-sezon.html",
-      "lastUpdated": "2026-02-13, 06:13:51",
-      "owners-count": 650,
+      "lastUpdated": "2026-02-14, 06:44:49",
+      "owners-count": 649,
       "owners-need": 35,
-      "owners-trade": 105
+      "owners-trade": 102
     },
     {
       "cardId": "19213",
@@ -348000,9 +347986,9 @@
       "animeId": 33,
       "animeName": "Ван Пис",
       "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
-      "lastUpdated": "2026-02-13, 06:13:50",
-      "owners-count": 87,
-      "owners-need": 178,
+      "lastUpdated": "2026-02-14, 06:44:48",
+      "owners-count": 86,
+      "owners-need": 175,
       "owners-trade": 14
     },
     {
@@ -348014,10 +348000,10 @@
       "animeId": 7,
       "animeName": "Деми-тян хочет рассказать",
       "animeLink": "/aniserials/video/vampires/7-demi-hotyat-poboltat.html",
-      "lastUpdated": "2026-02-13, 06:13:49",
-      "owners-count": 313,
+      "lastUpdated": "2026-02-14, 06:44:47",
+      "owners-count": 315,
       "owners-need": 38,
-      "owners-trade": 25
+      "owners-trade": 26
     },
     {
       "cardId": "19209",
@@ -348028,10 +348014,10 @@
       "animeId": 2453,
       "animeName": "Кобато",
       "animeLink": "/aniserials/video/comedy/2453-kobato.html",
-      "lastUpdated": "2026-02-13, 06:13:48",
-      "owners-count": 582,
-      "owners-need": 40,
-      "owners-trade": 41
+      "lastUpdated": "2026-02-14, 06:44:46",
+      "owners-count": 584,
+      "owners-need": 38,
+      "owners-trade": 43
     },
     {
       "cardId": "19207",
@@ -348042,8 +348028,8 @@
       "animeId": 1778,
       "animeName": "Повесть о конце света 2 сезон",
       "animeLink": "/aniserials/video/drama/1778-povest-o-konce-sveta-2-sezon-animestars.html",
-      "lastUpdated": "2026-02-13, 06:13:47",
-      "owners-count": 583,
+      "lastUpdated": "2026-02-14, 06:44:45",
+      "owners-count": 587,
       "owners-need": 26,
       "owners-trade": 104
     },
@@ -348056,8 +348042,8 @@
       "animeId": 679,
       "animeName": "Икс",
       "animeLink": "/aniserials/video/drama/679-iks.html",
-      "lastUpdated": "2026-02-13, 06:13:47",
-      "owners-count": 596,
+      "lastUpdated": "2026-02-14, 06:44:45",
+      "owners-count": 597,
       "owners-need": 29,
       "owners-trade": 59
     },
@@ -348070,10 +348056,10 @@
       "animeId": 1009,
       "animeName": "Отныне Мао, король демонов!",
       "animeLink": "/aniserials/video/comedy/1009-otnyne-mao-korol-demonov.html",
-      "lastUpdated": "2026-02-13, 06:13:46",
-      "owners-count": 2744,
-      "owners-need": 13,
-      "owners-trade": 306
+      "lastUpdated": "2026-02-14, 06:44:44",
+      "owners-count": 2739,
+      "owners-need": 11,
+      "owners-trade": 303
     },
     {
       "cardId": "19204",
@@ -348084,10 +348070,10 @@
       "animeId": 460,
       "animeName": "Доблесть рыцаря-неудачника",
       "animeLink": "/aniserials/video/garems/460-doblest-rycarya-neudachnika.html",
-      "lastUpdated": "2026-02-13, 06:13:45",
+      "lastUpdated": "2026-02-14, 06:44:43",
       "owners-count": 2983,
-      "owners-need": 7,
-      "owners-trade": 358
+      "owners-need": 6,
+      "owners-trade": 355
     },
     {
       "cardId": "19202",
@@ -348098,10 +348084,10 @@
       "animeId": 2087,
       "animeName": "Любимый во Франксе",
       "animeLink": "/aniserials/video/drama/2087-lyubimyy-vo-frankse.html",
-      "lastUpdated": "2026-02-13, 06:13:44",
+      "lastUpdated": "2026-02-14, 06:44:42",
       "owners-count": 92,
-      "owners-need": 91,
-      "owners-trade": 4
+      "owners-need": 90,
+      "owners-trade": 5
     },
     {
       "cardId": "19201",
@@ -348112,10 +348098,10 @@
       "animeId": 217,
       "animeName": "Легенда о Гранкресте",
       "animeLink": "/aniserials/video/action/217-legenda-o-grankreste-2018.html",
-      "lastUpdated": "2026-02-13, 06:13:43",
-      "owners-count": 1378,
+      "lastUpdated": "2026-02-14, 06:44:41",
+      "owners-count": 1380,
       "owners-need": 10,
-      "owners-trade": 146
+      "owners-trade": 148
     },
     {
       "cardId": "19200",
@@ -348126,8 +348112,8 @@
       "animeId": 217,
       "animeName": "Легенда о Гранкресте",
       "animeLink": "/aniserials/video/action/217-legenda-o-grankreste-2018.html",
-      "lastUpdated": "2026-02-13, 06:13:42",
-      "owners-count": 2435,
+      "lastUpdated": "2026-02-14, 06:44:40",
+      "owners-count": 2440,
       "owners-need": 2,
       "owners-trade": 266
     },
@@ -348140,10 +348126,10 @@
       "animeId": 217,
       "animeName": "Легенда о Гранкресте",
       "animeLink": "/aniserials/video/action/217-legenda-o-grankreste-2018.html",
-      "lastUpdated": "2026-02-13, 06:13:41",
-      "owners-count": 1586,
+      "lastUpdated": "2026-02-14, 06:44:40",
+      "owners-count": 1583,
       "owners-need": 5,
-      "owners-trade": 174
+      "owners-trade": 172
     },
     {
       "cardId": "19194",
@@ -348154,10 +348140,10 @@
       "animeId": 104,
       "animeName": "Аватар короля",
       "animeLink": "/aniserials/video/action/104-avatar-korolya-2017.html",
-      "lastUpdated": "2026-02-13, 06:13:41",
-      "owners-count": 2412,
+      "lastUpdated": "2026-02-14, 06:44:39",
+      "owners-count": 2419,
       "owners-need": 15,
-      "owners-trade": 220
+      "owners-trade": 219
     },
     {
       "cardId": "19192",
@@ -348168,10 +348154,10 @@
       "animeId": 1587,
       "animeName": "Аркнайтс: Прелюдия к рассвету",
       "animeLink": "/aniserials/video/action/1587-arknajts-preljudija-k-rassvetu.html",
-      "lastUpdated": "2026-02-13, 06:13:40",
-      "owners-count": 532,
+      "lastUpdated": "2026-02-14, 06:44:38",
+      "owners-count": 534,
       "owners-need": 44,
-      "owners-trade": 61
+      "owners-trade": 60
     },
     {
       "cardId": "19191",
@@ -348182,8 +348168,8 @@
       "animeId": 2023,
       "animeName": "Жизнь в альтернативном мире с нуля: Замороженные узы",
       "animeLink": "/aniserials/video/drama/2023-zhizn-v-alternativnom-mire-s-nulja-zamorozhennye-uzy.html",
-      "lastUpdated": "2026-02-13, 06:13:39",
-      "owners-count": 758,
+      "lastUpdated": "2026-02-14, 06:44:37",
+      "owners-count": 759,
       "owners-need": 81,
       "owners-trade": 60
     },
@@ -348196,7 +348182,7 @@
       "animeId": 2064,
       "animeName": "В подземелье я пойду, там красавицу найду! Стрела Ориона",
       "animeLink": "/aniserials/video/comedy/2064-v-podzemele-ja-pojdu-tam-krasavicu-najdu-strela-oriona.html",
-      "lastUpdated": "2026-02-13, 06:13:38",
+      "lastUpdated": "2026-02-14, 06:44:36",
       "owners-count": 56,
       "owners-need": 45,
       "owners-trade": 7
@@ -348210,9 +348196,9 @@
       "animeId": 1013,
       "animeName": "Система «спаси-себя-сам» для главного злодея",
       "animeLink": "/aniserials/video/martial_arts/1013-sistema-spasi-sebja-sam-dlja-glavnogo-zlodeja.html",
-      "lastUpdated": "2026-02-13, 06:13:37",
-      "owners-count": 2713,
-      "owners-need": 29,
+      "lastUpdated": "2026-02-14, 06:44:35",
+      "owners-count": 2721,
+      "owners-need": 30,
       "owners-trade": 270
     },
     {
@@ -348224,10 +348210,10 @@
       "animeId": 2364,
       "animeName": "Я, владыка демонов, взял эльфийку-рабыню в жёны. И как же мне её любить?",
       "animeLink": "/aniserials/video/action/2364-ja-vladyka-demonov-vzjal-jelfijku-rabynju-v-zheny-i-kak-zhe-mne-ee-ljubit-v9.html",
-      "lastUpdated": "2026-02-13, 06:13:36",
-      "owners-count": 2808,
+      "lastUpdated": "2026-02-14, 06:44:34",
+      "owners-count": 2816,
       "owners-need": 8,
-      "owners-trade": 309
+      "owners-trade": 308
     },
     {
       "cardId": "19187",
@@ -348238,10 +348224,10 @@
       "animeId": 2116,
       "animeName": "Детектив Конан",
       "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
-      "lastUpdated": "2026-02-13, 06:13:36",
-      "owners-count": 2318,
+      "lastUpdated": "2026-02-14, 06:44:33",
+      "owners-count": 2320,
       "owners-need": 5,
-      "owners-trade": 280
+      "owners-trade": 281
     },
     {
       "cardId": "19186",
@@ -348252,10 +348238,10 @@
       "animeId": 2099,
       "animeName": "Непобедимый святой: Путь, которым я иду, чтобы выжить в другом мире",
       "animeLink": "/aniserials/video/comedy/2099-nepobedimyj-svjatoj-put-kotorym-ja-idu-chtoby-vyzhit-v-drugom-mire-animestars-vv2.html",
-      "lastUpdated": "2026-02-13, 06:13:35",
-      "owners-count": 1648,
-      "owners-need": 30,
-      "owners-trade": 175
+      "lastUpdated": "2026-02-14, 06:44:32",
+      "owners-count": 1647,
+      "owners-need": 29,
+      "owners-trade": 172
     },
     {
       "cardId": "19184",
@@ -348266,10 +348252,10 @@
       "animeId": 2518,
       "animeName": "Последнее поле брани между тобой и мной, или Святая война сотворения мира 2 сезон",
       "animeLink": "/aniserials/video/action/2518-poslednee-pole-brani-mezhdu-toboj-i-mnoj-ili-svjataja-vojna-sotvorenija-mira-2-v1.html",
-      "lastUpdated": "2026-02-13, 06:13:34",
-      "owners-count": 2973,
+      "lastUpdated": "2026-02-14, 06:44:31",
+      "owners-count": 2979,
       "owners-need": 7,
-      "owners-trade": 335
+      "owners-trade": 337
     },
     {
       "cardId": "19183",
@@ -348280,10 +348266,10 @@
       "animeId": 2518,
       "animeName": "Последнее поле брани между тобой и мной, или Святая война сотворения мира 2 сезон",
       "animeLink": "/aniserials/video/action/2518-poslednee-pole-brani-mezhdu-toboj-i-mnoj-ili-svjataja-vojna-sotvorenija-mira-2-v1.html",
-      "lastUpdated": "2026-02-13, 06:13:33",
-      "owners-count": 624,
+      "lastUpdated": "2026-02-14, 06:44:31",
+      "owners-count": 623,
       "owners-need": 26,
-      "owners-trade": 108
+      "owners-trade": 110
     },
     {
       "cardId": "19182",
@@ -348294,10 +348280,10 @@
       "animeId": 891,
       "animeName": "Последнее поле брани между тобой и мной, или Святая война сотворения мира",
       "animeLink": "/aniserials/video/action/891-poslednee-pole-brani-mezhdu-toboj-i-mnoj-ili-svjataja-vojna-sotvorenija-mira.html",
-      "lastUpdated": "2026-02-13, 06:13:32",
-      "owners-count": 2928,
-      "owners-need": 7,
-      "owners-trade": 358
+      "lastUpdated": "2026-02-14, 06:44:30",
+      "owners-count": 2922,
+      "owners-need": 6,
+      "owners-trade": 351
     },
     {
       "cardId": "19181",
@@ -348308,8 +348294,8 @@
       "animeId": 1326,
       "animeName": "Код: Крушитель",
       "animeLink": "/aniserials/video/action/1326-kod-krushitel.html",
-      "lastUpdated": "2026-02-13, 06:13:31",
-      "owners-count": 1501,
+      "lastUpdated": "2026-02-14, 06:44:29",
+      "owners-count": 1505,
       "owners-need": 4,
       "owners-trade": 144
     },
@@ -348322,10 +348308,10 @@
       "animeId": 1326,
       "animeName": "Код: Крушитель",
       "animeLink": "/aniserials/video/action/1326-kod-krushitel.html",
-      "lastUpdated": "2026-02-13, 06:13:31",
-      "owners-count": 440,
+      "lastUpdated": "2026-02-14, 06:44:28",
+      "owners-count": 439,
       "owners-need": 21,
-      "owners-trade": 9
+      "owners-trade": 10
     },
     {
       "cardId": "19179",
@@ -348336,9 +348322,9 @@
       "animeId": 1121,
       "animeName": "Ремейк нашей жизни",
       "animeLink": "/aniserials/video/drama/1121-remejk-nashej-zhizni.html",
-      "lastUpdated": "2026-02-13, 06:13:30",
-      "owners-count": 45,
-      "owners-need": 13,
+      "lastUpdated": "2026-02-14, 06:44:27",
+      "owners-count": 44,
+      "owners-need": 14,
       "owners-trade": 0
     },
     {
@@ -348350,9 +348336,9 @@
       "animeId": 1121,
       "animeName": "Ремейк нашей жизни",
       "animeLink": "/aniserials/video/drama/1121-remejk-nashej-zhizni.html",
-      "lastUpdated": "2026-02-13, 06:13:29",
-      "owners-count": 396,
-      "owners-need": 8,
+      "lastUpdated": "2026-02-14, 06:44:26",
+      "owners-count": 399,
+      "owners-need": 9,
       "owners-trade": 78
     },
     {
@@ -348364,9 +348350,9 @@
       "animeId": 1121,
       "animeName": "Ремейк нашей жизни",
       "animeLink": "/aniserials/video/drama/1121-remejk-nashej-zhizni.html",
-      "lastUpdated": "2026-02-13, 06:13:28",
+      "lastUpdated": "2026-02-14, 06:44:26",
       "owners-count": 435,
-      "owners-need": 10,
+      "owners-need": 11,
       "owners-trade": 83
     },
     {
@@ -348378,10 +348364,10 @@
       "animeId": 299,
       "animeName": "Макросс Фронтир",
       "animeLink": "/aniserials/video/drama/299-makross-frontir.html",
-      "lastUpdated": "2026-02-13, 06:13:27",
-      "owners-count": 2786,
-      "owners-need": 1,
-      "owners-trade": 319
+      "lastUpdated": "2026-02-14, 06:44:25",
+      "owners-count": 2796,
+      "owners-need": 0,
+      "owners-trade": 323
     },
     {
       "cardId": "19173",
@@ -348392,8 +348378,8 @@
       "animeId": 299,
       "animeName": "Макросс Фронтир",
       "animeLink": "/aniserials/video/drama/299-makross-frontir.html",
-      "lastUpdated": "2026-02-13, 06:13:26",
-      "owners-count": 345,
+      "lastUpdated": "2026-02-14, 06:44:24",
+      "owners-count": 350,
       "owners-need": 10,
       "owners-trade": 69
     },
@@ -348406,10 +348392,10 @@
       "animeId": 369,
       "animeName": "Буря потерь",
       "animeLink": "/aniserials/video/detective/369-burya-poter.html",
-      "lastUpdated": "2026-02-13, 06:13:26",
-      "owners-count": 2681,
+      "lastUpdated": "2026-02-14, 06:44:23",
+      "owners-count": 2678,
       "owners-need": 5,
-      "owners-trade": 284
+      "owners-trade": 283
     },
     {
       "cardId": "19171",
@@ -348420,9 +348406,9 @@
       "animeId": 369,
       "animeName": "Буря потерь",
       "animeLink": "/aniserials/video/detective/369-burya-poter.html",
-      "lastUpdated": "2026-02-13, 06:13:25",
-      "owners-count": 599,
-      "owners-need": 38,
+      "lastUpdated": "2026-02-14, 06:44:22",
+      "owners-count": 604,
+      "owners-need": 36,
       "owners-trade": 64
     },
     {
@@ -348434,8 +348420,8 @@
       "animeId": 1171,
       "animeName": "Противостоящий небесам",
       "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
-      "lastUpdated": "2026-02-13, 06:13:24",
-      "owners-count": 3169,
+      "lastUpdated": "2026-02-14, 06:44:21",
+      "owners-count": 3173,
       "owners-need": 24,
       "owners-trade": 365
     },
@@ -348448,10 +348434,10 @@
       "animeId": 369,
       "animeName": "Буря потерь",
       "animeLink": "/aniserials/video/detective/369-burya-poter.html",
-      "lastUpdated": "2026-02-13, 06:13:23",
-      "owners-count": 609,
-      "owners-need": 41,
-      "owners-trade": 68
+      "lastUpdated": "2026-02-14, 06:44:20",
+      "owners-count": 611,
+      "owners-need": 40,
+      "owners-trade": 69
     },
     {
       "cardId": "19167",
@@ -348462,10 +348448,10 @@
       "animeId": 369,
       "animeName": "Буря потерь",
       "animeLink": "/aniserials/video/detective/369-burya-poter.html",
-      "lastUpdated": "2026-02-13, 06:13:22",
+      "lastUpdated": "2026-02-14, 06:44:19",
       "owners-count": 577,
-      "owners-need": 40,
-      "owners-trade": 65
+      "owners-need": 39,
+      "owners-trade": 63
     },
     {
       "cardId": "19164",
@@ -348476,10 +348462,10 @@
       "animeId": 2419,
       "animeName": "Лагерь на свежем воздухе 2 сезон",
       "animeLink": "/aniserials/video/comedy/2419-lager-na-svezhem-vozduhe-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:13:21",
-      "owners-count": 2286,
+      "lastUpdated": "2026-02-14, 06:44:18",
+      "owners-count": 2292,
       "owners-need": 3,
-      "owners-trade": 252
+      "owners-trade": 253
     },
     {
       "cardId": "19163",
@@ -348490,10 +348476,10 @@
       "animeId": 2419,
       "animeName": "Лагерь на свежем воздухе 2 сезон",
       "animeLink": "/aniserials/video/comedy/2419-lager-na-svezhem-vozduhe-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:13:20",
+      "lastUpdated": "2026-02-14, 06:44:17",
       "owners-count": 2539,
       "owners-need": 2,
-      "owners-trade": 209
+      "owners-trade": 210
     },
     {
       "cardId": "19162",
@@ -348504,8 +348490,8 @@
       "animeId": 1379,
       "animeName": "Любовь после мирового господства",
       "animeLink": "/aniserials/video/comedy/1379-ljubov-posle-mirovogo-gospodstva.html",
-      "lastUpdated": "2026-02-13, 06:13:19",
-      "owners-count": 332,
+      "lastUpdated": "2026-02-14, 06:44:17",
+      "owners-count": 333,
       "owners-need": 7,
       "owners-trade": 39
     },
@@ -348518,8 +348504,8 @@
       "animeId": 1318,
       "animeName": "Невероятные приключения Джоджо 6 сезон: Каменный океан",
       "animeLink": "/aniserials/video/action/1318-neverojatnoe-prikljuchenie-dzhodzho-6-sezon-2021.html",
-      "lastUpdated": "2026-02-13, 06:13:19",
-      "owners-count": 350,
+      "lastUpdated": "2026-02-14, 06:44:16",
+      "owners-count": 352,
       "owners-need": 9,
       "owners-trade": 66
     },
@@ -348532,10 +348518,10 @@
       "animeId": 2419,
       "animeName": "Лагерь на свежем воздухе 2 сезон",
       "animeLink": "/aniserials/video/comedy/2419-lager-na-svezhem-vozduhe-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:13:18",
-      "owners-count": 342,
+      "lastUpdated": "2026-02-14, 06:44:15",
+      "owners-count": 344,
       "owners-need": 11,
-      "owners-trade": 27
+      "owners-trade": 28
     },
     {
       "cardId": "19158",
@@ -348546,10 +348532,10 @@
       "animeId": 2419,
       "animeName": "Лагерь на свежем воздухе 2 сезон",
       "animeLink": "/aniserials/video/comedy/2419-lager-na-svezhem-vozduhe-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:13:17",
-      "owners-count": 406,
+      "lastUpdated": "2026-02-14, 06:44:14",
+      "owners-count": 404,
       "owners-need": 10,
-      "owners-trade": 44
+      "owners-trade": 46
     },
     {
       "cardId": "19157",
@@ -348560,10 +348546,10 @@
       "animeId": 2419,
       "animeName": "Лагерь на свежем воздухе 2 сезон",
       "animeLink": "/aniserials/video/comedy/2419-lager-na-svezhem-vozduhe-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:13:16",
-      "owners-count": 396,
+      "lastUpdated": "2026-02-14, 06:44:13",
+      "owners-count": 393,
       "owners-need": 16,
-      "owners-trade": 57
+      "owners-trade": 59
     },
     {
       "cardId": "19155",
@@ -348574,8 +348560,8 @@
       "animeId": 2419,
       "animeName": "Лагерь на свежем воздухе 2 сезон",
       "animeLink": "/aniserials/video/comedy/2419-lager-na-svezhem-vozduhe-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:13:15",
-      "owners-count": 434,
+      "lastUpdated": "2026-02-14, 06:44:13",
+      "owners-count": 433,
       "owners-need": 9,
       "owners-trade": 67
     },
@@ -348588,10 +348574,10 @@
       "animeId": 1691,
       "animeName": "Мститель",
       "animeLink": "/aniserials/video/detective/1691-mstitel-animestars.html",
-      "lastUpdated": "2026-02-13, 06:13:14",
-      "owners-count": 2738,
-      "owners-need": 13,
-      "owners-trade": 304
+      "lastUpdated": "2026-02-14, 06:44:12",
+      "owners-count": 2743,
+      "owners-need": 14,
+      "owners-trade": 306
     },
     {
       "cardId": "19151",
@@ -348602,9 +348588,9 @@
       "animeId": 1691,
       "animeName": "Мститель",
       "animeLink": "/aniserials/video/detective/1691-mstitel-animestars.html",
-      "lastUpdated": "2026-02-13, 06:13:13",
-      "owners-count": 562,
-      "owners-need": 37,
+      "lastUpdated": "2026-02-14, 06:44:11",
+      "owners-count": 565,
+      "owners-need": 38,
       "owners-trade": 70
     },
     {
@@ -348616,9 +348602,9 @@
       "animeId": 1671,
       "animeName": "Соник Икс",
       "animeLink": "/aniserials/video/adventure/1671-sonik-iks.html",
-      "lastUpdated": "2026-02-13, 06:13:13",
-      "owners-count": 2120,
-      "owners-need": 3,
+      "lastUpdated": "2026-02-14, 06:44:10",
+      "owners-count": 2117,
+      "owners-need": 4,
       "owners-trade": 223
     },
     {
@@ -348630,10 +348616,10 @@
       "animeId": 501,
       "animeName": "Эрго Прокси",
       "animeLink": "/aniserials/video/detective/501-ergo-proksi.html",
-      "lastUpdated": "2026-02-13, 06:13:12",
-      "owners-count": 2373,
-      "owners-need": 11,
-      "owners-trade": 256
+      "lastUpdated": "2026-02-14, 06:44:09",
+      "owners-count": 2372,
+      "owners-need": 10,
+      "owners-trade": 255
     },
     {
       "cardId": "19144",
@@ -348644,10 +348630,10 @@
       "animeId": 1826,
       "animeName": "Я получил читерские способности в другом мире и стал экстраординарным в реальном мире",
       "animeLink": "/aniserials/video/garems/1826-ja-poluchil-chiterskie-sposobnosti-v-drugom-mire-i-stal-jekstraordinarnym-v-realnom-mire-animestars-vvv12.html",
-      "lastUpdated": "2026-02-13, 06:13:11",
-      "owners-count": 2640,
+      "lastUpdated": "2026-02-14, 06:44:08",
+      "owners-count": 2648,
       "owners-need": 26,
-      "owners-trade": 239
+      "owners-trade": 240
     },
     {
       "cardId": "19143",
@@ -348658,10 +348644,10 @@
       "animeId": 501,
       "animeName": "Эрго Прокси",
       "animeLink": "/aniserials/video/detective/501-ergo-proksi.html",
-      "lastUpdated": "2026-02-13, 06:13:10",
-      "owners-count": 2639,
+      "lastUpdated": "2026-02-14, 06:44:08",
+      "owners-count": 2642,
       "owners-need": 7,
-      "owners-trade": 290
+      "owners-trade": 295
     },
     {
       "cardId": "19142",
@@ -348672,10 +348658,10 @@
       "animeId": 1973,
       "animeName": "Тетрадь дружбы Нацумэ 2 сезон",
       "animeLink": "/aniserials/video/drama/1973-tetrad-druzhby-nacumje-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:13:09",
-      "owners-count": 51,
+      "lastUpdated": "2026-02-14, 06:44:07",
+      "owners-count": 52,
       "owners-need": 26,
-      "owners-trade": 1
+      "owners-trade": 2
     },
     {
       "cardId": "19141",
@@ -348686,8 +348672,8 @@
       "animeId": 1890,
       "animeName": "Код Гиас: Лелуш Воскресший - Фильм",
       "animeLink": "/aniserials/video/drama/1890-kod-gias-lelush-voskresshij-film.html",
-      "lastUpdated": "2026-02-13, 06:13:08",
-      "owners-count": 35,
+      "lastUpdated": "2026-02-14, 06:44:06",
+      "owners-count": 36,
       "owners-need": 36,
       "owners-trade": 2
     },
@@ -348700,8 +348686,8 @@
       "animeId": 471,
       "animeName": "Код Гиас: Восставший Лелуш 2 сезон",
       "animeLink": "/aniserials/video/action/471-kod-gias-vosstavshiy-lelush-2-sezon-2008.html",
-      "lastUpdated": "2026-02-13, 06:13:08",
-      "owners-count": 1631,
+      "lastUpdated": "2026-02-14, 06:44:05",
+      "owners-count": 1634,
       "owners-need": 24,
       "owners-trade": 142
     },
@@ -348714,8 +348700,8 @@
       "animeId": 211,
       "animeName": "В поисках божественного рецепта 3 сезон",
       "animeLink": "/aniserials/video/comedy/211-v-poiskah-bozhestvennogo-recepta-3-sezon-2018.html",
-      "lastUpdated": "2026-02-13, 06:13:07",
-      "owners-count": 615,
+      "lastUpdated": "2026-02-14, 06:44:04",
+      "owners-count": 617,
       "owners-need": 43,
       "owners-trade": 66
     },
@@ -348728,10 +348714,10 @@
       "animeId": 471,
       "animeName": "Код Гиас: Восставший Лелуш 2 сезон",
       "animeLink": "/aniserials/video/action/471-kod-gias-vosstavshiy-lelush-2-sezon-2008.html",
-      "lastUpdated": "2026-02-13, 06:13:06",
-      "owners-count": 1506,
+      "lastUpdated": "2026-02-14, 06:44:03",
+      "owners-count": 1509,
       "owners-need": 23,
-      "owners-trade": 161
+      "owners-trade": 162
     },
     {
       "cardId": "19136",
@@ -348742,10 +348728,10 @@
       "animeId": 2099,
       "animeName": "Непобедимый святой: Путь, которым я иду, чтобы выжить в другом мире",
       "animeLink": "/aniserials/video/comedy/2099-nepobedimyj-svjatoj-put-kotorym-ja-idu-chtoby-vyzhit-v-drugom-mire-animestars-vv2.html",
-      "lastUpdated": "2026-02-13, 06:13:05",
-      "owners-count": 697,
-      "owners-need": 47,
-      "owners-trade": 56
+      "lastUpdated": "2026-02-14, 06:44:03",
+      "owners-count": 702,
+      "owners-need": 45,
+      "owners-trade": 55
     },
     {
       "cardId": "19135",
@@ -348756,10 +348742,10 @@
       "animeId": 471,
       "animeName": "Код Гиас: Восставший Лелуш 2 сезон",
       "animeLink": "/aniserials/video/action/471-kod-gias-vosstavshiy-lelush-2-sezon-2008.html",
-      "lastUpdated": "2026-02-13, 06:13:03",
-      "owners-count": 3247,
+      "lastUpdated": "2026-02-14, 06:44:01",
+      "owners-count": 3250,
       "owners-need": 33,
-      "owners-trade": 226
+      "owners-trade": 229
     },
     {
       "cardId": "19134",
@@ -348770,8 +348756,8 @@
       "animeId": 1206,
       "animeName": "Восемьдесят шесть 2 сезон",
       "animeLink": "/aniserials/video/action/1206-vosemdesjat-shest-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:13:03",
-      "owners-count": 2852,
+      "lastUpdated": "2026-02-14, 06:44:00",
+      "owners-count": 2855,
       "owners-need": 32,
       "owners-trade": 267
     },
@@ -348784,10 +348770,10 @@
       "animeId": 471,
       "animeName": "Код Гиас: Восставший Лелуш 2 сезон",
       "animeLink": "/aniserials/video/action/471-kod-gias-vosstavshiy-lelush-2-sezon-2008.html",
-      "lastUpdated": "2026-02-13, 06:13:02",
-      "owners-count": 3201,
-      "owners-need": 20,
-      "owners-trade": 331
+      "lastUpdated": "2026-02-14, 06:43:59",
+      "owners-count": 3203,
+      "owners-need": 19,
+      "owners-trade": 334
     },
     {
       "cardId": "19128",
@@ -348798,10 +348784,10 @@
       "animeId": 470,
       "animeName": "Код Гиас: Восставший Лелуш",
       "animeLink": "/aniserials/video/action/470-kod-gias-vosstavshiy-lelush-1-sezon-2006.html",
-      "lastUpdated": "2026-02-13, 06:14:49",
-      "owners-count": 2735,
+      "lastUpdated": "2026-02-14, 06:45:47",
+      "owners-count": 2736,
       "owners-need": 24,
-      "owners-trade": 275
+      "owners-trade": 276
     },
     {
       "cardId": "19126",
@@ -348812,8 +348798,8 @@
       "animeId": 1118,
       "animeName": "Мемуары Ванитаса",
       "animeLink": "/aniserials/video/vampires/1118-memuary-vanitasa.html",
-      "lastUpdated": "2026-02-13, 06:14:47",
-      "owners-count": 50,
+      "lastUpdated": "2026-02-14, 06:45:45",
+      "owners-count": 51,
       "owners-need": 25,
       "owners-trade": 4
     },
@@ -348826,10 +348812,10 @@
       "animeId": 470,
       "animeName": "Код Гиас: Восставший Лелуш",
       "animeLink": "/aniserials/video/action/470-kod-gias-vosstavshiy-lelush-1-sezon-2006.html",
-      "lastUpdated": "2026-02-13, 06:14:47",
-      "owners-count": 2538,
+      "lastUpdated": "2026-02-14, 06:45:44",
+      "owners-count": 2539,
       "owners-need": 26,
-      "owners-trade": 246
+      "owners-trade": 245
     },
     {
       "cardId": "19124",
@@ -348840,10 +348826,10 @@
       "animeId": 470,
       "animeName": "Код Гиас: Восставший Лелуш",
       "animeLink": "/aniserials/video/action/470-kod-gias-vosstavshiy-lelush-1-sezon-2006.html",
-      "lastUpdated": "2026-02-13, 06:14:45",
-      "owners-count": 2945,
+      "lastUpdated": "2026-02-14, 06:45:44",
+      "owners-count": 2946,
       "owners-need": 20,
-      "owners-trade": 324
+      "owners-trade": 325
     },
     {
       "cardId": "19123",
@@ -348854,9 +348840,9 @@
       "animeId": 2128,
       "animeName": "Великий из бродячих псов 5 сезон",
       "animeLink": "/aniserials/video/detective/2128-velikij-iz-brodjachih-psov-5-sezon-animestars-v5.html",
-      "lastUpdated": "2026-02-13, 06:14:44",
+      "lastUpdated": "2026-02-14, 06:45:43",
       "owners-count": 72,
-      "owners-need": 35,
+      "owners-need": 36,
       "owners-trade": 4
     },
     {
@@ -348868,10 +348854,10 @@
       "animeId": 1241,
       "animeName": "Мой сэмпай раздражает",
       "animeLink": "/aniserials/video/comedy/1241-moj-sjempaj-razdrazhaet.html",
-      "lastUpdated": "2026-02-13, 06:14:44",
-      "owners-count": 2188,
-      "owners-need": 8,
-      "owners-trade": 200
+      "lastUpdated": "2026-02-14, 06:45:42",
+      "owners-count": 2195,
+      "owners-need": 7,
+      "owners-trade": 201
     },
     {
       "cardId": "19118",
@@ -348882,8 +348868,8 @@
       "animeId": 744,
       "animeName": "Кагуя: В любви как на войне 2 сезон",
       "animeLink": "/aniserials/video/comedy/744-kaguja-v-ljubvi-kak-na-vojne-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:14:43",
-      "owners-count": 2779,
+      "lastUpdated": "2026-02-14, 06:45:41",
+      "owners-count": 2782,
       "owners-need": 6,
       "owners-trade": 324
     },
@@ -348896,10 +348882,10 @@
       "animeId": 2128,
       "animeName": "Великий из бродячих псов 5 сезон",
       "animeLink": "/aniserials/video/detective/2128-velikij-iz-brodjachih-psov-5-sezon-animestars-v5.html",
-      "lastUpdated": "2026-02-13, 06:14:42",
-      "owners-count": 1499,
-      "owners-need": 25,
-      "owners-trade": 171
+      "lastUpdated": "2026-02-14, 06:45:40",
+      "owners-count": 1497,
+      "owners-need": 26,
+      "owners-trade": 172
     },
     {
       "cardId": "19116",
@@ -348910,8 +348896,8 @@
       "animeId": 1823,
       "animeName": "Кагуя: В любви как на войне - Первый поцелуй никогда не заканчивается",
       "animeLink": "/aniserials/video/drama/1823-kaguja-v-ljubvi-kak-na-vojne-pervyj-poceluj-nikogda-ne-zakanchivaetsja.html",
-      "lastUpdated": "2026-02-13, 06:14:41",
-      "owners-count": 2400,
+      "lastUpdated": "2026-02-14, 06:45:39",
+      "owners-count": 2401,
       "owners-need": 7,
       "owners-trade": 263
     },
@@ -348924,10 +348910,10 @@
       "animeId": 2672,
       "animeName": "История цветов",
       "animeLink": "/aniserials/video/drama/2672-istorija-cvetov.html",
-      "lastUpdated": "2026-02-13, 06:14:40",
-      "owners-count": 407,
+      "lastUpdated": "2026-02-14, 06:45:38",
+      "owners-count": 406,
       "owners-need": 15,
-      "owners-trade": 69
+      "owners-trade": 68
     },
     {
       "cardId": "19114",
@@ -348938,8 +348924,8 @@
       "animeId": 1380,
       "animeName": "Кагуя: В любви как на войне 3 сезон",
       "animeLink": "/aniserials/video/comedy/1380-kaguja-v-ljubvi-kak-na-vojne-3-sezon.html",
-      "lastUpdated": "2026-02-13, 06:14:39",
-      "owners-count": 2246,
+      "lastUpdated": "2026-02-14, 06:45:38",
+      "owners-count": 2252,
       "owners-need": 6,
       "owners-trade": 252
     },
@@ -348952,10 +348938,10 @@
       "animeId": 149,
       "animeName": "Баскетбол Куроко",
       "animeLink": "/aniserials/video/drama/149-basketbol-kuroko-2012.html",
-      "lastUpdated": "2026-02-13, 06:14:39",
-      "owners-count": 1362,
+      "lastUpdated": "2026-02-14, 06:45:37",
+      "owners-count": 1352,
       "owners-need": 7,
-      "owners-trade": 160
+      "owners-trade": 159
     },
     {
       "cardId": "19111",
@@ -348966,10 +348952,10 @@
       "animeId": 1732,
       "animeName": "Кубо не прощает меня - моба",
       "animeLink": "/aniserials/video/comedy/1732-kubo-ne-proschaet-menja-moba.html",
-      "lastUpdated": "2026-02-13, 06:14:38",
+      "lastUpdated": "2026-02-14, 06:45:36",
       "owners-count": 26,
-      "owners-need": 12,
-      "owners-trade": 3
+      "owners-need": 13,
+      "owners-trade": 2
     },
     {
       "cardId": "19109",
@@ -348980,10 +348966,10 @@
       "animeId": 1341,
       "animeName": "Герой-рационал перестраивает королевство 2 сезон",
       "animeLink": "/aniserials/video/action/1341-geroj-racional-perestraivaet-korolevstvo-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:14:37",
+      "lastUpdated": "2026-02-14, 06:45:35",
       "owners-count": 74,
-      "owners-need": 51,
-      "owners-trade": 2
+      "owners-need": 52,
+      "owners-trade": 3
     },
     {
       "cardId": "19108",
@@ -348994,7 +348980,7 @@
       "animeId": 1128,
       "animeName": "Герой-рационал перестраивает королевство",
       "animeLink": "/aniserials/video/war/1128-geroj-racional-perestraivaet-korolevstvo-2021.html",
-      "lastUpdated": "2026-02-13, 06:14:36",
+      "lastUpdated": "2026-02-14, 06:45:34",
       "owners-count": 80,
       "owners-need": 81,
       "owners-trade": 4
@@ -349008,10 +348994,10 @@
       "animeId": 2437,
       "animeName": "Лазурный путь: Малый вперёд!",
       "animeLink": "/aniserials/video/comedy/2437-lazurnyj-put-malyj-vpered.html",
-      "lastUpdated": "2026-02-13, 06:14:35",
+      "lastUpdated": "2026-02-14, 06:45:34",
       "owners-count": 605,
-      "owners-need": 29,
-      "owners-trade": 111
+      "owners-need": 28,
+      "owners-trade": 109
     },
     {
       "cardId": "19104",
@@ -349022,9 +349008,9 @@
       "animeId": 2294,
       "animeName": "Выходной Господина Злодея",
       "animeLink": "/aniserials/video/comedy/2294-vyhodnoj-gospodina-zlodeja.html",
-      "lastUpdated": "2026-02-13, 06:14:35",
+      "lastUpdated": "2026-02-14, 06:45:33",
       "owners-count": 68,
-      "owners-need": 39,
+      "owners-need": 38,
       "owners-trade": 0
     },
     {
@@ -349036,10 +349022,10 @@
       "animeId": 2098,
       "animeName": "Королева, ставшая причиной трагедии, сделает для народа всё, что в её силах",
       "animeLink": "/aniserials/video/romance/2098-koroleva-stavshaja-prichinoj-tragedii-sdelaet-dlja-naroda-vse-chto-v-ee-silah.html",
-      "lastUpdated": "2026-02-13, 06:14:34",
-      "owners-count": 2828,
-      "owners-need": 7,
-      "owners-trade": 368
+      "lastUpdated": "2026-02-14, 06:45:32",
+      "owners-count": 2836,
+      "owners-need": 6,
+      "owners-trade": 370
     },
     {
       "cardId": "19100",
@@ -349050,10 +349036,10 @@
       "animeId": 2650,
       "animeName": "Механические руки",
       "animeLink": "/aniserials/video/action/2650-mehanicheskie-ruki-animestars.html",
-      "lastUpdated": "2026-02-13, 06:14:33",
-      "owners-count": 2688,
+      "lastUpdated": "2026-02-14, 06:45:31",
+      "owners-count": 2681,
       "owners-need": 2,
-      "owners-trade": 322
+      "owners-trade": 316
     },
     {
       "cardId": "19097",
@@ -349064,8 +349050,8 @@
       "animeId": 995,
       "animeName": "Одинокий странник",
       "animeLink": "/aniserials/video/action/995-odinokij-strannik.html",
-      "lastUpdated": "2026-02-13, 06:14:32",
-      "owners-count": 2475,
+      "lastUpdated": "2026-02-14, 06:45:30",
+      "owners-count": 2486,
       "owners-need": 12,
       "owners-trade": 239
     },
@@ -349078,10 +349064,10 @@
       "animeId": 1705,
       "animeName": "Ниер: Автомата - Версия 1.1а",
       "animeLink": "/aniserials/video/action/1705-nier-avtomata-versija-11a.html",
-      "lastUpdated": "2026-02-13, 06:14:31",
-      "owners-count": 69,
+      "lastUpdated": "2026-02-14, 06:45:29",
+      "owners-count": 66,
       "owners-need": 49,
-      "owners-trade": 2
+      "owners-trade": 3
     },
     {
       "cardId": "19090",
@@ -349092,8 +349078,8 @@
       "animeId": 626,
       "animeName": "Волчий дождь",
       "animeLink": "/aniserials/video/drama/626-volchiy-dozhd.html",
-      "lastUpdated": "2026-02-13, 06:14:30",
-      "owners-count": 2121,
+      "lastUpdated": "2026-02-14, 06:45:29",
+      "owners-count": 2125,
       "owners-need": 1,
       "owners-trade": 225
     },
@@ -349106,10 +349092,10 @@
       "animeId": 2654,
       "animeName": "Блич: Тысячелетняя кровавая война - Конфликт",
       "animeLink": "/aniserials/video/action/2654-blich-tysjacheletnjaja-krovavaja-vojna-konflikt-2024-v12.html",
-      "lastUpdated": "2026-02-13, 06:14:29",
-      "owners-count": 3015,
-      "owners-need": 31,
-      "owners-trade": 351
+      "lastUpdated": "2026-02-14, 06:45:28",
+      "owners-count": 3020,
+      "owners-need": 32,
+      "owners-trade": 353
     },
     {
       "cardId": "19088",
@@ -349120,10 +349106,10 @@
       "animeId": 2435,
       "animeName": "Оккультная академия",
       "animeLink": "/aniserials/video/comedy/2435-okkultnaja-akademija.html",
-      "lastUpdated": "2026-02-13, 06:14:29",
-      "owners-count": 378,
+      "lastUpdated": "2026-02-14, 06:45:27",
+      "owners-count": 382,
       "owners-need": 12,
-      "owners-trade": 22
+      "owners-trade": 23
     },
     {
       "cardId": "19084",
@@ -349134,7 +349120,7 @@
       "animeId": 2672,
       "animeName": "История цветов",
       "animeLink": "/aniserials/video/drama/2672-istorija-cvetov.html",
-      "lastUpdated": "2026-02-13, 06:14:28",
+      "lastUpdated": "2026-02-14, 06:45:26",
       "owners-count": 31,
       "owners-need": 24,
       "owners-trade": 2
@@ -349148,8 +349134,8 @@
       "animeId": 617,
       "animeName": "Сэкирэй 2 сезон: Чистая связь",
       "animeLink": "/aniserials/video/garems/617-sekirey-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:14:27",
-      "owners-count": 607,
+      "lastUpdated": "2026-02-14, 06:45:25",
+      "owners-count": 600,
       "owners-need": 36,
       "owners-trade": 42
     },
@@ -349162,10 +349148,10 @@
       "animeId": 2151,
       "animeName": "Ублюдок!! Сокрушитель тьмы 2 сезон ONA",
       "animeLink": "/aniserials/video/action/2151-ubljudok-sokrushitel-tmy-2-sezon-ona.html",
-      "lastUpdated": "2026-02-13, 06:14:26",
-      "owners-count": 1392,
+      "lastUpdated": "2026-02-14, 06:45:24",
+      "owners-count": 1396,
       "owners-need": 3,
-      "owners-trade": 108
+      "owners-trade": 111
     },
     {
       "cardId": "19077",
@@ -349176,7 +349162,7 @@
       "animeId": 617,
       "animeName": "Сэкирэй 2 сезон: Чистая связь",
       "animeLink": "/aniserials/video/garems/617-sekirey-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:14:25",
+      "lastUpdated": "2026-02-14, 06:45:24",
       "owners-count": 568,
       "owners-need": 18,
       "owners-trade": 94
@@ -349190,10 +349176,10 @@
       "animeId": 620,
       "animeName": "Железнодорожные войны!",
       "animeLink": "/aniserials/video/garems/620-zheleznodorozhnye-voyny.html",
-      "lastUpdated": "2026-02-13, 06:14:25",
-      "owners-count": 1455,
+      "lastUpdated": "2026-02-14, 06:45:23",
+      "owners-count": 1454,
       "owners-need": 2,
-      "owners-trade": 179
+      "owners-trade": 177
     },
     {
       "cardId": "19074",
@@ -349204,10 +349190,10 @@
       "animeId": 2342,
       "animeName": "Трусливый велосипедист",
       "animeLink": "/aniserials/video/drama/2342-slabak-pedalnyy-truslivyy-velosipedist-animestars-2013.html",
-      "lastUpdated": "2026-02-13, 06:14:24",
-      "owners-count": 555,
+      "lastUpdated": "2026-02-14, 06:45:22",
+      "owners-count": 558,
       "owners-need": 25,
-      "owners-trade": 83
+      "owners-trade": 84
     },
     {
       "cardId": "19073",
@@ -349218,10 +349204,10 @@
       "animeId": 2342,
       "animeName": "Трусливый велосипедист",
       "animeLink": "/aniserials/video/drama/2342-slabak-pedalnyy-truslivyy-velosipedist-animestars-2013.html",
-      "lastUpdated": "2026-02-13, 06:14:23",
-      "owners-count": 2505,
+      "lastUpdated": "2026-02-14, 06:45:21",
+      "owners-count": 2512,
       "owners-need": 4,
-      "owners-trade": 261
+      "owners-trade": 260
     },
     {
       "cardId": "19072",
@@ -349232,10 +349218,10 @@
       "animeId": 605,
       "animeName": "Боевой континент",
       "animeLink": "/aniserials/video/action/605-boevoy-kontinent-animestars-2018.html",
-      "lastUpdated": "2026-02-13, 06:14:22",
-      "owners-count": 3325,
-      "owners-need": 72,
-      "owners-trade": 334
+      "lastUpdated": "2026-02-14, 06:45:20",
+      "owners-count": 3331,
+      "owners-need": 73,
+      "owners-trade": 333
     },
     {
       "cardId": "19070",
@@ -349246,10 +349232,10 @@
       "animeId": 2342,
       "animeName": "Трусливый велосипедист",
       "animeLink": "/aniserials/video/drama/2342-slabak-pedalnyy-truslivyy-velosipedist-animestars-2013.html",
-      "lastUpdated": "2026-02-13, 06:14:21",
-      "owners-count": 1376,
-      "owners-need": 14,
-      "owners-trade": 141
+      "lastUpdated": "2026-02-14, 06:45:19",
+      "owners-count": 1378,
+      "owners-need": 13,
+      "owners-trade": 142
     },
     {
       "cardId": "19069",
@@ -349260,9 +349246,9 @@
       "animeId": 2204,
       "animeName": "Аркнайтс: Зимнее уединение",
       "animeLink": "/aniserials/video/action/2204-arknajts-zimnee-uedinenie.html",
-      "lastUpdated": "2026-02-13, 06:14:20",
-      "owners-count": 42,
-      "owners-need": 46,
+      "lastUpdated": "2026-02-14, 06:45:18",
+      "owners-count": 39,
+      "owners-need": 45,
       "owners-trade": 3
     },
     {
@@ -349274,10 +349260,10 @@
       "animeId": 2525,
       "animeName": "Слишком много проигравших героинь!",
       "animeLink": "/aniserials/video/romance/2525-slishkom-mnogo-proigravshih-geroin-2024-v2.html",
-      "lastUpdated": "2026-02-13, 06:14:19",
-      "owners-count": 2630,
+      "lastUpdated": "2026-02-14, 06:45:17",
+      "owners-count": 2635,
       "owners-need": 3,
-      "owners-trade": 267
+      "owners-trade": 269
     },
     {
       "cardId": "19067",
@@ -349288,9 +349274,9 @@
       "animeId": 2525,
       "animeName": "Слишком много проигравших героинь!",
       "animeLink": "/aniserials/video/romance/2525-slishkom-mnogo-proigravshih-geroin-2024-v2.html",
-      "lastUpdated": "2026-02-13, 06:14:19",
-      "owners-count": 3292,
-      "owners-need": 3,
+      "lastUpdated": "2026-02-14, 06:45:16",
+      "owners-count": 3296,
+      "owners-need": 4,
       "owners-trade": 378
     },
     {
@@ -349302,10 +349288,10 @@
       "animeId": 2525,
       "animeName": "Слишком много проигравших героинь!",
       "animeLink": "/aniserials/video/romance/2525-slishkom-mnogo-proigravshih-geroin-2024-v2.html",
-      "lastUpdated": "2026-02-13, 06:14:18",
-      "owners-count": 2391,
-      "owners-need": 7,
-      "owners-trade": 212
+      "lastUpdated": "2026-02-14, 06:45:15",
+      "owners-count": 2389,
+      "owners-need": 8,
+      "owners-trade": 211
     },
     {
       "cardId": "19062",
@@ -349316,10 +349302,10 @@
       "animeId": 2525,
       "animeName": "Слишком много проигравших героинь!",
       "animeLink": "/aniserials/video/romance/2525-slishkom-mnogo-proigravshih-geroin-2024-v2.html",
-      "lastUpdated": "2026-02-13, 06:14:17",
-      "owners-count": 3132,
+      "lastUpdated": "2026-02-14, 06:45:15",
+      "owners-count": 3136,
       "owners-need": 7,
-      "owners-trade": 339
+      "owners-trade": 340
     },
     {
       "cardId": "19061",
@@ -349330,10 +349316,10 @@
       "animeId": 2525,
       "animeName": "Слишком много проигравших героинь!",
       "animeLink": "/aniserials/video/romance/2525-slishkom-mnogo-proigravshih-geroin-2024-v2.html",
-      "lastUpdated": "2026-02-13, 06:14:16",
-      "owners-count": 2748,
-      "owners-need": 3,
-      "owners-trade": 304
+      "lastUpdated": "2026-02-14, 06:45:14",
+      "owners-count": 2741,
+      "owners-need": 4,
+      "owners-trade": 303
     },
     {
       "cardId": "19060",
@@ -349344,10 +349330,10 @@
       "animeId": 2525,
       "animeName": "Слишком много проигравших героинь!",
       "animeLink": "/aniserials/video/romance/2525-slishkom-mnogo-proigravshih-geroin-2024-v2.html",
-      "lastUpdated": "2026-02-13, 06:14:15",
-      "owners-count": 2584,
-      "owners-need": 4,
-      "owners-trade": 224
+      "lastUpdated": "2026-02-14, 06:45:13",
+      "owners-count": 2594,
+      "owners-need": 5,
+      "owners-trade": 225
     },
     {
       "cardId": "19059",
@@ -349358,8 +349344,8 @@
       "animeId": 620,
       "animeName": "Железнодорожные войны!",
       "animeLink": "/aniserials/video/garems/620-zheleznodorozhnye-voyny.html",
-      "lastUpdated": "2026-02-13, 06:14:14",
-      "owners-count": 348,
+      "lastUpdated": "2026-02-14, 06:45:12",
+      "owners-count": 347,
       "owners-need": 6,
       "owners-trade": 46
     },
@@ -349372,10 +349358,10 @@
       "animeId": 620,
       "animeName": "Железнодорожные войны!",
       "animeLink": "/aniserials/video/garems/620-zheleznodorozhnye-voyny.html",
-      "lastUpdated": "2026-02-13, 06:14:13",
-      "owners-count": 1289,
+      "lastUpdated": "2026-02-14, 06:45:11",
+      "owners-count": 1291,
       "owners-need": 3,
-      "owners-trade": 122
+      "owners-trade": 121
     },
     {
       "cardId": "19057",
@@ -349386,8 +349372,8 @@
       "animeId": 620,
       "animeName": "Железнодорожные войны!",
       "animeLink": "/aniserials/video/garems/620-zheleznodorozhnye-voyny.html",
-      "lastUpdated": "2026-02-13, 06:14:13",
-      "owners-count": 377,
+      "lastUpdated": "2026-02-14, 06:45:10",
+      "owners-count": 381,
       "owners-need": 9,
       "owners-trade": 53
     },
@@ -349400,10 +349386,10 @@
       "animeId": 132,
       "animeName": "Акашийские хроники худшего преподавателя магии",
       "animeLink": "/aniserials/video/garems/132-akashiyskie-hroniki-hudshego-prepodavatelya-magii.html",
-      "lastUpdated": "2026-02-13, 06:14:12",
-      "owners-count": 2917,
+      "lastUpdated": "2026-02-14, 06:45:10",
+      "owners-count": 2921,
       "owners-need": 7,
-      "owners-trade": 284
+      "owners-trade": 287
     },
     {
       "cardId": "19055",
@@ -349414,10 +349400,10 @@
       "animeId": 132,
       "animeName": "Акашийские хроники худшего преподавателя магии",
       "animeLink": "/aniserials/video/garems/132-akashiyskie-hroniki-hudshego-prepodavatelya-magii.html",
-      "lastUpdated": "2026-02-13, 06:14:11",
-      "owners-count": 1504,
+      "lastUpdated": "2026-02-14, 06:45:09",
+      "owners-count": 1501,
       "owners-need": 15,
-      "owners-trade": 182
+      "owners-trade": 183
     },
     {
       "cardId": "19054",
@@ -349428,10 +349414,10 @@
       "animeId": 494,
       "animeName": "Искусственный отбор",
       "animeLink": "/aniserials/video/adventure/494-iskusstvennyy-otbor.html",
-      "lastUpdated": "2026-02-13, 06:14:10",
-      "owners-count": 409,
+      "lastUpdated": "2026-02-14, 06:45:08",
+      "owners-count": 415,
       "owners-need": 21,
-      "owners-trade": 22
+      "owners-trade": 25
     },
     {
       "cardId": "19053",
@@ -349442,10 +349428,10 @@
       "animeId": 190,
       "animeName": "Мастер Муси",
       "animeLink": "/aniserials/video/drama/190-master-musi.html",
-      "lastUpdated": "2026-02-13, 06:14:09",
-      "owners-count": 2392,
+      "lastUpdated": "2026-02-14, 06:45:07",
+      "owners-count": 2400,
       "owners-need": 4,
-      "owners-trade": 306
+      "owners-trade": 307
     },
     {
       "cardId": "19052",
@@ -349456,10 +349442,10 @@
       "animeId": 1603,
       "animeName": "Вторжение гигантов 3 сезон 2 часть",
       "animeLink": "/aniserials/video/drama/1603-vtorzhenie-gigantov-3-sezon-2-chast.html",
-      "lastUpdated": "2026-02-13, 06:14:08",
-      "owners-count": 3408,
+      "lastUpdated": "2026-02-14, 06:45:06",
+      "owners-count": 3410,
       "owners-need": 30,
-      "owners-trade": 275
+      "owners-trade": 276
     },
     {
       "cardId": "19051",
@@ -349470,10 +349456,10 @@
       "animeId": 441,
       "animeName": "Тяжёлый объект",
       "animeLink": "/aniserials/video/war/441-tyazhelyy-obekt.html",
-      "lastUpdated": "2026-02-13, 06:14:08",
-      "owners-count": 2724,
+      "lastUpdated": "2026-02-14, 06:45:05",
+      "owners-count": 2730,
       "owners-need": 5,
-      "owners-trade": 317
+      "owners-trade": 320
     },
     {
       "cardId": "19048",
@@ -349484,10 +349470,10 @@
       "animeId": 679,
       "animeName": "Икс",
       "animeLink": "/aniserials/video/drama/679-iks.html",
-      "lastUpdated": "2026-02-13, 06:14:07",
-      "owners-count": 1508,
-      "owners-need": 13,
-      "owners-trade": 148
+      "lastUpdated": "2026-02-14, 06:45:05",
+      "owners-count": 1514,
+      "owners-need": 12,
+      "owners-trade": 151
     },
     {
       "cardId": "19047",
@@ -349498,10 +349484,10 @@
       "animeId": 1838,
       "animeName": "Как из обычной девушки воспитать героиню: Финал",
       "animeLink": "/aniserials/video/garems/1838-kak-iz-obychnoj-devushki-vospitat-geroinju-final.html",
-      "lastUpdated": "2026-02-13, 06:14:06",
-      "owners-count": 3082,
-      "owners-need": 2,
-      "owners-trade": 328
+      "lastUpdated": "2026-02-14, 06:45:04",
+      "owners-count": 3083,
+      "owners-need": 1,
+      "owners-trade": 327
     },
     {
       "cardId": "19046",
@@ -349512,9 +349498,9 @@
       "animeId": 2654,
       "animeName": "Блич: Тысячелетняя кровавая война - Конфликт",
       "animeLink": "/aniserials/video/action/2654-blich-tysjacheletnjaja-krovavaja-vojna-konflikt-2024-v12.html",
-      "lastUpdated": "2026-02-13, 06:14:05",
-      "owners-count": 3488,
-      "owners-need": 44,
+      "lastUpdated": "2026-02-14, 06:45:03",
+      "owners-count": 3498,
+      "owners-need": 45,
       "owners-trade": 344
     },
     {
@@ -349526,10 +349512,10 @@
       "animeId": 1727,
       "animeName": "Девочка, покорившая время",
       "animeLink": "/aniserials/video/drama/1727-devochka-pokorivshaja-vremja.html",
-      "lastUpdated": "2026-02-13, 06:14:04",
-      "owners-count": 376,
+      "lastUpdated": "2026-02-14, 06:45:02",
+      "owners-count": 375,
       "owners-need": 5,
-      "owners-trade": 60
+      "owners-trade": 61
     },
     {
       "cardId": "19043",
@@ -349540,9 +349526,9 @@
       "animeId": 7,
       "animeName": "Деми-тян хочет рассказать",
       "animeLink": "/aniserials/video/vampires/7-demi-hotyat-poboltat.html",
-      "lastUpdated": "2026-02-13, 06:14:03",
-      "owners-count": 363,
-      "owners-need": 32,
+      "lastUpdated": "2026-02-14, 06:45:01",
+      "owners-count": 366,
+      "owners-need": 33,
       "owners-trade": 25
     },
     {
@@ -349554,10 +349540,10 @@
       "animeId": 33,
       "animeName": "Ван Пис",
       "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
-      "lastUpdated": "2026-02-13, 06:14:02",
-      "owners-count": 3060,
-      "owners-need": 109,
-      "owners-trade": 382
+      "lastUpdated": "2026-02-14, 06:45:00",
+      "owners-count": 3069,
+      "owners-need": 108,
+      "owners-trade": 380
     },
     {
       "cardId": "19038",
@@ -349568,10 +349554,10 @@
       "animeId": 11,
       "animeName": "Амнезия",
       "animeLink": "/aniserials/video/garem-dlya-devushek/11-amneziya-amnesia.html",
-      "lastUpdated": "2026-02-13, 06:14:01",
-      "owners-count": 553,
+      "lastUpdated": "2026-02-14, 06:44:59",
+      "owners-count": 555,
       "owners-need": 38,
-      "owners-trade": 54
+      "owners-trade": 55
     },
     {
       "cardId": "19032",
@@ -349582,10 +349568,10 @@
       "animeId": 895,
       "animeName": "Гипнотический микрофон",
       "animeLink": "/aniserials/video/music/895-gipnoticheskij-mikrofon.html",
-      "lastUpdated": "2026-02-13, 06:14:00",
-      "owners-count": 510,
-      "owners-need": 40,
-      "owners-trade": 64
+      "lastUpdated": "2026-02-14, 06:44:59",
+      "owners-count": 511,
+      "owners-need": 39,
+      "owners-trade": 63
     },
     {
       "cardId": "19030",
@@ -349596,10 +349582,10 @@
       "animeId": 74,
       "animeName": "Психопаспорт",
       "animeLink": "/aniserials/video/detective/74-psihopasport-2012.html",
-      "lastUpdated": "2026-02-13, 06:14:00",
-      "owners-count": 1451,
+      "lastUpdated": "2026-02-14, 06:44:58",
+      "owners-count": 1453,
       "owners-need": 5,
-      "owners-trade": 156
+      "owners-trade": 157
     },
     {
       "cardId": "19029",
@@ -349610,10 +349596,10 @@
       "animeId": 1963,
       "animeName": "Харука и Каната принимают подачу",
       "animeLink": "/aniserials/video/natural/1963-haruka-i-kanata-prinimajut-podachu.html",
-      "lastUpdated": "2026-02-13, 06:13:59",
-      "owners-count": 2686,
+      "lastUpdated": "2026-02-14, 06:44:57",
+      "owners-count": 2691,
       "owners-need": 3,
-      "owners-trade": 338
+      "owners-trade": 340
     },
     {
       "cardId": "19026",
@@ -349624,8 +349610,8 @@
       "animeId": 666,
       "animeName": "22/7",
       "animeLink": "/aniserials/video/music/666-22-7.html",
-      "lastUpdated": "2026-02-13, 06:13:58",
-      "owners-count": 328,
+      "lastUpdated": "2026-02-14, 06:44:56",
+      "owners-count": 329,
       "owners-need": 12,
       "owners-trade": 50
     },
@@ -349638,10 +349624,10 @@
       "animeId": 666,
       "animeName": "22/7",
       "animeLink": "/aniserials/video/music/666-22-7.html",
-      "lastUpdated": "2026-02-13, 06:13:57",
-      "owners-count": 396,
+      "lastUpdated": "2026-02-14, 06:44:55",
+      "owners-count": 397,
       "owners-need": 11,
-      "owners-trade": 61
+      "owners-trade": 62
     },
     {
       "cardId": "19024",
@@ -349652,10 +349638,10 @@
       "animeId": 666,
       "animeName": "22/7",
       "animeLink": "/aniserials/video/music/666-22-7.html",
-      "lastUpdated": "2026-02-13, 06:13:56",
-      "owners-count": 374,
+      "lastUpdated": "2026-02-14, 06:44:54",
+      "owners-count": 377,
       "owners-need": 9,
-      "owners-trade": 58
+      "owners-trade": 60
     },
     {
       "cardId": "19023",
@@ -349666,10 +349652,10 @@
       "animeId": 666,
       "animeName": "22/7",
       "animeLink": "/aniserials/video/music/666-22-7.html",
-      "lastUpdated": "2026-02-13, 06:13:55",
-      "owners-count": 407,
+      "lastUpdated": "2026-02-14, 06:44:53",
+      "owners-count": 406,
       "owners-need": 15,
-      "owners-trade": 67
+      "owners-trade": 66
     },
     {
       "cardId": "19022",
@@ -349680,9 +349666,9 @@
       "animeId": 1548,
       "animeName": "Добро пожаловать в ад, Ирума 3 сезон",
       "animeLink": "/aniserials/video/comedy/1548-dobro-pozhalovat-v-ad-iruma-3-sezon.html",
-      "lastUpdated": "2026-02-13, 06:15:43",
-      "owners-count": 560,
-      "owners-need": 24,
+      "lastUpdated": "2026-02-14, 06:47:21",
+      "owners-count": 562,
+      "owners-need": 25,
       "owners-trade": 85
     },
     {
@@ -349694,9 +349680,9 @@
       "animeId": 666,
       "animeName": "22/7",
       "animeLink": "/aniserials/video/music/666-22-7.html",
-      "lastUpdated": "2026-02-13, 06:15:41",
-      "owners-count": 399,
-      "owners-need": 10,
+      "lastUpdated": "2026-02-14, 06:47:17",
+      "owners-count": 398,
+      "owners-need": 9,
       "owners-trade": 47
     },
     {
@@ -349708,8 +349694,8 @@
       "animeId": 666,
       "animeName": "22/7",
       "animeLink": "/aniserials/video/music/666-22-7.html",
-      "lastUpdated": "2026-02-13, 06:15:40",
-      "owners-count": 379,
+      "lastUpdated": "2026-02-14, 06:47:13",
+      "owners-count": 380,
       "owners-need": 8,
       "owners-trade": 59
     },
@@ -349722,8 +349708,8 @@
       "animeId": 666,
       "animeName": "22/7",
       "animeLink": "/aniserials/video/music/666-22-7.html",
-      "lastUpdated": "2026-02-13, 06:15:39",
-      "owners-count": 398,
+      "lastUpdated": "2026-02-14, 06:47:11",
+      "owners-count": 399,
       "owners-need": 9,
       "owners-trade": 53
     },
@@ -349736,9 +349722,9 @@
       "animeId": 666,
       "animeName": "22/7",
       "animeLink": "/aniserials/video/music/666-22-7.html",
-      "lastUpdated": "2026-02-13, 06:15:38",
+      "lastUpdated": "2026-02-14, 06:47:09",
       "owners-count": 401,
-      "owners-need": 8,
+      "owners-need": 9,
       "owners-trade": 51
     },
     {
@@ -349750,10 +349736,10 @@
       "animeId": 1811,
       "animeName": "Великая небесная стена",
       "animeLink": "/aniserials/video/adventure/1811-velikaja-nebesnaja-stena-2023.html",
-      "lastUpdated": "2026-02-13, 06:15:37",
-      "owners-count": 2316,
+      "lastUpdated": "2026-02-14, 06:47:07",
+      "owners-count": 2313,
       "owners-need": 7,
-      "owners-trade": 250
+      "owners-trade": 249
     },
     {
       "cardId": "19015",
@@ -349764,10 +349750,10 @@
       "animeId": 1811,
       "animeName": "Великая небесная стена",
       "animeLink": "/aniserials/video/adventure/1811-velikaja-nebesnaja-stena-2023.html",
-      "lastUpdated": "2026-02-13, 06:15:36",
-      "owners-count": 2270,
+      "lastUpdated": "2026-02-14, 06:47:05",
+      "owners-count": 2269,
       "owners-need": 5,
-      "owners-trade": 226
+      "owners-trade": 227
     },
     {
       "cardId": "19014",
@@ -349778,8 +349764,8 @@
       "animeId": 1811,
       "animeName": "Великая небесная стена",
       "animeLink": "/aniserials/video/adventure/1811-velikaja-nebesnaja-stena-2023.html",
-      "lastUpdated": "2026-02-13, 06:15:36",
-      "owners-count": 2416,
+      "lastUpdated": "2026-02-14, 06:47:03",
+      "owners-count": 2420,
       "owners-need": 6,
       "owners-trade": 263
     },
@@ -349792,10 +349778,10 @@
       "animeId": 1009,
       "animeName": "Отныне Мао, король демонов!",
       "animeLink": "/aniserials/video/comedy/1009-otnyne-mao-korol-demonov.html",
-      "lastUpdated": "2026-02-13, 06:15:35",
-      "owners-count": 2585,
-      "owners-need": 16,
-      "owners-trade": 285
+      "lastUpdated": "2026-02-14, 06:47:01",
+      "owners-count": 2583,
+      "owners-need": 14,
+      "owners-trade": 284
     },
     {
       "cardId": "19011",
@@ -349806,10 +349792,10 @@
       "animeId": 2525,
       "animeName": "Слишком много проигравших героинь!",
       "animeLink": "/aniserials/video/romance/2525-slishkom-mnogo-proigravshih-geroin-2024-v2.html",
-      "lastUpdated": "2026-02-13, 06:15:34",
-      "owners-count": 32,
-      "owners-need": 22,
-      "owners-trade": 2
+      "lastUpdated": "2026-02-14, 06:46:59",
+      "owners-count": 33,
+      "owners-need": 23,
+      "owners-trade": 3
     },
     {
       "cardId": "19009",
@@ -349820,10 +349806,10 @@
       "animeId": 2089,
       "animeName": "Дракон и принцесса с веснушками",
       "animeLink": "/aniserials/video/drama/2089-drakon-i-princessa-s-vesnushkami.html",
-      "lastUpdated": "2026-02-13, 06:15:33",
-      "owners-count": 425,
+      "lastUpdated": "2026-02-14, 06:46:57",
+      "owners-count": 430,
       "owners-need": 13,
-      "owners-trade": 63
+      "owners-trade": 64
     },
     {
       "cardId": "19007",
@@ -349834,10 +349820,10 @@
       "animeId": 2089,
       "animeName": "Дракон и принцесса с веснушками",
       "animeLink": "/aniserials/video/drama/2089-drakon-i-princessa-s-vesnushkami.html",
-      "lastUpdated": "2026-02-13, 06:15:32",
-      "owners-count": 512,
+      "lastUpdated": "2026-02-14, 06:46:55",
+      "owners-count": 514,
       "owners-need": 10,
-      "owners-trade": 75
+      "owners-trade": 74
     },
     {
       "cardId": "19006",
@@ -349848,10 +349834,10 @@
       "animeId": 1778,
       "animeName": "Повесть о конце света 2 сезон",
       "animeLink": "/aniserials/video/drama/1778-povest-o-konce-sveta-2-sezon-animestars.html",
-      "lastUpdated": "2026-02-13, 06:15:31",
-      "owners-count": 517,
+      "lastUpdated": "2026-02-14, 06:46:53",
+      "owners-count": 518,
       "owners-need": 43,
-      "owners-trade": 59
+      "owners-trade": 61
     },
     {
       "cardId": "19005",
@@ -349862,10 +349848,10 @@
       "animeId": 2036,
       "animeName": "Чёрный клевер: Меч Короля Магов",
       "animeLink": "/aniserials/video/action/2036-chernyj-klever-mech-korolja-magov.html",
-      "lastUpdated": "2026-02-13, 06:15:31",
-      "owners-count": 680,
+      "lastUpdated": "2026-02-14, 06:46:51",
+      "owners-count": 677,
       "owners-need": 68,
-      "owners-trade": 82
+      "owners-trade": 81
     },
     {
       "cardId": "19003",
@@ -349876,10 +349862,10 @@
       "animeId": 1436,
       "animeName": "Вермейл в золотом: Сильнейший маг проходит через магический мир с сильнейшей катастрофой",
       "animeLink": "/aniserials/video/comedy/1436-vermejl-v-zolotom-silnejshij-mag-prohodit-cherez-magicheskij-mir-s-silnejshej-katastrofoj-animestars.html",
-      "lastUpdated": "2026-02-13, 06:15:30",
-      "owners-count": 2804,
+      "lastUpdated": "2026-02-14, 06:46:49",
+      "owners-count": 2807,
       "owners-need": 19,
-      "owners-trade": 309
+      "owners-trade": 307
     },
     {
       "cardId": "19002",
@@ -349890,8 +349876,8 @@
       "animeId": 11,
       "animeName": "Амнезия",
       "animeLink": "/aniserials/video/garem-dlya-devushek/11-amneziya-amnesia.html",
-      "lastUpdated": "2026-02-13, 06:15:29",
-      "owners-count": 574,
+      "lastUpdated": "2026-02-14, 06:46:47",
+      "owners-count": 576,
       "owners-need": 36,
       "owners-trade": 70
     },
@@ -349904,10 +349890,10 @@
       "animeId": 1072,
       "animeName": "Труп под ногами Сакурако",
       "animeLink": "/aniserials/video/detective/1072-trup-pod-nogami-sakurako.html",
-      "lastUpdated": "2026-02-13, 06:15:28",
-      "owners-count": 1454,
-      "owners-need": 13,
-      "owners-trade": 132
+      "lastUpdated": "2026-02-14, 06:46:45",
+      "owners-count": 1456,
+      "owners-need": 12,
+      "owners-trade": 130
     },
     {
       "cardId": "18998",
@@ -349918,9 +349904,9 @@
       "animeId": 1072,
       "animeName": "Труп под ногами Сакурако",
       "animeLink": "/aniserials/video/detective/1072-trup-pod-nogami-sakurako.html",
-      "lastUpdated": "2026-02-13, 06:15:27",
-      "owners-count": 550,
-      "owners-need": 34,
+      "lastUpdated": "2026-02-14, 06:46:43",
+      "owners-count": 551,
+      "owners-need": 33,
       "owners-trade": 51
     },
     {
@@ -349932,10 +349918,10 @@
       "animeId": 177,
       "animeName": "Адская девочка",
       "animeLink": "/aniserials/video/drama/177-adskaya-devochka.html",
-      "lastUpdated": "2026-02-13, 06:15:26",
-      "owners-count": 2803,
+      "lastUpdated": "2026-02-14, 06:46:41",
+      "owners-count": 2802,
       "owners-need": 3,
-      "owners-trade": 357
+      "owners-trade": 354
     },
     {
       "cardId": "18995",
@@ -349946,8 +349932,8 @@
       "animeId": 177,
       "animeName": "Адская девочка",
       "animeLink": "/aniserials/video/drama/177-adskaya-devochka.html",
-      "lastUpdated": "2026-02-13, 06:15:25",
-      "owners-count": 31,
+      "lastUpdated": "2026-02-14, 06:46:39",
+      "owners-count": 32,
       "owners-need": 23,
       "owners-trade": 1
     },
@@ -349960,10 +349946,10 @@
       "animeId": 673,
       "animeName": "Записная книжка Бога",
       "animeLink": "/aniserials/video/detective/673-zapisnaya-knizhka-boga.html",
-      "lastUpdated": "2026-02-13, 06:15:24",
-      "owners-count": 1269,
+      "lastUpdated": "2026-02-14, 06:46:37",
+      "owners-count": 1268,
       "owners-need": 2,
-      "owners-trade": 120
+      "owners-trade": 121
     },
     {
       "cardId": "18993",
@@ -349974,10 +349960,10 @@
       "animeId": 673,
       "animeName": "Записная книжка Бога",
       "animeLink": "/aniserials/video/detective/673-zapisnaya-knizhka-boga.html",
-      "lastUpdated": "2026-02-13, 06:15:24",
-      "owners-count": 2536,
+      "lastUpdated": "2026-02-14, 06:46:35",
+      "owners-count": 2533,
       "owners-need": 1,
-      "owners-trade": 317
+      "owners-trade": 316
     },
     {
       "cardId": "18992",
@@ -349988,10 +349974,10 @@
       "animeId": 673,
       "animeName": "Записная книжка Бога",
       "animeLink": "/aniserials/video/detective/673-zapisnaya-knizhka-boga.html",
-      "lastUpdated": "2026-02-13, 06:15:23",
-      "owners-count": 2588,
+      "lastUpdated": "2026-02-14, 06:46:33",
+      "owners-count": 2596,
       "owners-need": 2,
-      "owners-trade": 343
+      "owners-trade": 341
     },
     {
       "cardId": "18991",
@@ -350002,10 +349988,10 @@
       "animeId": 2354,
       "animeName": "Одна комната, солнечный свет, ангел",
       "animeLink": "/aniserials/video/garems/2354-odna-komnata-solnechnyj-svet-angel.html",
-      "lastUpdated": "2026-02-13, 06:15:22",
-      "owners-count": 1339,
+      "lastUpdated": "2026-02-14, 06:46:31",
+      "owners-count": 1341,
       "owners-need": 7,
-      "owners-trade": 179
+      "owners-trade": 181
     },
     {
       "cardId": "18990",
@@ -350016,10 +350002,10 @@
       "animeId": 2354,
       "animeName": "Одна комната, солнечный свет, ангел",
       "animeLink": "/aniserials/video/garems/2354-odna-komnata-solnechnyj-svet-angel.html",
-      "lastUpdated": "2026-02-13, 06:15:21",
-      "owners-count": 1353,
+      "lastUpdated": "2026-02-14, 06:46:29",
+      "owners-count": 1351,
       "owners-need": 6,
-      "owners-trade": 142
+      "owners-trade": 140
     },
     {
       "cardId": "18989",
@@ -350030,10 +350016,10 @@
       "animeId": 2354,
       "animeName": "Одна комната, солнечный свет, ангел",
       "animeLink": "/aniserials/video/garems/2354-odna-komnata-solnechnyj-svet-angel.html",
-      "lastUpdated": "2026-02-13, 06:15:20",
-      "owners-count": 1449,
+      "lastUpdated": "2026-02-14, 06:46:27",
+      "owners-count": 1455,
       "owners-need": 6,
-      "owners-trade": 174
+      "owners-trade": 176
     },
     {
       "cardId": "18988",
@@ -350044,10 +350030,10 @@
       "animeId": 2354,
       "animeName": "Одна комната, солнечный свет, ангел",
       "animeLink": "/aniserials/video/garems/2354-odna-komnata-solnechnyj-svet-angel.html",
-      "lastUpdated": "2026-02-13, 06:15:19",
+      "lastUpdated": "2026-02-14, 06:46:25",
       "owners-count": 387,
       "owners-need": 12,
-      "owners-trade": 63
+      "owners-trade": 64
     },
     {
       "cardId": "18987",
@@ -350058,10 +350044,10 @@
       "animeId": 11,
       "animeName": "Амнезия",
       "animeLink": "/aniserials/video/garem-dlya-devushek/11-amneziya-amnesia.html",
-      "lastUpdated": "2026-02-13, 06:15:19",
-      "owners-count": 608,
-      "owners-need": 38,
-      "owners-trade": 84
+      "lastUpdated": "2026-02-14, 06:46:23",
+      "owners-count": 607,
+      "owners-need": 35,
+      "owners-trade": 83
     },
     {
       "cardId": "18986",
@@ -350072,10 +350058,10 @@
       "animeId": 2045,
       "animeName": "Приказ, изменивший мир",
       "animeLink": "/aniserials/video/action/2045-prikaz-izmenivshij-mir.html",
-      "lastUpdated": "2026-02-13, 06:15:18",
-      "owners-count": 2845,
+      "lastUpdated": "2026-02-14, 06:46:21",
+      "owners-count": 2846,
       "owners-need": 0,
-      "owners-trade": 344
+      "owners-trade": 341
     },
     {
       "cardId": "18985",
@@ -350086,10 +350072,10 @@
       "animeId": 2045,
       "animeName": "Приказ, изменивший мир",
       "animeLink": "/aniserials/video/action/2045-prikaz-izmenivshij-mir.html",
-      "lastUpdated": "2026-02-13, 06:15:17",
-      "owners-count": 1386,
+      "lastUpdated": "2026-02-14, 06:46:19",
+      "owners-count": 1387,
       "owners-need": 2,
-      "owners-trade": 148
+      "owners-trade": 147
     },
     {
       "cardId": "18984",
@@ -350100,10 +350086,10 @@
       "animeId": 2045,
       "animeName": "Приказ, изменивший мир",
       "animeLink": "/aniserials/video/action/2045-prikaz-izmenivshij-mir.html",
-      "lastUpdated": "2026-02-13, 06:15:16",
-      "owners-count": 397,
+      "lastUpdated": "2026-02-14, 06:46:17",
+      "owners-count": 398,
       "owners-need": 4,
-      "owners-trade": 71
+      "owners-trade": 70
     },
     {
       "cardId": "18980",
@@ -350114,8 +350100,8 @@
       "animeId": 11,
       "animeName": "Амнезия",
       "animeLink": "/aniserials/video/garem-dlya-devushek/11-amneziya-amnesia.html",
-      "lastUpdated": "2026-02-13, 06:15:15",
-      "owners-count": 635,
+      "lastUpdated": "2026-02-14, 06:46:15",
+      "owners-count": 637,
       "owners-need": 35,
       "owners-trade": 83
     },
@@ -350128,10 +350114,10 @@
       "animeId": 1013,
       "animeName": "Система «спаси-себя-сам» для главного злодея",
       "animeLink": "/aniserials/video/martial_arts/1013-sistema-spasi-sebja-sam-dlja-glavnogo-zlodeja.html",
-      "lastUpdated": "2026-02-13, 06:15:14",
+      "lastUpdated": "2026-02-14, 06:46:13",
       "owners-count": 3018,
-      "owners-need": 24,
-      "owners-trade": 262
+      "owners-need": 26,
+      "owners-trade": 261
     },
     {
       "cardId": "18976",
@@ -350142,8 +350128,8 @@
       "animeId": 1442,
       "animeName": "Песнь ночных сов",
       "animeLink": "/aniserials/video/vampires/1442-pesn-nochnyh-sov-animestars.html",
-      "lastUpdated": "2026-02-13, 06:15:14",
-      "owners-count": 46,
+      "lastUpdated": "2026-02-14, 06:46:12",
+      "owners-count": 47,
       "owners-need": 57,
       "owners-trade": 0
     },
@@ -350156,7 +350142,7 @@
       "animeId": 1818,
       "animeName": "Труська, Чулко и пресвятой Подвяз",
       "animeLink": "/aniserials/video/comedy/1818-truska-chulko-i-presvjatoj-podvjaz.html",
-      "lastUpdated": "2026-02-13, 06:15:13",
+      "lastUpdated": "2026-02-14, 06:46:11",
       "owners-count": 333,
       "owners-need": 14,
       "owners-trade": 52
@@ -350170,8 +350156,8 @@
       "animeId": 1818,
       "animeName": "Труська, Чулко и пресвятой Подвяз",
       "animeLink": "/aniserials/video/comedy/1818-truska-chulko-i-presvjatoj-podvjaz.html",
-      "lastUpdated": "2026-02-13, 06:15:12",
-      "owners-count": 2614,
+      "lastUpdated": "2026-02-14, 06:46:10",
+      "owners-count": 2619,
       "owners-need": 8,
       "owners-trade": 301
     },
@@ -350184,10 +350170,10 @@
       "animeId": 1654,
       "animeName": "Скейт: Бесконечность",
       "animeLink": "/aniserials/video/drama/1654-skejt-beskonechnost.html",
-      "lastUpdated": "2026-02-13, 06:15:11",
+      "lastUpdated": "2026-02-14, 06:46:09",
       "owners-count": 84,
       "owners-need": 60,
-      "owners-trade": 6
+      "owners-trade": 9
     },
     {
       "cardId": "18961",
@@ -350198,10 +350184,10 @@
       "animeId": 1973,
       "animeName": "Тетрадь дружбы Нацумэ 2 сезон",
       "animeLink": "/aniserials/video/drama/1973-tetrad-druzhby-nacumje-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:15:10",
-      "owners-count": 2398,
+      "lastUpdated": "2026-02-14, 06:46:08",
+      "owners-count": 2396,
       "owners-need": 8,
-      "owners-trade": 234
+      "owners-trade": 232
     },
     {
       "cardId": "18960",
@@ -350212,10 +350198,10 @@
       "animeId": 1092,
       "animeName": "Для тебя, Бессмертный",
       "animeLink": "/aniserials/video/drama/1092-dlja-tebja-bessmertnyj.html",
-      "lastUpdated": "2026-02-13, 06:15:09",
-      "owners-count": 2899,
+      "lastUpdated": "2026-02-14, 06:46:07",
+      "owners-count": 2900,
       "owners-need": 10,
-      "owners-trade": 340
+      "owners-trade": 342
     },
     {
       "cardId": "18959",
@@ -350226,8 +350212,8 @@
       "animeId": 1853,
       "animeName": "Невеста герцога по контракту",
       "animeLink": "/aniserials/video/comedy/1853-nevesta-gercoga-po-kontraktu.html",
-      "lastUpdated": "2026-02-13, 06:15:09",
-      "owners-count": 2689,
+      "lastUpdated": "2026-02-14, 06:46:07",
+      "owners-count": 2696,
       "owners-need": 20,
       "owners-trade": 284
     },
@@ -350240,10 +350226,10 @@
       "animeId": 1436,
       "animeName": "Вермейл в золотом: Сильнейший маг проходит через магический мир с сильнейшей катастрофой",
       "animeLink": "/aniserials/video/comedy/1436-vermejl-v-zolotom-silnejshij-mag-prohodit-cherez-magicheskij-mir-s-silnejshej-katastrofoj-animestars.html",
-      "lastUpdated": "2026-02-13, 06:15:08",
+      "lastUpdated": "2026-02-14, 06:46:06",
       "owners-count": 2570,
       "owners-need": 20,
-      "owners-trade": 305
+      "owners-trade": 306
     },
     {
       "cardId": "18956",
@@ -350254,9 +350240,9 @@
       "animeId": 2255,
       "animeName": "Мой старший брат чересчур сдержанный 2 сезон",
       "animeLink": "/aniserials/video/martial_arts/2255-moj-starshij-brat-chereschur-sderzhannyj-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:15:07",
-      "owners-count": 592,
-      "owners-need": 29,
+      "lastUpdated": "2026-02-14, 06:46:05",
+      "owners-count": 594,
+      "owners-need": 31,
       "owners-trade": 80
     },
     {
@@ -350268,10 +350254,10 @@
       "animeId": 1357,
       "animeName": "Мемуары Ванитаса 2 сезон",
       "animeLink": "/aniserials/video/vampires/1357-memuary-vanitasa-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:15:06",
-      "owners-count": 467,
-      "owners-need": 23,
-      "owners-trade": 48
+      "lastUpdated": "2026-02-14, 06:46:04",
+      "owners-count": 469,
+      "owners-need": 22,
+      "owners-trade": 47
     },
     {
       "cardId": "18952",
@@ -350282,10 +350268,10 @@
       "animeId": 1495,
       "animeName": "Дюрарара!! 2 сезон 3 часть",
       "animeLink": "/aniserials/video/mystery/1495-djurarara-2-sezon-3-chast.html",
-      "lastUpdated": "2026-02-13, 06:15:05",
-      "owners-count": 591,
-      "owners-need": 33,
-      "owners-trade": 67
+      "lastUpdated": "2026-02-14, 06:46:03",
+      "owners-count": 594,
+      "owners-need": 31,
+      "owners-trade": 68
     },
     {
       "cardId": "18950",
@@ -350296,9 +350282,9 @@
       "animeId": 1241,
       "animeName": "Мой сэмпай раздражает",
       "animeLink": "/aniserials/video/comedy/1241-moj-sjempaj-razdrazhaet.html",
-      "lastUpdated": "2026-02-13, 06:15:04",
-      "owners-count": 2687,
-      "owners-need": 9,
+      "lastUpdated": "2026-02-14, 06:46:02",
+      "owners-count": 2685,
+      "owners-need": 8,
       "owners-trade": 318
     },
     {
@@ -350310,10 +350296,10 @@
       "animeId": 2128,
       "animeName": "Великий из бродячих псов 5 сезон",
       "animeLink": "/aniserials/video/detective/2128-velikij-iz-brodjachih-psov-5-sezon-animestars-v5.html",
-      "lastUpdated": "2026-02-13, 06:15:04",
-      "owners-count": 1472,
-      "owners-need": 17,
-      "owners-trade": 185
+      "lastUpdated": "2026-02-14, 06:46:02",
+      "owners-count": 1470,
+      "owners-need": 18,
+      "owners-trade": 183
     },
     {
       "cardId": "18947",
@@ -350324,10 +350310,10 @@
       "animeId": 1380,
       "animeName": "Кагуя: В любви как на войне 3 сезон",
       "animeLink": "/aniserials/video/comedy/1380-kaguja-v-ljubvi-kak-na-vojne-3-sezon.html",
-      "lastUpdated": "2026-02-13, 06:15:03",
-      "owners-count": 3407,
-      "owners-need": 11,
-      "owners-trade": 311
+      "lastUpdated": "2026-02-14, 06:46:01",
+      "owners-count": 3412,
+      "owners-need": 10,
+      "owners-trade": 312
     },
     {
       "cardId": "18943",
@@ -350338,10 +350324,10 @@
       "animeId": 2353,
       "animeName": "Этот замечательный мир! 3 сезон",
       "animeLink": "/aniserials/video/comedy/2353-jetot-zamechatelnyj-mir-3-sezon-animestars.html",
-      "lastUpdated": "2026-02-13, 06:15:02",
-      "owners-count": 3225,
+      "lastUpdated": "2026-02-14, 06:45:59",
+      "owners-count": 3223,
       "owners-need": 21,
-      "owners-trade": 333
+      "owners-trade": 329
     },
     {
       "cardId": "18941",
@@ -350352,10 +350338,10 @@
       "animeId": 351,
       "animeName": "Шарлотта",
       "animeLink": "/aniserials/video/drama/351-sharlotta.html",
-      "lastUpdated": "2026-02-13, 06:15:01",
+      "lastUpdated": "2026-02-14, 06:45:59",
       "owners-count": 499,
-      "owners-need": 26,
-      "owners-trade": 84
+      "owners-need": 25,
+      "owners-trade": 85
     },
     {
       "cardId": "18940",
@@ -350366,8 +350352,8 @@
       "animeId": 646,
       "animeName": "Волейбол 3 сезон",
       "animeLink": "/aniserials/video/drama/646-voleybol-3-sezon.html",
-      "lastUpdated": "2026-02-13, 06:15:00",
-      "owners-count": 3024,
+      "lastUpdated": "2026-02-14, 06:45:58",
+      "owners-count": 3032,
       "owners-need": 9,
       "owners-trade": 289
     },
@@ -350380,10 +350366,10 @@
       "animeId": 1824,
       "animeName": "Контратака изгнанного ученика",
       "animeLink": "/aniserials/video/action/1824-kontrataka-izgnannogo-uchenika-2023.html",
-      "lastUpdated": "2026-02-13, 06:14:59",
-      "owners-count": 2977,
+      "lastUpdated": "2026-02-14, 06:45:57",
+      "owners-count": 2980,
       "owners-need": 12,
-      "owners-trade": 380
+      "owners-trade": 381
     },
     {
       "cardId": "18938",
@@ -350394,10 +350380,10 @@
       "animeId": 646,
       "animeName": "Волейбол 3 сезон",
       "animeLink": "/aniserials/video/drama/646-voleybol-3-sezon.html",
-      "lastUpdated": "2026-02-13, 06:14:58",
-      "owners-count": 2656,
+      "lastUpdated": "2026-02-14, 06:45:56",
+      "owners-count": 2664,
       "owners-need": 5,
-      "owners-trade": 304
+      "owners-trade": 302
     },
     {
       "cardId": "18937",
@@ -350408,7 +350394,7 @@
       "animeId": 81,
       "animeName": "Корона грешника",
       "animeLink": "/aniserials/video/drama/81-korona-greha-korona-greshnika.html",
-      "lastUpdated": "2026-02-13, 06:14:58",
+      "lastUpdated": "2026-02-14, 06:45:55",
       "owners-count": 64,
       "owners-need": 39,
       "owners-trade": 4
@@ -350422,10 +350408,10 @@
       "animeId": 259,
       "animeName": "Стальной Алхимик: Братство",
       "animeLink": "/aniserials/video/war/259-stalnoy-alhimik-bratstvo-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:14:57",
-      "owners-count": 1534,
+      "lastUpdated": "2026-02-14, 06:45:54",
+      "owners-count": 1531,
       "owners-need": 27,
-      "owners-trade": 163
+      "owners-trade": 164
     },
     {
       "cardId": "18932",
@@ -350436,10 +350422,10 @@
       "animeId": 151,
       "animeName": "Вторжение гигантов",
       "animeLink": "/aniserials/video/war/151-vtorzhenie-gigantov-2013-as.html",
-      "lastUpdated": "2026-02-13, 06:14:56",
+      "lastUpdated": "2026-02-14, 06:45:54",
       "owners-count": 67,
-      "owners-need": 57,
-      "owners-trade": 6
+      "owners-need": 59,
+      "owners-trade": 5
     },
     {
       "cardId": "18928",
@@ -350450,10 +350436,10 @@
       "animeId": 238,
       "animeName": "Учитель-мафиози Реборн!",
       "animeLink": "/aniserials/video/comedy/238-uchitel-mafiozi-reborn.html",
-      "lastUpdated": "2026-02-13, 06:14:55",
-      "owners-count": 2628,
+      "lastUpdated": "2026-02-14, 06:45:53",
+      "owners-count": 2631,
       "owners-need": 7,
-      "owners-trade": 320
+      "owners-trade": 321
     },
     {
       "cardId": "18927",
@@ -350464,10 +350450,10 @@
       "animeId": 1109,
       "animeName": "Приоритет чудо-яйца",
       "animeLink": "/aniserials/video/drama/1109-prioritet-chudo-jajca.html",
-      "lastUpdated": "2026-02-13, 06:14:54",
-      "owners-count": 2519,
-      "owners-need": 4,
-      "owners-trade": 270
+      "lastUpdated": "2026-02-14, 06:45:52",
+      "owners-count": 2525,
+      "owners-need": 3,
+      "owners-trade": 271
     },
     {
       "cardId": "18926",
@@ -350478,10 +350464,10 @@
       "animeId": 501,
       "animeName": "Эрго Прокси",
       "animeLink": "/aniserials/video/detective/501-ergo-proksi.html",
-      "lastUpdated": "2026-02-13, 06:14:53",
-      "owners-count": 2845,
+      "lastUpdated": "2026-02-14, 06:45:51",
+      "owners-count": 2850,
       "owners-need": 4,
-      "owners-trade": 294
+      "owners-trade": 293
     },
     {
       "cardId": "18924",
@@ -350492,10 +350478,10 @@
       "animeId": 407,
       "animeName": "Похотливая Ао не может учиться",
       "animeLink": "/aniserials/video/comedy/407-pohotlivaya-ao-ne-mozhet-uchitsya.html",
-      "lastUpdated": "2026-02-13, 06:14:52",
-      "owners-count": 2236,
+      "lastUpdated": "2026-02-14, 06:45:50",
+      "owners-count": 2237,
       "owners-need": 1,
-      "owners-trade": 239
+      "owners-trade": 238
     },
     {
       "cardId": "18922",
@@ -350506,10 +350492,10 @@
       "animeId": 2672,
       "animeName": "История цветов",
       "animeLink": "/aniserials/video/drama/2672-istorija-cvetov.html",
-      "lastUpdated": "2026-02-13, 06:14:52",
-      "owners-count": 462,
+      "lastUpdated": "2026-02-14, 06:45:49",
+      "owners-count": 461,
       "owners-need": 18,
-      "owners-trade": 88
+      "owners-trade": 87
     },
     {
       "cardId": "18913",
@@ -350520,8 +350506,8 @@
       "animeId": 2650,
       "animeName": "Механические руки",
       "animeLink": "/aniserials/video/action/2650-mehanicheskie-ruki-animestars.html",
-      "lastUpdated": "2026-02-13, 06:14:51",
-      "owners-count": 1211,
+      "lastUpdated": "2026-02-14, 06:45:49",
+      "owners-count": 1218,
       "owners-need": 2,
       "owners-trade": 151
     },
@@ -350534,8 +350520,8 @@
       "animeId": 1231,
       "animeName": "Лучший в мире ассасин, переродившийся в другом мире как аристократ",
       "animeLink": "/aniserials/video/action/1231-luchshij-v-mire-assasin-pererodivshijsja-v-drugom-mire-kak-aristokrat.html",
-      "lastUpdated": "2026-02-13, 06:14:50",
-      "owners-count": 57,
+      "lastUpdated": "2026-02-14, 06:45:48",
+      "owners-count": 55,
       "owners-need": 44,
       "owners-trade": 8
     },
@@ -350548,10 +350534,10 @@
       "animeId": 2390,
       "animeName": "Новые врата",
       "animeLink": "/aniserials/video/action/2390-novye-vrata-animestars-2024-v8.html",
-      "lastUpdated": "2026-02-13, 06:14:48",
+      "lastUpdated": "2026-02-14, 06:45:46",
       "owners-count": 77,
       "owners-need": 68,
-      "owners-trade": 4
+      "owners-trade": 5
     },
     {
       "cardId": "18908",
@@ -350702,8 +350688,8 @@
       "animeId": 593,
       "animeName": "Трогательный комплекс",
       "animeLink": "/aniserials/video/comedy/593-trogatelnyy-kompleks.html",
-      "lastUpdated": "2026-02-13, 06:16:26",
-      "owners-count": 561,
+      "lastUpdated": "2026-02-14, 06:48:58",
+      "owners-count": 559,
       "owners-need": 40,
       "owners-trade": 35
     },
@@ -350716,9 +350702,9 @@
       "animeId": 2608,
       "animeName": "Этот глупый свин не понимает мечту девушки с рюкзаком",
       "animeLink": "/aniserials/video/drama/2608-jetot-glupyj-svin-ne-ponimaet-mechtu-devushki-s-rjukzakom.html",
-      "lastUpdated": "2026-02-13, 06:16:25",
+      "lastUpdated": "2026-02-14, 06:48:58",
       "owners-count": 67,
-      "owners-need": 39,
+      "owners-need": 38,
       "owners-trade": 2
     },
     {
@@ -350730,8 +350716,8 @@
       "animeId": 413,
       "animeName": "Раз героем мне не стать - самое время работу искать!",
       "animeLink": "/aniserials/video/garems/413-geroem-ya-uvy-ne-stal-zato-rabotu-podyskal.html",
-      "lastUpdated": "2026-02-13, 06:16:24",
-      "owners-count": 1402,
+      "lastUpdated": "2026-02-14, 06:48:57",
+      "owners-count": 1403,
       "owners-need": 1,
       "owners-trade": 165
     },
@@ -350744,10 +350730,10 @@
       "animeId": 766,
       "animeName": "Контроль",
       "animeLink": "/aniserials/video/action/766-kontrol.html",
-      "lastUpdated": "2026-02-13, 06:16:24",
-      "owners-count": 2081,
+      "lastUpdated": "2026-02-14, 06:48:56",
+      "owners-count": 2082,
       "owners-need": 2,
-      "owners-trade": 209
+      "owners-trade": 208
     },
     {
       "cardId": "18890",
@@ -350758,10 +350744,10 @@
       "animeId": 413,
       "animeName": "Раз героем мне не стать - самое время работу искать!",
       "animeLink": "/aniserials/video/garems/413-geroem-ya-uvy-ne-stal-zato-rabotu-podyskal.html",
-      "lastUpdated": "2026-02-13, 06:16:23",
-      "owners-count": 411,
+      "lastUpdated": "2026-02-14, 06:48:55",
+      "owners-count": 414,
       "owners-need": 6,
-      "owners-trade": 58
+      "owners-trade": 57
     },
     {
       "cardId": "18888",
@@ -350772,10 +350758,10 @@
       "animeId": 1890,
       "animeName": "Код Гиас: Лелуш Воскресший - Фильм",
       "animeLink": "/aniserials/video/drama/1890-kod-gias-lelush-voskresshij-film.html",
-      "lastUpdated": "2026-02-13, 06:16:22",
-      "owners-count": 3157,
+      "lastUpdated": "2026-02-14, 06:48:53",
+      "owners-count": 3158,
       "owners-need": 18,
-      "owners-trade": 339
+      "owners-trade": 344
     },
     {
       "cardId": "18887",
@@ -350786,7 +350772,7 @@
       "animeId": 471,
       "animeName": "Код Гиас: Восставший Лелуш 2 сезон",
       "animeLink": "/aniserials/video/action/471-kod-gias-vosstavshiy-lelush-2-sezon-2008.html",
-      "lastUpdated": "2026-02-13, 06:16:21",
+      "lastUpdated": "2026-02-14, 06:48:51",
       "owners-count": 49,
       "owners-need": 27,
       "owners-trade": 1
@@ -350800,10 +350786,10 @@
       "animeId": 471,
       "animeName": "Код Гиас: Восставший Лелуш 2 сезон",
       "animeLink": "/aniserials/video/action/471-kod-gias-vosstavshiy-lelush-2-sezon-2008.html",
-      "lastUpdated": "2026-02-13, 06:16:20",
-      "owners-count": 2809,
+      "lastUpdated": "2026-02-14, 06:48:49",
+      "owners-count": 2815,
       "owners-need": 23,
-      "owners-trade": 274
+      "owners-trade": 273
     },
     {
       "cardId": "18885",
@@ -350814,10 +350800,10 @@
       "animeId": 471,
       "animeName": "Код Гиас: Восставший Лелуш 2 сезон",
       "animeLink": "/aniserials/video/action/471-kod-gias-vosstavshiy-lelush-2-sezon-2008.html",
-      "lastUpdated": "2026-02-13, 06:16:19",
+      "lastUpdated": "2026-02-14, 06:48:47",
       "owners-count": 2860,
       "owners-need": 18,
-      "owners-trade": 318
+      "owners-trade": 314
     },
     {
       "cardId": "18884",
@@ -350828,8 +350814,8 @@
       "animeId": 471,
       "animeName": "Код Гиас: Восставший Лелуш 2 сезон",
       "animeLink": "/aniserials/video/action/471-kod-gias-vosstavshiy-lelush-2-sezon-2008.html",
-      "lastUpdated": "2026-02-13, 06:16:18",
-      "owners-count": 2808,
+      "lastUpdated": "2026-02-14, 06:48:45",
+      "owners-count": 2800,
       "owners-need": 17,
       "owners-trade": 289
     },
@@ -350842,7 +350828,7 @@
       "animeId": 445,
       "animeName": "По ту сторону границы",
       "animeLink": "/aniserials/video/mystery/445-za-granyu.html",
-      "lastUpdated": "2026-02-13, 06:16:18",
+      "lastUpdated": "2026-02-14, 06:48:43",
       "owners-count": 482,
       "owners-need": 13,
       "owners-trade": 84
@@ -350856,7 +350842,7 @@
       "animeId": 470,
       "animeName": "Код Гиас: Восставший Лелуш",
       "animeLink": "/aniserials/video/action/470-kod-gias-vosstavshiy-lelush-1-sezon-2006.html",
-      "lastUpdated": "2026-02-13, 06:16:17",
+      "lastUpdated": "2026-02-14, 06:48:41",
       "owners-count": 3056,
       "owners-need": 19,
       "owners-trade": 340
@@ -350870,10 +350856,10 @@
       "animeId": 2624,
       "animeName": "Красавица-воин Сейлор Мун 3 сезон",
       "animeLink": "/aniserials/video/shoujo/2624-krasavica-voin-sejlor-mun-3-sezon.html",
-      "lastUpdated": "2026-02-13, 06:16:16",
+      "lastUpdated": "2026-02-14, 06:48:39",
       "owners-count": 30,
       "owners-need": 16,
-      "owners-trade": 0
+      "owners-trade": 1
     },
     {
       "cardId": "18880",
@@ -350884,10 +350870,10 @@
       "animeId": 2624,
       "animeName": "Красавица-воин Сейлор Мун 3 сезон",
       "animeLink": "/aniserials/video/shoujo/2624-krasavica-voin-sejlor-mun-3-sezon.html",
-      "lastUpdated": "2026-02-13, 06:16:15",
-      "owners-count": 2775,
+      "lastUpdated": "2026-02-14, 06:48:37",
+      "owners-count": 2771,
       "owners-need": 7,
-      "owners-trade": 330
+      "owners-trade": 329
     },
     {
       "cardId": "18879",
@@ -350898,10 +350884,10 @@
       "animeId": 2622,
       "animeName": "Красавица-воин Сейлор Мун 2 сезон",
       "animeLink": "/aniserials/video/shoujo/2622-krasavica-voin-sejlor-mun-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:16:14",
-      "owners-count": 2319,
+      "lastUpdated": "2026-02-14, 06:48:35",
+      "owners-count": 2325,
       "owners-need": 7,
-      "owners-trade": 232
+      "owners-trade": 234
     },
     {
       "cardId": "18878",
@@ -350912,7 +350898,7 @@
       "animeId": 679,
       "animeName": "Икс",
       "animeLink": "/aniserials/video/drama/679-iks.html",
-      "lastUpdated": "2026-02-13, 06:16:13",
+      "lastUpdated": "2026-02-14, 06:48:33",
       "owners-count": 1375,
       "owners-need": 8,
       "owners-trade": 114
@@ -350926,8 +350912,8 @@
       "animeId": 354,
       "animeName": "Тёмная сторона Брюнхильды",
       "animeLink": "/aniserials/video/garems/354-bryunhilda-vo-tme.html",
-      "lastUpdated": "2026-02-13, 06:16:13",
-      "owners-count": 388,
+      "lastUpdated": "2026-02-14, 06:48:31",
+      "owners-count": 389,
       "owners-need": 6,
       "owners-trade": 55
     },
@@ -350940,8 +350926,8 @@
       "animeId": 2622,
       "animeName": "Красавица-воин Сейлор Мун 2 сезон",
       "animeLink": "/aniserials/video/shoujo/2622-krasavica-voin-sejlor-mun-2-sezon.html",
-      "lastUpdated": "2026-02-13, 06:16:12",
-      "owners-count": 2420,
+      "lastUpdated": "2026-02-14, 06:48:29",
+      "owners-count": 2424,
       "owners-need": 9,
       "owners-trade": 230
     },
@@ -350954,8 +350940,8 @@
       "animeId": 354,
       "animeName": "Тёмная сторона Брюнхильды",
       "animeLink": "/aniserials/video/garems/354-bryunhilda-vo-tme.html",
-      "lastUpdated": "2026-02-13, 06:16:11",
-      "owners-count": 340,
+      "lastUpdated": "2026-02-14, 06:48:27",
+      "owners-count": 341,
       "owners-need": 4,
       "owners-trade": 54
     },
@@ -350968,9 +350954,9 @@
       "animeId": 354,
       "animeName": "Тёмная сторона Брюнхильды",
       "animeLink": "/aniserials/video/garems/354-bryunhilda-vo-tme.html",
-      "lastUpdated": "2026-02-13, 06:16:10",
-      "owners-count": 443,
-      "owners-need": 28,
+      "lastUpdated": "2026-02-14, 06:48:25",
+      "owners-count": 438,
+      "owners-need": 27,
       "owners-trade": 27
     },
     {
@@ -350982,8 +350968,8 @@
       "animeId": 2172,
       "animeName": "Рон Камонохаси: Невменяемый детектив",
       "animeLink": "/aniserials/video/detective/2172-ron-kamonohasi-nevmenjaemyj-detektiv.html",
-      "lastUpdated": "2026-02-13, 06:16:09",
-      "owners-count": 2713,
+      "lastUpdated": "2026-02-14, 06:48:23",
+      "owners-count": 2719,
       "owners-need": 17,
       "owners-trade": 321
     },
@@ -350996,8 +350982,8 @@
       "animeId": 84,
       "animeName": "Танец клинка элементалиста",
       "animeLink": "/aniserials/video/action/84-tanec-klinkov-zaklinateley-2014.html",
-      "lastUpdated": "2026-02-13, 06:16:08",
-      "owners-count": 339,
+      "lastUpdated": "2026-02-14, 06:48:21",
+      "owners-count": 342,
       "owners-need": 2,
       "owners-trade": 61
     },
@@ -351010,10 +350996,10 @@
       "animeId": 84,
       "animeName": "Танец клинка элементалиста",
       "animeLink": "/aniserials/video/action/84-tanec-klinkov-zaklinateley-2014.html",
-      "lastUpdated": "2026-02-13, 06:16:07",
-      "owners-count": 358,
+      "lastUpdated": "2026-02-14, 06:48:19",
+      "owners-count": 361,
       "owners-need": 2,
-      "owners-trade": 46
+      "owners-trade": 47
     },
     {
       "cardId": "18870",
@@ -351024,10 +351010,10 @@
       "animeId": 84,
       "animeName": "Танец клинка элементалиста",
       "animeLink": "/aniserials/video/action/84-tanec-klinkov-zaklinateley-2014.html",
-      "lastUpdated": "2026-02-13, 06:16:06",
-      "owners-count": 391,
+      "lastUpdated": "2026-02-14, 06:48:17",
+      "owners-count": 392,
       "owners-need": 4,
-      "owners-trade": 64
+      "owners-trade": 65
     },
     {
       "cardId": "18869",
@@ -351038,10 +351024,10 @@
       "animeId": 483,
       "animeName": "Сказания Зестирии",
       "animeLink": "/aniserials/video/action/483-skazaniya-zestirii-1-sezon-2016.html",
-      "lastUpdated": "2026-02-13, 06:16:06",
-      "owners-count": 3137,
-      "owners-need": 7,
-      "owners-trade": 341
+      "lastUpdated": "2026-02-14, 06:48:15",
+      "owners-count": 3142,
+      "owners-need": 8,
+      "owners-trade": 344
     },
     {
       "cardId": "18868",
@@ -351052,8 +351038,8 @@
       "animeId": 91,
       "animeName": "Берсерк 3 сезон",
       "animeLink": "/aniserials/video/action/91-berserk-tv-3-2017.html",
-      "lastUpdated": "2026-02-13, 06:16:05",
-      "owners-count": 2509,
+      "lastUpdated": "2026-02-14, 06:48:13",
+      "owners-count": 2512,
       "owners-need": 14,
       "owners-trade": 308
     },
@@ -351066,10 +351052,10 @@
       "animeId": 2023,
       "animeName": "Жизнь в альтернативном мире с нуля: Замороженные узы",
       "animeLink": "/aniserials/video/drama/2023-zhizn-v-alternativnom-mire-s-nulja-zamorozhennye-uzy.html",
-      "lastUpdated": "2026-02-13, 06:16:04",
-      "owners-count": 791,
+      "lastUpdated": "2026-02-14, 06:48:11",
+      "owners-count": 794,
       "owners-need": 58,
-      "owners-trade": 95
+      "owners-trade": 94
     },
     {
       "cardId": "18861",
@@ -351080,10 +351066,10 @@
       "animeId": 54,
       "animeName": "Моя геройская академия 2 сезон",
       "animeLink": "/aniserials/video/action/54-moya-geroyskaya-akademiya-2-sezon-2017.html",
-      "lastUpdated": "2026-02-13, 06:16:03",
+      "lastUpdated": "2026-02-14, 06:48:09",
       "owners-count": 629,
-      "owners-need": 37,
-      "owners-trade": 71
+      "owners-need": 38,
+      "owners-trade": 70
     },
     {
       "cardId": "18859",
@@ -351094,10 +351080,10 @@
       "animeId": 1691,
       "animeName": "Мститель",
       "animeLink": "/aniserials/video/detective/1691-mstitel-animestars.html",
-      "lastUpdated": "2026-02-13, 06:16:02",
-      "owners-count": 2646,
+      "lastUpdated": "2026-02-14, 06:48:07",
+      "owners-count": 2651,
       "owners-need": 14,
-      "owners-trade": 300
+      "owners-trade": 302
     },
     {
       "cardId": "18857",
@@ -351108,10 +351094,10 @@
       "animeId": 1691,
       "animeName": "Мститель",
       "animeLink": "/aniserials/video/detective/1691-mstitel-animestars.html",
-      "lastUpdated": "2026-02-13, 06:16:01",
-      "owners-count": 2854,
-      "owners-need": 12,
-      "owners-trade": 264
+      "lastUpdated": "2026-02-14, 06:48:05",
+      "owners-count": 2849,
+      "owners-need": 10,
+      "owners-trade": 263
     },
     {
       "cardId": "18856",
@@ -351122,8 +351108,8 @@
       "animeId": 1691,
       "animeName": "Мститель",
       "animeLink": "/aniserials/video/detective/1691-mstitel-animestars.html",
-      "lastUpdated": "2026-02-13, 06:16:00",
-      "owners-count": 2806,
+      "lastUpdated": "2026-02-14, 06:48:03",
+      "owners-count": 2809,
       "owners-need": 13,
       "owners-trade": 309
     },
@@ -351136,10 +351122,10 @@
       "animeId": 1691,
       "animeName": "Мститель",
       "animeLink": "/aniserials/video/detective/1691-mstitel-animestars.html",
-      "lastUpdated": "2026-02-13, 06:16:00",
-      "owners-count": 2570,
+      "lastUpdated": "2026-02-14, 06:48:01",
+      "owners-count": 2576,
       "owners-need": 14,
-      "owners-trade": 259
+      "owners-trade": 258
     },
     {
       "cardId": "18853",
@@ -351150,8 +351136,8 @@
       "animeId": 1691,
       "animeName": "Мститель",
       "animeLink": "/aniserials/video/detective/1691-mstitel-animestars.html",
-      "lastUpdated": "2026-02-13, 06:15:59",
-      "owners-count": 568,
+      "lastUpdated": "2026-02-14, 06:47:59",
+      "owners-count": 569,
       "owners-need": 47,
       "owners-trade": 21
     },
@@ -351164,8 +351150,8 @@
       "animeId": 1691,
       "animeName": "Мститель",
       "animeLink": "/aniserials/video/detective/1691-mstitel-animestars.html",
-      "lastUpdated": "2026-02-13, 06:15:58",
-      "owners-count": 543,
+      "lastUpdated": "2026-02-14, 06:47:57",
+      "owners-count": 544,
       "owners-need": 39,
       "owners-trade": 33
     },
@@ -351178,10 +351164,10 @@
       "animeId": 1691,
       "animeName": "Мститель",
       "animeLink": "/aniserials/video/detective/1691-mstitel-animestars.html",
-      "lastUpdated": "2026-02-13, 06:15:57",
-      "owners-count": 592,
+      "lastUpdated": "2026-02-14, 06:47:55",
+      "owners-count": 593,
       "owners-need": 40,
-      "owners-trade": 73
+      "owners-trade": 74
     },
     {
       "cardId": "18849",
@@ -351192,10 +351178,10 @@
       "animeId": 905,
       "animeName": "Человек-дьявол: Плач",
       "animeLink": "/aniserials/video/horror/905-chelovek-djavol-plach.html",
-      "lastUpdated": "2026-02-13, 06:15:56",
-      "owners-count": 2910,
-      "owners-need": 13,
-      "owners-trade": 294
+      "lastUpdated": "2026-02-14, 06:47:53",
+      "owners-count": 2911,
+      "owners-need": 12,
+      "owners-trade": 293
     },
     {
       "cardId": "18847",
@@ -351206,10 +351192,10 @@
       "animeId": 1963,
       "animeName": "Харука и Каната принимают подачу",
       "animeLink": "/aniserials/video/natural/1963-haruka-i-kanata-prinimajut-podachu.html",
-      "lastUpdated": "2026-02-13, 06:15:55",
+      "lastUpdated": "2026-02-14, 06:47:51",
       "owners-count": 1571,
       "owners-need": 6,
-      "owners-trade": 141
+      "owners-trade": 138
     },
     {
       "cardId": "18846",
@@ -351220,10 +351206,10 @@
       "animeId": 74,
       "animeName": "Психопаспорт",
       "animeLink": "/aniserials/video/detective/74-psihopasport-2012.html",
-      "lastUpdated": "2026-02-13, 06:15:55",
-      "owners-count": 1682,
+      "lastUpdated": "2026-02-14, 06:47:49",
+      "owners-count": 1678,
       "owners-need": 8,
-      "owners-trade": 163
+      "owners-trade": 165
     },
     {
       "cardId": "18845",
@@ -351234,10 +351220,10 @@
       "animeId": 895,
       "animeName": "Гипнотический микрофон",
       "animeLink": "/aniserials/video/music/895-gipnoticheskij-mikrofon.html",
-      "lastUpdated": "2026-02-13, 06:15:54",
-      "owners-count": 583,
-      "owners-need": 34,
-      "owners-trade": 72
+      "lastUpdated": "2026-02-14, 06:47:47",
+      "owners-count": 584,
+      "owners-need": 33,
+      "owners-trade": 71
     },
     {
       "cardId": "18844",
@@ -351248,7 +351234,7 @@
       "animeId": 2650,
       "animeName": "Механические руки",
       "animeLink": "/aniserials/video/action/2650-mehanicheskie-ruki-animestars.html",
-      "lastUpdated": "2026-02-13, 06:15:53",
+      "lastUpdated": "2026-02-14, 06:47:45",
       "owners-count": 302,
       "owners-need": 5,
       "owners-trade": 53
@@ -351262,10 +351248,10 @@
       "animeId": 303,
       "animeName": "Скитальцы",
       "animeLink": "/aniserials/video/historical/303-skitalcy.html",
-      "lastUpdated": "2026-02-13, 06:15:52",
-      "owners-count": 1308,
+      "lastUpdated": "2026-02-14, 06:47:43",
+      "owners-count": 1310,
       "owners-need": 15,
-      "owners-trade": 146
+      "owners-trade": 142
     },
     {
       "cardId": "18842",
@@ -351276,10 +351262,10 @@
       "animeId": 492,
       "animeName": "Великий из бродячих псов 2 сезон",
       "animeLink": "/aniserials/video/detective/492-velikiy-iz-brodyachih-psov-2-sezon-2016.html",
-      "lastUpdated": "2026-02-13, 06:15:51",
-      "owners-count": 1491,
-      "owners-need": 17,
-      "owners-trade": 171
+      "lastUpdated": "2026-02-14, 06:47:41",
+      "owners-count": 1494,
+      "owners-need": 18,
+      "owners-trade": 173
     },
     {
       "cardId": "18841",
@@ -351290,10 +351276,10 @@
       "animeId": 598,
       "animeName": "Когда плачут чайки",
       "animeLink": "/aniserials/video/detective/598-kogda-plachut-chayki.html",
-      "lastUpdated": "2026-02-13, 06:15:50",
-      "owners-count": 2837,
+      "lastUpdated": "2026-02-14, 06:47:39",
+      "owners-count": 2833,
       "owners-need": 2,
-      "owners-trade": 335
+      "owners-trade": 332
     },
     {
       "cardId": "18839",
@@ -351304,7 +351290,7 @@
       "animeId": 598,
       "animeName": "Когда плачут чайки",
       "animeLink": "/aniserials/video/detective/598-kogda-plachut-chayki.html",
-      "lastUpdated": "2026-02-13, 06:15:50",
+      "lastUpdated": "2026-02-14, 06:47:37",
       "owners-count": 478,
       "owners-need": 9,
       "owners-trade": 90
@@ -351318,10 +351304,10 @@
       "animeId": 2511,
       "animeName": "Маленький гражданин",
       "animeLink": "/aniserials/video/detective/2511-malenkij-grazhdanin.html",
-      "lastUpdated": "2026-02-13, 06:15:49",
+      "lastUpdated": "2026-02-14, 06:47:35",
       "owners-count": 511,
-      "owners-need": 43,
-      "owners-trade": 77
+      "owners-need": 41,
+      "owners-trade": 75
     },
     {
       "cardId": "18831",
@@ -351332,10 +351318,10 @@
       "animeId": 1435,
       "animeName": "Повелитель 4 сезон",
       "animeLink": "/aniserials/video/garems/1435-povelitel-4-sezon-2022-as2.html",
-      "lastUpdated": "2026-02-13, 06:15:48",
-      "owners-count": 3635,
+      "lastUpdated": "2026-02-14, 06:47:33",
+      "owners-count": 3638,
       "owners-need": 51,
-      "owners-trade": 375
+      "owners-trade": 377
     },
     {
       "cardId": "18827",
@@ -351346,9 +351332,9 @@
       "animeId": 1009,
       "animeName": "Отныне Мао, король демонов!",
       "animeLink": "/aniserials/video/comedy/1009-otnyne-mao-korol-demonov.html",
-      "lastUpdated": "2026-02-13, 06:15:47",
-      "owners-count": 2589,
-      "owners-need": 9,
+      "lastUpdated": "2026-02-14, 06:47:31",
+      "owners-count": 2590,
+      "owners-need": 8,
       "owners-trade": 281
     },
     {
@@ -351360,10 +351346,10 @@
       "animeId": 1824,
       "animeName": "Контратака изгнанного ученика",
       "animeLink": "/aniserials/video/action/1824-kontrataka-izgnannogo-uchenika-2023.html",
-      "lastUpdated": "2026-02-13, 06:15:46",
+      "lastUpdated": "2026-02-14, 06:47:29",
       "owners-count": 637,
       "owners-need": 49,
-      "owners-trade": 96
+      "owners-trade": 95
     },
     {
       "cardId": "18824",
@@ -351374,8 +351360,8 @@
       "animeId": 1901,
       "animeName": "Джи Ву Ген: Непокорный воле богов",
       "animeLink": "/aniserials/video/martial_arts/1901-dzhi-vu-gen-nepokornyj-vole-bogov.html",
-      "lastUpdated": "2026-02-13, 06:15:45",
-      "owners-count": 554,
+      "lastUpdated": "2026-02-14, 06:47:27",
+      "owners-count": 555,
       "owners-need": 26,
       "owners-trade": 112
     },
@@ -351388,10 +351374,10 @@
       "animeId": 1901,
       "animeName": "Джи Ву Ген: Непокорный воле богов",
       "animeLink": "/aniserials/video/martial_arts/1901-dzhi-vu-gen-nepokornyj-vole-bogov.html",
-      "lastUpdated": "2026-02-13, 06:15:45",
+      "lastUpdated": "2026-02-14, 06:47:25",
       "owners-count": 469,
       "owners-need": 20,
-      "owners-trade": 79
+      "owners-trade": 80
     },
     {
       "cardId": "18822",
@@ -351402,7 +351388,7 @@
       "animeId": 1901,
       "animeName": "Джи Ву Ген: Непокорный воле богов",
       "animeLink": "/aniserials/video/martial_arts/1901-dzhi-vu-gen-nepokornyj-vole-bogov.html",
-      "lastUpdated": "2026-02-13, 06:15:44",
+      "lastUpdated": "2026-02-14, 06:47:23",
       "owners-count": 54,
       "owners-need": 26,
       "owners-trade": 0
@@ -351416,10 +351402,10 @@
       "animeId": 305,
       "animeName": "Вторжение гигантов 3 сезон",
       "animeLink": "/aniserials/video/war/305-vtorzhenie-gigantov-3-sezon.html",
-      "lastUpdated": "2026-02-13, 06:15:42",
-      "owners-count": 601,
-      "owners-need": 48,
-      "owners-trade": 81
+      "lastUpdated": "2026-02-14, 06:47:19",
+      "owners-count": 605,
+      "owners-need": 49,
+      "owners-trade": 80
     },
     {
       "cardId": "18816",
@@ -351430,10 +351416,10 @@
       "animeId": 1811,
       "animeName": "Великая небесная стена",
       "animeLink": "/aniserials/video/adventure/1811-velikaja-nebesnaja-stena-2023.html",
-      "lastUpdated": "2026-02-13, 06:15:41",
-      "owners-count": 2285,
+      "lastUpdated": "2026-02-14, 06:47:15",
+      "owners-count": 2286,
       "owners-need": 6,
-      "owners-trade": 216
+      "owners-trade": 217
     },
     {
       "cardId": "18815",
