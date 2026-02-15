@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-15, 22:07:03",
+    "generatedTimestamp": "2026-02-16, 00:07:08",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,22 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35701
+    "totalCards": 35702
   },
   "cards": [
+    {
+      "cardId": "76279",
+      "cardName": "Янь Мань",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/2077/d/jan-man-1771188287-299819.webp",
+      "cardAuthor": "kep1384",
+      "animeId": 2077,
+      "animeName": "Расколотая битвой синева небес 5 сезон",
+      "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v17.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "76273",
       "cardName": "Соносукэ Харада",
@@ -431365,15 +431378,15 @@
       "cardId": "10297",
       "cardName": "Лэй Цян",
       "cardRank": "a",
-      "cardImage": "/uploads/cards_image/507/a/ljej-cjan-1748790028-752223.webp",
+      "cardImage": "https://animesss.tv/uploads/cards_image/507/a/ljej-cjan-1748790028-752223.webp",
       "cardAuthor": "nanashi",
       "animeId": 507,
       "animeName": "Царство",
       "animeLink": "/aniserials/video/war/507-carstvo-1-sezon-2012.html",
-      "lastUpdated": "2026-02-14, 14:48:42",
+      "lastUpdated": "2026-02-15, 22:08:58",
       "owners-count": 536,
       "owners-need": 23,
-      "owners-trade": 85
+      "owners-trade": 84
     },
     {
       "cardId": "10296",
