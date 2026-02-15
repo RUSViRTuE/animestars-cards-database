@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-15, 05:44:54",
+    "generatedTimestamp": "2026-02-15, 07:44:59",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,7 +8,7 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35689
+    "totalCards": 35688
   },
   "cards": [
     {
@@ -2600,20 +2600,6 @@
       "owners-need": 119,
       "owners-trade": 0,
       "lastUpdated": "2026-02-15, 04:31:14"
-    },
-    {
-      "cardId": "75361",
-      "cardName": "Фена Хаутман",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/1144/s/fena-hautman-1770633792-167171.webp",
-      "cardAuthor": "Арата",
-      "animeId": 1144,
-      "animeName": "Фена: Принцесса пиратов",
-      "animeLink": "/aniserials/video/action/1144-fena-princessa-piratov.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-15, 04:31:15"
     },
     {
       "cardId": "75347",
