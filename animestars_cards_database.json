@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-15, 02:28:10",
+    "generatedTimestamp": "2026-02-15, 04:28:15",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,126 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35680
+    "totalCards": 35688
   },
   "cards": [
+    {
+      "cardId": "76182",
+      "cardName": "Куда смотришь?!",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/1898/e/kuda-smotrish-1771113739-355482.webp",
+      "cardAuthor": "Мурашка",
+      "animeId": 1898,
+      "animeName": "Призрак в доспехах: Синдром одиночки",
+      "animeLink": "/aniserials/video/fantastic/1898-prizrak-v-dospehah-sindrom-odinochki.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76180",
+      "cardName": "Дедушка",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/1219/d/dedushka-1771106337-314228.webp",
+      "cardAuthor": "Leslie",
+      "animeId": 1219,
+      "animeName": "Этот вампир постоянно умирает",
+      "animeLink": "/aniserials/video/vampires/1219-jetot-vampir-postojanno-umiraet.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76173",
+      "cardName": "Мэн Тянь",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/2058/b/mjen-tjan-1771113273-887002.webp",
+      "cardAuthor": "TFD",
+      "animeId": 2058,
+      "animeName": "Боевой континент 2: Непревзойдённый клан Тан",
+      "animeLink": "/aniserials/video/action/2058-boevoj-kontinent-2-neprevzojdennyj-klan-tan-animestars-aa8.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76168",
+      "cardName": "Взгляд",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/3177/e/vzgljad-1771113122-880728.webp",
+      "cardAuthor": "Sofa",
+      "animeId": 3177,
+      "animeName": "Клинок, рассекающий демонов: Бесконечный замок — Возвращение Акадзы",
+      "animeLink": "/aniserials/video/shounen/3177-klinok-rassekajuschij-demonov-beskonechnyj-zamok-vozvraschenie-akadzy.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76160",
+      "cardName": "Сэцу",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3141/a/sjecu-1771112835-901220.webp",
+      "cardAuthor": "Faret_333",
+      "animeId": 3141,
+      "animeName": "Гносия",
+      "animeLink": "/aniserials/video/fantastic/3141-gnosija.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76159",
+      "cardName": "Канадэ, Из и Курому",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/1635/c/kanadje-iz-i-kuromu-1771112677-760092.webp",
+      "cardAuthor": "Mililu",
+      "animeId": 1635,
+      "animeName": "Не люблю боль, поэтому собираюсь вложить всё в защиту 2 сезон",
+      "animeLink": "/aniserials/video/comedy/1635-ne-ljublju-bol-pojetomu-sobirajus-vlozhit-vse-v-zaschitu-2-sezon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76156",
+      "cardName": "Косукэ Хита",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/3093/d/kosukje-hita-1771095306-247299.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3093,
+      "animeName": "Неумелый сэмпай",
+      "animeLink": "/aniserials/video/seinen/3093-neumelyj-sjempaj.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76155",
+      "cardName": "Отражение",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/3141/e/otrazhenie-1771112551-233137.webp",
+      "cardAuthor": "Faret_333",
+      "animeId": 3141,
+      "animeName": "Гносия",
+      "animeLink": "/aniserials/video/fantastic/3141-gnosija.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76154",
+      "cardName": "Сироп",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/1635/e/sirop-1771112509-617815.webp",
+      "cardAuthor": "Mililu",
+      "animeId": 1635,
+      "animeName": "Не люблю боль, поэтому собираюсь вложить всё в защиту 2 сезон",
+      "animeLink": "/aniserials/video/comedy/1635-ne-ljublju-bol-pojetomu-sobirajus-vlozhit-vse-v-zaschitu-2-sezon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "76147",
       "cardName": "Рок",
@@ -2474,20 +2591,6 @@
       "owners-need": 117,
       "owners-trade": 0,
       "lastUpdated": "2026-02-15, 01:15:42"
-    },
-    {
-      "cardId": "75361",
-      "cardName": "Фена Хаутман",
-      "cardRank": "s",
-      "cardImage": "/uploads/cards_image/1144/s/fena-hautman-1770633792-167171.webp",
-      "cardAuthor": "Арата",
-      "animeId": 1144,
-      "animeName": "Фена: Принцесса пиратов",
-      "animeLink": "/aniserials/video/action/1144-fena-princessa-piratov.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-15, 01:15:43"
     },
     {
       "cardId": "75347",
