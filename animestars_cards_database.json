@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-16, 03:24:34",
+    "generatedTimestamp": "2026-02-16, 05:24:39",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -22165,43 +22165,43 @@
       "cardId": "71306",
       "cardName": "Акира Хонда",
       "cardRank": "d",
-      "cardImage": "/uploads/cards_image/2550/d/akira-honda-1766328923-688444.webp",
+      "cardImage": "https://animesss.tv/uploads/cards_image/2550/d/akira-honda-1766328923-688444.webp",
       "cardAuthor": "Umineko",
       "animeId": 2550,
       "animeName": "Терраформирование",
       "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
-      "lastUpdated": "2026-02-14, 18:42:10",
-      "owners-count": 550,
-      "owners-need": 35,
-      "owners-trade": 72
+      "lastUpdated": "2026-02-16, 03:25:45",
+      "owners-count": 566,
+      "owners-need": 33,
+      "owners-trade": 77
     },
     {
       "cardId": "71290",
       "cardName": "Сол Немофила",
       "cardRank": "a",
-      "cardImage": "/uploads/cards_image/3138/a/sol-nemofila-1766339599-272683.webp",
+      "cardImage": "https://animesss.tv/uploads/cards_image/3138/a/sol-nemofila-1766339599-272683.webp",
       "cardAuthor": "Dmytrokil",
       "animeId": 3138,
       "animeName": "Тёмное прошлое перевоплощённой злодейки",
       "animeLink": "/aniserials/video/shoujo/3138-temnoe-proshloe-perevoploschennoj-zlodejki.html",
-      "lastUpdated": "2026-02-14, 18:42:08",
-      "owners-count": 106,
-      "owners-need": 109,
-      "owners-trade": 6
+      "lastUpdated": "2026-02-16, 03:25:44",
+      "owners-count": 109,
+      "owners-need": 108,
+      "owners-trade": 7
     },
     {
       "cardId": "71287",
       "cardName": "Страшная история",
       "cardRank": "e",
-      "cardImage": "/uploads/cards_image/1988/e/strashnaja-istorija-1766339383-382121.webp",
+      "cardImage": "https://animesss.tv/uploads/cards_image/1988/e/strashnaja-istorija-1766339383-382121.webp",
       "cardAuthor": "lyubopytnaya1999",
       "animeId": 1988,
       "animeName": "Клинки Хранителей",
       "animeLink": "/aniserials/video/drama/1988-klinki-hranitelej.html",
-      "lastUpdated": "2026-02-14, 18:42:07",
-      "owners-count": 417,
+      "lastUpdated": "2026-02-16, 03:25:43",
+      "owners-count": 427,
       "owners-need": 6,
-      "owners-trade": 78
+      "owners-trade": 85
     },
     {
       "cardId": "71284",
@@ -23901,15 +23901,15 @@
       "cardId": "70983",
       "cardName": "Крепкий сон",
       "cardRank": "e",
-      "cardImage": "/uploads/cards_image/3016/e/krepkij-son-1766048086-362527.webp",
+      "cardImage": "https://animesss.tv/uploads/cards_image/3016/e/krepkij-son-1766048086-362527.webp",
       "cardAuthor": "foxxian",
       "animeId": 3016,
       "animeName": "Клятва волшебника",
       "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
-      "lastUpdated": "2026-02-14, 18:42:09",
-      "owners-count": 535,
-      "owners-need": 35,
-      "owners-trade": 67
+      "lastUpdated": "2026-02-16, 03:25:45",
+      "owners-count": 562,
+      "owners-need": 37,
+      "owners-trade": 72
     },
     {
       "cardId": "70981",
