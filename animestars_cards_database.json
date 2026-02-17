@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-17, 13:34:39",
+    "generatedTimestamp": "2026-02-17, 15:34:43",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,48 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35735
+    "totalCards": 35738
   },
   "cards": [
+    {
+      "cardId": "76427",
+      "cardName": "Эксью",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/2919/a/jeksju-1771297724-578481.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2919,
+      "animeName": "Покемон",
+      "animeLink": "/aniserials/video/action/2919-pokemon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76426",
+      "cardName": "Прости меня, Саске...",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/75/s/prosti-menja-saske.-1771330550-114571.webp",
+      "cardAuthor": "Mikadoshi",
+      "animeId": 75,
+      "animeName": "Наруто: Ураганные хроники 2 сезон",
+      "animeLink": "/aniserials/video/martial_arts/75-naruto-uragannye-hroniki-tv-2-animestars-2007.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76423",
+      "cardName": "Примерка",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/3187/e/primerka-1771324540-35765.webp",
+      "cardAuthor": "Mililu",
+      "animeId": 3187,
+      "animeName": "Повседневная жизнь стажёра-мучителя",
+      "animeLink": "/aniserials/video/comedy/3187-povsednevnaja-zhizn-stazhera-muchitelja.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "76413",
       "cardName": "Хай Лин",
@@ -20,9 +59,10 @@
       "animeId": 2962,
       "animeName": "Вознёсшийся над небесами",
       "animeLink": "/aniserials/video/action/2962-voznesshijsja-nad-nebesami.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 2,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-17, 13:34:58"
     },
     {
       "cardId": "76411",
@@ -33,9 +73,10 @@
       "animeId": 2962,
       "animeName": "Вознёсшийся над небесами",
       "animeLink": "/aniserials/video/action/2962-voznesshijsja-nad-nebesami.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 2,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-17, 13:34:59"
     },
     {
       "cardId": "76410",
@@ -46,9 +87,10 @@
       "animeId": 2962,
       "animeName": "Вознёсшийся над небесами",
       "animeLink": "/aniserials/video/action/2962-voznesshijsja-nad-nebesami.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 3,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-17, 13:35:00"
     },
     {
       "cardId": "76409",
@@ -59,9 +101,10 @@
       "animeId": 2962,
       "animeName": "Вознёсшийся над небесами",
       "animeLink": "/aniserials/video/action/2962-voznesshijsja-nad-nebesami.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 3,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-17, 13:35:01"
     },
     {
       "cardId": "76400",
