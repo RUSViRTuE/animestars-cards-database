@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-17, 16:50:02",
+    "generatedTimestamp": "2026-02-17, 18:50:06",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,22 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35746
+    "totalCards": 35747
   },
   "cards": [
+    {
+      "cardId": "76477",
+      "cardName": "Карэн Эль",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/110/a/karjen-jel-1771336308-562820.webp",
+      "cardAuthor": "kep1384",
+      "animeId": 110,
+      "animeName": "Клинок и душа",
+      "animeLink": "/aniserials/video/martial_arts/110-klinok-i-dusha-animestars.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "76475",
       "cardName": "Фубуки Адзума",
@@ -247862,10 +247875,10 @@
       "animeId": 2768,
       "animeName": "Дни Сакамото",
       "animeLink": "/aniserials/video/action/2768-dni-sakamoto.html",
-      "lastUpdated": "2026-02-16, 17:17:05",
-      "owners-count": 2244,
-      "owners-need": 20,
-      "owners-trade": 283
+      "lastUpdated": "2026-02-17, 16:50:27",
+      "owners-count": 2241,
+      "owners-need": 19,
+      "owners-trade": 281
     },
     {
       "cardId": "32740",
@@ -247876,10 +247889,10 @@
       "animeId": 1815,
       "animeName": "Опасность в моём сердце",
       "animeLink": "/aniserials/video/comedy/1815-opasnost-v-moem-serdce.html",
-      "lastUpdated": "2026-02-16, 17:17:04",
-      "owners-count": 1798,
+      "lastUpdated": "2026-02-17, 16:50:26",
+      "owners-count": 1803,
       "owners-need": 6,
-      "owners-trade": 239
+      "owners-trade": 240
     },
     {
       "cardId": "32738",
@@ -247890,10 +247903,10 @@
       "animeId": 1815,
       "animeName": "Опасность в моём сердце",
       "animeLink": "/aniserials/video/comedy/1815-opasnost-v-moem-serdce.html",
-      "lastUpdated": "2026-02-16, 17:17:04",
-      "owners-count": 2316,
+      "lastUpdated": "2026-02-17, 16:50:26",
+      "owners-count": 2313,
       "owners-need": 4,
-      "owners-trade": 300
+      "owners-trade": 298
     },
     {
       "cardId": "32737",
@@ -247904,10 +247917,10 @@
       "animeId": 1815,
       "animeName": "Опасность в моём сердце",
       "animeLink": "/aniserials/video/comedy/1815-opasnost-v-moem-serdce.html",
-      "lastUpdated": "2026-02-16, 17:17:03",
-      "owners-count": 1918,
+      "lastUpdated": "2026-02-17, 16:50:25",
+      "owners-count": 1920,
       "owners-need": 6,
-      "owners-trade": 237
+      "owners-trade": 235
     },
     {
       "cardId": "32736",
@@ -247918,8 +247931,8 @@
       "animeId": 2767,
       "animeName": "Я монстр S-класса Бегемот, но меня перепутали с котом, и я живу у эльфийки как домашний питомец",
       "animeLink": "/aniserials/video/action/2767-ja-monstr-s-klassa-begemot-no-menja-pereputali-s-kotom-i-ja-zhivu-u-jelfijki-kak-domashnij-pitomec.html",
-      "lastUpdated": "2026-02-16, 17:17:02",
-      "owners-count": 1345,
+      "lastUpdated": "2026-02-17, 16:50:24",
+      "owners-count": 1343,
       "owners-need": 12,
       "owners-trade": 197
     },
@@ -247932,10 +247945,10 @@
       "animeId": 2689,
       "animeName": "Мир бессмертных",
       "animeLink": "/aniserials/video/action/2689-mir-bessmertnyh-as.html",
-      "lastUpdated": "2026-02-16, 17:17:01",
-      "owners-count": 2530,
+      "lastUpdated": "2026-02-17, 16:50:23",
+      "owners-count": 2527,
       "owners-need": 22,
-      "owners-trade": 264
+      "owners-trade": 265
     },
     {
       "cardId": "32722",
@@ -247946,10 +247959,10 @@
       "animeId": 1815,
       "animeName": "Опасность в моём сердце",
       "animeLink": "/aniserials/video/comedy/1815-opasnost-v-moem-serdce.html",
-      "lastUpdated": "2026-02-16, 17:17:00",
-      "owners-count": 1860,
+      "lastUpdated": "2026-02-17, 16:50:22",
+      "owners-count": 1863,
       "owners-need": 3,
-      "owners-trade": 229
+      "owners-trade": 230
     },
     {
       "cardId": "32721",
@@ -247960,10 +247973,10 @@
       "animeId": 1815,
       "animeName": "Опасность в моём сердце",
       "animeLink": "/aniserials/video/comedy/1815-opasnost-v-moem-serdce.html",
-      "lastUpdated": "2026-02-16, 17:16:59",
-      "owners-count": 1172,
-      "owners-need": 11,
-      "owners-trade": 148
+      "lastUpdated": "2026-02-17, 16:50:21",
+      "owners-count": 1176,
+      "owners-need": 10,
+      "owners-trade": 144
     },
     {
       "cardId": "32719",
