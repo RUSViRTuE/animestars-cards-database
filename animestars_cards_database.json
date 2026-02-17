@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-17, 20:06:27",
+    "generatedTimestamp": "2026-02-17, 22:06:32",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,7 +8,7 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35755
+    "totalCards": 35757
   },
   "cards": [
     {
@@ -16,10 +16,37 @@
       "cardName": "Люсян Шуй",
       "cardRank": "s",
       "cardImage": "/uploads/cards_image/1307/s/ljusjan-shuj-1771342337-797227.webp",
-      "cardAuthor": "lyubopytnaya1999",
+      "cardAuthor": "Capka3M",
       "animeId": 1307,
       "animeName": "Владыка духовного меча",
       "animeLink": "/aniserials/video/action/1307-vladyka-duhovnogo-mecha.html",
+      "owners-count": 0,
+      "owners-need": 6,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-17, 20:06:47"
+    },
+    {
+      "cardId": "76503",
+      "cardName": "Злой дух",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/1846/e/zloj-duh-1771354302-735436.webp",
+      "cardAuthor": "Frey",
+      "animeId": 1846,
+      "animeName": "Другой мир и сестра, которая убивает с одного удара",
+      "animeLink": "/aniserials/video/comedy/1846-drugoj-mir-i-sestra-kotoraja-ubivaet-s-odnogo-udara.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76502",
+      "cardName": "Сань Тан, У Сяо и Льена Ху",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/605/c/san-tan-u-sjao-i-lena-hu-1771354125-773809.webp",
+      "cardAuthor": "kep1384",
+      "animeId": 605,
+      "animeName": "Боевой континент",
+      "animeLink": "/aniserials/video/action/605-boevoy-kontinent-animestars-2018.html",
       "owners-count": null,
       "owners-need": null,
       "owners-trade": null
@@ -317885,10 +317912,10 @@
       "animeId": 2696,
       "animeName": "Токийский гуль 4 сезон: Перерождение 2",
       "animeLink": "/aniserials/video/shounen/2696-tokijskij-gul-pererozhdenie-2-2018.html",
-      "lastUpdated": "2026-02-16, 20:22:22",
+      "lastUpdated": "2026-02-17, 20:06:53",
       "owners-count": 2364,
       "owners-need": 18,
-      "owners-trade": 228
+      "owners-trade": 223
     },
     {
       "cardId": "22678",
@@ -317899,10 +317926,10 @@
       "animeId": 2696,
       "animeName": "Токийский гуль 4 сезон: Перерождение 2",
       "animeLink": "/aniserials/video/shounen/2696-tokijskij-gul-pererozhdenie-2-2018.html",
-      "lastUpdated": "2026-02-16, 20:22:21",
-      "owners-count": 2804,
+      "lastUpdated": "2026-02-17, 20:06:52",
+      "owners-count": 2806,
       "owners-need": 18,
-      "owners-trade": 237
+      "owners-trade": 231
     },
     {
       "cardId": "22676",
@@ -317913,10 +317940,10 @@
       "animeId": 967,
       "animeName": "Возвращение героя",
       "animeLink": "/aniserials/video/action/967-vozvraschenie-geroja-animestars.html",
-      "lastUpdated": "2026-02-16, 20:22:20",
+      "lastUpdated": "2026-02-17, 20:06:51",
       "owners-count": 347,
       "owners-need": 5,
-      "owners-trade": 31
+      "owners-trade": 30
     },
     {
       "cardId": "22675",
@@ -317927,10 +317954,10 @@
       "animeId": 2696,
       "animeName": "Токийский гуль 4 сезон: Перерождение 2",
       "animeLink": "/aniserials/video/shounen/2696-tokijskij-gul-pererozhdenie-2-2018.html",
-      "lastUpdated": "2026-02-16, 20:22:19",
-      "owners-count": 2302,
+      "lastUpdated": "2026-02-17, 20:06:50",
+      "owners-count": 2263,
       "owners-need": 9,
-      "owners-trade": 153
+      "owners-trade": 127
     },
     {
       "cardId": "22674",
@@ -317941,10 +317968,10 @@
       "animeId": 2304,
       "animeName": "Ёко из Сэнгоку",
       "animeLink": "/aniserials/video/action/2304-eko-iz-sjengoku-animestars.html",
-      "lastUpdated": "2026-02-16, 20:22:19",
-      "owners-count": 336,
+      "lastUpdated": "2026-02-17, 20:06:49",
+      "owners-count": 338,
       "owners-need": 9,
-      "owners-trade": 63
+      "owners-trade": 62
     },
     {
       "cardId": "22673",
@@ -317955,10 +317982,10 @@
       "animeId": 2766,
       "animeName": "Клинок зла",
       "animeLink": "/aniserials/video/action/2766-klinok-zla.html",
-      "lastUpdated": "2026-02-16, 20:22:18",
-      "owners-count": 369,
+      "lastUpdated": "2026-02-17, 20:06:48",
+      "owners-count": 368,
       "owners-need": 6,
-      "owners-trade": 72
+      "owners-trade": 70
     },
     {
       "cardId": "22672",
@@ -317969,9 +317996,9 @@
       "animeId": 2742,
       "animeName": "Карта детектива Такао Амэку",
       "animeLink": "/aniserials/video/detective/2742-karta-detektiva-takao-amjeku.html",
-      "lastUpdated": "2026-02-16, 20:22:17",
-      "owners-count": 356,
-      "owners-need": 9,
+      "lastUpdated": "2026-02-17, 20:06:48",
+      "owners-count": 353,
+      "owners-need": 8,
       "owners-trade": 28
     },
     {
