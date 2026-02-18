@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-18, 04:05:02",
+    "generatedTimestamp": "2026-02-18, 06:05:06",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -454596,10 +454596,10 @@
       "animeId": 256,
       "animeName": "Врата Штейна",
       "animeLink": "/aniserials/video/gender_intriga/256-vrata-shteyna.html",
-      "lastUpdated": "2026-02-17, 03:41:49",
-      "owners-count": 3216,
+      "lastUpdated": "2026-02-18, 04:05:23",
+      "owners-count": 3221,
       "owners-need": 6,
-      "owners-trade": 355
+      "owners-trade": 351
     },
     {
       "cardId": "6900",
@@ -454610,10 +454610,10 @@
       "animeId": 256,
       "animeName": "Врата Штейна",
       "animeLink": "/aniserials/video/gender_intriga/256-vrata-shteyna.html",
-      "lastUpdated": "2026-02-17, 03:41:48",
-      "owners-count": 3051,
+      "lastUpdated": "2026-02-18, 04:05:22",
+      "owners-count": 3042,
       "owners-need": 5,
-      "owners-trade": 323
+      "owners-trade": 316
     },
     {
       "cardId": "6899",
