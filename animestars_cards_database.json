@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-19, 23:15:10",
+    "generatedTimestamp": "2026-02-20, 01:15:15",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,7 +8,7 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35837
+    "totalCards": 35836
   },
   "cards": [
     {
@@ -66,20 +66,6 @@
       "owners-need": 17,
       "owners-trade": 0,
       "lastUpdated": "2026-02-19, 22:41:49"
-    },
-    {
-      "cardId": "76762",
-      "cardName": "Фэнсянь",
-      "cardRank": "s",
-      "cardImage": "https://animesss.tv/uploads/cards_image/2219/s/fjensjan-1771522248-225573.webp",
-      "cardAuthor": "TANGERINE",
-      "animeId": 2219,
-      "animeName": "Монолог фармацевта",
-      "animeLink": "/aniserials/video/drama/2219-monolog-farmacevta-animestars-vv11.html",
-      "owners-count": 0,
-      "owners-need": 17,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-19, 22:07:46"
     },
     {
       "cardId": "76761",
@@ -188384,10 +188370,10 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "lastUpdated": "2026-02-18, 20:02:21",
-      "owners-count": 460,
-      "owners-need": 46,
-      "owners-trade": 93
+      "lastUpdated": "2026-02-19, 23:15:39",
+      "owners-count": 463,
+      "owners-need": 47,
+      "owners-trade": 94
     },
     {
       "cardId": "42993",
@@ -188398,10 +188384,10 @@
       "animeId": 2047,
       "animeName": "Аватар короля: Специальные выпуски",
       "animeLink": "/aniserials/video/action/2047-avatar-korolja-specialnye-vypuski.html",
-      "lastUpdated": "2026-02-18, 20:02:19",
-      "owners-count": 1902,
-      "owners-need": 17,
-      "owners-trade": 227
+      "lastUpdated": "2026-02-19, 23:15:37",
+      "owners-count": 1903,
+      "owners-need": 18,
+      "owners-trade": 225
     },
     {
       "cardId": "42981",
@@ -188412,10 +188398,10 @@
       "animeId": 2166,
       "animeName": "Семейная жизнь легкомысленной ведьмы",
       "animeLink": "/aniserials/video/comedy/2166-semejnaja-zhizn-legkomyslennoj-vedmy.html",
-      "lastUpdated": "2026-02-18, 20:02:17",
-      "owners-count": 1775,
+      "lastUpdated": "2026-02-19, 23:15:35",
+      "owners-count": 1781,
       "owners-need": 5,
-      "owners-trade": 246
+      "owners-trade": 248
     },
     {
       "cardId": "42980",
@@ -188426,10 +188412,10 @@
       "animeId": 2586,
       "animeName": "Седьмой Киллер 4 сезон",
       "animeLink": "/aniserials/video/action/2586-sedmoj-killer-4.html",
-      "lastUpdated": "2026-02-18, 20:02:15",
-      "owners-count": 1862,
+      "lastUpdated": "2026-02-19, 23:15:33",
+      "owners-count": 1861,
       "owners-need": 4,
-      "owners-trade": 237
+      "owners-trade": 235
     },
     {
       "cardId": "42977",
@@ -188440,10 +188426,10 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "lastUpdated": "2026-02-18, 20:02:13",
-      "owners-count": 426,
-      "owners-need": 44,
-      "owners-trade": 85
+      "lastUpdated": "2026-02-19, 23:15:31",
+      "owners-count": 425,
+      "owners-need": 45,
+      "owners-trade": 84
     },
     {
       "cardId": "42976",
