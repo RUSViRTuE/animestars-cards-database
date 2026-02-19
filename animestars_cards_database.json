@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-19, 15:12:09",
+    "generatedTimestamp": "2026-02-19, 17:12:14",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,61 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35805
+    "totalCards": 35809
   },
   "cards": [
+    {
+      "cardId": "76696",
+      "cardName": "Демекин",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/1219/d/demekin-1771452926-393617.webp",
+      "cardAuthor": "Leslie",
+      "animeId": 1219,
+      "animeName": "Этот вампир постоянно умирает",
+      "animeLink": "/aniserials/video/vampires/1219-jetot-vampir-postojanno-umiraet.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76690",
+      "cardName": "Макото Цукаути",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/3189/d/makoto-cukauti-1771507499-473551.webp",
+      "cardAuthor": "Bot_228",
+      "animeId": 3189,
+      "animeName": "Моя геройская академия: Вне закона 2",
+      "animeLink": "/aniserials/video/seinen/3189-moja-gerojskaja-akademija-vne-zakona-2.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76686",
+      "cardName": "Пойдём со мной",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/1585/e/pojdem-so-mnoj-1771507298-167349.webp",
+      "cardAuthor": "TFD",
+      "animeId": 1585,
+      "animeName": "Трон, отмеченный богом 2 сезон",
+      "animeLink": "/aniserials/video/action/1585-tron-otmechennyj-bogom-2-sezon-2022.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76681",
+      "cardName": "Юю Бай и Мэйяо Су",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/3162/c/juju-baj-i-mjejjao-su-1771503186-768244.webp",
+      "cardAuthor": "TFD",
+      "animeId": 3162,
+      "animeName": "Высокомерный бог алхимии",
+      "animeLink": "/aniserials/video/action/3162-vysokomernyj-bog-alhimii.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "76673",
       "cardName": "Мария",
