@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-20, 23:05:34",
+    "generatedTimestamp": "2026-02-21, 01:05:38",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,7 +8,7 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35877
+    "totalCards": 35876
   },
   "cards": [
     {
@@ -20,9 +20,10 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 1,
+      "owners-need": 4,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-20, 23:05:53"
     },
     {
       "cardId": "76871",
@@ -625,20 +626,6 @@
       "owners-need": 45,
       "owners-trade": 0,
       "lastUpdated": "2026-02-20, 21:52:04"
-    },
-    {
-      "cardId": "76762",
-      "cardName": "Фэнсянь",
-      "cardRank": "s",
-      "cardImage": "https://animesss.tv/uploads/cards_image/2219/s/fjensjan-1771522248-225573.webp",
-      "cardAuthor": "TANGERINE",
-      "animeId": 2219,
-      "animeName": "Монолог фармацевта",
-      "animeLink": "/aniserials/video/drama/2219-monolog-farmacevta-animestars-vv11.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-20, 21:52:05"
     },
     {
       "cardId": "76761",
@@ -142839,10 +142826,10 @@
       "animeId": 1074,
       "animeName": "Моя геройская академия 5 сезон",
       "animeLink": "/aniserials/video/action/1074-moja-gerojskaja-akademija-5-sezon.html",
-      "lastUpdated": "2026-02-19, 21:22:06",
-      "owners-count": 1584,
+      "lastUpdated": "2026-02-20, 23:05:57",
+      "owners-count": 1588,
       "owners-need": 30,
-      "owners-trade": 191
+      "owners-trade": 190
     },
     {
       "cardId": "50207",
@@ -142853,10 +142840,10 @@
       "animeId": 1768,
       "animeName": "Укрась прощальное утро цветами обещания",
       "animeLink": "/aniserials/video/drama/1768-ukras-proschalnoe-utro-cvetami-obeschanija.html",
-      "lastUpdated": "2026-02-19, 21:22:04",
-      "owners-count": 1175,
+      "lastUpdated": "2026-02-20, 23:05:56",
+      "owners-count": 1181,
       "owners-need": 5,
-      "owners-trade": 164
+      "owners-trade": 166
     },
     {
       "cardId": "50206",
@@ -142867,10 +142854,10 @@
       "animeId": 1768,
       "animeName": "Укрась прощальное утро цветами обещания",
       "animeLink": "/aniserials/video/drama/1768-ukras-proschalnoe-utro-cvetami-obeschanija.html",
-      "lastUpdated": "2026-02-19, 21:22:02",
-      "owners-count": 1484,
+      "lastUpdated": "2026-02-20, 23:05:55",
+      "owners-count": 1487,
       "owners-need": 12,
-      "owners-trade": 222
+      "owners-trade": 225
     },
     {
       "cardId": "50205",
@@ -142881,10 +142868,10 @@
       "animeId": 1768,
       "animeName": "Укрась прощальное утро цветами обещания",
       "animeLink": "/aniserials/video/drama/1768-ukras-proschalnoe-utro-cvetami-obeschanija.html",
-      "lastUpdated": "2026-02-19, 21:22:00",
-      "owners-count": 1088,
+      "lastUpdated": "2026-02-20, 23:05:54",
+      "owners-count": 1090,
       "owners-need": 10,
-      "owners-trade": 177
+      "owners-trade": 180
     },
     {
       "cardId": "50201",
