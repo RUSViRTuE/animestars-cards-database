@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-21, 17:55:47",
+    "generatedTimestamp": "2026-02-21, 19:55:52",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,48 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35911
+    "totalCards": 35913
   },
   "cards": [
+    {
+      "cardId": "76988",
+      "cardName": "Ли Бай",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/2979/d/li-baj-1771676101-907719.webp",
+      "cardAuthor": "ReygaLeon",
+      "animeId": 2979,
+      "animeName": "Грёзы в бездне облаков",
+      "animeLink": "/aniserials/video/fant/2979-grezy-v-bezdne-oblakov.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76984",
+      "cardName": "Микуру и Саки",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/597/c/mikuru-i-saki-1771675113-617020.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 597,
+      "animeName": "Восточный Эдем",
+      "animeLink": "/aniserials/video/action/597-vostochnyy-edem.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76981",
+      "cardName": "Цзинь Чиян",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/2979/b/czin-chijan-1771685726-124379.webp",
+      "cardAuthor": "ReygaLeon",
+      "animeId": 2979,
+      "animeName": "Грёзы в бездне облаков",
+      "animeLink": "/aniserials/video/fant/2979-grezy-v-bezdne-oblakov.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "76978",
       "cardName": "Чэнтянь Линь",
@@ -20,9 +59,10 @@
       "animeId": 2979,
       "animeName": "Грёзы в бездне облаков",
       "animeLink": "/aniserials/video/fant/2979-grezy-v-bezdne-oblakov.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 11,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-21, 17:56:06"
     },
     {
       "cardId": "76972",
@@ -33,9 +73,10 @@
       "animeId": 597,
       "animeName": "Восточный Эдем",
       "animeLink": "/aniserials/video/action/597-vostochnyy-edem.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 10,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-21, 17:56:07"
     },
     {
       "cardId": "76970",
@@ -46,9 +87,10 @@
       "animeId": 597,
       "animeName": "Восточный Эдем",
       "animeLink": "/aniserials/video/action/597-vostochnyy-edem.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 10,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-21, 17:56:07"
     },
     {
       "cardId": "76964",
@@ -1099,20 +1141,6 @@
       "owners-need": 51,
       "owners-trade": 0,
       "lastUpdated": "2026-02-21, 16:38:35"
-    },
-    {
-      "cardId": "76762",
-      "cardName": "Фэнсянь",
-      "cardRank": "s",
-      "cardImage": "https://animesss.tv/uploads/cards_image/2219/s/fjensjan-1771522248-225573.webp",
-      "cardAuthor": "TANGERINE",
-      "animeId": 2219,
-      "animeName": "Монолог фармацевта",
-      "animeLink": "/aniserials/video/drama/2219-monolog-farmacevta-animestars-vv11.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-21, 16:38:36"
     },
     {
       "cardId": "76761",
