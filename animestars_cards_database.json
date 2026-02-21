@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-21, 21:10:18",
+    "generatedTimestamp": "2026-02-21, 23:10:22",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,126 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35914
+    "totalCards": 35922
   },
   "cards": [
+    {
+      "cardId": "77011",
+      "cardName": "Ютака Итадзу",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/597/d/jutaka-itadzu-1771686048-555546.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 597,
+      "animeName": "Восточный Эдем",
+      "animeLink": "/aniserials/video/action/597-vostochnyy-edem.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77009",
+      "cardName": "Акира и Саки",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/597/c/akira-i-saki-1771685568-649977.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 597,
+      "animeName": "Восточный Эдем",
+      "animeLink": "/aniserials/video/action/597-vostochnyy-edem.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77007",
+      "cardName": "Яньжань и Сюэюнь",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/1864/c/janzhan-i-sjujejun-1771702487-178702.webp",
+      "cardAuthor": "kep1384",
+      "animeId": 1864,
+      "animeName": "Страна десяти тысяч чудес",
+      "animeLink": "/aniserials/video/martial_arts/1864-strana-desjati-tysjach-chudes.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77005",
+      "cardName": "Цзыян Е",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/1864/d/czyjan-e-1771682893-350416.webp",
+      "cardAuthor": "kep1384",
+      "animeId": 1864,
+      "animeName": "Страна десяти тысяч чудес",
+      "animeLink": "/aniserials/video/martial_arts/1864-strana-desjati-tysjach-chudes.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76998",
+      "cardName": "Чеспин и Клемонт",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/2919/c/chespin-i-klemont-1771700956-34333.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2919,
+      "animeName": "Покемон",
+      "animeLink": "/aniserials/video/action/2919-pokemon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76997",
+      "cardName": "Серена, Феннекин и Флетчлинг",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/2919/c/serena-fennekin-i-fletchling-1771700534-337942.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2919,
+      "animeName": "Покемон",
+      "animeLink": "/aniserials/video/action/2919-pokemon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76996",
+      "cardName": "Эш и Грениндзя",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/2919/c/jesh-i-grenindzja-1771679223-563761.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2919,
+      "animeName": "Покемон",
+      "animeLink": "/aniserials/video/action/2919-pokemon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76995",
+      "cardName": "Риолу и Феннекин",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/2919/c/riolu-i-fennekin-1771699982-398877.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2919,
+      "animeName": "Покемон",
+      "animeLink": "/aniserials/video/action/2919-pokemon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "76994",
+      "cardName": "Лукарио и Коррина",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/2919/c/lukario-i-korrina-1771699805-980333.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2919,
+      "animeName": "Покемон",
+      "animeLink": "/aniserials/video/action/2919-pokemon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "76988",
       "cardName": "Ли Бай",
@@ -1143,20 +1260,6 @@
       "owners-count": 15,
       "owners-need": 51,
       "owners-trade": 1,
-      "lastUpdated": "2026-02-21, 19:57:19"
-    },
-    {
-      "cardId": "76762",
-      "cardName": "Фэнсянь",
-      "cardRank": "s",
-      "cardImage": "https://animesss.tv/uploads/cards_image/2219/s/fjensjan-1771522248-225573.webp",
-      "cardAuthor": "TANGERINE",
-      "animeId": 2219,
-      "animeName": "Монолог фармацевта",
-      "animeLink": "/aniserials/video/drama/2219-monolog-farmacevta-animestars-vv11.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
       "lastUpdated": "2026-02-21, 19:57:19"
     },
     {
