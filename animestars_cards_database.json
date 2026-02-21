@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-22, 00:39:45",
+    "generatedTimestamp": "2026-02-22, 02:39:49",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,7 +8,7 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35932
+    "totalCards": 35931
   },
   "cards": [
     {
@@ -1396,20 +1396,6 @@
       "owners-need": 54,
       "owners-trade": 1,
       "lastUpdated": "2026-02-21, 23:11:56"
-    },
-    {
-      "cardId": "76762",
-      "cardName": "Фэнсянь",
-      "cardRank": "s",
-      "cardImage": "https://animesss.tv/uploads/cards_image/2219/s/fjensjan-1771522248-225573.webp",
-      "cardAuthor": "TANGERINE",
-      "animeId": 2219,
-      "animeName": "Монолог фармацевта",
-      "animeLink": "/aniserials/video/drama/2219-monolog-farmacevta-animestars-vv11.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-21, 23:11:57"
     },
     {
       "cardId": "76761",
@@ -163014,10 +163000,10 @@
       "animeId": 2058,
       "animeName": "Боевой континент 2: Непревзойдённый клан Тан",
       "animeLink": "/aniserials/video/action/2058-boevoj-kontinent-2-neprevzojdennyj-klan-tan-animestars-aa8.html",
-      "lastUpdated": "2026-02-21, 01:29:04",
-      "owners-count": 1397,
+      "lastUpdated": "2026-02-22, 00:40:11",
+      "owners-count": 1407,
       "owners-need": 141,
-      "owners-trade": 199
+      "owners-trade": 201
     },
     {
       "cardId": "47278",
@@ -163028,7 +163014,7 @@
       "animeId": 262,
       "animeName": "Токийский гуль 3 сезон: Перерождение",
       "animeLink": "/aniserials/video/drama/262-tokiyskiy-gul-3-sezon-2018.html",
-      "lastUpdated": "2026-02-21, 01:29:03",
+      "lastUpdated": "2026-02-22, 00:40:10",
       "owners-count": 33,
       "owners-need": 35,
       "owners-trade": 3
@@ -163042,10 +163028,10 @@
       "animeId": 2690,
       "animeName": "Сказание о пастухе богов",
       "animeLink": "/aniserials/video/action/2690-skazanie-o-pastuhe-bogov.html",
-      "lastUpdated": "2026-02-21, 01:29:02",
-      "owners-count": 1582,
-      "owners-need": 77,
-      "owners-trade": 224
+      "lastUpdated": "2026-02-22, 00:40:09",
+      "owners-count": 1592,
+      "owners-need": 78,
+      "owners-trade": 227
     },
     {
       "cardId": "47273",
@@ -163056,7 +163042,7 @@
       "animeId": 2476,
       "animeName": "Рандеву с жизнью: Суд Маюри",
       "animeLink": "/aniserials/video/garems/2476-randevu-s-zhiznju-sud-majuri.html",
-      "lastUpdated": "2026-02-21, 01:29:01",
+      "lastUpdated": "2026-02-22, 00:40:08",
       "owners-count": 36,
       "owners-need": 39,
       "owners-trade": 5
@@ -163070,10 +163056,10 @@
       "animeId": 1719,
       "animeName": "Этот вампир постоянно умирает 2 сезон",
       "animeLink": "/aniserials/video/vampires/1719-jetot-vampir-postojanno-umiraet-2-sezon.html",
-      "lastUpdated": "2026-02-21, 01:29:00",
-      "owners-count": 1381,
-      "owners-need": 22,
-      "owners-trade": 163
+      "lastUpdated": "2026-02-22, 00:40:07",
+      "owners-count": 1386,
+      "owners-need": 23,
+      "owners-trade": 161
     },
     {
       "cardId": "47271",
@@ -163084,10 +163070,10 @@
       "animeId": 2476,
       "animeName": "Рандеву с жизнью: Суд Маюри",
       "animeLink": "/aniserials/video/garems/2476-randevu-s-zhiznju-sud-majuri.html",
-      "lastUpdated": "2026-02-21, 01:28:59",
-      "owners-count": 1684,
+      "lastUpdated": "2026-02-22, 00:40:07",
+      "owners-count": 1702,
       "owners-need": 17,
-      "owners-trade": 188
+      "owners-trade": 192
     },
     {
       "cardId": "47269",
@@ -163098,8 +163084,8 @@
       "animeId": 1601,
       "animeName": "Невероятные приключения Джоджо 6 сезон: Каменный океан 3 часть",
       "animeLink": "/aniserials/video/action/1601-neverojatnye-prikljuchenija-dzhodzho-6-sezon-3-chast-2022.html",
-      "lastUpdated": "2026-02-21, 01:28:59",
-      "owners-count": 217,
+      "lastUpdated": "2026-02-22, 00:40:06",
+      "owners-count": 218,
       "owners-need": 24,
       "owners-trade": 16
     },
@@ -163112,10 +163098,10 @@
       "animeId": 1040,
       "animeName": "Сердца Пандоры",
       "animeLink": "/aniserials/video/detective/1040-serdca-pandory.html",
-      "lastUpdated": "2026-02-21, 01:28:58",
-      "owners-count": 1485,
+      "lastUpdated": "2026-02-22, 00:40:05",
+      "owners-count": 1484,
       "owners-need": 14,
-      "owners-trade": 212
+      "owners-trade": 205
     },
     {
       "cardId": "47267",
@@ -163126,8 +163112,8 @@
       "animeId": 185,
       "animeName": "Гаргантия на просторах зелёной планеты",
       "animeLink": "/aniserials/video/war/185-gargantiya-na-zelenoy-planete.html",
-      "lastUpdated": "2026-02-21, 01:28:57",
-      "owners-count": 1152,
+      "lastUpdated": "2026-02-22, 00:40:04",
+      "owners-count": 1154,
       "owners-need": 7,
       "owners-trade": 164
     },
