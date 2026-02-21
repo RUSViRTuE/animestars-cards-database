@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-21, 14:37:06",
+    "generatedTimestamp": "2026-02-21, 16:37:11",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,7 +8,7 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35908
+    "totalCards": 35907
   },
   "cards": [
     {
@@ -1060,20 +1060,6 @@
       "owners-need": 49,
       "owners-trade": 0,
       "lastUpdated": "2026-02-21, 13:22:50"
-    },
-    {
-      "cardId": "76762",
-      "cardName": "Фэнсянь",
-      "cardRank": "s",
-      "cardImage": "https://animesss.tv/uploads/cards_image/2219/s/fjensjan-1771522248-225573.webp",
-      "cardAuthor": "TANGERINE",
-      "animeId": 2219,
-      "animeName": "Монолог фармацевта",
-      "animeLink": "/aniserials/video/drama/2219-monolog-farmacevta-animestars-vv11.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-21, 13:22:51"
     },
     {
       "cardId": "76761",
@@ -447092,9 +447078,9 @@
       "animeId": 2178,
       "animeName": "Токийские мстители 3 сезон: Поднебесье",
       "animeLink": "/aniserials/video/drama/2178-tokijskie-mstiteli-3-sezon.html",
-      "lastUpdated": "2026-02-20, 15:44:44",
-      "owners-count": 3246,
-      "owners-need": 15,
+      "lastUpdated": "2026-02-21, 14:37:40",
+      "owners-count": 3256,
+      "owners-need": 14,
       "owners-trade": 366
     },
     {
@@ -447106,10 +447092,10 @@
       "animeId": 512,
       "animeName": "Доктор Стоун",
       "animeLink": "/aniserials/video/postapocalypse/512-doktor-stoun-animestars.html",
-      "lastUpdated": "2026-02-20, 15:44:43",
-      "owners-count": 3494,
+      "lastUpdated": "2026-02-21, 14:37:39",
+      "owners-count": 3506,
       "owners-need": 28,
-      "owners-trade": 391
+      "owners-trade": 392
     },
     {
       "cardId": "8361",
@@ -447120,8 +447106,8 @@
       "animeId": 2285,
       "animeName": "Поднятие уровня в одиночку",
       "animeLink": "/aniserials/video/action/2285-podnjatie-urovnja-v-odinochku-2024-animestars-vvv11.html",
-      "lastUpdated": "2026-02-20, 15:44:42",
-      "owners-count": 4773,
+      "lastUpdated": "2026-02-21, 14:37:38",
+      "owners-count": 4782,
       "owners-need": 189,
       "owners-trade": 466
     },
@@ -447134,10 +447120,10 @@
       "animeId": 2278,
       "animeName": "Подземелье вкусностей",
       "animeLink": "/aniserials/video/comedy/2278-podzemele-vkusnostej.html",
-      "lastUpdated": "2026-02-20, 15:44:41",
-      "owners-count": 3246,
+      "lastUpdated": "2026-02-21, 14:37:37",
+      "owners-count": 3256,
       "owners-need": 20,
-      "owners-trade": 324
+      "owners-trade": 323
     },
     {
       "cardId": "8353",
@@ -447148,8 +447134,8 @@
       "animeId": 1051,
       "animeName": "Реинкарнация безработного: История о приключениях в другом мире",
       "animeLink": "/aniserials/video/drama/1051-reinkarnacija-bezrabotnogo-istorija-o-prikljuchenijah-v-drugom-2021.html",
-      "lastUpdated": "2026-02-20, 15:44:40",
-      "owners-count": 3331,
+      "lastUpdated": "2026-02-21, 14:37:37",
+      "owners-count": 3334,
       "owners-need": 27,
       "owners-trade": 285
     },
@@ -447162,10 +447148,10 @@
       "animeId": 310,
       "animeName": "Ангел кровопролития",
       "animeLink": "/aniserials/video/adventure/310-angel-krovoprolitiya.html",
-      "lastUpdated": "2026-02-20, 15:44:39",
-      "owners-count": 2637,
+      "lastUpdated": "2026-02-21, 14:37:36",
+      "owners-count": 2646,
       "owners-need": 10,
-      "owners-trade": 247
+      "owners-trade": 249
     },
     {
       "cardId": "8344",
@@ -447176,9 +447162,9 @@
       "animeId": 310,
       "animeName": "Ангел кровопролития",
       "animeLink": "/aniserials/video/adventure/310-angel-krovoprolitiya.html",
-      "lastUpdated": "2026-02-20, 15:44:38",
+      "lastUpdated": "2026-02-21, 14:37:35",
       "owners-count": 43,
-      "owners-need": 37,
+      "owners-need": 38,
       "owners-trade": 3
     },
     {
@@ -447190,10 +447176,10 @@
       "animeId": 310,
       "animeName": "Ангел кровопролития",
       "animeLink": "/aniserials/video/adventure/310-angel-krovoprolitiya.html",
-      "lastUpdated": "2026-02-20, 15:44:38",
-      "owners-count": 2676,
+      "lastUpdated": "2026-02-21, 14:37:34",
+      "owners-count": 2686,
       "owners-need": 6,
-      "owners-trade": 245
+      "owners-trade": 247
     },
     {
       "cardId": "8342",
@@ -447204,7 +447190,7 @@
       "animeId": 1090,
       "animeName": "Убивая слизней триста лет, сама того не заметив, я достигла максимального уровня",
       "animeLink": "/aniserials/video/comedy/1090-ja-300-let-ubivala-sliz-i-prokachalas-na-maksimum.html",
-      "lastUpdated": "2026-02-20, 15:44:37",
+      "lastUpdated": "2026-02-21, 14:37:33",
       "owners-count": 572,
       "owners-need": 30,
       "owners-trade": 84
@@ -447218,8 +447204,8 @@
       "animeId": 2424,
       "animeName": "Моя геройская академия 7 сезон",
       "animeLink": "/aniserials/video/action/2424-moja-gerojskaja-akademija-7-sezon-2024-v6.html",
-      "lastUpdated": "2026-02-20, 15:44:36",
-      "owners-count": 572,
+      "lastUpdated": "2026-02-21, 14:37:32",
+      "owners-count": 574,
       "owners-need": 31,
       "owners-trade": 47
     },
@@ -447232,9 +447218,9 @@
       "animeId": 1720,
       "animeName": "Сага о Винланде 2 сезон",
       "animeLink": "/aniserials/video/drama/1720-saga-o-vinlande-2-sezon-animestars.html",
-      "lastUpdated": "2026-02-20, 15:44:35",
-      "owners-count": 3051,
-      "owners-need": 10,
+      "lastUpdated": "2026-02-21, 14:37:32",
+      "owners-count": 3053,
+      "owners-need": 9,
       "owners-trade": 311
     },
     {
@@ -447246,10 +447232,10 @@
       "animeId": 1090,
       "animeName": "Убивая слизней триста лет, сама того не заметив, я достигла максимального уровня",
       "animeLink": "/aniserials/video/comedy/1090-ja-300-let-ubivala-sliz-i-prokachalas-na-maksimum.html",
-      "lastUpdated": "2026-02-20, 15:44:34",
-      "owners-count": 2810,
+      "lastUpdated": "2026-02-21, 14:37:31",
+      "owners-count": 2812,
       "owners-need": 9,
-      "owners-trade": 295
+      "owners-trade": 294
     },
     {
       "cardId": "8330",
@@ -447260,10 +447246,10 @@
       "animeId": 2196,
       "animeName": "Семья шпиона 2 сезон",
       "animeLink": "/aniserials/video/comedy/2196-semja-shpiona-2-sezon-animestars-v3.html",
-      "lastUpdated": "2026-02-20, 15:44:33",
-      "owners-count": 3858,
-      "owners-need": 26,
-      "owners-trade": 305
+      "lastUpdated": "2026-02-21, 14:37:30",
+      "owners-count": 3870,
+      "owners-need": 25,
+      "owners-trade": 303
     },
     {
       "cardId": "8329",
@@ -447274,10 +447260,10 @@
       "animeId": 151,
       "animeName": "Вторжение гигантов",
       "animeLink": "/aniserials/video/war/151-vtorzhenie-gigantov-2013-as.html",
-      "lastUpdated": "2026-02-20, 15:44:32",
-      "owners-count": 3635,
-      "owners-need": 24,
-      "owners-trade": 373
+      "lastUpdated": "2026-02-21, 14:37:29",
+      "owners-count": 3656,
+      "owners-need": 25,
+      "owners-trade": 374
     },
     {
       "cardId": "8327",
@@ -447288,10 +447274,10 @@
       "animeId": 171,
       "animeName": "Демоны старшей школы",
       "animeLink": "/aniserials/video/garems/171-demony-starshey-shkoly-2012.html",
-      "lastUpdated": "2026-02-20, 15:44:32",
-      "owners-count": 3933,
+      "lastUpdated": "2026-02-21, 14:37:28",
+      "owners-count": 3940,
       "owners-need": 43,
-      "owners-trade": 306
+      "owners-trade": 303
     },
     {
       "cardId": "8324",
@@ -447302,8 +447288,8 @@
       "animeId": 1720,
       "animeName": "Сага о Винланде 2 сезон",
       "animeLink": "/aniserials/video/drama/1720-saga-o-vinlande-2-sezon-animestars.html",
-      "lastUpdated": "2026-02-20, 15:44:31",
-      "owners-count": 682,
+      "lastUpdated": "2026-02-21, 14:37:27",
+      "owners-count": 681,
       "owners-need": 23,
       "owners-trade": 119
     },
@@ -447316,8 +447302,8 @@
       "animeId": 124,
       "animeName": "Ветер крепчает",
       "animeLink": "/film-vvv/124-veter-krepchaet-2013.html",
-      "lastUpdated": "2026-02-20, 15:44:30",
-      "owners-count": 610,
+      "lastUpdated": "2026-02-21, 14:37:26",
+      "owners-count": 613,
       "owners-need": 62,
       "owners-trade": 53
     },
@@ -447330,10 +447316,10 @@
       "animeId": 2190,
       "animeName": "Восхождение героя щита 3 сезон",
       "animeLink": "/aniserials/video/drama/2190-voshozhdenie-geroja-schita-3-sezon.html",
-      "lastUpdated": "2026-02-20, 15:44:29",
-      "owners-count": 3501,
+      "lastUpdated": "2026-02-21, 14:37:26",
+      "owners-count": 3479,
       "owners-need": 27,
-      "owners-trade": 321
+      "owners-trade": 281
     },
     {
       "cardId": "8319",
