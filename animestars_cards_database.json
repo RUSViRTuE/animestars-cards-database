@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-22, 22:50:31",
+    "generatedTimestamp": "2026-02-23, 00:50:35",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -11,6 +11,19 @@
     "totalCards": 35952
   },
   "cards": [
+    {
+      "cardId": "77146",
+      "cardName": "Мерим",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/3187/d/merim-1771790393-619884.webp",
+      "cardAuthor": "Mililu",
+      "animeId": 3187,
+      "animeName": "Повседневная жизнь стажёра-мучителя",
+      "animeLink": "/aniserials/video/comedy/3187-povsednevnaja-zhizn-stazhera-muchitelja.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "77131",
       "cardName": "Саул и Робин",
@@ -1675,20 +1688,6 @@
       "owners-count": 21,
       "owners-need": 66,
       "owners-trade": 3,
-      "lastUpdated": "2026-02-22, 21:36:13"
-    },
-    {
-      "cardId": "76762",
-      "cardName": "Фэнсянь",
-      "cardRank": "s",
-      "cardImage": "https://animesss.tv/uploads/cards_image/2219/s/fjensjan-1771522248-225573.webp",
-      "cardAuthor": "TANGERINE",
-      "animeId": 2219,
-      "animeName": "Монолог фармацевта",
-      "animeLink": "/aniserials/video/drama/2219-monolog-farmacevta-animestars-vv11.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
       "lastUpdated": "2026-02-22, 21:36:13"
     },
     {
@@ -498388,10 +498387,10 @@
       "animeId": 197,
       "animeName": "Чёрный клевер",
       "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
-      "lastUpdated": "2026-02-21, 17:37:39",
-      "owners-count": 3355,
-      "owners-need": 85,
-      "owners-trade": 234
+      "lastUpdated": "2026-02-22, 22:50:51",
+      "owners-count": 3357,
+      "owners-need": 86,
+      "owners-trade": 236
     },
     {
       "cardId": "370",
@@ -500082,10 +500081,10 @@
       "animeId": 101,
       "animeName": "Охотник х Охотник 2011",
       "animeLink": "/aniserials/video/drama/101-ohotnik-h-ohotnik-tv-2.html",
-      "lastUpdated": "2026-02-21, 17:37:40",
+      "lastUpdated": "2026-02-22, 22:50:52",
       "owners-count": 772,
       "owners-need": 65,
-      "owners-trade": 73
+      "owners-trade": 76
     },
     {
       "cardId": "235",
@@ -500096,10 +500095,10 @@
       "animeId": 101,
       "animeName": "Охотник х Охотник 2011",
       "animeLink": "/aniserials/video/drama/101-ohotnik-h-ohotnik-tv-2.html",
-      "lastUpdated": "2026-02-21, 17:37:40",
-      "owners-count": 752,
+      "lastUpdated": "2026-02-22, 22:50:51",
+      "owners-count": 753,
       "owners-need": 78,
-      "owners-trade": 78
+      "owners-trade": 76
     },
     {
       "cardId": "234",
