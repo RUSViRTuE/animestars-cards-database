@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-22, 19:34:10",
+    "generatedTimestamp": "2026-02-22, 21:34:14",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,152 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35938
+    "totalCards": 35948
   },
   "cards": [
+    {
+      "cardId": "77118",
+      "cardName": "Тэнко",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3030/a/tjenko-1771774205-300464.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3030,
+      "animeName": "Хаигакура",
+      "animeLink": "/aniserials/video/josei/3030-haigakura.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77117",
+      "cardName": "Сяо Янь",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/1864/d/sjao-jan-1771773244-474662.webp",
+      "cardAuthor": "kep1384",
+      "animeId": 1864,
+      "animeName": "Страна десяти тысяч чудес",
+      "animeLink": "/aniserials/video/martial_arts/1864-strana-desjati-tysjach-chudes.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77113",
+      "cardName": "Цинчэн Ся",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/1310/b/cinchjen-sja-1771782811-496915.webp",
+      "cardAuthor": "kep1384",
+      "animeId": 1310,
+      "animeName": "Владыка духовного меча 4 сезон",
+      "animeLink": "/aniserials/video/action/1310-vladyka-duhovnogo-mecha-4-sezon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77112",
+      "cardName": "Чэнь Е и Син Куй",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/1824/c/chjen-e-i-sin-kuj-1771782662-209475.webp",
+      "cardAuthor": "kep1384",
+      "animeId": 1824,
+      "animeName": "Контратака изгнанного ученика",
+      "animeLink": "/aniserials/video/action/1824-kontrataka-izgnannogo-uchenika-2023.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77111",
+      "cardName": "Ритэккай",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/3030/b/ritjekkaj-1771768692-740057.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3030,
+      "animeName": "Хаигакура",
+      "animeLink": "/aniserials/video/josei/3030-haigakura.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77104",
+      "cardName": "Лихай Мо",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/2158/d/lihaj-mo-1771782365-785543.webp",
+      "cardAuthor": "Чітер228",
+      "animeId": 2158,
+      "animeName": "Противостояние святого",
+      "animeLink": "/aniserials/video/drama/2158-protivostojanie-svjatogo.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77103",
+      "cardName": "Цзинь Хань",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/2158/d/czin-han-1771782290-178021.webp",
+      "cardAuthor": "Чітер228",
+      "animeId": 2158,
+      "animeName": "Противостояние святого",
+      "animeLink": "/aniserials/video/drama/2158-protivostojanie-svjatogo.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77102",
+      "cardName": "Хуа Оуян",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/2158/d/hua-oujan-1771782214-293056.webp",
+      "cardAuthor": "Чітер228",
+      "animeId": 2158,
+      "animeName": "Противостояние святого",
+      "animeLink": "/aniserials/video/drama/2158-protivostojanie-svjatogo.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77100",
+      "cardName": "Пао Ху",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/2158/d/pao-hu-1771781933-520941.webp",
+      "cardAuthor": "Чітер228",
+      "animeId": 2158,
+      "animeName": "Противостояние святого",
+      "animeLink": "/aniserials/video/drama/2158-protivostojanie-svjatogo.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77098",
+      "cardName": "Качели",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/3174/e/kacheli-1771765963-303047.webp",
+      "cardAuthor": "ReygaLeon",
+      "animeId": 3174,
+      "animeName": "За гранью времени",
+      "animeLink": "/aniserials/video/action/3174-za-granju-vremeni.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77092",
+      "cardName": "Реу",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/3187/d/reu-1771781460-142194.webp",
+      "cardAuthor": "Mililu",
+      "animeId": 3187,
+      "animeName": "Повседневная жизнь стажёра-мучителя",
+      "animeLink": "/aniserials/video/comedy/3187-povsednevnaja-zhizn-stazhera-muchitelja.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "77066",
       "cardName": "Поражение",
@@ -1480,20 +1623,6 @@
       "owners-need": 64,
       "owners-trade": 2,
       "lastUpdated": "2026-02-22, 18:17:32"
-    },
-    {
-      "cardId": "76762",
-      "cardName": "Фэнсянь",
-      "cardRank": "s",
-      "cardImage": "https://animesss.tv/uploads/cards_image/2219/s/fjensjan-1771522248-225573.webp",
-      "cardAuthor": "TANGERINE",
-      "animeId": 2219,
-      "animeName": "Монолог фармацевта",
-      "animeLink": "/aniserials/video/drama/2219-monolog-farmacevta-animestars-vv11.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-22, 18:17:33"
     },
     {
       "cardId": "76761",
