@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-22, 14:15:31",
+    "generatedTimestamp": "2026-02-22, 16:15:36",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,7 +8,7 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35938
+    "totalCards": 35937
   },
   "cards": [
     {
@@ -20,9 +20,10 @@
       "animeId": 2979,
       "animeName": "Грёзы в бездне облаков",
       "animeLink": "/aniserials/video/fant/2979-grezy-v-bezdne-oblakov.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 31,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-22, 14:15:08"
     },
     {
       "cardId": "77062",
@@ -33,9 +34,10 @@
       "animeId": 3174,
       "animeName": "За гранью времени",
       "animeLink": "/aniserials/video/action/3174-za-granju-vremeni.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 21,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-22, 14:15:09"
     },
     {
       "cardId": "77058",
@@ -46,9 +48,10 @@
       "animeId": 597,
       "animeName": "Восточный Эдем",
       "animeLink": "/aniserials/video/action/597-vostochnyy-edem.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 20,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-22, 14:15:10"
     },
     {
       "cardId": "77057",
@@ -59,9 +62,10 @@
       "animeId": 3030,
       "animeName": "Хаигакура",
       "animeLink": "/aniserials/video/josei/3030-haigakura.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 8,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-22, 14:15:11"
     },
     {
       "cardId": "77056",
@@ -72,9 +76,10 @@
       "animeId": 3187,
       "animeName": "Повседневная жизнь стажёра-мучителя",
       "animeLink": "/aniserials/video/comedy/3187-povsednevnaja-zhizn-stazhera-muchitelja.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 20,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-22, 14:15:12"
     },
     {
       "cardId": "77055",
@@ -85,9 +90,10 @@
       "animeId": 597,
       "animeName": "Восточный Эдем",
       "animeLink": "/aniserials/video/action/597-vostochnyy-edem.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 23,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-22, 14:15:12"
     },
     {
       "cardId": "77039",
@@ -98,10 +104,10 @@
       "animeId": 3030,
       "animeName": "Хаигакура",
       "animeLink": "/aniserials/video/josei/3030-haigakura.html",
-      "owners-count": 0,
-      "owners-need": 9,
+      "owners-count": 1,
+      "owners-need": 11,
       "owners-trade": 0,
-      "lastUpdated": "2026-02-22, 11:57:38"
+      "lastUpdated": "2026-02-22, 14:15:13"
     },
     {
       "cardId": "77034",
@@ -113,9 +119,9 @@
       "animeName": "Ван Пис",
       "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
       "owners-count": 5,
-      "owners-need": 46,
+      "owners-need": 52,
       "owners-trade": 1,
-      "lastUpdated": "2026-02-22, 11:57:38"
+      "lastUpdated": "2026-02-22, 14:15:14"
     },
     {
       "cardId": "77030",
@@ -126,10 +132,10 @@
       "animeId": 2058,
       "animeName": "Боевой континент 2: Непревзойдённый клан Тан",
       "animeLink": "/aniserials/video/action/2058-boevoj-kontinent-2-neprevzojdennyj-klan-tan-animestars-aa8.html",
-      "owners-count": 7,
-      "owners-need": 92,
+      "owners-count": 8,
+      "owners-need": 101,
       "owners-trade": 0,
-      "lastUpdated": "2026-02-22, 11:57:39"
+      "lastUpdated": "2026-02-22, 14:15:15"
     },
     {
       "cardId": "77027",
@@ -140,10 +146,10 @@
       "animeId": 2058,
       "animeName": "Боевой континент 2: Непревзойдённый клан Тан",
       "animeLink": "/aniserials/video/action/2058-boevoj-kontinent-2-neprevzojdennyj-klan-tan-animestars-aa8.html",
-      "owners-count": 9,
-      "owners-need": 92,
+      "owners-count": 10,
+      "owners-need": 102,
       "owners-trade": 1,
-      "lastUpdated": "2026-02-22, 11:57:40"
+      "lastUpdated": "2026-02-22, 14:15:16"
     },
     {
       "cardId": "77026",
@@ -154,10 +160,10 @@
       "animeId": 597,
       "animeName": "Восточный Эдем",
       "animeLink": "/aniserials/video/action/597-vostochnyy-edem.html",
-      "owners-count": 5,
-      "owners-need": 44,
+      "owners-count": 6,
+      "owners-need": 47,
       "owners-trade": 0,
-      "lastUpdated": "2026-02-22, 11:57:41"
+      "lastUpdated": "2026-02-22, 14:15:16"
     },
     {
       "cardId": "77024",
@@ -168,10 +174,10 @@
       "animeId": 2979,
       "animeName": "Грёзы в бездне облаков",
       "animeLink": "/aniserials/video/fant/2979-grezy-v-bezdne-oblakov.html",
-      "owners-count": 6,
-      "owners-need": 72,
+      "owners-count": 8,
+      "owners-need": 75,
       "owners-trade": 1,
-      "lastUpdated": "2026-02-22, 11:57:42"
+      "lastUpdated": "2026-02-22, 14:15:17"
     },
     {
       "cardId": "77023",
@@ -182,10 +188,10 @@
       "animeId": 3174,
       "animeName": "За гранью времени",
       "animeLink": "/aniserials/video/action/3174-za-granju-vremeni.html",
-      "owners-count": 8,
-      "owners-need": 50,
+      "owners-count": 9,
+      "owners-need": 60,
       "owners-trade": 0,
-      "lastUpdated": "2026-02-22, 11:57:43"
+      "lastUpdated": "2026-02-22, 14:15:18"
     },
     {
       "cardId": "77020",
@@ -196,10 +202,10 @@
       "animeId": 2979,
       "animeName": "Грёзы в бездне облаков",
       "animeLink": "/aniserials/video/fant/2979-grezy-v-bezdne-oblakov.html",
-      "owners-count": 9,
-      "owners-need": 73,
+      "owners-count": 11,
+      "owners-need": 75,
       "owners-trade": 2,
-      "lastUpdated": "2026-02-22, 11:57:43"
+      "lastUpdated": "2026-02-22, 14:15:19"
     },
     {
       "cardId": "77019",
@@ -210,10 +216,10 @@
       "animeId": 3002,
       "animeName": "Клетка духа: Воплощение",
       "animeLink": "/aniserials/video/action/3002-kletka-duha-voploschenie-2019.html",
-      "owners-count": 12,
-      "owners-need": 46,
+      "owners-count": 13,
+      "owners-need": 51,
       "owners-trade": 1,
-      "lastUpdated": "2026-02-22, 11:57:44"
+      "lastUpdated": "2026-02-22, 14:15:20"
     },
     {
       "cardId": "77011",
@@ -224,10 +230,10 @@
       "animeId": 597,
       "animeName": "Восточный Эдем",
       "animeLink": "/aniserials/video/action/597-vostochnyy-edem.html",
-      "owners-count": 5,
-      "owners-need": 49,
+      "owners-count": 6,
+      "owners-need": 53,
       "owners-trade": 0,
-      "lastUpdated": "2026-02-22, 11:57:45"
+      "lastUpdated": "2026-02-22, 14:15:21"
     },
     {
       "cardId": "77009",
@@ -238,10 +244,10 @@
       "animeId": 597,
       "animeName": "Восточный Эдем",
       "animeLink": "/aniserials/video/action/597-vostochnyy-edem.html",
-      "owners-count": 5,
-      "owners-need": 51,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-22, 11:57:46"
+      "owners-count": 6,
+      "owners-need": 53,
+      "owners-trade": 1,
+      "lastUpdated": "2026-02-22, 14:15:21"
     },
     {
       "cardId": "77007",
@@ -253,9 +259,9 @@
       "animeName": "Страна десяти тысяч чудес",
       "animeLink": "/aniserials/video/martial_arts/1864-strana-desjati-tysjach-chudes.html",
       "owners-count": 7,
-      "owners-need": 63,
+      "owners-need": 66,
       "owners-trade": 1,
-      "lastUpdated": "2026-02-22, 11:57:47"
+      "lastUpdated": "2026-02-22, 14:15:22"
     },
     {
       "cardId": "77005",
@@ -266,10 +272,10 @@
       "animeId": 1864,
       "animeName": "Страна десяти тысяч чудес",
       "animeLink": "/aniserials/video/martial_arts/1864-strana-desjati-tysjach-chudes.html",
-      "owners-count": 8,
-      "owners-need": 64,
+      "owners-count": 10,
+      "owners-need": 67,
       "owners-trade": 2,
-      "lastUpdated": "2026-02-22, 11:57:48"
+      "lastUpdated": "2026-02-22, 14:15:23"
     },
     {
       "cardId": "76998",
@@ -280,10 +286,10 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "owners-count": 7,
-      "owners-need": 27,
+      "owners-count": 10,
+      "owners-need": 28,
       "owners-trade": 0,
-      "lastUpdated": "2026-02-22, 11:57:48"
+      "lastUpdated": "2026-02-22, 14:15:24"
     },
     {
       "cardId": "76997",
@@ -294,10 +300,10 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "owners-count": 11,
-      "owners-need": 29,
+      "owners-count": 14,
+      "owners-need": 30,
       "owners-trade": 2,
-      "lastUpdated": "2026-02-22, 11:57:49"
+      "lastUpdated": "2026-02-22, 14:15:25"
     },
     {
       "cardId": "76996",
@@ -308,10 +314,10 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "owners-count": 8,
-      "owners-need": 27,
+      "owners-count": 10,
+      "owners-need": 28,
       "owners-trade": 3,
-      "lastUpdated": "2026-02-22, 11:57:50"
+      "lastUpdated": "2026-02-22, 14:15:26"
     },
     {
       "cardId": "76995",
@@ -322,10 +328,10 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "owners-count": 8,
+      "owners-count": 9,
       "owners-need": 28,
       "owners-trade": 0,
-      "lastUpdated": "2026-02-22, 11:57:51"
+      "lastUpdated": "2026-02-22, 14:15:27"
     },
     {
       "cardId": "76994",
@@ -336,10 +342,10 @@
       "animeId": 2919,
       "animeName": "Покемон",
       "animeLink": "/aniserials/video/action/2919-pokemon.html",
-      "owners-count": 8,
-      "owners-need": 28,
+      "owners-count": 9,
+      "owners-need": 29,
       "owners-trade": 0,
-      "lastUpdated": "2026-02-22, 11:57:52"
+      "lastUpdated": "2026-02-22, 14:15:28"
     },
     {
       "cardId": "76988",
@@ -350,10 +356,10 @@
       "animeId": 2979,
       "animeName": "Грёзы в бездне облаков",
       "animeLink": "/aniserials/video/fant/2979-grezy-v-bezdne-oblakov.html",
-      "owners-count": 20,
+      "owners-count": 23,
       "owners-need": 98,
       "owners-trade": 1,
-      "lastUpdated": "2026-02-22, 11:57:53"
+      "lastUpdated": "2026-02-22, 14:15:29"
     },
     {
       "cardId": "76984",
@@ -364,10 +370,10 @@
       "animeId": 597,
       "animeName": "Восточный Эдем",
       "animeLink": "/aniserials/video/action/597-vostochnyy-edem.html",
-      "owners-count": 11,
+      "owners-count": 13,
       "owners-need": 59,
       "owners-trade": 1,
-      "lastUpdated": "2026-02-22, 11:57:53"
+      "lastUpdated": "2026-02-22, 14:15:30"
     },
     {
       "cardId": "76981",
@@ -378,10 +384,10 @@
       "animeId": 2979,
       "animeName": "Грёзы в бездне облаков",
       "animeLink": "/aniserials/video/fant/2979-grezy-v-bezdne-oblakov.html",
-      "owners-count": 6,
-      "owners-need": 105,
+      "owners-count": 7,
+      "owners-need": 108,
       "owners-trade": 1,
-      "lastUpdated": "2026-02-22, 11:57:54"
+      "lastUpdated": "2026-02-22, 14:15:31"
     },
     {
       "cardId": "76978",
@@ -1474,20 +1480,6 @@
       "owners-need": 60,
       "owners-trade": 2,
       "lastUpdated": "2026-02-22, 11:58:59"
-    },
-    {
-      "cardId": "76762",
-      "cardName": "Фэнсянь",
-      "cardRank": "s",
-      "cardImage": "https://animesss.tv/uploads/cards_image/2219/s/fjensjan-1771522248-225573.webp",
-      "cardAuthor": "TANGERINE",
-      "animeId": 2219,
-      "animeName": "Монолог фармацевта",
-      "animeLink": "/aniserials/video/drama/2219-monolog-farmacevta-animestars-vv11.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-22, 11:59:00"
     },
     {
       "cardId": "76761",
