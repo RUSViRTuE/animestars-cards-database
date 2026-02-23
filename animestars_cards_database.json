@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-23, 19:02:38",
+    "generatedTimestamp": "2026-02-23, 21:02:43",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -11,6 +11,19 @@
     "totalCards": 35968
   },
   "cards": [
+    {
+      "cardId": "77210",
+      "cardName": "Тотюмару",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/581/e/totjumaru-1771869076-969486.webp",
+      "cardAuthor": "saliman1212",
+      "animeId": 581,
+      "animeName": "Сильнейший в истории ученик Кэнъити",
+      "animeLink": "/aniserials/video/martial_arts/581-silneyshiy-v-istorii-uchenik-keniti.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "77203",
       "cardName": "Чтение",
@@ -1900,20 +1913,6 @@
       "owners-need": 74,
       "owners-trade": 3,
       "lastUpdated": "2026-02-23, 17:48:05"
-    },
-    {
-      "cardId": "76762",
-      "cardName": "Фэнсянь",
-      "cardRank": "s",
-      "cardImage": "https://animesss.tv/uploads/cards_image/2219/s/fjensjan-1771522248-225573.webp",
-      "cardAuthor": "TANGERINE",
-      "animeId": 2219,
-      "animeName": "Монолог фармацевта",
-      "animeLink": "/aniserials/video/drama/2219-monolog-farmacevta-animestars-vv11.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-23, 17:48:06"
     },
     {
       "cardId": "76761",
