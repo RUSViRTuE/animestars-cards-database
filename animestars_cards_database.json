@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-23, 22:26:15",
+    "generatedTimestamp": "2026-02-24, 00:26:19",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,35 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35986
+    "totalCards": 35987
   },
   "cards": [
+    {
+      "cardId": "77251",
+      "cardName": "Сиори Госики",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/1847/s/siori-gosiki-1771873853-861998.webp",
+      "cardAuthor": "sammael",
+      "animeId": 1847,
+      "animeName": "Галактика по соседству",
+      "animeLink": "/aniserials/video/comedy/1847-galaktika-po-sosedstvu.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77248",
+      "cardName": "Рут и Тисэ",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/1475/c/rut-i-tisje-1771875116-518966.webp",
+      "cardAuthor": "Minto",
+      "animeId": 1475,
+      "animeName": "Невеста чародея OVA 2: Мальчик с Запада и рыцарь горной дымки",
+      "animeLink": "/ova/1475-nevesta-charodeja-ova-2-malchik-s-zapada-i-rycar-gornoj-dymki.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "77246",
       "cardName": "Кака",
@@ -20,9 +46,10 @@
       "animeId": 3030,
       "animeName": "Хаигакура",
       "animeLink": "/aniserials/video/josei/3030-haigakura.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 4,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-23, 22:27:03"
     },
     {
       "cardId": "77245",
@@ -33,9 +60,10 @@
       "animeId": 2688,
       "animeName": "Фи Брейн: Загадка Бога",
       "animeLink": "/aniserials/video/adventure/2688-fi-brejn-zagadka-boga.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 1,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-23, 22:27:05"
     },
     {
       "cardId": "77244",
@@ -46,9 +74,10 @@
       "animeId": 2688,
       "animeName": "Фи Брейн: Загадка Бога",
       "animeLink": "/aniserials/video/adventure/2688-fi-brejn-zagadka-boga.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 1,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-23, 22:27:07"
     },
     {
       "cardId": "77243",
@@ -59,9 +88,10 @@
       "animeId": 2688,
       "animeName": "Фи Брейн: Загадка Бога",
       "animeLink": "/aniserials/video/adventure/2688-fi-brejn-zagadka-boga.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 1,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-23, 22:27:09"
     },
     {
       "cardId": "77242",
@@ -72,9 +102,10 @@
       "animeId": 2688,
       "animeName": "Фи Брейн: Загадка Бога",
       "animeLink": "/aniserials/video/adventure/2688-fi-brejn-zagadka-boga.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 1,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-23, 22:27:11"
     },
     {
       "cardId": "77239",
@@ -85,9 +116,10 @@
       "animeId": 66,
       "animeName": "Фантом: Реквием по Призраку",
       "animeLink": "/aniserials/video/action/66-fantom-rekviem-po-prizraku-tv.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 7,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-23, 22:27:13"
     },
     {
       "cardId": "77237",
@@ -98,9 +130,10 @@
       "animeId": 290,
       "animeName": "Стальная тревога!",
       "animeLink": "/aniserials/video/war/290-stalnaya-trevoga.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 6,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-23, 22:27:15"
     },
     {
       "cardId": "77232",
@@ -111,9 +144,10 @@
       "animeId": 3219,
       "animeName": "Кае не страшно",
       "animeLink": "/aniserials/video/school/3219-kae-ne-strashno.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 4,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-23, 22:27:17"
     },
     {
       "cardId": "77227",
@@ -124,9 +158,10 @@
       "animeId": 33,
       "animeName": "Ван Пис",
       "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 20,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-23, 22:27:19"
     },
     {
       "cardId": "77226",
@@ -137,9 +172,10 @@
       "animeId": 3030,
       "animeName": "Хаигакура",
       "animeLink": "/aniserials/video/josei/3030-haigakura.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 11,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-23, 22:27:21"
     },
     {
       "cardId": "77225",
@@ -150,9 +186,10 @@
       "animeId": 3030,
       "animeName": "Хаигакура",
       "animeLink": "/aniserials/video/josei/3030-haigakura.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 11,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-23, 22:27:23"
     },
     {
       "cardId": "77224",
@@ -163,9 +200,10 @@
       "animeId": 3030,
       "animeName": "Хаигакура",
       "animeLink": "/aniserials/video/josei/3030-haigakura.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 11,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-23, 22:27:25"
     },
     {
       "cardId": "77223",
@@ -176,9 +214,10 @@
       "animeId": 3030,
       "animeName": "Хаигакура",
       "animeLink": "/aniserials/video/josei/3030-haigakura.html",
-      "owners-count": null,
-      "owners-need": null,
-      "owners-trade": null
+      "owners-count": 0,
+      "owners-need": 11,
+      "owners-trade": 0,
+      "lastUpdated": "2026-02-23, 22:27:27"
     },
     {
       "cardId": "77218",
@@ -2139,20 +2178,6 @@
       "owners-need": 73,
       "owners-trade": 1,
       "lastUpdated": "2026-02-23, 21:05:15"
-    },
-    {
-      "cardId": "76762",
-      "cardName": "Фэнсянь",
-      "cardRank": "s",
-      "cardImage": "https://animesss.tv/uploads/cards_image/2219/s/fjensjan-1771522248-225573.webp",
-      "cardAuthor": "TANGERINE",
-      "animeId": 2219,
-      "animeName": "Монолог фармацевта",
-      "animeLink": "/aniserials/video/drama/2219-monolog-farmacevta-animestars-vv11.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-23, 21:05:16"
     },
     {
       "cardId": "76761",
@@ -421739,10 +421764,10 @@
       "animeId": 631,
       "animeName": "Ковбой Бибоп",
       "animeLink": "/aniserials/video/drama/631-kovboy-bibop.html",
-      "lastUpdated": "2026-02-22, 19:23:38",
-      "owners-count": 2771,
-      "owners-need": 5,
-      "owners-trade": 290
+      "lastUpdated": "2026-02-23, 22:27:35",
+      "owners-count": 2784,
+      "owners-need": 6,
+      "owners-trade": 294
     },
     {
       "cardId": "11900",
@@ -421753,10 +421778,10 @@
       "animeId": 1833,
       "animeName": "О моём перерождении в слизь: Алые узы",
       "animeLink": "/aniserials/video/comedy/1833-o-moem-pererozhdenii-v-sliz-alye-uzy-animestars.html",
-      "lastUpdated": "2026-02-22, 19:23:36",
-      "owners-count": 785,
-      "owners-need": 97,
-      "owners-trade": 83
+      "lastUpdated": "2026-02-23, 22:27:33",
+      "owners-count": 786,
+      "owners-need": 98,
+      "owners-trade": 85
     },
     {
       "cardId": "11899",
@@ -421767,10 +421792,10 @@
       "animeId": 54,
       "animeName": "Моя геройская академия 2 сезон",
       "animeLink": "/aniserials/video/action/54-moya-geroyskaya-akademiya-2-sezon-2017.html",
-      "lastUpdated": "2026-02-22, 19:23:34",
+      "lastUpdated": "2026-02-23, 22:27:31",
       "owners-count": 593,
       "owners-need": 42,
-      "owners-trade": 35
+      "owners-trade": 39
     },
     {
       "cardId": "11898",
@@ -421781,10 +421806,10 @@
       "animeId": 631,
       "animeName": "Ковбой Бибоп",
       "animeLink": "/aniserials/video/drama/631-kovboy-bibop.html",
-      "lastUpdated": "2026-02-22, 19:23:32",
+      "lastUpdated": "2026-02-23, 22:27:29",
       "owners-count": 2739,
-      "owners-need": 5,
-      "owners-trade": 237
+      "owners-need": 6,
+      "owners-trade": 239
     },
     {
       "cardId": "11897",
