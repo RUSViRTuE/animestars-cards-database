@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-23, 02:04:55",
+    "generatedTimestamp": "2026-02-23, 04:04:59",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,48 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35953
+    "totalCards": 35955
   },
   "cards": [
+    {
+      "cardId": "77154",
+      "cardName": "Рю",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/3030/d/rju-1771791680-356200.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3030,
+      "animeName": "Хаигакура",
+      "animeLink": "/aniserials/video/josei/3030-haigakura.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77152",
+      "cardName": "Кансёри",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/3030/b/kanseri-1771791109-673204.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3030,
+      "animeName": "Хаигакура",
+      "animeLink": "/aniserials/video/josei/3030-haigakura.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77147",
+      "cardName": "Тянь Нин",
+      "cardRank": "d",
+      "cardImage": "/uploads/cards_image/2058/d/tjan-nin-1771801496-146348.webp",
+      "cardAuthor": "TFD",
+      "animeId": 2058,
+      "animeName": "Боевой континент 2: Непревзойдённый клан Тан",
+      "animeLink": "/aniserials/video/action/2058-boevoj-kontinent-2-neprevzojdennyj-klan-tan-animestars-aa8.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "77146",
       "cardName": "Мерим",
@@ -1689,20 +1728,6 @@
       "owners-count": 25,
       "owners-need": 68,
       "owners-trade": 2,
-      "lastUpdated": "2026-02-23, 00:52:38"
-    },
-    {
-      "cardId": "76762",
-      "cardName": "Фэнсянь",
-      "cardRank": "s",
-      "cardImage": "https://animesss.tv/uploads/cards_image/2219/s/fjensjan-1771522248-225573.webp",
-      "cardAuthor": "TANGERINE",
-      "animeId": 2219,
-      "animeName": "Монолог фармацевта",
-      "animeLink": "/aniserials/video/drama/2219-monolog-farmacevta-animestars-vv11.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
       "lastUpdated": "2026-02-23, 00:52:38"
     },
     {
