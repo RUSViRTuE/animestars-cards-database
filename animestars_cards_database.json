@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-23, 12:30:15",
+    "generatedTimestamp": "2026-02-23, 14:30:19",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,9 +8,35 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35956
+    "totalCards": 35957
   },
   "cards": [
+    {
+      "cardId": "77184",
+      "cardName": "Демиург",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/3168/s/demiurg-1771837575-182631.webp",
+      "cardAuthor": "Dmytrokil",
+      "animeId": 3168,
+      "animeName": "Повелитель: Святое королевство",
+      "animeLink": "/aniserials/video/action/3168-povelitel-svjatoe-korolevstvo.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77176",
+      "cardName": "Футаба Игараси",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/1241/s/futaba-igarasi-1771832694-278273.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 1241,
+      "animeName": "Мой сэмпай раздражает",
+      "animeLink": "/aniserials/video/comedy/1241-moj-sjempaj-razdrazhaet.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "77154",
       "cardName": "Рю",
@@ -1732,20 +1758,6 @@
       "owners-need": 72,
       "owners-trade": 2,
       "lastUpdated": "2026-02-23, 11:11:50"
-    },
-    {
-      "cardId": "76762",
-      "cardName": "Фэнсянь",
-      "cardRank": "s",
-      "cardImage": "https://animesss.tv/uploads/cards_image/2219/s/fjensjan-1771522248-225573.webp",
-      "cardAuthor": "TANGERINE",
-      "animeId": 2219,
-      "animeName": "Монолог фармацевта",
-      "animeLink": "/aniserials/video/drama/2219-monolog-farmacevta-animestars-vv11.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-23, 11:11:51"
     },
     {
       "cardId": "76761",
