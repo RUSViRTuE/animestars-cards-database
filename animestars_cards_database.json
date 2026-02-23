@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-23, 15:45:42",
+    "generatedTimestamp": "2026-02-23, 17:45:46",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -8,7 +8,7 @@
       "animestars.org",
       "asstars.tv"
     ],
-    "totalCards": 35968
+    "totalCards": 35967
   },
   "cards": [
     {
@@ -1900,20 +1900,6 @@
       "owners-need": 73,
       "owners-trade": 3,
       "lastUpdated": "2026-02-23, 14:32:25"
-    },
-    {
-      "cardId": "76762",
-      "cardName": "Фэнсянь",
-      "cardRank": "s",
-      "cardImage": "https://animesss.tv/uploads/cards_image/2219/s/fjensjan-1771522248-225573.webp",
-      "cardAuthor": "TANGERINE",
-      "animeId": 2219,
-      "animeName": "Монолог фармацевта",
-      "animeLink": "/aniserials/video/drama/2219-monolog-farmacevta-animestars-vv11.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
-      "lastUpdated": "2026-02-23, 14:32:26"
     },
     {
       "cardId": "76761",
@@ -284314,10 +284300,10 @@
       "animeId": 1538,
       "animeName": "Ворона в гареме",
       "animeLink": "/aniserials/video/fant/1538-vorona-v-gareme.html",
-      "lastUpdated": "2026-02-22, 08:53:30",
-      "owners-count": 2201,
+      "lastUpdated": "2026-02-23, 15:46:09",
+      "owners-count": 2209,
       "owners-need": 16,
-      "owners-trade": 271
+      "owners-trade": 270
     },
     {
       "cardId": "27649",
@@ -284328,10 +284314,10 @@
       "animeId": 1538,
       "animeName": "Ворона в гареме",
       "animeLink": "/aniserials/video/fant/1538-vorona-v-gareme.html",
-      "lastUpdated": "2026-02-22, 08:53:29",
-      "owners-count": 1878,
+      "lastUpdated": "2026-02-23, 15:46:08",
+      "owners-count": 1892,
       "owners-need": 11,
-      "owners-trade": 219
+      "owners-trade": 221
     },
     {
       "cardId": "27647",
@@ -284342,10 +284328,10 @@
       "animeId": 85,
       "animeName": "Непутевый ученик в школе магии",
       "animeLink": "/aniserials/video/drama/85-neputevyy-uchenik-v-shkole-magii.html",
-      "lastUpdated": "2026-02-22, 08:53:28",
-      "owners-count": 2528,
+      "lastUpdated": "2026-02-23, 15:46:06",
+      "owners-count": 2529,
       "owners-need": 12,
-      "owners-trade": 313
+      "owners-trade": 310
     },
     {
       "cardId": "27645",
@@ -284356,10 +284342,10 @@
       "animeId": 662,
       "animeName": "Межвидовые рецензенты",
       "animeLink": "/aniserials/video/comedy/662-mezhvidovye-recenzenty.html",
-      "lastUpdated": "2026-02-22, 08:53:27",
-      "owners-count": 2556,
-      "owners-need": 26,
-      "owners-trade": 290
+      "lastUpdated": "2026-02-23, 15:46:05",
+      "owners-count": 2563,
+      "owners-need": 27,
+      "owners-trade": 292
     },
     {
       "cardId": "27642",
@@ -284370,10 +284356,10 @@
       "animeId": 1734,
       "animeName": "Этот глупый свин не понимает мечту девочки-зайки Фильм",
       "animeLink": "/aniserials/video/drama/1734-jetot-glupyj-svin-ne-ponimaet-mechtu-devochki-zajki-film.html",
-      "lastUpdated": "2026-02-22, 08:53:26",
-      "owners-count": 2178,
+      "lastUpdated": "2026-02-23, 15:46:05",
+      "owners-count": 2181,
       "owners-need": 15,
-      "owners-trade": 252
+      "owners-trade": 254
     },
     {
       "cardId": "27633",
@@ -284384,10 +284370,10 @@
       "animeId": 33,
       "animeName": "Ван Пис",
       "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
-      "lastUpdated": "2026-02-22, 08:53:25",
+      "lastUpdated": "2026-02-23, 15:46:04",
       "owners-count": 2498,
       "owners-need": 126,
-      "owners-trade": 308
+      "owners-trade": 312
     },
     {
       "cardId": "27631",
@@ -284398,10 +284384,10 @@
       "animeId": 1281,
       "animeName": "Годзилла: Точка сингулярности",
       "animeLink": "/aniserials/video/action/1281-godzilla-tochka-singuljarnosti.html",
-      "lastUpdated": "2026-02-22, 08:53:24",
+      "lastUpdated": "2026-02-23, 15:46:03",
       "owners-count": 1844,
       "owners-need": 3,
-      "owners-trade": 239
+      "owners-trade": 240
     },
     {
       "cardId": "27630",
@@ -284412,10 +284398,10 @@
       "animeId": 1281,
       "animeName": "Годзилла: Точка сингулярности",
       "animeLink": "/aniserials/video/action/1281-godzilla-tochka-singuljarnosti.html",
-      "lastUpdated": "2026-02-22, 08:53:24",
-      "owners-count": 1809,
+      "lastUpdated": "2026-02-23, 15:46:02",
+      "owners-count": 1820,
       "owners-need": 5,
-      "owners-trade": 208
+      "owners-trade": 211
     },
     {
       "cardId": "27629",
@@ -284426,9 +284412,9 @@
       "animeId": 1281,
       "animeName": "Годзилла: Точка сингулярности",
       "animeLink": "/aniserials/video/action/1281-godzilla-tochka-singuljarnosti.html",
-      "lastUpdated": "2026-02-22, 08:53:23",
-      "owners-count": 1956,
-      "owners-need": 3,
+      "lastUpdated": "2026-02-23, 15:46:01",
+      "owners-count": 1960,
+      "owners-need": 4,
       "owners-trade": 239
     },
     {
@@ -286022,10 +286008,10 @@
       "animeId": 502,
       "animeName": "Две звезды оммёдзи",
       "animeLink": "/aniserials/video/adventure/502-dve-zvezdy-ommedzi.html",
-      "lastUpdated": "2026-02-22, 08:53:29",
-      "owners-count": 1904,
-      "owners-need": 6,
-      "owners-trade": 225
+      "lastUpdated": "2026-02-23, 15:46:07",
+      "owners-count": 1913,
+      "owners-need": 5,
+      "owners-trade": 227
     },
     {
       "cardId": "27398",
