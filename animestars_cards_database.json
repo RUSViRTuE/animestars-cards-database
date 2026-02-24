@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-24, 01:41:36",
+    "generatedTimestamp": "2026-02-24, 03:41:40",
     "timezone": "Europe/Moscow (UTC+3)",
     "scraperVersion": "1.7.0c",
     "format": "json_v2",
@@ -11,6 +11,19 @@
     "totalCards": 35988
   },
   "cards": [
+    {
+      "cardId": "77256",
+      "cardName": "Норгалл Сенридж",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/3183/a/norgall-senridzh-1771887246-922314.webp",
+      "cardAuthor": "BETEP_B_TYMAHE",
+      "animeId": 3183,
+      "animeName": "Приговорённый быть героем: Тюремные записи девять тысяч четвёртого штрафного отряда героев",
+      "animeLink": "/aniserials/video/action/3183-prigovorennyj-byt-geroem-tjuremnye-zapisi-devjat-tysjach-chetvertogo-shtrafnogo-otrjada-geroev.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "77251",
       "cardName": "Сиори Госики",
@@ -2179,20 +2192,6 @@
       "owners-count": 31,
       "owners-need": 75,
       "owners-trade": 1,
-      "lastUpdated": "2026-02-24, 00:28:50"
-    },
-    {
-      "cardId": "76762",
-      "cardName": "Фэнсянь",
-      "cardRank": "s",
-      "cardImage": "https://animesss.tv/uploads/cards_image/2219/s/fjensjan-1771522248-225573.webp",
-      "cardAuthor": "TANGERINE",
-      "animeId": 2219,
-      "animeName": "Монолог фармацевта",
-      "animeLink": "/aniserials/video/drama/2219-monolog-farmacevta-animestars-vv11.html",
-      "owners-count": 0,
-      "owners-need": 0,
-      "owners-trade": 0,
       "lastUpdated": "2026-02-24, 00:28:50"
     },
     {
