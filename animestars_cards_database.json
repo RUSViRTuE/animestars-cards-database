@@ -1,13 +1,7 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-24, 07:07:47",
-    "timezone": "Europe/Moscow (UTC+3)",
+    "generatedTimestamp": "2026-02-24, 07:11:24",
     "scraperVersion": "1.7.0c",
-    "format": "json_v2",
-    "source": [
-      "animestars.org",
-      "asstars.tv"
-    ],
     "totalCards": 35988
   },
   "cards": [
