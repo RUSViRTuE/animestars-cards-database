@@ -1,10 +1,62 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-24, 14:04:5",
+    "generatedTimestamp": "2026-02-24, 16:07:5",
     "scraperVersion": "1.7.11",
-    "totalCards": 35986
+    "totalCards": 35990
   },
   "cards": [
+    {
+      "cardId": "77312",
+      "cardName": "Рудо Суребрек",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/3142/s/rudo-surebrek-1771931692-624509.webp",
+      "cardAuthor": "Faret_333",
+      "animeId": 3142,
+      "animeName": "Гатиакута",
+      "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77300",
+      "cardName": "Нэко Цукахара",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/3015/s/njeko-cukahara-1771926054-418258.webp",
+      "cardAuthor": "Umineko",
+      "animeId": 3015,
+      "animeName": "Отель «Тасокарэ»",
+      "animeLink": "/aniserials/video/fant/3015-otel-tasokarje.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77292",
+      "cardName": "Дзета",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/2181/s/dzeta-1771935812-312077.webp",
+      "cardAuthor": "Cheshire157",
+      "animeId": 2181,
+      "animeName": "Восхождение в тени 2 сезон",
+      "animeLink": "/aniserials/video/action/2181-voshozhdenie-v-teni-2-sezon-2023-as.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77260",
+      "cardName": "Цинь Шихуанди",
+      "cardRank": "s",
+      "cardImage": "/uploads/cards_image/3165/s/cin-shihuandi-1771877965-399657.webp",
+      "cardAuthor": "Kaneki_Haise",
+      "animeId": 3165,
+      "animeName": "Повесть о конце света 3 сезон",
+      "animeLink": "/aniserials/video/action/3165-povest-o-konce-sveta-3.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "77256",
       "cardName": "Норгалл Сенридж",
