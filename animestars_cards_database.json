@@ -1,10 +1,23 @@
 {
   "meta": {
-    "generatedTimestamp": "2026-02-24, 16:15:1",
+    "generatedTimestamp": "2026-02-24, 18:15:3",
     "scraperVersion": "1.7.11",
-    "totalCards": 35990
+    "totalCards": 35996
   },
   "cards": [
+    {
+      "cardId": "77324",
+      "cardName": "Шэн На",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/2405/a/shjen-na-1771944994-461017.webp",
+      "cardAuthor": "kep1384",
+      "animeId": 2405,
+      "animeName": "Зеркальный город Шуанчэн 2 сезон",
+      "animeLink": "/aniserials/video/action/2405-zerkalnyj-gorod-shuanchjen-2-sezon.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
     {
       "cardId": "77312",
       "cardName": "Рудо Суребрек",
@@ -46,6 +59,71 @@
       "owners-need": 42,
       "owners-trade": 0,
       "lastUpdated": "2026-02-24, 16:08:5"
+    },
+    {
+      "cardId": "77287",
+      "cardName": "Окарун и Айра",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/2960/c/okarun-i-ajra-1771910170-741723.webp",
+      "cardAuthor": "Юрчелус",
+      "animeId": 2960,
+      "animeName": "Дандадан 2",
+      "animeLink": "/aniserials/video/action/2960-dandadan-2-2025.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77279",
+      "cardName": "Джиген",
+      "cardRank": "a",
+      "cardImage": "/uploads/cards_image/72/a/dzhigen-1771943663-345945.webp",
+      "cardAuthor": "LaCalinArg",
+      "animeId": 72,
+      "animeName": "БОРУТО: Новое поколение Наруто",
+      "animeLink": "/aniserials/video/action/72-boruto-boruto-animestars-2017.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77272",
+      "cardName": "Ёиями",
+      "cardRank": "b",
+      "cardImage": "/uploads/cards_image/3094/b/eijami-1771883067-741075.webp",
+      "cardAuthor": "_____KAPA_____",
+      "animeId": 3094,
+      "animeName": "Вечность Югурэ",
+      "animeLink": "/aniserials/video/romance/3094-vechnost-jugurje.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77269",
+      "cardName": "Ворота Рёдзампаку",
+      "cardRank": "e",
+      "cardImage": "/uploads/cards_image/581/e/vorota-redzampaku-1771942142-381899.webp",
+      "cardAuthor": "saliman1212",
+      "animeId": 581,
+      "animeName": "Сильнейший в истории ученик Кэнъити",
+      "animeLink": "/aniserials/video/martial_arts/581-silneyshiy-v-istorii-uchenik-keniti.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
+    },
+    {
+      "cardId": "77262",
+      "cardName": "Цзи Да и Юй Цзы",
+      "cardRank": "c",
+      "cardImage": "/uploads/cards_image/1901/c/czi-da-i-juj-czy-1771941936-283975.webp",
+      "cardAuthor": "kep1384",
+      "animeId": 1901,
+      "animeName": "Джи Ву Ген: Непокорный воле богов",
+      "animeLink": "/aniserials/video/martial_arts/1901-dzhi-vu-gen-nepokornyj-vole-bogov.html",
+      "owners-count": null,
+      "owners-need": null,
+      "owners-trade": null
     },
     {
       "cardId": "77260",
